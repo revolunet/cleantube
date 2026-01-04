@@ -28,6 +28,7 @@ function App() {
     selectedChannels,
     toggleChannel,
     filterByTagOnly,
+    resetFilters,
   } = useVideoFeed();
 
   const [videoId, setVideoId] = useQueryState("v");
@@ -54,7 +55,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>CleanTube</h1>
+        <h1 className="logo" onClick={resetFilters}>CleanTube</h1>
         <SearchBar value={search} onChange={setSearch} />
       </header>
 

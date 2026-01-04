@@ -189,6 +189,14 @@ export function useVideoFeed() {
     setVisibleCount(PAGE_SIZE);
   };
 
+  const resetFilters = () => {
+    setSearch("");
+    setSelectedTags([]);
+    setSelectedPublic([]);
+    setSelectedChannels([]);
+    setVisibleCount(PAGE_SIZE);
+  };
+
   return {
     loading,
     videos: visibleVideos,
@@ -208,5 +216,6 @@ export function useVideoFeed() {
     selectedChannels,
     toggleChannel,
     filterByTagOnly,
+    resetFilters,
   };
 }

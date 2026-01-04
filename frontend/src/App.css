@@ -108,6 +108,15 @@ body {
   white-space: nowrap;
 }
 
+.header h1.logo {
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.header h1.logo:hover {
+  opacity: 0.8;
+}
+
 @keyframes gradientShift {
   0%, 100% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }

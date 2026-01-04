@@ -46,7 +46,7 @@ export function useVideoFeed() {
   }, [search, selectedTags, selectedPublic, selectedChannels]);
 
   useEffect(() => {
-    fetch("/channels-data.json")
+    fetch(`${import.meta.env.BASE_URL}channels-data.json`)
       .then((res) => res.json())
       .then((data) => {
         setChannels(data);

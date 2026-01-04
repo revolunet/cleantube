@@ -12,6 +12,7 @@ function App() {
   const {
     loading,
     videos,
+    filteredVideos,
     allVideos,
     totalCount,
     hasMore,
@@ -81,7 +82,20 @@ function App() {
       </aside>
 
       <main className="main">
-        <p className="results-count">{totalCount} vidéos</p>
+        <div className="results-header">
+          <p className="results-count">{totalCount} vidéos</p>
+          {totalCount > 0 && (
+            <button
+              className="lucky-button"
+              onClick={() => {
+                const randomIndex = Math.floor(Math.random() * filteredVideos.length);
+                setVideoId(filteredVideos[randomIndex].id);
+              }}
+            >
+              J'ai de la chance
+            </button>
+          )}
+        </div>
         <div className="video-grid">
           {videos.map((video) => (
             <VideoCard

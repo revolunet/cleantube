@@ -200,6 +200,7 @@ export function useVideoFeed() {
   return {
     loading,
     videos: visibleVideos,
+    filteredVideos,
     allVideos,
     totalCount: filteredVideos.length,
     hasMore,

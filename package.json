@@ -1,0 +1,19 @@
+{
+  "name": "cleantube",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch-channels": "tsx src/fetch-channels.ts",
+    "compile-channels": "tsx src/compile-channels.ts",
+    "update": "npm run fetch-channels && npm run compile-channels"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

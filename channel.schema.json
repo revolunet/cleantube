@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "title": "YouTube Channel Schema",
+  "description": "Schema describing a YouTube channel for educational content search and categorization",
+  "type": "object",
+  "$defs": {
+    "tag": {
+      "type": "string",
+      "enum": [
+        "scolaire",
+        "elementaire",
+        "college",
+        "lycee",
+        "orientation",
+        "metiers",
+        "mathematiques",
+        "sciences",
+        "francais",
+        "anglais",
+        "espagnol",
+        "langues",
+        "histoire",
+        "geographie",
+        "physique",
+        "chimie",
+        "biologie",
+        "economie",
+        "arts",
+        "musique",
+        "litterature",
+        "philosophie",
+        "informatique",
+        "technologie",
+        "sport",
+        "environnement",
+        "jeu",
+        "dessin-anime",
+        "divertissement"
+      ],
+      "description": "category tag"
+    },
+    "video": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "YouTube video ID (11 characters)",
+          "pattern": "^[a-zA-Z0-9_-]{11}$"
+        },
+        "title": {
+          "type": "string",
+          "description": "Video title",
+          "minLength": 1,
+          "maxLength": 100
+        },
+        "description": {
+          "type": "string",
+          "description": "Video description or summary"
+        },
+        "duration": {
+          "type": "string",
+          "description": "Video duration in ISO 8601 format (e.g., PT4M13S)",
+          "pattern": "^PT(\\d+H)?(\\d+M)?(\\d+S)?$"
+        },
+        "published_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Publication date in ISO 8601 format"
+        },
+        "thumbnail": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL to video thumbnail"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/tag"
+          },
+          "description": "Educational tags for this video"
+        }
+      },
+      "required": ["id", "title"],
+      "additionalProperties": false
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "YouTube channel ID (starts with UC, 24 characters)",
+      "pattern": "^UC[a-zA-Z0-9_-]{22}$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Channel display name",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "description": {
+      "type": "string",
+      "description": "Channel description or summary of content"
+    },
+    "thumbnail": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to channel avatar/thumbnail"
+    },
+    "public": {
+      "type": "string",
+      "description": "Target audience age group",
+      "enum": [
+        "tout public",
+        "3-5 ans",
+        "5-10 ans",
+        "10-15 ans",
+        "15 ans et plus"
+      ]
+    },
+    "language": {
+      "type": "string",
+      "description": "Primary language of the channel content",
+      "enum": ["fr", "en", "es", "de", "it", "pt", "other"],
+      "default": "fr"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/tag"
+      },
+      "description": "tags for the channel"
+    },
+    "videos": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/video"
+      },
+      "description": "List of videos from this channel"
+    }
+  },
+  "required": ["id", "name", "description", "public", "tags"],
+  "additionalProperties": false
+}

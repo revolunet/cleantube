@@ -1,0 +1,582 @@
+{
+  "id": "UC4PasDd25MXqlXBogBw9CAg",
+  "name": "Mickaël Launay (Micmaths)",
+  "description": "La chaîne Micmaths vous propose diverses vidéos autour des mathématiques. Vous y trouverez des cours de maths, des jeux de logique, des chroniques ou encore des manipulations autour des mathématiques.",
+  "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mUi65WQYnGO6TA0n84VNo8wTkiK28SUFZRO2ZPsNhASIU=s800-c-k-c0x00ffffff-no-rj",
+  "public": "10-15 ans",
+  "language": "fr",
+  "tags": [
+    "mathematiques",
+    "scolaire",
+    "college",
+    "lycee"
+  ],
+  "videos": [
+    {
+      "id": "5QcuV-kfvtA",
+      "title": "Bonne année 2026 !",
+      "description": "",
+      "duration": "PT1M56S",
+      "published_at": "2026-01-01T12:02:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/5QcuV-kfvtA/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "RgZSyy_x0r4",
+      "title": "L'énigme de la bouteille et du bouchon - Micmaths",
+      "description": "Que se passe-t-il dans votre tête quand vous résolvez cette énigme ?\n\nPour soutenir la chaîne sur Ulule, c'est par ici : https://fr.ulule.com/mickaellaunay/\n\nL'équation de la chauve-souris, vous pouvez lire les premières pages sur le site des éditions Hugo : https://www.hugopublishing.fr/produits/lequation-de-la-chauve-souris/\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nLa chaîne secondaire mathsdrop sur Youtube :   https://www.youtube.com/@UCPEk1scMA8jGzYYU0cg_hoA \nLa chaîne twitch :  https://www.twitch.tv/mathsdrop\n\nEt vous pouvez aussi me suivre sur :\nMastodon : https://mamot.fr/@mickaellaunay\nBluesky : https://bsky.app/profile/mickaellaunay.bsky.social\nInstagram : https://www.instagram.com/launay_mickael\nFacebook : https://www.facebook.com/micmaths\nDiscord : https://discord.com/invite/vBJCf48EVp",
+      "duration": "PT16M11S",
+      "published_at": "2025-12-17T13:56:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/RgZSyy_x0r4/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "college"
+      ]
+    },
+    {
+      "id": "m-dJUFrVuo4",
+      "title": "Calculatrices mécaniques à clavier (Comptomètre et Torpedo) - Machines à calculer #4",
+      "description": "Non, vous ne rêvez pas : 7 ans après l'épisode 3, voici enfin l'épisode numéro 4 de la série sur les machines à calculer ! Nous plongeons cette fois dans le mécanisme des machines à clavier et notamment de la Torpedo.\n\nPour soutenir la chaîne sur Ulule, c'est par ici : https://fr.ulule.com/mickaellaunay/\n\nLa chaîne secondaire mathsdrop sur Youtube :    / @mathsdrop   \nLa chaîne twitch :   / mathsdrop  \n\nEt vous pouvez aussi me suivre sur :\nMastodon : https://mamot.fr/@mickaellaunay\nBluesky : https://bsky.app/profile/mickaellauna...\nInstagram : https://www.instagram.com/launay_mickael\nFacebook : https://www.facebook.com/micmaths\nDiscord : https://discord.com/invite/vBJCf48EVp",
+      "duration": "PT18M8S",
+      "published_at": "2025-09-15T08:13:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/m-dJUFrVuo4/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "technologie",
+        "histoire"
+      ]
+    },
+    {
+      "id": "T6cBWsk-dN4",
+      "title": "Casse-tête",
+      "description": "",
+      "duration": "PT1M52S",
+      "published_at": "2025-07-06T13:43:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/T6cBWsk-dN4/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "vBh-S9u4utY",
+      "title": "Flocon de von Koch, fractales et carte n°3",
+      "description": "On parle de fractales et on génère la troisième carte de la collection Ulule !\n\nLe code final (encore optimisable !)\n\nimport math\nfrom PIL import Image, ImageDraw\n\nwidth = 1748\nheight = 1240\nvonkoch = Image.new('RGB', (width,height), (255,255,255))\ndraw = ImageDraw.Draw(vonkoch)\n\ndef koch(A,B,n):\n    if (n==0):\n        draw.line((A,B), fill=(0,0,0), width=1)\n    else:\n        M2 = sim(A,B,math.pi/6,1/math.sqrt(3))\n        koch(M2,A,n-1)\n        koch(B,M2,n-1)\n    \ndef sim(A,B,alpha,mu):\n    C = [B[0]-A[0],B[1]-A[1]]\n    D = [mu*(C[0]*math.cos(alpha)+C[1]*math.sin(alpha)),mu*(-C[0]*math.sin(alpha)+C[1]*math.cos(alpha))]\n    return [A[0]+D[0],A[1]+D[1]]\n\ndef flocon(A,B):\n    C = sim(B,A,math.pi/3,1)\n    koch(A,B,14)\n    koch(B,C,14)\n    koch(C,A,14)\n\nL = 600\nfor i in range(3):\n    for j in range(3):\n        A0 = [1748/2+L/2+L*(i-1),height/2+L*math.sqrt(3)/6+L*2/3*math.sqrt(3)*(j-1)+L/3*math.sqrt(3)*(i-1)]\n        B0 = [1748/2-L/2+L*(i-1),height/2+L*math.sqrt(3)/6+L*2/3*math.sqrt(3)*(j-1)+L/3*math.sqrt(3)*(i-1)]\n        flocon(A0,B0)\n\nvonkoch.show()",
+      "duration": "PT2H1M40S",
+      "published_at": "2025-07-04T20:43:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/vBh-S9u4utY/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "0HYuVAAATkU",
+      "title": "La table de 2 modulaire",
+      "description": "",
+      "duration": "PT1M28S",
+      "published_at": "2025-06-30T13:35:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/0HYuVAAATkU/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "elementaire"
+      ]
+    },
+    {
+      "id": "FaAfdGsQszw",
+      "title": "Sauvons le Palais de la Découverte",
+      "description": "Pétition · Sauvons le Palais de la découverte - France · https://www.change.org/p/sauvons-le-palais-de-la-d%C3%A9couverte\n\nLes comptes gérés par les personnels du Palais :\nInstagram https://www.instagram.com/sauvonslepalaisdeladecouverte\nBluesky https://bsky.app/profile/sauvonslepdld.bsky.social \n\nLa science, CQFD sur France culture : https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/palais-de-la-decouverte-un-musee-en-danger-8652201",
+      "duration": "PT3M",
+      "published_at": "2025-06-27T12:54:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/FaAfdGsQszw/hqdefault.jpg",
+      "tags": [
+        "sciences"
+      ]
+    },
+    {
+      "id": "lbEmK0Tnomo",
+      "title": "La magie des couleurs",
+      "description": "",
+      "duration": "PT34S",
+      "published_at": "2025-06-17T11:25:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/lbEmK0Tnomo/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "physique"
+      ]
+    },
+    {
+      "id": "2sB7NJjrW7g",
+      "title": "L'échiquier inversé",
+      "description": "Derniers jours pour recevoir la première image. C'est par ici : https://fr.ulule.com/mickaellaunay/",
+      "duration": "PT1M",
+      "published_at": "2025-05-28T10:09:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/2sB7NJjrW7g/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "college"
+      ]
+    },
+    {
+      "id": "twX30lGKpgU",
+      "title": "Retour vers l'inversion et première image Ulule - Micmaths",
+      "description": "On discute de l'inversion et créer la première image de la collection \"Images mathématiques\"\n\npour vous abonner sur Ulule, c'est par là : https://fr.ulule.com/mickaellaunay/\n\nÀ suivre le code que nous avons fait. Allez aussi voir dans les commentaires qui proposent des variantes !\n\nimport math\nfrom PIL import Image\n\nwidth = 2480\nheight = 3508\nC = width/2\nR = width/2\n\nechiquier = Image.new('RGB', (width, height), (255,255,0))\n\nfor x in range(width):\n    for y in range(height):\n        x0 = x-width/2+0.5\n        y0 = y-height/2+0.5\n        f = R**2/(x0**2+y0**2+0.000000000001)\n        x1 = x0*f\n        y1 = y0*f\n        cx = math.floor(x1/C)\n        cy = math.floor(y1/C)\n        color = ((cx+cy)%2)*255\n        echiquier.putpixel((x,y),(color,color,color))\n\nechiquier.show()",
+      "duration": "P0D",
+      "published_at": "2025-05-23T13:49:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/twX30lGKpgU/hqdefault_live.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "AalmiaowRxY",
+      "title": "Retour vers l'inversion et première image Ulule - Micmaths",
+      "description": "On discute de l'inversion et créer la première image de la collection \"Images mathématiques\"\n\npour vous abonner sur Ulule, c'est par là : https://fr.ulule.com/mickaellaunay/\n\nÀ suivre le code que nous avons fait. Allez aussi voir dans les commentaires qui proposent des variantes !\n\nimport math\nfrom PIL import Image\n\nwidth = 2480\nheight = 3508\nC = width/2\nR = width/2\n\nechiquier = Image.new('RGB', (width, height), (255,255,0))\n\nfor x in range(width):\n    for y in range(height):\n        x0 = x-width/2+0.5\n        y0 = y-height/2+0.5\n        f = R**2/(x0**2+y0**2+0.000000000001)\n        x1 = x0*f\n        y1 = y0*f\n        cx = math.floor(x1/C)\n        cy = math.floor(y1/C)\n        color = ((cx+cy)%2)*255\n        echiquier.putpixel((x,y),(color,color,color))\n\nechiquier.show()",
+      "duration": "PT1H35M53S",
+      "published_at": "2025-05-09T20:16:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/AalmiaowRxY/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "kGZZTR5CMkM",
+      "title": "La plus belle des transformations géométriques - Micmaths",
+      "description": "L'inversion est l'équivalent géométrique de la division. Et c'est une transformation absolument magnifique, tant visuellement que par ses propriétés !\n\nPour soutenir la chaîne sur Ulule, c'est par ici : https://fr.ulule.com/mickaellaunay/\n\nLe replay du live de création de la première image :  https://www.youtube.com/live/AalmiaowRxY?si=mOiQIfFGjrYNvh3p\n\nLa chaîne secondaire mathsdrop sur Youtube : https://www.youtube.com/@UCPEk1scMA8jGzYYU0cg_hoA \nLa chaîne twitch : https://www.twitch.tv/mathsdrop\n\nEt vous pouvez aussi me suivre sur :\nMastodon : https://mamot.fr/@mickaellaunay\nBluesky : https://bsky.app/profile/mickaellaunay.bsky.social\nInstagram : https://www.instagram.com/launay_mickael/\nFacebook : https://www.facebook.com/micmaths\nDiscord (c'est nouveau, je découvre :) https://discord.gg/vBJCf48EVp\n\nLa merveilleuse série de vidéos Dimension : https://www.dimensions-math.org/Dim_fr.htm\nEt l'épisode avec la démonstration des cercles en projection stéréographique : https://www.youtube.com/watch?v=c9J-vR4RVuM&list=PLw2BeOjATqrtiLPWvH_VeXmmBRmwcEwLz&index=9\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/",
+      "duration": "PT23M40S",
+      "published_at": "2025-05-08T14:01:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/kGZZTR5CMkM/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "itPMbx6gO5w",
+      "title": "Chemins hamiltoniens sur un graphe complet orienté #maths",
+      "description": "",
+      "duration": "PT2M59S",
+      "published_at": "2025-02-08T15:30:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/itPMbx6gO5w/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "B8oKC2cPsN4",
+      "title": "On fait tourner des hypercubes en live - #Mathsdrop",
+      "description": "C'est ici : https://www.twitch.tv/mathsdrop\nEt les replays : @Mathsdrop",
+      "duration": "PT1M42S",
+      "published_at": "2025-02-03T16:01:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/B8oKC2cPsN4/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "Ed-1-HigzTw",
+      "title": "2025, la quatrième dimension et les 1000$ de Conway - Micmaths",
+      "description": "Le nombre 2025 est tritriduoprismique. Bonne année !\n\n00:00 Introduction\n01:07 La multiplication des figures géométriques\n04:55 Les duoprismes\n09:13 Les nombres tritriduoprismiques\n13:30 Graphes fortement réguliers et les 1000$ de Conway\n\nSources:\n\nSur les duoprismes en général : https://en.wikipedia.org/wiki/Duoprism\n\nL'article wikipedia sur les graphes fortement réguliers (les graphes dont il est question à la fin de la vidéo en sont un cas particulier). Vous y trouverez une version plus générale de la démonstration que je présente dans la vidéo. https://en.wikipedia.org/wiki/Strongly_regular_graph\n\nA strongly regular graph derived from the perfect ternary Golay code - Berlekamp, E. R.; Van Lint, J. H.; Seidel, J. J. (1973) - Il s'agit de l'article (en anglais) qui annonce la découverte du graphe à 243 sommets : https://pure.tue.nl/ws/files/2157517/593575.pdf\n\nL'annonce de la mise à prix pour 1000$ du problème du graphe 99 par Conway (problème n°2) : https://oeis.org/A248380/a248380.pdf\nJe ne sais pas si le prix de 1000$ tient toujours suite à la mort de Conway en 2020.\n\n=====\n\nMon dernier livre (qui n'a rien à voir avec le sujet de la vidéo, mais il y a des trucs cools dedans) : L'équation de la chauve-souris, vous pouvez lire les premières pages sur le site des éditions Hugo : https://www.hugopublishing.fr/produits/lequation-de-la-chauve-souris/\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nInstagram : https://www.instagram.com/launay_mickael/\nBluesky : https://bsky.app/profile/mickaellaunay.bsky.social\nMastodon : https://mamot.fr/@mickaellaunay\nTiktok : https://www.tiktok.com/@mickael_launay\nFacebook : https://www.facebook.com/micmaths",
+      "duration": "PT23M17S",
+      "published_at": "2025-01-13T16:54:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ed-1-HigzTw/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "U-NqlTf5eQE",
+      "title": "Le puzzle de Dudeney est optimal !",
+      "description": "",
+      "duration": "PT1M15S",
+      "published_at": "2024-12-17T12:03:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/U-NqlTf5eQE/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "7T4neM660SM",
+      "title": "Pandrosion et la duplication du cube - Micmaths",
+      "description": "Au IVe siècle, la mathématicienne Pandrosion a développé une méthode géométrique pour s'approcher de la racine cubique de 2 et tenter de résoudre le fameux problème de la duplication du cube.\n\nSources :\nLa collection mathématique de Pappus (traduction en français de Paul Ver Eecke - cette traduction fait partie de celles qui genrent Pandrosion au masculin) : https://archive.org/details/PappusDAlexandrieEd.PaulVerEeckeLaCollectionMathmatique/page/n145/mode/2up\n\nTextual Studies in Ancient and Medieval Geometry - Wilbur Richard Knorr. Le livre complet n'est pas disponible en ligne, mais un extrait du chapitre consacré à la duplication du cube (dont la méthode d'Ératosthène) est lisible ici : https://link.springer.com/chapter/10.1007/978-1-4612-3690-0_5\n\nUn article de l'APMEP qui expose différentes approches historiques de la duplication du cube : https://www.apmep.fr/IMG/pdf/Duplication_Cube.pdf\n\nThéorie des corps, La règle et le compas - Jean-Claude Carréga : pour un contenu plus poussé sur les théories algébriques qui ont permis à Wantzel de démontrer l'inconstructibilité de la racine cubique de 2.\n\n=====\n\nL'équation de la chauve-souris, vous pouvez lire les premières pages sur le site des éditions Hugo : https://www.hugopublishing.fr/produits/lequation-de-la-chauve-souris/\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nInstagram : https://www.instagram.com/launay_mickael/\nBluesky : https://bsky.app/profile/mickaellaunay.bsky.social\nMastodon : https://mamot.fr/@mickaellaunay\nTiktok : https://www.tiktok.com/@mickael_launay\nFacebook : https://www.facebook.com/micmaths",
+      "duration": "PT22M47S",
+      "published_at": "2024-12-13T15:14:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/7T4neM660SM/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "J_oU53RH9l4",
+      "title": "L'équation de la chauve-souris, de la poussée d'Archimède à la physique quantique",
+      "description": "Les premières pages sont consultables ici : https://www.hugopublishing.fr/produits/lequation-de-la-chauve-souris/\n\nPour trouver une librairie qui l'a en stock (ou peut le commander) près de chez-vous : https://www.placedeslibraires.fr/livre/9782755675979-l-equation-de-la-chauve-souris-de-la-poussee-d-archimede-a-la-physique-quantique-mickael-launay-chloe-bouchaour/\n\nLe tout est illustré par Chloé Bouchaour et chapeauté par Christophe Absi.",
+      "duration": "PT1M31S",
+      "published_at": "2024-10-26T16:03:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/J_oU53RH9l4/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "physique"
+      ]
+    },
+    {
+      "id": "oudyQnI0B8g",
+      "title": "Les chiffres de Kaktovik",
+      "description": "",
+      "duration": "PT58S",
+      "published_at": "2024-06-06T13:34:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/oudyQnI0B8g/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "OLCLfJJXFPM",
+      "title": "Un puzzle de 123 ans résolu #puzzle",
+      "description": "",
+      "duration": "PT58S",
+      "published_at": "2024-05-30T09:05:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/OLCLfJJXFPM/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "zL7eHC6WfyA",
+      "title": "Où faut-il construire ces palais ? - Micmaths",
+      "description": "Ce problème posé par Conway et Sloane est tout gentil au début, mais beaucoup moins à la fin.\n\nCette question est également connue sous le nom de problème de Tammes : https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_Tammes\n\nLe livre dans lequel j'ai trouvé ce problème : Sphere packings, lattices and groups - J. H. Conway et N. J. A. Sloane.\nLe site de Niel Sloane, qui répertorie toutes les meilleures solutions connues : http://neilsloane.com/packings/ Notez que dans le tableau présenté sur cette page la distance minimale entre les points est notée par l'angle au centre. Par exemple pour M=6 on peut lire 90 dans la colonne \"min separation\" ce qui signifie que vu du centre, deux points mitoyens de l'octaèdre sont dans des directions à angle droit.\nL'article qui résout le problème pour M=13 et M=14 : The Tammes problem for N=14 - Oleg R. Musin, Alexey S. Tarasov - https://arxiv.org/abs/1410.2536\n\nPlus :\nL'OEIS : https://oeis.org\nMa vidéo sur le nœud de Conway : https://www.youtube.com/watch?v=gz-MN3s-jcQ\n\nMiniature : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nInstagram : https://www.instagram.com/launay_mickael/\nTiktok : https://www.tiktok.com/@mickael_launay\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths",
+      "duration": "PT8M51S",
+      "published_at": "2024-05-28T15:28:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/zL7eHC6WfyA/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "knyQyV4aXrA",
+      "title": "Un anti-problème de Hilbert résolu après 60 ans - Micmaths",
+      "description": "Un problème absolument pas capital, qualifié par ses meilleurs spécialistes de \"presque entièrement inintéressant\".\n\nSources :\nL'annonce de la découverte : https://www.richardpmann.com/beggar-my-neighbour-records.html\nLa page wiki en anglais : https://en.wikipedia.org/wiki/Beggar-my-neighbour\nUne citation de ce que disait Conway du jeu : https://www.jstor.org/stable/2589054\n\nVous pouvez aussi me suivre sur :\nTiktok : https://www.tiktok.com/@mickael_launay\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/",
+      "duration": "PT5M49S",
+      "published_at": "2024-02-13T15:34:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/knyQyV4aXrA/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "wfooaeRGxwg",
+      "title": "Ok je fais l'hypercube 6D, mais c'est le dernier hein promis après j'arrête... - Micmaths",
+      "description": "La vidéo précédente est ici : https://youtu.be/kDZBO9eriOM\n\nVous pouvez aussi me suivre sur :\nTiktok : https://www.tiktok.com/@mickael_launay\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/",
+      "duration": "PT6M5S",
+      "published_at": "2024-01-30T15:20:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/wfooaeRGxwg/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "kDZBO9eriOM",
+      "title": "Les identités remarquables en 4D - Micmaths",
+      "description": "Comment visualiser géométriquement les identités remarquables dans la quatrième dimension ?\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nTiktok : https://www.tiktok.com/@mickael_launay\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/",
+      "duration": "PT11M56S",
+      "published_at": "2024-01-24T16:34:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/kDZBO9eriOM/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "xsh16u7OsTo",
+      "title": "Sur les traces du sphinx et des reptuiles impairs - Micmaths",
+      "description": "Le sphinx pentagonal reste à ce jour le seul gardien du royaume des reptuiles impairs !\n\nPetite précision : on trouve parfois des définitions un peu différentes des reptuiles qui autorisent l'utilisation de formes n'ayant pas la même taille. Dans ce cas, il existe quelques autres reptuiles pentagonaux, mais toujours très peu (voir la page wiki ci-dessous).\n\nUn peu de lecture :\nWikipedia (en anglais, il y a une page française sur les reptuiles, mais beaucoup mois complète) https://en.wikipedia.org/wiki/Rep-tile\nQuelques autres exemples dans cet article (toujours en anglais) https://maxwelldemon.com/2008/11/09/rep-tiles-or-how-mathematicians-start-to-puzzle-and-open-up-questions/\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nTiktok : https://www.tiktok.com/@mickael_launay\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/",
+      "duration": "PT5M41S",
+      "published_at": "2024-01-18T15:47:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/xsh16u7OsTo/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "i31mOUnHT-E",
+      "title": "2024 année tétraédrique ! - Micmaths",
+      "description": "Une année comme vous n'en vivrez plus jamais !\n\nSi vous voulez plus de propriétés mathématiques du nombre 2024, El Jj a publié son traditionnel billet de blog, c'est ici : http://eljjdx.canalblog.com/archives/2023/12/30/40159162.html\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nTiktok : https://www.tiktok.com/@mickael_launay\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/",
+      "duration": "PT2M32S",
+      "published_at": "2024-01-05T14:04:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/i31mOUnHT-E/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "794n6mEa01w",
+      "title": "Le 18e problème de Hilbert - Micmaths",
+      "description": "L'histoire à rebondissement d'un polyèdre oublié.\n\nSources et ressources :\n\nL'article de Reinhardt 1928 (Zur Zerlegung der euklidischen Räume in kongruente Polytope) : https://drive.google.com/file/d/1zRGUyKfnNSWf-irsByX7MtuipiCGo7wm\n\nLa vidéo sur Marjorie Rice sur la chaîne Thomaths https://youtu.be/fgD6u6vflAY\n\nOn paving the plane - Richard Kershner (sur les pavages pentagonaux) https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/APL-V08-N06/APL-08-06-Kershner.pdf\n\nThe classification of 2-isohedral tilings of the plane - Olaf Delgado, Daniel Huson & Elizaveta Zamorzaeva\n\nUne page (en anglais) consacrée aux pavages non-isoédraux pour en savoir encore plus (avec par exemple des pavages à 3 et 4 voisinages différents) : https://www.angelfire.com/mn3/anisohedral/index.html\n\nLa page de Joseph Myers avec BEAUCOUP d'autres pavages https://www.polyomino.org.uk/mathematics/polyform-tiling/\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nTiktok : https://www.tiktok.com/@mickael_launay\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/",
+      "duration": "PT20M26S",
+      "published_at": "2023-11-28T17:55:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/794n6mEa01w/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "ybXmZHyL_5k",
+      "title": "Le mur magique",
+      "description": "Quelques vues supplémentaire sur l'anamorphose du décor que je vous présentais dans ma vidéo de la semaine dernière https://youtu.be/bkPXt-IP68I",
+      "duration": "PT59S",
+      "published_at": "2023-11-18T21:14:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/ybXmZHyL_5k/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "6N5iXI_bSn4",
+      "title": "Une fractale dans le sang - Micmaths",
+      "description": "Pourquoi le triangle Sierpinski apparaît-il dans le tableau des compatibilité entre groupes sanguins ?\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nTiktok : https://www.tiktok.com/@mickael_launay\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/",
+      "duration": "PT5M42S",
+      "published_at": "2023-11-16T15:35:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/6N5iXI_bSn4/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "biologie"
+      ]
+    },
+    {
+      "id": "bkPXt-IP68I",
+      "title": "Le secret de l'anamorphose - Micmaths",
+      "description": "Le décor de mes vidéos n'est pas ce qu'il semble être, je vous explique tout !\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nTiktok : https://www.tiktok.com/@mickael_launay\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/",
+      "duration": "PT5M42S",
+      "published_at": "2023-11-07T16:29:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/bkPXt-IP68I/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences"
+      ]
+    },
+    {
+      "id": "N-ZGCsvxBB0",
+      "title": "Le plus grand des petits hexagones - Micmaths",
+      "description": "En 1922, Karl Reinhardt se posa une question simple en apparence, mais dont la réponse allait se révéler plus surprenante qu'il l'aurait imaginé.\n\nSources :\nL'article de Reinhardt (à partir de la page 251) : http://resolver.sub.uni-goettingen.de/purl?PPN37721857X_0031/dmdlog36\nL'article de Graham : https://mathweb.ucsd.edu/~ronspubs/75_02_hexagon.pdf\nL'article de Foster et Szabo (2007) qui règle la question pour tous les nombres pairs : \"Diameter graphs of polygons and the proof of a conjecture of Graham\" https://www.sciencedirect.com/science/article/pii/S0097316507000428?via%3Dihub\n\nLa page wikipedia en anglais du problème : https://en.wikipedia.org/wiki/Biggest_little_polygon\n\nSur le problème isopérimétrique : https://fr.wikipedia.org/wiki/Isop%C3%A9rim%C3%A9trie\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/",
+      "duration": "PT5M49S",
+      "published_at": "2023-10-30T12:04:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/N-ZGCsvxBB0/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "sxh4SvohmpI",
+      "title": "MMMarjorie Rice",
+      "description": "C'est par ici : https://youtu.be/fgD6u6vflAY",
+      "duration": "PT23S",
+      "published_at": "2023-03-10T17:23:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/sxh4SvohmpI/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "uSfHC_-Dzfo",
+      "title": "Identité remarquable",
+      "description": "",
+      "duration": "PT1M",
+      "published_at": "2023-03-08T14:59:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/uSfHC_-Dzfo/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "college",
+        "lycee"
+      ]
+    },
+    {
+      "id": "02ahRmSO6NA",
+      "title": "Quel est le nombre suivant  ?",
+      "description": "Devinez quel nombre vient après !\nD'après A Handbook of Integer Sequences de Niel Sloane.\n #math #nombres #logic",
+      "duration": "PT41S",
+      "published_at": "2023-02-28T12:43:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/02ahRmSO6NA/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "MXb9g3vAHiU",
+      "title": "Le mystère du morceau de cube disparu",
+      "description": "",
+      "duration": "PT1M",
+      "published_at": "2023-02-26T13:38:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/MXb9g3vAHiU/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "kMA8bdkErII",
+      "title": "Le triangle de Sierpinski était en fait un hexagone",
+      "description": "",
+      "duration": "PT1M",
+      "published_at": "2023-02-24T13:07:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/kMA8bdkErII/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "Z9pI5hjeq9E",
+      "title": "Cent mille milliards de poèmes - Hommage à Raymond Queneau",
+      "description": "Hommage à Raymond Queneau, né il y a 120 ans.\nhttps://fr.wikipedia.org/wiki/Raymond_Queneau\n\nLes 256 quatrains co-écrits avec André Deledicq (soit 128 chacun) :\n\nAlors, en somme, voilà comment Queneau,\r\nEt Raymond, fondateur du nouvel Oulipo,\r\nC’est ainsi que l’auteur de Zazie dans l’métro,\r\nLe génial écrivain, juste un rien mégalo,\n\n\r\rUsant de quelques astuces combinatoires,\r\nPas effrayé d’aller titiller les milliards,\r\nUsant l’arithmétique aux fins les plus bizarres,\r\nRéinventant la page en fractals écritoires,\r\r\n\nForgea de poésies d’innombrables faisceaux,\r\nFit plus de poèmes que de gouttes dans l’eau,\r\nPondit plus de sonnets qu’il n’existe de mots,\r\nFit un nombre de vers à quatorze zéros,\r\r\n\nInsolite façon de rentrer dans l’histoire.\r\nDont lui-même n’a point pu lire la plupart.\n\rEn dix pages c’est tout : compression dérisoire.\n\rParfois mathématique est une magie noire.",
+      "duration": "PT1M",
+      "published_at": "2023-02-21T12:56:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/Z9pI5hjeq9E/hqdefault.jpg",
+      "tags": [
+        "litterature",
+        "francais",
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "XlA9yuSwUUg",
+      "title": "Merveilleux Mathématiciens et Mathématiciennes",
+      "description": "La chaîne de Thomaths c'est par ici : https://youtube.com/@Thomaths\n#Shorts",
+      "duration": "PT41S",
+      "published_at": "2023-02-18T10:24:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/XlA9yuSwUUg/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "KcHJv4TlwMQ",
+      "title": "Comment ranger des chocolats dans une boîte (mathématiquement) ? - Micmaths",
+      "description": "Mangez plus de chocolats grâce aux maths !\n\nSources et lectures :\n\nUne étude (en anglais mais avec beaucoup de schémas) qui résume l'état des connaissances en 2009 : https://www.combinatorics.org/files/Surveys/ds7/ds7v5-2009/ds7-2009.html\nLa page wikipedia du problème : https://fr.wikipedia.org/wiki/Empilement_de_carr%C3%A9s_dans_un_carr%C3%A9\n\nLes variantes :\nVous trouverez une liste de plusieurs dizaines de variantes ici : https://erich-friedman.github.io/packing/\nQuelques exemples :\n- Des ronds dans une boîte carrée : https://en.wikipedia.org/wiki/Circle_packing_in_a_square\n- Des ronds dans une boîte ronde : https://web.archive.org/web/20200318183745/https://www2.stetson.edu/~efriedma/cirincir/\n- Des ronds dans un triangle équilatéral : https://www.combinatorics.org/ojs/index.php/eljc/article/view/v2i1a1\n- Des carrés dans une boîte ronde : https://erich-friedman.github.io/packing/squincir/\n\nSur le comportement à l'infini\nL'article de 1975 d'Erdös et Graham : https://www.sciencedirect.com/science/article/pii/0097316575900990\nL'article de 2020 de Chung et Graham : https://www.math.ucsd.edu/~fan/wp/spacking.pdf\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nMastodon : https://mamot.fr/@mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/\n\nPour soutenir la chaîne sur Utip : https://utip.io/mickaellaunay\n\nRetrouvez d'autres vidéos mathématiques sur le Myriogon : https://www.youtube.com/LeMyriogon",
+      "duration": "PT16M29S",
+      "published_at": "2022-12-18T14:34:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/KcHJv4TlwMQ/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "AUO_H-OYzfM",
+      "title": "Le flocon de Koch en 3D - Micmaths",
+      "description": "Existe-t-il un équivalent en 3D du flocon de Koch, l'une des plus célèbres figures fractales ?\n\nPour voir ma précédente vidéo sur le flocon : https://youtu.be/8D_ThIqoJL8\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nMastodon : https://mamot.fr/@mickaellaunay\nTwitter : https://twitter.com/mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/\n\nPour soutenir la chaîne sur Utip : https://utip.io/mickaellaunay\n\nRetrouvez d'autres vidéos mathématiques sur le Myriogon : https://www.youtube.com/LeMyriogon",
+      "duration": "PT3M22S",
+      "published_at": "2022-05-21T10:55:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/AUO_H-OYzfM/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "8D_ThIqoJL8",
+      "title": "L'étonnant puzzle fractal de von Koch - Micmaths",
+      "description": "L'emboîtement du flocon de Koch avec lui-même semble magique ! Pourquoi ça marche ? Je vous présente une jolie démonstration de cette propriété.\n\nLa chaîne du Myriogon : https://www.youtube.com/LeMyriogon\n\nLa vidéo de Thomaths sur le sujet : https://youtu.be/WZJzFmq9VFE\n\nLe lien vers les conversations Twitter à propos des pavages par des pièces en deux tailles :\nLa question : https://twitter.com/mickaellaunay/status/1508009395086675973\nLes réponses trouvées : https://twitter.com/mickaellaunay/status/1508060177521684483\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nVous pouvez aussi me suivre sur :\nMastodon : https://mamot.fr/@mickaellaunay\nTwitter : https://twitter.com/mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/\n\nPour soutenir la chaîne sur Utip : https://utip.io/mickaellaunay",
+      "duration": "PT13M52S",
+      "published_at": "2022-04-28T14:07:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/8D_ThIqoJL8/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "6AEUG0LjMzg",
+      "title": "Dictionnaire amoureux des mathématiques - avec André Deledicq",
+      "description": "Mon nouveau livre, coécrit avec André Deledicq qui vient de paraître aux éditions Plon.",
+      "duration": "PT2M21S",
+      "published_at": "2021-05-12T14:10:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/6AEUG0LjMzg/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "spE5_QW2nh8",
+      "title": "12 Curiosités Topologiques - Micmaths",
+      "description": "La topologie est pleine de surprises, voici 12 résultats étonnants que l'on y rencontre.\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nLe calendrier mathématique 2021 : https://www.pug.fr/produit/1692/9782706142741/calendrier-mathematique-2021\nEt l'expo Les mathématiques du ciel : http://ciel.mmi-lyon.fr/\n\nPour soutenir la chaîne sur tipeee : https://fr.tipeee.com/micmaths\nou sur Utip : https://utip.io/mickaellaunay\n\nVous pouvez aussi me suivre sur :\nMastodon : https://mamot.fr/@mickaellaunay\nTwitter : https://twitter.com/mickaellaunay\nFacebook : https://www.facebook.com/micmaths\nInstagram : https://www.instagram.com/launay_mickael/\n\nQuelques compléments sur les curiosités :\n\n1. Source : https://www.reddit.com/r/Unexpected/comments/c1rrjo/when_a_plug_gets_caught_under_a_table/?ref=readnext\n\n2. Source : https://twitter.com/mathemaniac/status/1270680150506496003\n\n5. La page mathcurve sur la courbe de la balle de tennis : https://mathcurve.com/courbes3d/couture/couture.shtml\n\n6. Les anneaux borroméens\nhttps://fr.wikipedia.org/wiki/Anneaux_borrom%C3%A9ens\nPetit défi : à l'aide des images satellites de google map, saurez-vous trouver les anneaux borroméens que l'on peut voir du ciel sur l'une des îles Borromées en Italie ?\n\n7. Le ruban de Möbius\nLes petites découvertes par Robin Jamet : https://www.youtube.com/watch?v=xWlph4O0X48\nDivers autres découpages dans le même genre avec Tadashi Tokieda sur Numberphile : https://www.youtube.com/watch?v=wKV0GYvR2X8\n\n8. Tresses\nhttps://fr.wikipedia.org/wiki/Tresse_(math%C3%A9matiques)\n\n10. Le genre\nhttps://fr.wikipedia.org/wiki/Genre_(math%C3%A9matiques)\n\n11. L'énigme des 3 maisons\nhttps://fr.wikipedia.org/wiki/%C3%89nigme_des_trois_maisons\nLes explications de Professeur Culture Précieuse : https://www.youtube.com/watch?v=VUzmXjJPj_M\nLa tasse : https://mathsgear.co.uk/products/utilities-puzzle-mug\n\n12. Le polyèdre de Szilassi\nhttps://fr.wikipedia.org/wiki/Poly%C3%A8dre_de_Szilassi\nhttps://mathcurve.com/polyedres/szilassi/szilassi.shtml\nSon patron sur le site du rectorat de Nouvelle Calédonie :\nhttp://maths.ac-noumea.nc/polyhedr/stuff/Szilassi.pdf\nLa page liée au patron : http://maths.ac-noumea.nc/polyhedr/Csaszar.htm",
+      "duration": "PT11M55S",
+      "published_at": "2020-12-28T18:15:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/spE5_QW2nh8/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "tYf3CpbqAVo",
+      "title": "Le calcul qui divise : 6÷2(1+2) - Micmaths",
+      "description": "9 ou 1 ? On fait le point sur ce calcul devenu viral.\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nSources :\nCajori Florian - A History of Mathematical Notations, Vol I. (extrait de la page 274)\nPDF : https://monoskop.org/images/2/21/Cajori_Florian_A_History_of_Mathematical_Notations_2_Vols.pdf\nThe Reorganization of Mathematics in Secondary Education 1921 (extrait de la page 67)\nL'ISO 80000-2 sur Wikipedia : https://fr.wikipedia.org/wiki/ISO/CEI_80000-2\nPDF : https://people.engr.ncsu.edu/jwilson/files/mathsigns.pdf\n\nRésumé des dates d'apparition des principaux symboles mathématiques sur Trucmaths : http://trucsmaths.free.fr/hist_symbol.htm\n\nSur la notation d'Einstein : https://fr.wikipedia.org/wiki/Convention_de_sommation_d%27Einstein\n WolframAlpha pour vérifier qu'il ne donne pas le même résultat selon le signe de division : https://www.wolframalpha.com/\n\nQuelques articles consacrés à ce problème viral :\nhttps://www.francetvinfo.fr/societe/education/on-a-demande-a-cedric-villani-de-resoudre-ce-probleme-de-maths-qui-donne-mal-a-la-tete-aux-internautes_3563309.html\n20 minutes : https://www.20minutes.fr/high-tech/2577187-20190804-simple-exercice-maths-devient-veritable-casse-tete-internautes\nLCI : https://www.lci.fr/high-tech/maths-saurez-vous-resoudre-cette-equation-qui-obsede-twitter-2128996.html\n\nL'émission tv corréenne dont il est question au début : https://www.theverge.com/2016/10/16/13275572/korean-game-show-gif-backstory-jiwhaza",
+      "duration": "PT13M40S",
+      "published_at": "2020-11-17T17:18:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/tYf3CpbqAVo/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "college",
+        "lycee"
+      ]
+    },
+    {
+      "id": "gz-MN3s-jcQ",
+      "title": "Une énigme de 50 ans résolue : le nœud de Conway n'est pas bordant - Micmaths",
+      "description": "En février 2020, la mathématicienne Lisa Piccirillo a mit fin à 50 ans de suspens en démasquant une propriété d'un nœud fascinant découvert par John Conway 50 ans plus tôt.\n\nIllustrations : Chloé Bouchaour https://www.instagram.com/chloescope_/\n\nSources :\nL'article de Lisa PIccirillo sur ArXiv (pdf) : https://arxiv.org/abs/1808.02923\n\nQuelques articles sur sa découverte :\nQuanta magazine (en anglais) : https://www.quantamagazine.org/graduate-student-solves-decades-old-conway-knot-problem-20200519/\nEt : https://www.quantamagazine.org/math-invariants-helped-lisa-piccirillo-solve-conway-knot-problem-20200602/\nScience & avenir : https://www.sciencesetavenir.fr/fondamental/mathematiques/comment-une-jeune-mathematicienne-a-resolu-en-un-rien-de-temps-l-une-des-plus-grandes-enigmes-de-la-theorie-des-noeuds_144824\nBBC Afrique : https://www.bbc.com/afrique/region-53174124\n\nDeux vidéo d'El Jj sur John Conway et ses travaux : https://www.youtube.com/watch?v=9Hpy6MKM-J8\net (sur la suite audioactive) : https://www.youtube.com/watch?v=IsKBRj6_VSs\n\nLa playlist des vidéos de la chaîne Numberphile avec Conway :\nhttps://www.youtube.com/playlist?list=PLt5AfwLFPxWIL8XA1npoNAHseS-j1y-7V\n\nL'article d'Image des Mathématiques sur Vaughan Jones, par Aurélien Alvarez :\nhttps://images.math.cnrs.fr/Des-tresses-au-kitesurf-Vaughan-Jones.html\n\nDeux émissions de Podcast Science sur les noeuds en maths et leur utilité en dehors des maths :\nhttps://www.podcastscience.fm/emission/2015/12/07/podcast-science-240-noeuds-mathematiques/\nhttps://www.podcastscience.fm/emission/2015/12/20/podcast-science-241-a-quoi-servent-les-noeuds/\n\nSur la 4e dimension, le film Dimension par Jos Leys, Étienne Ghys et Aurélien Alvarez :\nhttp://www.dimensions-math.org/Dim_fr.htm\n\nPour aller plus loin :\nLe wiki des nœuds, Knot Atlas : http://katlas.org/\n\nUne série de cours filmés sur la théorie des noeuds, par Anthony Bosman, pour celles et ceux qui veulent aller plus loin dans les détails technique : https://www.youtube.com/watch?v=fwcvmo0y_SI",
+      "duration": "PT32M26S",
+      "published_at": "2020-10-17T18:45:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/gz-MN3s-jcQ/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "YL3i8VmHYw0",
+      "title": "[17h !] Cabinet de curiosités mathématiques avec Robin, Laure et Guillaume - Myriogon #15",
+      "description": "Cet après-midi, nous parlons de curiosités mathématiques avec l'équipe de maths du Palais de la Découverte, Robin Jamet, Laure Cornu et Guillaume Reuiller.\n\nL'appli pour jouer avec les rebonds dans une ellipse : https://mstimberg.github.io/billard/index.html\nLes vidéos de Numberphile : https://www.youtube.com/watch?v=3WHBlPvK3Ek\net https://www.youtube.com/watch?v=4KHCuXN2F3I\nDes photos de billard elliptique, par Roger : https://twitter.com/roger_mansuy/status/1248274736922144778\n\nLa chaîne du Myriogon :\nhttps://www.youtube.com/channel/UCvYEpQbJ81n2pjrQrKUrRog",
+      "duration": "PT1H35M27S",
+      "published_at": "2020-04-09T17:19:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/YL3i8VmHYw0/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "PfLidic7d7Y",
+      "title": "Comment gagner à tous les coups ? - Myriogon #14",
+      "description": "On parle de théorie des jeux ce soir avec les classiques jeu de Nim et de Marienbad et plusieurs variantes.",
+      "duration": "PT1H31M23S",
+      "published_at": "2020-04-08T18:12:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/PfLidic7d7Y/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "NqGgwDSvWvU",
+      "title": "Rubik's cube et théorie des groupes, avec Florence Porcel - Myriogon #13",
+      "description": "Ce soir nous recevons Florence Porcel pour parler du Rubik's cube, de sa résolution et des maths qu'il y a autour.",
+      "duration": "PT1H9M43S",
+      "published_at": "2020-04-07T17:45:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/NqGgwDSvWvU/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences"
+      ]
+    },
+    {
+      "id": "IWYlYBNB7LE",
+      "title": "L'erreur de d'Alembert, avec Roger Mansuy - Myriogon #12",
+      "description": "Munissez vous d'une pièce de monnaie, prêts à dégainer votre pile ou face : aujourd'hui nous parlons de hasard et de quelques résultats contre-intuitifs en probabilités.\n\nhttps://strawpoll.com/s7k72x7y",
+      "duration": "PT1H28M9S",
+      "published_at": "2020-04-06T18:11:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/IWYlYBNB7LE/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "vGTP4exGtMo",
+      "title": "[17h] Ces figures sorties de nulle part, avec Robin Jamet - Myriogon #11",
+      "description": "Cet après-midi, nous parlons d'organisation de Mathmob avec Robin Jamet : comment faire apparaître des figures étonnantes à partir de quelques règles simples.\n\nMathcurve : https://www.mathcurve.com/",
+      "duration": "PT1H16M16S",
+      "published_at": "2020-04-02T16:53:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/vGTP4exGtMo/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences"
+      ]
+    }
+  ]
+}

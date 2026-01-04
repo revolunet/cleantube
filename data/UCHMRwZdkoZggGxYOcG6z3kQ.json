@@ -1,0 +1,30 @@
+{
+  "id": "UCHMRwZdkoZggGxYOcG6z3kQ",
+  "name": "1 jour 1 question ",
+  "description": "",
+  "thumbnail": "https://yt3.ggpht.com/3lnXEqrjSDS6Hll0liR8_S9inDhFvoSg9WRTwJMajCY8bvqxch4fAiWbYcxMvgkdY51csPZZKA=s800-c-k-c0x00ffffff-no-rj",
+  "public": "5-10 ans",
+  "language": "fr",
+  "tags": [
+    "scolaire",
+    "elementaire",
+    "sciences",
+    "histoire",
+    "geographie",
+    "environnement"
+  ],
+  "videos": [
+    {
+      "id": "AliMuHJEv7k",
+      "title": "1 JOUR 1 QUESTION #1",
+      "description": "",
+      "duration": "PT1M13S",
+      "published_at": "2022-11-10T19:23:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/AliMuHJEv7k/hqdefault.jpg",
+      "tags": [
+        "scolaire",
+        "elementaire"
+      ]
+    }
+  ]
+}

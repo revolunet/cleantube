@@ -1,0 +1,574 @@
+{
+  "id": "UC5X4e8ScZI2AFd_vkjSoyoQ",
+  "name": "AstronoGeek",
+  "description": "AstronoGeek, c'est une chaîne dédiée à la vulgarisation scientifique. Bordel de merde.",
+  "thumbnail": "https://yt3.ggpht.com/8e1-6kx0mo8BRgIkkO4u7auZlaACmHyAvaEeEtl1mW6csiZtli6p-PHDi7-R5ZkT-Afr98X_=s800-c-k-c0x00ffffff-no-rj",
+  "public": "15 ans et plus",
+  "language": "fr",
+  "tags": [
+    "sciences",
+    "physique",
+    "technologie"
+  ],
+  "videos": [
+    {
+      "id": "fPG08TAEeOo",
+      "title": "Pourquoi certains avions ont une roue derrière ?",
+      "description": "",
+      "duration": "PT1M25S",
+      "published_at": "2025-12-31T15:01:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/fPG08TAEeOo/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "technologie"
+      ]
+    },
+    {
+      "id": "z9b_rifXTck",
+      "title": "Olympus Mons n'est pas le plus gros volcan du système solaire !",
+      "description": "",
+      "duration": "PT1M23S",
+      "published_at": "2025-12-29T15:02:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/z9b_rifXTck/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "geographie"
+      ]
+    },
+    {
+      "id": "nE7M6Q6eUl4",
+      "title": "🪐Bug de l'an 2000 : une arnaque mondiale ?",
+      "description": "Envie d'un Yfood ?\nhttps://bit.ly/yfood_Astronogeek_All  \n-10% avec le code ASTRONO-YOUTUBE\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n**00:00 SPONSO\n**00:00 EPISODE",
+      "duration": "PT18M10S",
+      "published_at": "2025-12-26T15:01:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/nE7M6Q6eUl4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "histoire"
+      ]
+    },
+    {
+      "id": "7MiMcwU9DHw",
+      "title": "Une nouvelle tache rouge sur Jupiter !",
+      "description": "",
+      "duration": "PT48S",
+      "published_at": "2025-12-24T15:00:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/7MiMcwU9DHw/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "geographie"
+      ]
+    },
+    {
+      "id": "5WT_3cGXDKY",
+      "title": "Quelle est la plus PETITE étoile ?",
+      "description": "",
+      "duration": "PT1M18S",
+      "published_at": "2025-12-22T15:00:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/5WT_3cGXDKY/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "physique"
+      ]
+    },
+    {
+      "id": "G1dej62uzIA",
+      "title": "🪐Les extra-terrestres piégés sous les glaces de l'Antarctique",
+      "description": "Envie d'un HOLY ?\nhttps://fr.weareholy.com/AstronoGeek/Youtube\n💸-5€ sur ta 1ère commande avec ASTRONOGEEK5 + -10% avec ASTRONOGEEK ensuite.💸\n\nEnvie de lire le livre de Philippe ?\nhttps://fr.ulule.com/lecrivrien/coming-soon/?utm_medium=Astronogeek&utm_source=polesud&utm_campaign=presale_220570\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n00:00 SPONSO\n02:43 EPISODE",
+      "duration": "PT29M52S",
+      "published_at": "2025-12-19T15:00:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/G1dej62uzIA/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "geographie"
+      ]
+    },
+    {
+      "id": "6xU-uI6uVQI",
+      "title": "Pourquoi il n'y a plus de Biplans ?",
+      "description": "",
+      "duration": "PT2M27S",
+      "published_at": "2025-12-17T15:00:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/6xU-uI6uVQI/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "technologie"
+      ]
+    },
+    {
+      "id": "RkSn8VO9apw",
+      "title": "Des vagues sur la Lune !",
+      "description": "",
+      "duration": "PT42S",
+      "published_at": "2025-12-15T15:01:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/RkSn8VO9apw/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "geographie"
+      ]
+    },
+    {
+      "id": "E9HxUK4ws44",
+      "title": "🪐Les pires explosions de l'histoire",
+      "description": "Pour obtenir NordVPN : \nhttps://nordvpn.com/astronogeek\nUtilisez le code de réduction \"AstronoGeek\"\npour obtenir une grosse reduc sur l'abonnement de 2 ans.\n\nLa suite chez Yoran :\nhttps://youtu.be/epPEyN2XZbU\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n00:00 SPONSO\n02:31 EPISODE",
+      "duration": "PT31M45S",
+      "published_at": "2025-12-12T15:00:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/E9HxUK4ws44/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "sciences"
+      ]
+    },
+    {
+      "id": "eDUw59srgJU",
+      "title": "Greffer un organe digéré !?",
+      "description": "",
+      "duration": "PT2M23S",
+      "published_at": "2025-12-10T15:01:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/eDUw59srgJU/hqdefault.jpg",
+      "tags": [
+        "biologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "WFHG_FH_kZY",
+      "title": "Acheter une kalash sur le dark web",
+      "description": "",
+      "duration": "PT55S",
+      "published_at": "2025-12-08T15:00:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/WFHG_FH_kZY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "ubSkxzvFNrE",
+      "title": "🪐Apollo 11 sauvé par une petite fille",
+      "description": "Envie d'une jolie montre ?\nhttps://www.holzkern.com/astronogeek\n-15% avec le code SEPPELE\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n00:00 SPONSO\n03:56 EPISODE",
+      "duration": "PT44M50S",
+      "published_at": "2025-12-05T15:01:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/ubSkxzvFNrE/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "sciences"
+      ]
+    },
+    {
+      "id": "jZQ_q0mkr18",
+      "title": "Pourquoi appelle-t-on une crotte de nez un \"mickey\" ?",
+      "description": "",
+      "duration": "PT56S",
+      "published_at": "2025-12-03T15:01:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/jZQ_q0mkr18/hqdefault.jpg",
+      "tags": [
+        "francais"
+      ]
+    },
+    {
+      "id": "6SVoDBN2fFM",
+      "title": "tournage de sponso",
+      "description": "",
+      "duration": "PT2M30S",
+      "published_at": "2025-12-01T15:00:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/6SVoDBN2fFM/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "0nfjZ1iDW4I",
+      "title": "Où sont passés les océans de Mars ?",
+      "description": "",
+      "duration": "PT52S",
+      "published_at": "2025-11-30T15:00:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/0nfjZ1iDW4I/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "geographie"
+      ]
+    },
+    {
+      "id": "UR8wcWVslz8",
+      "title": "🪐L'erreur (débile) qui a fait perdre 300 M de dollars à la NASA",
+      "description": "Envie d'un Yfood ?\nhttps://bit.ly/yfood_Astronogeek_All\nCode : ASTRONO-YOUTUBE\n-20% sur le site pendant 3 jours (jusqu’au 30 inclus)\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n**00:00 SPONSO\n**00:00 EPISODE",
+      "duration": "PT16M30S",
+      "published_at": "2025-11-28T15:01:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/UR8wcWVslz8/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "histoire"
+      ]
+    },
+    {
+      "id": "I3SfN7DxFOQ",
+      "title": "la vérité sur le projet HAARP",
+      "description": "",
+      "duration": "PT31S",
+      "published_at": "2025-11-26T16:22:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/I3SfN7DxFOQ/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "technologie"
+      ]
+    },
+    {
+      "id": "6-PlMLmjkVw",
+      "title": "RDV samedi à Paris !",
+      "description": "",
+      "duration": "PT1M50S",
+      "published_at": "2025-11-24T16:05:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/6-PlMLmjkVw/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "-UJnU_lc2f4",
+      "title": "Pourquoi les miniatures Youtube changent ?",
+      "description": "",
+      "duration": "PT1M39S",
+      "published_at": "2025-11-23T15:00:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/-UJnU_lc2f4/hqdefault.jpg",
+      "tags": [
+        "informatique"
+      ]
+    },
+    {
+      "id": "5DPVJXFdzUo",
+      "title": "🪐L'opération policière filmée la plus drôle de l'histoire",
+      "description": "Envie d'un Displate ?\nhttps://displate.com/@astronogeek\nCode: ASTRONOGEEK\n\n1-2 Displates : 37% off\n3-4 Displates : 43% off\n5+ Displates : 46% off\nTextra Inclus\nNon valide sur Lumino & LE.\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n**00:00 SPONSO\n**00:00 EPISODE",
+      "duration": "PT32M20S",
+      "published_at": "2025-11-21T15:00:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/5DPVJXFdzUo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "N4ylSolKK5I",
+      "title": "Comment sabrer une bouteille de champagne ?",
+      "description": "",
+      "duration": "PT2M33S",
+      "published_at": "2025-11-20T22:49:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/N4ylSolKK5I/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "SdLxbeXLB6Q",
+      "title": "20 novembre 2025",
+      "description": "",
+      "duration": "PT27S",
+      "published_at": "2025-11-20T18:56:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/SdLxbeXLB6Q/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "rhOMapXR6Qw",
+      "title": "vos questions sur la recongélation",
+      "description": "",
+      "duration": "PT2M37S",
+      "published_at": "2025-11-19T15:04:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/rhOMapXR6Qw/hqdefault.jpg",
+      "tags": [
+        "sciences"
+      ]
+    },
+    {
+      "id": "Pq_kufmC4r4",
+      "title": "Pourquoi ne faut-il JAMAIS recongeler la nourriture ?",
+      "description": "",
+      "duration": "PT3M",
+      "published_at": "2025-11-18T15:00:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/Pq_kufmC4r4/hqdefault.jpg",
+      "tags": [
+        "sciences"
+      ]
+    },
+    {
+      "id": "UPec-kMVzSM",
+      "title": "Et si on avait ramené une maladie de la Lune ?",
+      "description": "",
+      "duration": "PT47S",
+      "published_at": "2025-11-17T15:00:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/UPec-kMVzSM/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "biologie"
+      ]
+    },
+    {
+      "id": "eQIKuN9XxNg",
+      "title": "Comment être beau sur les photos ?",
+      "description": "",
+      "duration": "PT2M53S",
+      "published_at": "2025-11-16T15:01:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/eQIKuN9XxNg/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "UDZMNoFoMf0",
+      "title": "🪐Les archives TOP SECRÈTES d'OVNI que l'État a tenté de cacher",
+      "description": "https://incogni.com/astronogeek\n-60% sur l'abonnement annuel\nen passant par le lien en description\nou avec le code ASTRONOGEEK\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n00:00 SPONSO\n02:55 EPISODE",
+      "duration": "PT21M24S",
+      "published_at": "2025-11-14T15:00:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/UDZMNoFoMf0/hqdefault.jpg",
+      "tags": [
+        "sciences"
+      ]
+    },
+    {
+      "id": "qK-zsvMG0t0",
+      "title": "Attention cette nuit !",
+      "description": "",
+      "duration": "PT2M35S",
+      "published_at": "2025-11-12T15:01:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/qK-zsvMG0t0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "7_jg5QHab0s",
+      "title": "Comment parler aux extra-terrestres ?",
+      "description": "",
+      "duration": "PT1M28S",
+      "published_at": "2025-11-10T15:00:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/7_jg5QHab0s/hqdefault.jpg",
+      "tags": [
+        "sciences"
+      ]
+    },
+    {
+      "id": "mUXe5Hz5ajg",
+      "title": "Il existe des planètes fantômes.",
+      "description": "",
+      "duration": "PT1M23S",
+      "published_at": "2025-11-09T15:01:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/mUXe5Hz5ajg/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "physique"
+      ]
+    },
+    {
+      "id": "o0-DqWxsxEU",
+      "title": "🪐Comment livrer des munitions sans se faire choper ?",
+      "description": "Pour obtenir un billet pour le FID :\nhttps://one.wisembly.com/fidgrandpublic/registration\nPlus d'infos :\nhttps://www.defense.gouv.fr/fid\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n00:00 SPONSO\n02:36 EPISODE",
+      "duration": "PT39M33S",
+      "published_at": "2025-11-07T17:00:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/o0-DqWxsxEU/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "wqEjzEjHMqM",
+      "title": "le principal danger en cas de crash : le carburant.",
+      "description": "",
+      "duration": "PT2M52S",
+      "published_at": "2025-11-06T08:51:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/wqEjzEjHMqM/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "technologie"
+      ]
+    },
+    {
+      "id": "0A12M0N8thE",
+      "title": "\"le cul bordé de nouilles\", ça veut dire quoi ?",
+      "description": "",
+      "duration": "PT2M2S",
+      "published_at": "2025-11-05T15:00:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/0A12M0N8thE/hqdefault.jpg",
+      "tags": [
+        "francais"
+      ]
+    },
+    {
+      "id": "E3ym2vF-yxY",
+      "title": "Est-ce qu'on peut mourir de peur dans un cauchemar ?",
+      "description": "",
+      "duration": "PT53S",
+      "published_at": "2025-11-04T15:00:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/E3ym2vF-yxY/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "biologie"
+      ]
+    },
+    {
+      "id": "kxiViWDM6XA",
+      "title": "🪐Ces scientifiques ont prouvé qu'on pouvait mourir de peur",
+      "description": "Envie d'un Yfood ?\nhttps://bit.ly/yfood_Astrono_Bars_All\n -10% avec le code : ASTRONO-YOUTUBE\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n**00:00 SPONSO\n**00:00 EPISODE",
+      "duration": "PT51M9S",
+      "published_at": "2025-10-31T15:01:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/kxiViWDM6XA/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "biologie"
+      ]
+    },
+    {
+      "id": "XFhjlSRBkLM",
+      "title": "le plus grand micro-ondes d'Europe",
+      "description": "",
+      "duration": "PT49S",
+      "published_at": "2025-10-29T15:01:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/XFhjlSRBkLM/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "physique"
+      ]
+    },
+    {
+      "id": "jX6uzE2zZxA",
+      "title": "C'est comme dans les films",
+      "description": "",
+      "duration": "PT34S",
+      "published_at": "2025-10-27T15:01:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/jX6uzE2zZxA/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "kfjxp2xDRQQ",
+      "title": "🪐L’expérience médicale la plus risquée de l’histoire",
+      "description": "Envie d'un HOLY ?\nhttps://fr.weareholy.com/AstronoGeek/Youtube\n💸-5€ sur ta 1ère commande avec ASTRONOGEEK5 + -10% avec ASTRONOGEEK ensuite.💸\n\nSi vous êtes tentés de vous inscrire au don de moelle :\nhttps://www.dondemoelleosseuse.fr/se_preinscrire\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n00:00 SPONSO\n08:01 EPISODE",
+      "duration": "PT38M27S",
+      "published_at": "2025-10-24T14:01:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/kfjxp2xDRQQ/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "biologie"
+      ]
+    },
+    {
+      "id": "Vx2Qt7i7SFs",
+      "title": "Pourquoi les avions ne font pas toujours des traînées ?",
+      "description": "",
+      "duration": "PT2M54S",
+      "published_at": "2025-10-20T14:00:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/Vx2Qt7i7SFs/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "physique"
+      ]
+    },
+    {
+      "id": "AeQveikHsXk",
+      "title": "🪐Merci d'être là.",
+      "description": "Pour obtenir NordVPN : \nhttps://nordvpn.com/astronogeek\nUtilisez le code de réduction \"AstronoGeek\"\npour obtenir une grosse reduc sur l'abonnement de 2 ans.\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n00:00 SPONSO\n03:09 EPISODE",
+      "duration": "PT40M26S",
+      "published_at": "2025-10-17T14:00:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/AeQveikHsXk/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "U-cpvdpuWMo",
+      "title": "Comment avoir l'air moins con ?",
+      "description": "",
+      "duration": "PT2M33S",
+      "published_at": "2025-10-15T14:00:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/U-cpvdpuWMo/hqdefault.jpg",
+      "tags": [
+        "philosophie"
+      ]
+    },
+    {
+      "id": "BF5h-4Yg214",
+      "title": "Comment filme un Youtuber ?",
+      "description": "",
+      "duration": "PT2M59S",
+      "published_at": "2025-10-13T14:00:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/BF5h-4Yg214/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "kGxbc9Evrro",
+      "title": "🪐Le médicament nazi à l'origine du plus gros scandale sanitaire moderne",
+      "description": "-33% sur les jumelles Envision :\nhttps://tidd.ly/4q3eKhN\n\nLe test de l'Odyssey :\nhttps://www.youtube.com/watch?v=8_iRuP0vw0w\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n00:00 SPONSO\n02:50 EPISODE",
+      "duration": "PT28M56S",
+      "published_at": "2025-10-10T14:01:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/kGxbc9Evrro/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "sciences"
+      ]
+    },
+    {
+      "id": "bNinzSHZm_I",
+      "title": "A quoi ça sert, tout ça ?",
+      "description": "",
+      "duration": "PT1M53S",
+      "published_at": "2025-10-08T14:00:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/bNinzSHZm_I/hqdefault.jpg",
+      "tags": [
+        "philosophie"
+      ]
+    },
+    {
+      "id": "NxVfHPW_73Y",
+      "title": "A quel point les bananes sont radioactives ?",
+      "description": "",
+      "duration": "PT44S",
+      "published_at": "2025-10-06T14:00:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/NxVfHPW_73Y/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "physique"
+      ]
+    },
+    {
+      "id": "SzOw1KsfnJw",
+      "title": "🪐Attentat terroriste ou complot ? la catastrophe AZF",
+      "description": "Le film StaurdayMan (gratuit) :\nhttps://www.youtube.com/watch?v=M-qZ7LidbeI\nLa démo du jeu (gratuite) :\nhttps://www.saturdayman.be/rom/\nLe jeu et la musique (pas gratuits) :\nhttps://shop.sundaypistols.be/\n-10 % avec le code ASTRO\n\nLa chaîne secondaire :\nhttps://www.youtube.com/channel/UCoSOoeG2ojCx44w6v9dNyOw\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n00:00 SPONSO\n05:25 EPISODE",
+      "duration": "PT54M18S",
+      "published_at": "2025-10-03T14:00:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/SzOw1KsfnJw/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "sciences"
+      ]
+    },
+    {
+      "id": "BCzgXeWvT34",
+      "title": "🪐La première malédiction de Toutankhamon : la génétique - REUPLOAD",
+      "description": "Envie d'un Yfood ?\nhttps://bit.ly/yfood_Astrono_Fruity\n-10% avec ASTRONO-YOUTUBE\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-p...\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/",
+      "duration": "PT23M21S",
+      "published_at": "2025-10-03T10:28:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/BCzgXeWvT34/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "biologie"
+      ]
+    },
+    {
+      "id": "ptxB1ifYt_0",
+      "title": "Pourquoi les pompiers sont \"sapeurs\" ?",
+      "description": "",
+      "duration": "PT2M28S",
+      "published_at": "2025-10-01T14:01:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/ptxB1ifYt_0/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "francais"
+      ]
+    },
+    {
+      "id": "2iXy8uIy5nU",
+      "title": "Comment la vie va disparaître",
+      "description": "",
+      "duration": "PT1M26S",
+      "published_at": "2025-09-29T14:00:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/2iXy8uIy5nU/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "environnement"
+      ]
+    },
+    {
+      "id": "vsDOOnjkc28",
+      "title": "🪐Le complot extraterrestre qui a choqué la France (2/2)",
+      "description": "Envie d'un Yfood ?\nhttps://bit.ly/yfood_Astronogeek_Tasterpacks\n-10% avec le code ASTRONO-YOUTUBE\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/",
+      "duration": "PT46M16S",
+      "published_at": "2025-09-26T14:01:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/vsDOOnjkc28/hqdefault.jpg",
+      "tags": [
+        "histoire"
+      ]
+    }
+  ]
+}

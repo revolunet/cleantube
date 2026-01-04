@@ -484,7 +484,9 @@
       "duration": "PT1M33S",
       "published_at": "2025-11-21T17:01:08Z",
       "thumbnail": "https://i.ytimg.com/vi/b-awAHSY3c8/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "orientation"
+      ]
     },
     {
       "id": "am6tsPFNARc",
@@ -550,7 +552,10 @@
       "duration": "PT1M21S",
       "published_at": "2025-11-14T16:00:07Z",
       "thumbnail": "https://i.ytimg.com/vi/45vcIQhZdVE/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "scolaire",
+        "elementaire"
+      ]
     },
     {
       "id": "Q-o7md6RJlw",
@@ -559,7 +564,9 @@
       "duration": "PT2M30S",
       "published_at": "2025-11-13T17:00:50Z",
       "thumbnail": "https://i.ytimg.com/vi/Q-o7md6RJlw/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "environnement"
+      ]
     },
     {
       "id": "ukES0OGTy2E",

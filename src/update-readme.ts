@@ -1,5 +1,6 @@
-import { readdirSync, readFileSync, writeFileSync } from "fs";
+import { readdirSync, readFileSync, writeFileSync, existsSync } from "fs";
 import { join } from "path";
+import { parse as parseYaml } from "yaml";
 
 interface ChannelData {
   id: string;
@@ -12,14 +13,29 @@ interface ChannelData {
   videos: unknown[];
 }
 
-const CHANNELS_DIR = "channels";
+interface CatalogCategory {
+  name: string;
+  description: string;
+  channels: string[];
+}
+
+interface Catalog {
+  title: string;
+  description: string;
+  categories: CatalogCategory[];
+}
+
+const CATALOG_PATH = "catalog.yaml";
 const DATA_DIR = "data";
 const README_PATH = "README.md";
 
-function getCategories(): string[] {
-  return readdirSync(CHANNELS_DIR)
-    .filter((f) => f.endsWith(".json"))
-    .map((f) => f.replace(".json", ""));
+function loadCatalog(): Catalog {
+  if (!existsSync(CATALOG_PATH)) {
+    console.error(`Error: ${CATALOG_PATH} not found`);
+    process.exit(1);
+  }
+  const content = readFileSync(CATALOG_PATH, "utf-8");
+  return parseYaml(content);
 }
 
 function getChannelData(category: string): ChannelData[] {
@@ -42,16 +58,17 @@ function formatCategoryName(category: string): string {
     .join(" ");
 }
 
-function generateChannelsSection(): string {
-  const categories = getCategories();
+function generateChannelsSection(catalog: Catalog): string {
   const lines: string[] = ["## Chaines", ""];
 
-  for (const category of categories.sort()) {
-    const channels = getChannelData(category);
+  for (const category of catalog.categories) {
+    const channels = getChannelData(category.name);
     if (channels.length === 0) continue;
 
-    const categoryName = formatCategoryName(category);
+    const categoryName = formatCategoryName(category.name);
     lines.push(`### ${categoryName}`);
+    lines.push("");
+    lines.push(`> ${category.description}`);
     lines.push("");
     lines.push("| Chaîne | Description |");
     lines.push("|--------|-------------|");
@@ -60,8 +77,12 @@ function generateChannelsSection(): string {
       a.name.localeCompare(b.name)
     )) {
       const link = `[${channel.name}](https://youtube.com/channel/${channel.id})`;
-      const videoCount = channel.videos?.length || 0;
-      lines.push(`| ${link} | ${channel.description.split("\n")[0]} |`);
+      const description = channel.description.split("\n")[0].slice(0, 100);
+      lines.push(
+        `| ${link} | ${description}${
+          channel.description.length > 100 ? "..." : ""
+        } |`
+      );
     }
 
     lines.push("");
@@ -71,8 +92,9 @@ function generateChannelsSection(): string {
 }
 
 function updateReadme(): void {
+  const catalog = loadCatalog();
   const readme = readFileSync(README_PATH, "utf-8");
-  const channelsSection = generateChannelsSection();
+  const channelsSection = generateChannelsSection(catalog);
 
   // Find and replace the Chaines section, or add it before ## Setup
   const chainesRegex = /## Chaines\n[\s\S]*?\n(?=## [A-Z])/;
@@ -84,7 +106,7 @@ function updateReadme(): void {
     // Replace existing section
     newReadme = readme.replace(chainesRegex, channelsSection + "\n");
   } else if (setupRegex.test(readme)) {
-    // Insert before License section
+    // Insert before Setup section
     newReadme = readme.replace(setupRegex, channelsSection + "\n## Setup");
   } else {
     // Append at the end

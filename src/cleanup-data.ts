@@ -1,126 +1,115 @@
-import { readdir, readFile, rm } from "node:fs/promises";
+import { readFile, readdir, unlink, rmdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join, basename } from "node:path";
+import { parse as parseYaml } from "yaml";
 
-const CHANNELS_DIR = "channels";
 const DATA_DIR = "data";
+const CATALOG_PATH = "catalog.yaml";
 
-interface ChannelData {
-  id: string;
+interface CatalogCategory {
   name: string;
+  description: string;
+  channels: string[];
 }
 
-async function getCategories(): Promise<string[]> {
-  const files = await readdir(CHANNELS_DIR);
-  return files.filter((f) => f.endsWith(".json")).map((f) => basename(f, ".json"));
+interface Catalog {
+  title: string;
+  description: string;
+  categories: CatalogCategory[];
 }
 
-async function getHandles(category: string): Promise<string[]> {
-  const filePath = join(CHANNELS_DIR, `${category}.json`);
-  const content = await readFile(filePath, "utf-8");
-  return JSON.parse(content) as string[];
-}
-
-async function getDataFiles(category: string): Promise<string[]> {
-  const categoryDir = join(DATA_DIR, category);
-  if (!existsSync(categoryDir)) return [];
-  const files = await readdir(categoryDir);
-  return files.filter((f) => f.endsWith(".json"));
-}
-
-async function loadChannelData(category: string, filename: string): Promise<ChannelData | null> {
-  try {
-    const filePath = join(DATA_DIR, category, filename);
-    const content = await readFile(filePath, "utf-8");
-    return JSON.parse(content) as ChannelData;
-  } catch {
-    return null;
-  }
-}
-
-function normalizeForComparison(str: string): string {
-  return str
-    .toLowerCase()
-    .replace(/^@/, "")
-    .replace(/[^a-z0-9]/g, "");
-}
-
-async function main() {
-  const dryRun = !process.argv.includes("--delete");
-
-  if (dryRun) {
-    console.log("Mode simulation (ajouter --delete pour supprimer)\n");
-  } else {
-    console.log("Mode suppression actif\n");
+async function cleanup() {
+  // Read catalog
+  if (!existsSync(CATALOG_PATH)) {
+    console.error(`Error: ${CATALOG_PATH} not found`);
+    process.exit(1);
   }
 
-  const categories = await getCategories();
-  let totalOrphaned = 0;
+  const catalogContent = await readFile(CATALOG_PATH, "utf-8");
+  const catalog: Catalog = parseYaml(catalogContent);
 
-  // Check for orphaned category folders in data/
-  if (existsSync(DATA_DIR)) {
-    const dataFolders = await readdir(DATA_DIR);
-    for (const folder of dataFolders) {
-      if (!categories.includes(folder) && !folder.startsWith(".")) {
-        console.log(`Dossier orphelin: data/${folder}/`);
-        if (!dryRun) {
-          await rm(join(DATA_DIR, folder), { recursive: true });
-          console.log(`  -> Supprimé`);
-        }
-        totalOrphaned++;
+  // Build a map of category -> channel IDs
+  const catalogChannels = new Map<string, Set<string>>();
+  const allCategories = new Set<string>();
+
+  for (const category of catalog.categories) {
+    allCategories.add(category.name);
+    catalogChannels.set(category.name, new Set(category.channels));
+  }
+
+  console.log(`Catalog: ${catalog.title}`);
+  console.log(`Categories in catalog: ${allCategories.size}`);
+
+  if (!existsSync(DATA_DIR)) {
+    console.log(`No data directory found, nothing to clean up.`);
+    return;
+  }
+
+  let totalDeleted = 0;
+  let totalKept = 0;
+  let deletedDirs = 0;
+
+  // Scan data directory
+  const entries = await readdir(DATA_DIR);
+
+  for (const entry of entries) {
+    const entryPath = join(DATA_DIR, entry);
+
+    // Skip non-directories and hidden files
+    if (entry.startsWith(".")) {
+      continue;
+    }
+
+    const category = entry;
+
+    // Check if category exists in catalog
+    if (!allCategories.has(category)) {
+      console.log(`\n[${category}] Category not in catalog, removing directory...`);
+
+      // Delete all files in the directory
+      const files = await readdir(entryPath);
+      for (const file of files) {
+        await unlink(join(entryPath, file));
+        console.log(`  Deleted: ${file}`);
+        totalDeleted++;
+      }
+
+      // Remove the directory
+      await rmdir(entryPath);
+      console.log(`  Removed directory: ${category}/`);
+      deletedDirs++;
+      continue;
+    }
+
+    // Get valid channel IDs for this category
+    const validChannels = catalogChannels.get(category)!;
+
+    // Scan files in category directory
+    const files = await readdir(entryPath);
+    const jsonFiles = files.filter((f) => f.endsWith(".json"));
+
+    console.log(`\n[${category}] ${jsonFiles.length} files, ${validChannels.size} channels in catalog`);
+
+    for (const file of jsonFiles) {
+      const channelId = basename(file, ".json");
+      const filePath = join(entryPath, file);
+
+      if (!validChannels.has(channelId)) {
+        console.log(`  Deleting: ${file} (not in catalog)`);
+        await unlink(filePath);
+        totalDeleted++;
+      } else {
+        totalKept++;
       }
     }
   }
 
-  // Check each category
-  for (const category of categories) {
-    console.log(`\n=== ${category} ===`);
-
-    const handles = await getHandles(category);
-    const dataFiles = await getDataFiles(category);
-
-    console.log(`Handles dans channels/${category}.json: ${handles.length}`);
-    console.log(`Fichiers dans data/${category}/: ${dataFiles.length}`);
-
-    // Normalize handles for comparison
-    const normalizedHandles = new Set(handles.map(normalizeForComparison));
-
-    // Check each data file
-    for (const file of dataFiles) {
-      const channelData = await loadChannelData(category, file);
-      if (!channelData) {
-        console.log(`  Fichier invalide: ${file}`);
-        continue;
-      }
-
-      // Try to match the channel name with any handle
-      const normalizedName = normalizeForComparison(channelData.name);
-      const isReferenced = normalizedHandles.has(normalizedName);
-
-      if (!isReferenced) {
-        // Also try partial matching
-        const partialMatch = [...normalizedHandles].some(
-          (h) => normalizedName.includes(h) || h.includes(normalizedName)
-        );
-
-        if (!partialMatch) {
-          console.log(`  Orphelin: ${file} (${channelData.name})`);
-          totalOrphaned++;
-
-          if (!dryRun) {
-            await rm(join(DATA_DIR, category, file));
-            console.log(`    -> Supprimé`);
-          }
-        }
-      }
-    }
-  }
-
-  console.log(`\n${totalOrphaned} fichier(s) orphelin(s) trouvé(s)`);
-
-  if (dryRun && totalOrphaned > 0) {
-    console.log("\nUtiliser 'npm run cleanup -- --delete' pour supprimer");
+  console.log(`\n--- Summary ---`);
+  console.log(`Files kept: ${totalKept}`);
+  console.log(`Files deleted: ${totalDeleted}`);
+  if (deletedDirs > 0) {
+    console.log(`Directories removed: ${deletedDirs}`);
   }
 }
 
-main().catch(console.error);
+cleanup().catch(console.error);

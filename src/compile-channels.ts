@@ -1,19 +1,55 @@
 import { readdir, readFile, writeFile, mkdir, stat } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join } from "node:path";
+import { parse as parseYaml } from "yaml";
 
 const DATA_DIR = "data";
 const OUTPUT_DIR = "frontend/public";
 const CHANNELS_OUTPUT_DIR = "frontend/public/channels";
+const CATALOG_PATH = "catalog.yaml";
+
+interface CatalogCategory {
+  name: string;
+  description: string;
+  channels: string[];
+}
+
+interface Catalog {
+  title: string;
+  description: string;
+  categories: CatalogCategory[];
+}
+
+interface CatalogOutput {
+  title: string;
+  description: string;
+  categories: CategoryInfo[];
+}
 
 interface CategoryInfo {
   id: string;
   name: string;
+  description: string;
   channelCount: number;
   videoCount: number;
 }
 
 async function compileChannels() {
+  // Read catalog for category metadata
+  let catalog: Catalog | null = null;
+  if (existsSync(CATALOG_PATH)) {
+    const catalogContent = await readFile(CATALOG_PATH, "utf-8");
+    catalog = parseYaml(catalogContent);
+  }
+
+  // Build a map of category descriptions
+  const categoryDescriptions = new Map<string, string>();
+  if (catalog) {
+    for (const cat of catalog.categories) {
+      categoryDescriptions.set(cat.name, cat.description);
+    }
+  }
+
   // Ensure output directories exist
   if (!existsSync(OUTPUT_DIR)) {
     await mkdir(OUTPUT_DIR, { recursive: true });
@@ -67,15 +103,21 @@ async function compileChannels() {
     categories.push({
       id: category,
       name: formatCategoryName(category),
+      description: categoryDescriptions.get(category) || "",
       channelCount: channels.length,
       videoCount: totalVideos,
     });
   }
 
-  // Write categories index file
-  const indexFile = join(OUTPUT_DIR, "categories.json");
-  await writeFile(indexFile, JSON.stringify(categories, null, 2));
-  console.log(`\nWrote categories index to ${indexFile}`);
+  // Write catalog index file with title, description and categories
+  const catalogOutput: CatalogOutput = {
+    title: catalog?.title || "CleanTube",
+    description: catalog?.description || "",
+    categories,
+  };
+  const indexFile = join(OUTPUT_DIR, "catalog.json");
+  await writeFile(indexFile, JSON.stringify(catalogOutput, null, 2));
+  console.log(`\nWrote catalog to ${indexFile}`);
   console.log(`Total categories: ${categories.length}`);
 }
 

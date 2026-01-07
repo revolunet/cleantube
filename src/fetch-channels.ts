@@ -1,9 +1,21 @@
 import "dotenv/config";
-import { readFile, writeFile, mkdir, readdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
-import { basename, join } from "node:path";
+import { join } from "node:path";
 import Anthropic from "@anthropic-ai/sdk";
+import { parse as parseYaml } from "yaml";
 import type { Channel, Video, Tag, AgeGroup } from "./types.js";
+
+interface CatalogCategory {
+  name: string;
+  description: string;
+  channels: string[];
+}
+
+interface Catalog {
+  title: string;
+  categories: CatalogCategory[];
+}
 
 const API_KEY = process.env.YOUTUBE_API_KEY;
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
@@ -158,10 +170,27 @@ interface YouTubeVideosResponse {
   }>;
 }
 
-async function getChannelByHandle(
-  handle: string
+// Check if string looks like a YouTube channel ID
+function isChannelId(str: string): boolean {
+  return str.startsWith("UC") && str.length === 24;
+}
+
+async function getChannelByIdOrHandle(
+  idOrHandle: string
 ): Promise<YouTubeChannelResponse["items"]> {
-  const cleanHandle = handle.startsWith("@") ? handle.slice(1) : handle;
+  // If it's a channel ID, fetch by ID
+  if (isChannelId(idOrHandle)) {
+    const response = await fetchYouTubeAPI<YouTubeChannelResponse>("channels", {
+      id: idOrHandle,
+      part: "snippet,contentDetails",
+    });
+    return response.items;
+  }
+
+  // Otherwise, treat as handle
+  const cleanHandle = idOrHandle.startsWith("@")
+    ? idOrHandle.slice(1)
+    : idOrHandle;
 
   const response = await fetchYouTubeAPI<YouTubeChannelResponse>("channels", {
     forHandle: cleanHandle,
@@ -239,7 +268,10 @@ async function getVideoDetails(
   return allItems;
 }
 
-async function loadExistingChannel(category: string, channelId: string): Promise<Channel | null> {
+async function loadExistingChannel(
+  category: string,
+  channelId: string
+): Promise<Channel | null> {
   const filePath = `data/${category}/${channelId}.json`;
   if (!existsSync(filePath)) {
     return null;
@@ -366,16 +398,16 @@ Attribue 1 à 3 tags pertinents par vidéo. Si aucun tag ne correspond, utilise 
 }
 
 async function fetchChannelData(
-  handle: string,
+  idOrHandle: string,
   category: string,
   videoLimit: number,
   forceInfer: boolean
 ): Promise<Channel | null> {
-  console.log(`Fetching channel: ${handle}`);
+  console.log(`Fetching channel: ${idOrHandle}`);
 
-  const channels = await getChannelByHandle(handle);
+  const channels = await getChannelByIdOrHandle(idOrHandle);
   if (!channels || channels.length === 0) {
-    console.error(`  Channel not found: ${handle}`);
+    console.error(`  Channel not found: ${idOrHandle}`);
     return null;
   }
 
@@ -443,7 +475,7 @@ async function fetchChannelData(
     .filter(({ video }) => {
       const hasNoTags = !video.tags || video.tags.length === 0;
       const isNew = newVideos.some((nv) => nv.id === video.id);
-      return forceInfer || isNew || hasNoTags;
+      return forceInfer || isNew;
     });
 
   if (videosNeedingTags.length > 0) {
@@ -504,21 +536,19 @@ async function fetchChannelData(
 async function main() {
   const { limit, forceInfer } = parseArgs();
 
-  // Read all channel files from channels/ directory
-  const channelsDir = "channels";
-  if (!existsSync(channelsDir)) {
-    console.error(`Error: ${channelsDir}/ directory not found`);
+  // Read catalog.yaml
+  const catalogPath = "catalog.yaml";
+  if (!existsSync(catalogPath)) {
+    console.error(`Error: ${catalogPath} not found`);
     process.exit(1);
   }
 
-  const channelFiles = (await readdir(channelsDir)).filter((f) => f.endsWith(".json"));
-  if (channelFiles.length === 0) {
-    console.error(`Error: No JSON files found in ${channelsDir}/`);
-    process.exit(1);
-  }
+  const catalogContent = await readFile(catalogPath, "utf-8");
+  const catalog: Catalog = parseYaml(catalogContent);
 
   const limitLabel = limit === Infinity ? "all" : limit.toString();
-  console.log(`Found ${channelFiles.length} category files: ${channelFiles.join(", ")}`);
+  console.log(`Catalog: ${catalog.title}`);
+  console.log(`Found ${catalog.categories.length} categories`);
   console.log(`Options: video limit=${limitLabel}, force-infer=${forceInfer}\n`);
 
   // Ensure data directory exists
@@ -527,33 +557,34 @@ async function main() {
   }
 
   // Process each category
-  for (const channelFile of channelFiles) {
-    const category = basename(channelFile, ".json");
-    const categoryDataDir = join("data", category);
+  for (const category of catalog.categories) {
+    const categoryDataDir = join("data", category.name);
 
-    console.log(`\n=== Processing category: ${category} ===\n`);
+    console.log(`\n=== Processing category: ${category.name} ===`);
+    console.log(`    ${category.description}\n`);
 
     // Ensure category data directory exists
     if (!existsSync(categoryDataDir)) {
       await mkdir(categoryDataDir, { recursive: true });
     }
 
-    const channelsFilePath = join(channelsDir, channelFile);
-    const channelsContent = await readFile(channelsFilePath, "utf-8");
-    const handles: string[] = JSON.parse(channelsContent);
+    console.log(`Found ${category.channels.length} channels in ${category.name}\n`);
 
-    console.log(`Found ${handles.length} channels in ${category}\n`);
-
-    for (const handle of handles) {
+    for (const channelId of category.channels) {
       try {
-        const channelData = await fetchChannelData(handle, category, limit, forceInfer);
+        const channelData = await fetchChannelData(
+          channelId,
+          category.name,
+          limit,
+          forceInfer
+        );
         if (channelData) {
           const outputPath = join(categoryDataDir, `${channelData.id}.json`);
           await writeFile(outputPath, JSON.stringify(channelData, null, 2));
           console.log(`  Saved to ${outputPath}\n`);
         }
       } catch (error) {
-        console.error(`  Error fetching ${handle}:`, error);
+        console.error(`  Error fetching ${channelId}:`, error);
       }
     }
   }

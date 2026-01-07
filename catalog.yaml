@@ -1,0 +1,107 @@
+title: CleanTube
+description: Le meilleur de YouTube en Français, sans distractions.
+categories:
+  - name: cinema
+    description: Films et documentaires sur le cinéma
+    channels:
+      - UClo03hULFynpoX3w1Jv7fhw
+
+  - name: courts-metrages
+    description: Courts métrages et films indépendants
+    channels:
+      - UCqktZR8MrXAK6YOjJtdPTnw
+      - UCqS1gDNHEX3FgJ8dPfSuRoQ
+      - UCSeYP0nLo7iz6DZfAj4Z3Yw
+      - UCyUX9yScoWGsRwsCyAWrbcg
+      - UCFNWBtJZHMlKC3tw0q4i5Hg
+
+  - name: dessins-animes
+    description: Dessins animés classiques et animations
+    channels:
+      - UC3cE_X6YPIv6Bg8b8_Zg6KQ
+      - UCxrItho_Jd3kJ_JblgmptEw
+      - UCHhV9QVVQkwQoWtNSib2sMA
+      - UCWkkQrg-V8tkJ9wi8e4GQlg
+      - UCtROEG9ZsBQp25Uc99g_pVA
+
+  - name: jeunesse
+    description: Contenu éducatif pour les jeunes
+    channels:
+      - UCP46_MXP_WG_auH88FnfS1A
+      - UCG9G2dyRv04FDSH1FSYuLBg
+      - UCofQxJWd4qkqc7ZgaLkZfcw
+      - UCcziTK2NKeWtWQ6kB5tmQ8Q
+      - UCnf0fDz1vTYW-sl36wbVMbg
+      - UCt8ctlakIflnSG0ebFps7cw
+      - UCQpM25U6iqaRSO-SZxd5oDw
+      - UCZxLew-WXWm5dhRZBgEFl-Q
+      - UCKtG_lXZk4pRJkapfK0eprA
+      - UCWedHS9qKebauVIK2J7383g
+      - UCh2YBKhYIy-_LtfCIn2Jycg
+      - UCd9w5q5LXZhNxN2RC0IvO2A
+      - UCZcUbwQ0ju-JJR8ncuDz0ZA
+      - UC9pxNghOaqpW4FzW74_KS1Q
+      - UC3cE_X6YPIv6Bg8b8_Zg6KQ
+      - UCMsbW8TRs5i3R8K7Z9fUIXw
+      - UCENv8pH4LkzvuSV_qHIcslg
+
+  - name: monde
+    description: Géopolitique et découverte du monde
+    channels:
+      - UCHGMBrXUzClgjEzBMei-Jdw
+      - UCXV7LUI7G1MaKRN18yQ5y7Q
+      - UCVogAsASqbceBmQMi1WA39g
+
+  - name: philo
+    description: Philosophie et réflexion
+    channels:
+      - UCqA8H22FwgBVcF3GJpp0MQw
+      - UCvRgiAmogg7a_BgQ_Ftm6fA
+      - UCyWM4YRwHwAxld74qQ-6wMA
+
+  - name: piano
+    description: Apprentissage et tutoriels de piano
+    channels:
+      - UC2fJkVzZK1WTy4JxwFzKSjQ
+      - UCHWcC8O3yl1YxbzjhVSB1XQ
+
+  - name: rire
+    description: Humour et stand-up
+    channels:
+      - UCL5WDPEm30nG6kkBmF9bfig
+      - UCtIqKywPf7mT2g0wvcKsiDA
+      - UCKO1SFI8EIVU1DGQD6bZylw
+      - UCpfmGY18T_RqXfBgUB2Thsw
+
+  - name: sciences
+    description: Sciences et vulgarisation scientifique
+    channels:
+      - UC4PasDd25MXqlXBogBw9CAg
+      - UCaDqmzanCq4ZYhdEm0Df9Qg
+      - UCsz9DiwPtgDvxJ-njWnieZw
+      - UCfxwT02Bu5R7l21uMAu8H1w
+      - UC5X4e8ScZI2AFd_vkjSoyoQ
+      - UCtqICqGbPSbTN09K1_7VZ3Q
+      - UCaNlbnghtwlsGF-KzAFThqA
+      - UCErPogabDLnau5mHw_IENxg
+      - UCIUbSRKVVOpWl_xB3soLU1g
+      - UCeR8BYZS7IHYjk_9Mh5JgkA
+      - UCMsbW8TRs5i3R8K7Z9fUIXw
+      - UCMsTgghzMriQCpOkFNUR5Sg
+      - UCHnyfMqiRRG1u-2MsSQLbXA
+
+  - name: tech
+    description: Technologie et informatique
+    channels:
+      - UCWedHS9qKebauVIK2J7383g
+      - UC4YRTAl0DLe1Psu3jz1OUog
+      - UCnJgqsWP4PhK_v1GmDk3g6A
+      - UCs_AZuYXi6NA9tkdbhjItHQ
+
+  - name: ukulele
+    description: Apprentissage et tutoriels de ukulélé
+    channels:
+      - UCSK2E77JvdaY2TZpwXInW6Q
+      - UC8VGr31xTJIa2cgr6aVJbJQ
+      - UCA8ANCoVZamCobCEQ7U8vnQ
+      - UCgDuKK9rrPcfAQUt1ANf46A

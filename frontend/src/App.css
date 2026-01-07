@@ -728,7 +728,15 @@ body {
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.category-card-description {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  text-align: center;
   margin-bottom: 0.75rem;
+  line-height: 1.4;
 }
 
 .category-card-stats {

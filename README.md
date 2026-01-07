@@ -13,120 +13,141 @@ Le meilleur de YouTube en Français, sans distractions.
 
 ### Cinema
 
-| Chaîne                                                              | Description                                                                                              |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [ARTE Cinema](https://youtube.com/channel/UClo03hULFynpoX3w1Jv7fhw) | Tout le cinéma d'ARTE enfin disponible en intégralité, gratuitement et en VOSTFR sur une chaîne YouTube. |
+> Films et documentaires sur le cinéma
+
+| Chaîne | Description |
+|--------|-------------|
+| [ARTE Cinema](https://youtube.com/channel/UClo03hULFynpoX3w1Jv7fhw) | Tout le cinéma d'ARTE enfin disponible en intégralité, gratuitement et en VOSTFR sur une chaîne YouT... |
 
 ### Courts Metrages
 
-| Chaîne                                                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Courts Toujours](https://youtube.com/channel/UCqktZR8MrXAK6YOjJtdPTnw)                        | Courts Toujours, c’est des pépites ARTE SUPERCOURTES qui s’enchaînent SUPERBIEN !                                                                                                                                                                                                                                                                                                                                                                  |
-| [Les Parasites](https://youtube.com/channel/UCqS1gDNHEX3FgJ8dPfSuRoQ)                          | Les Parasites vous racontent des histoires...                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [Nikon Film Festival](https://youtube.com/channel/UCSeYP0nLo7iz6DZfAj4Z3Yw)                    | Bienvenue sur la chaîne YouTube officielle du Nikon Film Festival, un événement qui encourage la création vidéo et favorise l’émergence de nouveaux talents à travers un concept unique : permettre à tout le monde de créer et diffuser son court-métrage ou sa mini-série.                                                                                                                                                                       |
-| [Très Court International Film Festival](https://youtube.com/channel/UCyUX9yScoWGsRwsCyAWrbcg) | TRES COURT is the channel of very short great movies, coming from the International Very Short Film Festival.                                                                                                                                                                                                                                                                                                                                      |
-| [Univers Court](https://youtube.com/channel/UCFNWBtJZHMlKC3tw0q4i5Hg)                          | UniversCourt est la chaîne 100 % court métrage, animée par l'équipe d'UniversCiné. Retrouvez ici une sélection des meilleurs courts métrages français et internationaux sélectionnés dans les festivals du monde entier. Animations, fictions, documentaires : chaque semaine, nous partageons nos coups de coeur, des premiers films de cinéastes reconnus aux films qui font l'actualité du court métrage et qui révèlent les auteurs de demain. |
+> Courts métrages et films indépendants
+
+| Chaîne | Description |
+|--------|-------------|
+| [Courts Toujours](https://youtube.com/channel/UCqktZR8MrXAK6YOjJtdPTnw) | Courts Toujours, c’est des pépites ARTE SUPERCOURTES qui s’enchaînent SUPERBIEN ! ... |
+| [Les Parasites](https://youtube.com/channel/UCqS1gDNHEX3FgJ8dPfSuRoQ) | Les Parasites vous racontent des histoires... |
+| [Nikon Film Festival](https://youtube.com/channel/UCSeYP0nLo7iz6DZfAj4Z3Yw) | Bienvenue sur la chaîne YouTube officielle du Nikon Film Festival, un événement qui encourage la cré... |
+| [Très Court International Film Festival](https://youtube.com/channel/UCyUX9yScoWGsRwsCyAWrbcg) | TRES COURT is the channel of very short great movies, coming from the International Very Short Film ... |
+| [Univers Court](https://youtube.com/channel/UCFNWBtJZHMlKC3tw0q4i5Hg) | UniversCourt est la chaîne 100 % court métrage, animée par l'équipe d'UniversCiné. Retrouvez ici une... |
 
 ### Dessins Animes
 
-| Chaîne                                                                     | Description |
-| -------------------------------------------------------------------------- | ----------- |
-| [oldclassiccartoons](https://youtube.com/channel/UC3cE_X6YPIv6Bg8b8_Zg6KQ) |             |
+> Dessins animés classiques et animations
+
+| Chaîne | Description |
+|--------|-------------|
+| [Anciens dessins animés [FR]](https://youtube.com/channel/UCHhV9QVVQkwQoWtNSib2sMA) | Restauration de vieux dessin animés !... |
+| [Ces dessins animés-là qui méritent qu'on s'en souvienne](https://youtube.com/channel/UCtROEG9ZsBQp25Uc99g_pVA) | Deux geeks amoureux des dessins animés en discutent sur un canapé, autour d'une tasse de thé.... |
+| [Dessins Animés](https://youtube.com/channel/UCxrItho_Jd3kJ_JblgmptEw) | Les dessins Animé pour les enfants. Hello Kitty, La Maison de Mickey, Le manege enchanté, Les Schtro... |
+| [Les Dessins Animés de Notre enfance](https://youtube.com/channel/UCWkkQrg-V8tkJ9wi8e4GQlg) | Une chaîne où vous retrouverez plein de vieux dessins animés principalement. |
+| [oldclassiccartoons](https://youtube.com/channel/UC3cE_X6YPIv6Bg8b8_Zg6KQ) |  |
 
 ### Jeunesse
 
-| Chaîne                                                                                       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ARTE Cinema](https://youtube.com/channel/UClo03hULFynpoX3w1Jv7fhw)                          | Tout le cinéma d'ARTE enfin disponible en intégralité, gratuitement et en VOSTFR sur une chaîne YouTube.                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [ARTE Évasion](https://youtube.com/channel/UCXV7LUI7G1MaKRN18yQ5y7Q)                         | Bienvenue sur Évasion, la chaîne qui vous transporte loin du quotidien à travers une sélection de programmes de l’univers d’ARTE.                                                                                                                                                                                                                                                                                                                                                                        |
-| [ARTE.tv Documentary](https://youtube.com/channel/UCVogAsASqbceBmQMi1WA39g)                  | ARTE.tv Documentary is here to tell you more about what’s going on in the world with powerful and refreshing #fulldocumentaries subtitled in English for our international fans. We cover topics as diverse as the #UkraineWar to #Brexit, profile countries from #Lebanon to #Ethiopia and leaders such as Xi Jinping or Putin.                                                                                                                                                                         |
-| [Dr Nozman](https://youtube.com/channel/UCWnfDPdZw6A23UtuBpYBbAg)                            | Science & Expérience !                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| [e-penser 2.0](https://youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q)                         | Ici, je parle de ce dont j'ai envie de parler quoi qu'en pense la plate-forme :)                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| [Français Authentique](https://youtube.com/channel/UCQpM25U6iqaRSO-SZxd5oDw)                 | Apprenez à parler français de façon automatique et sans effort avec Français Authentique                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [Histony](https://youtube.com/channel/UCt8ctlakIflnSG0ebFps7cw)                              | L'Histoire n'est pas composée que des potins royaux et autres anecdotes croustillantes : c'est aussi un moyen d'apprendre à réfléchir et à comprendre notre monde. Avec Veni Vidi Sensi, nous vous proposons quelques réflexions critiques pour comprendre pourquoi l'Histoire se raconte de la façon dont on la raconte et pour remettre en question quelques images d’Épinal un peu trop tenaces.                                                                                                      |
-| [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’application Okoo et sur France 4 du dimanche au vendredi à partir de 19h20 et le mercredi à 13h30 ! La chaîne officielle de toutes les séries "Il était une fois..." !                                                                                                                                                                                                                               |
-| [Jamy - Epicurieux](https://youtube.com/channel/UCG9G2dyRv04FDSH1FSYuLBg)                    | Le goût du savoir, ça se partage 😃                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [Le Dessous des Cartes - ARTE](https://youtube.com/channel/UCHGMBrXUzClgjEzBMei-Jdw)         | Le Dessous des cartes décrypte les enjeux géopolitiques de notre monde contemporain au moyen de cartes géographiques. Créé par Jean-Christophe Victor, le magazine est présenté par Émilie Aubry.                                                                                                                                                                                                                                                                                                        |
-| [Le Vortex - ARTE ](https://youtube.com/channel/UCZxLew-WXWm5dhRZBgEFl-Q)                    | Bienvenue dans le Vortex !                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| [Les Chroniques de l'Histoire](https://youtube.com/channel/UCZcUbwQ0ju-JJR8ncuDz0ZA)         | Bienvenue sur "Les Chroniques de l'Histoire", votre rendez-vous avec le passé !                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| [Les P'tits z'Amis](https://youtube.com/channel/UC9pxNghOaqpW4FzW74_KS1Q)                    | Les P’tits z’Amis ce sont des Contes de Grimm, Charles Perrault, Andersen, des fables de la Fontaine et Esope, des comptines pour enfants connues et des comptines éducatives pour apprendre les gestes quotidiens .                                                                                                                                                                                                                                                                                     |
-| [Les petits aventuriers](https://youtube.com/channel/UCd9w5q5LXZhNxN2RC0IvO2A)               | Découvrir le monde en vidéo pour les enfants (et les grands enfants)                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [Les Revues du Monde](https://youtube.com/channel/UCnf0fDz1vTYW-sl36wbVMbg)                  | Ici on essaye de mieux comprendre notre monde à l'aide des sciences, de l'Histoire et de l'archéologie. Je suis Charlie Danger, et non, Danger c'est pas un pseudo mais mon vrai nom de famille. J'aurais pas choisi un truc aussi cringe comme pseudo. En gros j'avais le choix entre devenir actrice de C avec ce nom, ou devenir archéologue ultra badass genre Lara Croft. Ca devient hyper personnel tout à coup cette description. De toute façon personne lit les descriptions, sauf toi, Julien. |
-| [Linguisticae](https://youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw)                         | La chaine Linguisticae sert à comprendre d'où viennent les mots, les langues, et comment le langage est fait et évolue. Entre vulgarisation scientifique d'une discipline trop méconnue et cassage d'idées reçues, tout le monde y trouve son compte !                                                                                                                                                                                                                                                   |
-| [Mr. Sam - Point d'interrogation](https://youtube.com/channel/UCh2YBKhYIy-_LtfCIn2Jycg)      | Chercheur de bonnes questions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| [Nota Bene](https://youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A)                            | Histoire d'Europe et du monde, de l'antiquité à nos jours, Histoire militaire, scientifique, sociale, politique, économique...Nota Bene, c'est ma façon de vous montrer que l'Histoire est partout, tout le temps !                                                                                                                                                                                                                                                                                      |
-| [oldclassiccartoons](https://youtube.com/channel/UC3cE_X6YPIv6Bg8b8_Zg6KQ)                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| [Tu mourras moins bête - ARTE](https://youtube.com/channel/UCKtG_lXZk4pRJkapfK0eprA)         | Le Professeur Moustache et son assistant Nathanaël expliquent les phénomènes scientifiques du quotidien.                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [Underscore\_](https://youtube.com/channel/UCWedHS9qKebauVIK2J7383g)                         | IA, Hacking, Robotique — Des conversations de terrain avec ceux qui construisent. 🥨                                                                                                                                                                                                                                                                                                                                                                                                                     |
+> Contenu éducatif pour les jeunes
+
+| Chaîne | Description |
+|--------|-------------|
+| [C'est pas sorcier](https://youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg) | C'est pas sorcier, la chaîne officielle.... |
+| [e-penser 2.0](https://youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q) | Ici, je parle de ce dont j'ai envie de parler quoi qu'en pense la plate-forme :)... |
+| [Français Authentique](https://youtube.com/channel/UCQpM25U6iqaRSO-SZxd5oDw) | Apprenez à parler français de façon automatique et sans effort avec Français Authentique... |
+| [Histony](https://youtube.com/channel/UCt8ctlakIflnSG0ebFps7cw) | L'Histoire n'est pas composée que des potins royaux et autres anecdotes croustillantes : c'est aussi... |
+| [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’... |
+| [Jamy - Epicurieux](https://youtube.com/channel/UCG9G2dyRv04FDSH1FSYuLBg) | Le goût du savoir, ça se partage 😃  |
+| [Le Vortex - ARTE ](https://youtube.com/channel/UCZxLew-WXWm5dhRZBgEFl-Q) | Bienvenue dans le Vortex !... |
+| [Les Chroniques de l'Histoire](https://youtube.com/channel/UCZcUbwQ0ju-JJR8ncuDz0ZA) | Bienvenue sur "Les Chroniques de l'Histoire", votre rendez-vous avec le passé !... |
+| [Les P'tits z'Amis](https://youtube.com/channel/UC9pxNghOaqpW4FzW74_KS1Q) | Les P’tits z’Amis ce sont des Contes de Grimm, Charles Perrault, Andersen, des fables de la Fontaine... |
+| [Les petits aventuriers](https://youtube.com/channel/UCd9w5q5LXZhNxN2RC0IvO2A) | Découvrir le monde en vidéo pour les enfants (et les grands enfants)... |
+| [Les Revues du Monde](https://youtube.com/channel/UCnf0fDz1vTYW-sl36wbVMbg) | Ici on essaye de mieux comprendre notre monde à l'aide des sciences, de l'Histoire et de l'archéolog... |
+| [Linguisticae](https://youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw) | La chaine Linguisticae sert à comprendre d'où viennent les mots, les langues, et comment le langage ... |
+| [Mr. Sam - Point d'interrogation](https://youtube.com/channel/UCh2YBKhYIy-_LtfCIn2Jycg) | Chercheur de bonnes questions. |
+| [Nota Bene](https://youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A) | Histoire d'Europe et du monde, de l'antiquité à nos jours, Histoire militaire, scientifique, sociale... |
+| [oldclassiccartoons](https://youtube.com/channel/UC3cE_X6YPIv6Bg8b8_Zg6KQ) |  |
+| [Tu mourras moins bête - ARTE](https://youtube.com/channel/UCKtG_lXZk4pRJkapfK0eprA) | Le Professeur Moustache et son assistant Nathanaël expliquent les phénomènes scientifiques du quotid... |
+| [Underscore_](https://youtube.com/channel/UCWedHS9qKebauVIK2J7383g) | IA, Hacking, Robotique — Des conversations de terrain avec ceux qui construisent. 🥨 |
 
 ### Monde
 
-| Chaîne                                                                               | Description                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ARTE Évasion](https://youtube.com/channel/UCXV7LUI7G1MaKRN18yQ5y7Q)                 | Bienvenue sur Évasion, la chaîne qui vous transporte loin du quotidien à travers une sélection de programmes de l’univers d’ARTE.                                                                                                                                                                                                |
-| [ARTE.tv Documentary](https://youtube.com/channel/UCVogAsASqbceBmQMi1WA39g)          | ARTE.tv Documentary is here to tell you more about what’s going on in the world with powerful and refreshing #fulldocumentaries subtitled in English for our international fans. We cover topics as diverse as the #UkraineWar to #Brexit, profile countries from #Lebanon to #Ethiopia and leaders such as Xi Jinping or Putin. |
-| [Le Dessous des Cartes - ARTE](https://youtube.com/channel/UCHGMBrXUzClgjEzBMei-Jdw) | Le Dessous des cartes décrypte les enjeux géopolitiques de notre monde contemporain au moyen de cartes géographiques. Créé par Jean-Christophe Victor, le magazine est présenté par Émilie Aubry.                                                                                                                                |
+> Géopolitique et découverte du monde
+
+| Chaîne | Description |
+|--------|-------------|
+| [ARTE Évasion](https://youtube.com/channel/UCXV7LUI7G1MaKRN18yQ5y7Q) | Bienvenue sur Évasion, la chaîne qui vous transporte loin du quotidien à travers une sélection de pr... |
+| [ARTE.tv Documentary](https://youtube.com/channel/UCVogAsASqbceBmQMi1WA39g) | ARTE.tv Documentary is here to tell you more about what’s going on in the world with powerful and re... |
+| [Le Dessous des Cartes - ARTE](https://youtube.com/channel/UCHGMBrXUzClgjEzBMei-Jdw) | Le Dessous des cartes décrypte les enjeux géopolitiques de notre monde contemporain au moyen de cart... |
 
 ### Philo
 
-| Chaîne                                                                | Description                                               |
-| --------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Le Précepteur](https://youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA) | Philosophie pour tous                                     |
-| [MLHORION](https://youtube.com/channel/UCyWM4YRwHwAxld74qQ-6wMA)      | Bienvenue sur ma chaîne YouTube ! 🌟                      |
-| [Monsieur Phi](https://youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)  | Docteur en philosophie, ce qui ne soigne pas grand chose. |
+> Philosophie et réflexion
+
+| Chaîne | Description |
+|--------|-------------|
+| [Le Précepteur](https://youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA) | Philosophie pour tous |
+| [MLHORION](https://youtube.com/channel/UCyWM4YRwHwAxld74qQ-6wMA) | Bienvenue sur ma chaîne YouTube ! 🌟... |
+| [Monsieur Phi](https://youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw) | Docteur en philosophie, ce qui ne soigne pas grand chose. ... |
 
 ### Piano
 
-| Chaîne                                                                                    | Description                                                       |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [Le Piano Grand Ouvert - Henri-Luc](https://youtube.com/channel/UCHWcC8O3yl1YxbzjhVSB1XQ) | En route pour cette grande Aventure pianistique 😊                |
-| [Piano en ligne](https://youtube.com/channel/UC2fJkVzZK1WTy4JxwFzKSjQ)                    | Je crée des vidéos ludiques pour apprendre le piano en s'amusant. |
+> Apprentissage et tutoriels de piano
+
+| Chaîne | Description |
+|--------|-------------|
+| [Le Piano Grand Ouvert - Henri-Luc](https://youtube.com/channel/UCHWcC8O3yl1YxbzjhVSB1XQ) | En route pour cette grande Aventure pianistique 😊... |
+| [Piano en ligne](https://youtube.com/channel/UC2fJkVzZK1WTy4JxwFzKSjQ) | Je crée des vidéos ludiques pour apprendre le piano en s'amusant. ... |
 
 ### Rire
 
-| Chaîne                                                                      | Description                                                                                                                                                                    |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Alexis Le Rossignol](https://youtube.com/channel/UCtIqKywPf7mT2g0wvcKsiDA) | Roues Libres                                                                                                                                                                   |
-| [Edgar-Yves Jr.](https://youtube.com/channel/UCKO1SFI8EIVU1DGQD6bZylw)      | 👊 Nouveau spectacle VIGILANCE 🔥 NOUVELLE DATE - 13 Juin 2026 - Adidas Arena                                                                                                  |
-| [Kevin Razy](https://youtube.com/channel/UCpfmGY18T_RqXfBgUB2Thsw)          | Mon podcast CKR 4 fois par semaine du lundi au jeudi en live le matin (sauf si je tourne ou si j'ai spectacle). Et d'autres émissions ponctuelles comme TOUT LE MONDE LE SAIT. |
-| [NAÏM](https://youtube.com/channel/UCL5WDPEm30nG6kkBmF9bfig)                | NOUVEAU spectacle Chapitre 3 en 2026 🔥                                                                                                                                        |
+> Humour et stand-up
+
+| Chaîne | Description |
+|--------|-------------|
+| [Alexis Le Rossignol](https://youtube.com/channel/UCtIqKywPf7mT2g0wvcKsiDA) | Roues Libres  |
+| [Edgar-Yves Jr.](https://youtube.com/channel/UCKO1SFI8EIVU1DGQD6bZylw) | 👊 Nouveau spectacle VIGILANCE 🔥 NOUVELLE DATE - 13 Juin 2026 - Adidas Arena |
+| [Kevin Razy](https://youtube.com/channel/UCpfmGY18T_RqXfBgUB2Thsw) | Mon podcast CKR 4 fois par semaine du lundi au jeudi en live le matin (sauf si je tourne ou si j'ai ... |
+| [NAÏM](https://youtube.com/channel/UCL5WDPEm30nG6kkBmF9bfig) | NOUVEAU spectacle Chapitre 3 en 2026 🔥 |
 
 ### Sciences
 
-| Chaîne                                                                                       | Description                                                                                                                                                                                                                                                                                           |
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [AstronoGeek](https://youtube.com/channel/UC5X4e8ScZI2AFd_vkjSoyoQ)                          | AstronoGeek, c'est une chaîne dédiée à la vulgarisation scientifique. Bordel de merde.                                                                                                                                                                                                                |
-| [DirtyBiology](https://youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q)                         | Docus scientifiques faits avec amour sur des sujets improbables.                                                                                                                                                                                                                                      |
-| [Dr Nozman](https://youtube.com/channel/UCWnfDPdZw6A23UtuBpYBbAg)                            | Science & Expérience !                                                                                                                                                                                                                                                                                |
-| [Faire aimer les mathématiques](https://youtube.com/channel/UCMsTgghzMriQCpOkFNUR5Sg)        | Faire aimer les mathématiques est une chaîne dédiée à l'éducation de cette discipline. Elle s'adresse aux collégiens, aux lycéens, aux étudiants ainsi que toutes les personnes curieuses. L'objectif de cette chaîne est de guider les élèves pas à pas dans l'apprentissage de cette belle matière. |
-| [Grand Labo](https://youtube.com/channel/UCErPogabDLnau5mHw_IENxg)                           | Une émission pour débattre des grandes questions que se posent les scientifiques aujourd'hui.                                                                                                                                                                                                         |
-| [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’application Okoo et sur France 4 du dimanche au vendredi à partir de 19h20 et le mercredi à 13h30 ! La chaîne officielle de toutes les séries "Il était une fois..." !                            |
-| [Mickaël Launay (Micmaths)](https://youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg)            | La chaîne Micmaths vous propose diverses vidéos autour des mathématiques. Vous y trouverez des cours de maths, des jeux de logique, des chroniques ou encore des manipulations autour des mathématiques.                                                                                              |
-| [Passe-Science](https://youtube.com/channel/UCsz9DiwPtgDvxJ-njWnieZw)                        | Chaîne de vulgarisation scientifique: physique, mathématiques et informatique. Un niveau de vulgarisation avancé pour approfondir ce que vous aurez pu déjà entendre ailleurs et vous donner matière à réfléchir!                                                                                     |
-| [ScienceEtonnante](https://youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA)                     | Des vidéos pour raconter la science étonnante, amusante, passionnante et stupéfiante !                                                                                                                                                                                                                |
-| [Scienticfiz (Gilles Gourio)](https://youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g)          | Vous aimez être surpris ? Vous êtes curieux de tout ? Découvrez les vidéos scientifiques réalisées au collège Henri Becquerel.                                                                                                                                                                        |
-| [Scilabus](https://youtube.com/channel/UCeR8BYZS7IHYjk_9Mh5JgkA)                             | Scilabus est une chaîne de vulgarisation scientifique où on se laisse guider par la curiosité. Expériences, découvertes et explications pour avoir un autre regard sur la science !                                                                                                                   |
-| [String Theory FR](https://youtube.com/channel/UCfxwT02Bu5R7l21uMAu8H1w)                     | Un média scientifique et engagé.                                                                                                                                                                                                                                                                      |
-| [Veritasium](https://youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)                           | An element of truth - videos about science, education, and anything else we find interesting.                                                                                                                                                                                                         |
-| [Yvan Monka](https://youtube.com/channel/UCaDqmzanCq4ZYhdEm0Df9Qg)                           | Professeur de mathématiques en lycée (Académie de Strasbourg), je partage :                                                                                                                                                                                                                           |
+> Sciences et vulgarisation scientifique
+
+| Chaîne | Description |
+|--------|-------------|
+| [AstronoGeek](https://youtube.com/channel/UC5X4e8ScZI2AFd_vkjSoyoQ) | AstronoGeek, c'est une chaîne dédiée à la vulgarisation scientifique. Bordel de merde. |
+| [DirtyBiology](https://youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q) | Docus scientifiques faits avec amour sur des sujets improbables. |
+| [Faire aimer les mathématiques](https://youtube.com/channel/UCMsTgghzMriQCpOkFNUR5Sg) | Faire aimer les mathématiques est une chaîne dédiée à l'éducation de cette discipline. Elle s'adress... |
+| [Grand Labo](https://youtube.com/channel/UCErPogabDLnau5mHw_IENxg) | Une émission pour débattre des grandes questions que se posent les scientifiques aujourd'hui. |
+| [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’... |
+| [Mickaël Launay (Micmaths)](https://youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg) | La chaîne Micmaths vous propose diverses vidéos autour des mathématiques. Vous y trouverez des cours... |
+| [Passe-Science](https://youtube.com/channel/UCsz9DiwPtgDvxJ-njWnieZw) | Chaîne de vulgarisation scientifique: physique, mathématiques et informatique. Un niveau de vulgaris... |
+| [ScienceEtonnante](https://youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) | Des vidéos pour raconter la science étonnante, amusante, passionnante et stupéfiante !... |
+| [Scienticfiz (Gilles Gourio)](https://youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g) | Vous aimez être surpris ? Vous êtes curieux de tout ? Découvrez les vidéos scientifiques réalisées a... |
+| [Scilabus](https://youtube.com/channel/UCeR8BYZS7IHYjk_9Mh5JgkA) | Scilabus est une chaîne de vulgarisation scientifique où on se laisse guider par la curiosité. Expér... |
+| [String Theory FR](https://youtube.com/channel/UCfxwT02Bu5R7l21uMAu8H1w) | Un média scientifique et engagé. |
+| [Veritasium](https://youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) | An element of truth - videos about science, education, and anything else we find interesting. |
+| [Yvan Monka](https://youtube.com/channel/UCaDqmzanCq4ZYhdEm0Df9Qg) | Professeur de mathématiques en lycée (Académie de Strasbourg), je partage :... |
 
 ### Tech
 
-| Chaîne                                                                 | Description                                                                                                                                                                                                                                                                                                                                                                  |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [A la french 💻](https://youtube.com/channel/UC4YRTAl0DLe1Psu3jz1OUog) | Prenez le temps de vous installer avec nous. A la French c'est votre Tech Show avec :                                                                                                                                                                                                                                                                                        |
-| [PleySmart](https://youtube.com/channel/UCnJgqsWP4PhK_v1GmDk3g6A)      | Sur PleySmart, on explore ensemble le monde fascinant de l'intelligence artificielle ! Pas de discours compliqués, juste des échanges et des découvertes pour mieux comprendre comment l'IA peut transformer notre quotidien. Si comme moi, tu es curieux de voir comment l'IA peut booster ta productivité et que tu veux apprendre tout en t'amusant, alors rejoins-nous ! |
-| [Underscore\_](https://youtube.com/channel/UCWedHS9qKebauVIK2J7383g)   | IA, Hacking, Robotique — Des conversations de terrain avec ceux qui construisent. 🥨                                                                                                                                                                                                                                                                                         |
-| [xavki](https://youtube.com/channel/UCs_AZuYXi6NA9tkdbhjItHQ)          | Des tutoriels et formations gratuites en français pour bien débuter sur des outils linux, devops et opensource. La chaine xavki c'est plus de 1400 vidéos. Cette ensemble de tutoriels représente plus de 500 heures de tutos pour progresser en toute simplicité autour du devops.                                                                                          |
+> Technologie et informatique
+
+| Chaîne | Description |
+|--------|-------------|
+| [A la french  💻](https://youtube.com/channel/UC4YRTAl0DLe1Psu3jz1OUog) | Prenez le temps de vous installer avec nous. A la French c'est votre Tech Show avec  :... |
+| [PleySmart](https://youtube.com/channel/UCnJgqsWP4PhK_v1GmDk3g6A) | Sur PleySmart, on explore ensemble le monde fascinant de l'intelligence artificielle ! Pas de discou... |
+| [Underscore_](https://youtube.com/channel/UCWedHS9qKebauVIK2J7383g) | IA, Hacking, Robotique — Des conversations de terrain avec ceux qui construisent. 🥨 |
+| [xavki](https://youtube.com/channel/UCs_AZuYXi6NA9tkdbhjItHQ) | Des tutoriels et formations gratuites en français pour bien débuter sur des outils linux, devops et ... |
 
 ### Ukulele
 
-| Chaîne                                                                            | Description                                                               |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Ben au Ukulélé](https://youtube.com/channel/UCSK2E77JvdaY2TZpwXInW6Q)            | Ici visionnez mes tutos et présentations de ukulélés.                     |
-| [Karim Ukulele Therapy](https://youtube.com/channel/UC8VGr31xTJIa2cgr6aVJbJQ)     | Yo, c'est K.                                                              |
-| [Les Tutos ukulélé de DYAN](https://youtube.com/channel/UCA8ANCoVZamCobCEQ7U8vnQ) | 💌 Vous souhaitez me remercier en me donnant un coup de pouce financier ? |
-| [Mihanta // Ukulele Covers](https://youtube.com/channel/UCgDuKK9rrPcfAQUt1ANf46A) | Du ukulele 🎶 des covers 🎤 des tuto 📚 et du smile 😊                    |
+> Apprentissage et tutoriels de ukulélé
+
+| Chaîne | Description |
+|--------|-------------|
+| [Ben au Ukulélé](https://youtube.com/channel/UCSK2E77JvdaY2TZpwXInW6Q) | Ici visionnez mes tutos et présentations de ukulélés.... |
+| [Karim Ukulele Therapy](https://youtube.com/channel/UC8VGr31xTJIa2cgr6aVJbJQ) | Yo, c'est K.... |
+| [Les Tutos ukulélé de DYAN](https://youtube.com/channel/UCA8ANCoVZamCobCEQ7U8vnQ) | 💌 Vous souhaitez me remercier en me donnant un coup de pouce financier ? ... |
+| [Mihanta // Ukulele Covers](https://youtube.com/channel/UCgDuKK9rrPcfAQUt1ANf46A) | Du ukulele 🎶 des covers 🎤 des tuto 📚 et du smile 😊 |
 
 ## Setup
 

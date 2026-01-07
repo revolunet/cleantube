@@ -1,16 +1,18 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import type { CategoryInfo } from "../types";
+import type { Catalog } from "../types";
 
 export function HomePage() {
-  const [categories, setCategories] = useState<CategoryInfo[]>([]);
+  const [catalog, setCatalog] = useState<Catalog | null>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}categories.json`)
+    fetch(`${import.meta.env.BASE_URL}catalog.json`)
       .then((res) => res.json())
-      .then((data) => {
-        setCategories(data);
+      .then((data: Catalog) => {
+        // Shuffle categories randomly
+        const shuffledCategories = [...data.categories].sort(() => Math.random() - 0.5);
+        setCatalog({ ...data, categories: shuffledCategories });
         setLoading(false);
       })
       .catch((error) => {
@@ -19,7 +21,7 @@ export function HomePage() {
       });
   }, []);
 
-  if (loading) {
+  if (loading || !catalog) {
     return (
       <div className="home-page">
         <div className="loading">
@@ -32,16 +34,14 @@ export function HomePage() {
   return (
     <div className="home-page">
       <header className="home-header">
-        <h1 className="home-logo">CleanTube</h1>
-        <p className="home-tagline">
-          Le meilleur de YouTube en Français, sans distractions.
-        </p>
+        <h1 className="home-logo">{catalog.title}</h1>
+        <p className="home-tagline">{catalog.description}</p>
       </header>
 
       <main className="home-main">
         <h2 className="home-section-title">Explorez par catégorie</h2>
         <div className="category-cards">
-          {categories.map((category) => (
+          {catalog.categories.map((category) => (
             <Link
               key={category.id}
               to={`/${category.id}`}
@@ -51,6 +51,9 @@ export function HomePage() {
                 {getCategoryIcon(category.id)}
               </div>
               <h3 className="category-card-title">{category.name}</h3>
+              {category.description && (
+                <p className="category-card-description">{category.description}</p>
+              )}
               <div className="category-card-stats">
                 <span>{category.channelCount} chaînes</span>
                 <span className="separator">•</span>
@@ -80,6 +83,10 @@ function getCategoryIcon(categoryId: string): string {
     ukulele: "🎸",
     "dessins-animes": "🎬",
     "courts-metrages": "🎥",
+    cinema: "🎞️",
+    monde: "🌍",
+    rire: "😂",
+    tech: "💻",
   };
   return icons[categoryId] || "📺";
 }

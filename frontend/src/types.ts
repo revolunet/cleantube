@@ -30,6 +30,13 @@ export interface VideoWithChannel extends Video {
 export interface CategoryInfo {
   id: string;
   name: string;
+  description: string;
   channelCount: number;
   videoCount: number;
+}
+
+export interface Catalog {
+  title: string;
+  description: string;
+  categories: CategoryInfo[];
 }

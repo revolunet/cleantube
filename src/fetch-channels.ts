@@ -10,6 +10,7 @@ interface CatalogCategory {
   name: string;
   description: string;
   channels: string[];
+  videos?: string[];
 }
 
 interface Catalog {
@@ -533,6 +534,100 @@ async function fetchChannelData(
   };
 }
 
+async function fetchStandaloneVideos(
+  videoIds: string[],
+  category: string,
+  forceInfer: boolean
+): Promise<Channel | null> {
+  if (videoIds.length === 0) return null;
+
+  console.log(`Fetching ${videoIds.length} standalone videos for "Autres"...`);
+
+  // Load existing "Autres" channel data
+  const existingData = await loadExistingChannel(category, "autres");
+
+  // Build a map of existing videos to preserve their tags
+  const existingVideosMap = new Map<string, Video>();
+  if (existingData?.videos) {
+    for (const video of existingData.videos) {
+      existingVideosMap.set(video.id, video);
+    }
+  }
+
+  // Find which videos we need to fetch details for (new ones)
+  const newVideoIds = videoIds.filter((id) => !existingVideosMap.has(id));
+  console.log(`  ${newVideoIds.length} new videos to fetch details for`);
+
+  // Fetch details only for new videos
+  const newVideoDetails = await getVideoDetails(newVideoIds);
+
+  // Create video objects for new videos (without tags for now)
+  const newVideos: Video[] =
+    newVideoDetails?.map((video) => ({
+      id: video.id,
+      title: video.snippet.title,
+      description: video.snippet.description,
+      duration: video.contentDetails.duration,
+      published_at: video.snippet.publishedAt,
+      thumbnail:
+        video.snippet.thumbnails.high?.url ??
+        video.snippet.thumbnails.medium?.url ??
+        video.snippet.thumbnails.default?.url,
+      tags: [],
+    })) ?? [];
+
+  // Add new videos to the map
+  for (const video of newVideos) {
+    existingVideosMap.set(video.id, video);
+  }
+
+  // Build final video list in the order from catalog
+  const allVideos: Video[] = videoIds
+    .map((id) => existingVideosMap.get(id))
+    .filter((v): v is Video => v !== undefined);
+
+  console.log(`  Total videos in "Autres": ${allVideos.length}`);
+
+  // Find videos that need tag inference
+  const videosNeedingTags = allVideos
+    .map((video, index) => ({ video, index }))
+    .filter(({ video }) => {
+      const isNew = newVideos.some((nv) => nv.id === video.id);
+      return forceInfer || isNew;
+    });
+
+  if (videosNeedingTags.length > 0) {
+    console.log(
+      `  Inferring tags for ${videosNeedingTags.length} videos with Claude...`
+    );
+    const videoTagsMap = await inferVideoTags(
+      videosNeedingTags.map(({ video }) => ({
+        title: video.title,
+        description: video.description ?? "",
+      }))
+    );
+
+    // Apply inferred tags
+    videosNeedingTags.forEach(({ video }, idx) => {
+      const inferredTags = videoTagsMap.get(idx);
+      if (inferredTags) {
+        video.tags = inferredTags;
+      }
+    });
+  }
+
+  return {
+    id: "autres",
+    name: "Autres",
+    description: "Vidéos diverses sélectionnées manuellement",
+    thumbnail: undefined,
+    public: existingData?.public ?? "tout public",
+    language: existingData?.language ?? "fr",
+    tags: existingData?.tags ?? [],
+    videos: allVideos,
+  };
+}
+
 async function main() {
   const { limit, forceInfer } = parseArgs();
 
@@ -585,6 +680,24 @@ async function main() {
         }
       } catch (error) {
         console.error(`  Error fetching ${channelId}:`, error);
+      }
+    }
+
+    // Process standalone videos if any
+    if (category.videos && category.videos.length > 0) {
+      try {
+        const autresChannel = await fetchStandaloneVideos(
+          category.videos,
+          category.name,
+          forceInfer
+        );
+        if (autresChannel) {
+          const outputPath = join(categoryDataDir, "autres.json");
+          await writeFile(outputPath, JSON.stringify(autresChannel, null, 2));
+          console.log(`  Saved to ${outputPath}\n`);
+        }
+      } catch (error) {
+        console.error(`  Error fetching standalone videos:`, error);
       }
     }
   }

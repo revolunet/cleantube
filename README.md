@@ -173,7 +173,7 @@ cd frontend && npm run dev
 
 ## Adding Channels
 
-Edit `channels/*.json` and run `npm run update`.
+Edit [`catalog.yaml`](./catalog.yaml) and run `npm run update`.
 
 ## GitHub Workflows
 

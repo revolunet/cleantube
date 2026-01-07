@@ -12,6 +12,7 @@ interface CatalogCategory {
   name: string;
   description: string;
   channels: string[];
+  videos?: string[];
 }
 
 interface Catalog {

@@ -5,7 +5,7 @@
   "scripts": {
     "fetch-channels": "tsx src/fetch-channels.ts",
     "compile-channels": "tsx src/compile-channels.ts",
-    "update": "npm run fetch-channels && npm run compile-channels && npm run update-readme",
+    "update": "npm run cleanup && npm run fetch-channels && npm run compile-channels && npm run update-readme",
     "update-readme": "tsx src/update-readme.ts",
     "cleanup": "tsx src/cleanup-data.ts"
   },

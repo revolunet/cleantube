@@ -41,6 +41,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Ces dessins animés-là qui méritent qu'on s'en souvienne](https://youtube.com/channel/UCtROEG9ZsBQp25Uc99g_pVA) | Deux geeks amoureux des dessins animés en discutent sur un canapé, autour d'une tasse de thé.... |
 | [Dessins Animés](https://youtube.com/channel/UCxrItho_Jd3kJ_JblgmptEw) | Les dessins Animé pour les enfants. Hello Kitty, La Maison de Mickey, Le manege enchanté, Les Schtro... |
 | [Les Dessins Animés de Notre enfance](https://youtube.com/channel/UCWkkQrg-V8tkJ9wi8e4GQlg) | Une chaîne où vous retrouverez plein de vieux dessins animés principalement. |
+| [Les P'tits z'Amis](https://youtube.com/channel/UC9pxNghOaqpW4FzW74_KS1Q) | Les P’tits z’Amis ce sont des Contes de Grimm, Charles Perrault, Andersen, des fables de la Fontaine... |
 | [oldclassiccartoons](https://youtube.com/channel/UC3cE_X6YPIv6Bg8b8_Zg6KQ) |  |
 
 ### Jeunesse

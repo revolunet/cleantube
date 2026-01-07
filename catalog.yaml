@@ -58,6 +58,7 @@ categories:
       - UCqA8H22FwgBVcF3GJpp0MQw
       - UCvRgiAmogg7a_BgQ_Ftm6fA
       - UCyWM4YRwHwAxld74qQ-6wMA
+      - UCB8LBWgHAuthFrohOH9v_sw
 
   - name: piano
     description: Apprentissage et tutoriels de piano
@@ -65,13 +66,14 @@ categories:
       - UC2fJkVzZK1WTy4JxwFzKSjQ
       - UCHWcC8O3yl1YxbzjhVSB1XQ
 
-  - name: rire
+  - name: humour
     description: Humour et stand-up
     channels:
       - UCL5WDPEm30nG6kkBmF9bfig
       - UCtIqKywPf7mT2g0wvcKsiDA
       - UCKO1SFI8EIVU1DGQD6bZylw
       - UCpfmGY18T_RqXfBgUB2Thsw
+      - UCjVRltp8y_cUBfLmHSB-htw
 
   - name: sciences
     description: Sciences et vulgarisation scientifique
@@ -89,6 +91,7 @@ categories:
       - UCMsbW8TRs5i3R8K7Z9fUIXw
       - UCMsTgghzMriQCpOkFNUR5Sg
       - UCHnyfMqiRRG1u-2MsSQLbXA
+      - UCH6ppHEvV3_WIXEwmhv9HEg
 
   - name: tech
     description: Technologie et informatique
@@ -97,6 +100,7 @@ categories:
       - UC4YRTAl0DLe1Psu3jz1OUog
       - UCnJgqsWP4PhK_v1GmDk3g6A
       - UCs_AZuYXi6NA9tkdbhjItHQ
+      - UCLKx4-_XO5sR0AO0j8ye7zQ
 
   - name: ukulele
     description: Apprentissage et tutoriels de ukulélé

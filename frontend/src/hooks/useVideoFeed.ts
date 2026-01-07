@@ -15,6 +15,16 @@ function shuffleArray<T>(array: T[]): T[] {
 }
 
 type SortOrder = "random" | "date";
+type DurationFilter = "all" | "5min" | "30min";
+
+// Parse ISO 8601 duration to seconds
+function parseDuration(duration: string): number {
+  if (!duration) return 0;
+  const match = duration.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+  if (!match) return 0;
+  const [, h, m, s] = match;
+  return (parseInt(h || "0") * 3600) + (parseInt(m || "0") * 60) + parseInt(s || "0");
+}
 
 export function useVideoFeed(category: string) {
   const [channels, setChannels] = useState<Channel[]>([]);
@@ -25,6 +35,7 @@ export function useVideoFeed(category: string) {
   const [selectedChannels, setSelectedChannels] = useState<string[]>([]);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [sortOrder, setSortOrder] = useState<SortOrder>("random");
+  const [durationFilter, setDurationFilter] = useState<DurationFilter>("all");
 
   // Store shuffled order in a ref so it's only computed once per category
   const shuffledVideosRef = useRef<VideoWithChannel[] | null>(null);
@@ -48,6 +59,7 @@ export function useVideoFeed(category: string) {
     setSelectedChannels([]);
     setVisibleCount(PAGE_SIZE);
     setSortOrder("random");
+    setDurationFilter("all");
 
     fetch(`${import.meta.env.BASE_URL}channels/${category}.json`)
       .then((res) => {
@@ -148,6 +160,13 @@ export function useVideoFeed(category: string) {
       result = result.filter((v) => selectedChannels.includes(v.channelName));
     }
 
+    // Filter by duration
+    if (durationFilter === "5min") {
+      result = result.filter((v) => parseDuration(v.duration) < 5 * 60);
+    } else if (durationFilter === "30min") {
+      result = result.filter((v) => parseDuration(v.duration) < 30 * 60);
+    }
+
     // Sort by date if requested
     if (sortOrder === "date") {
       result = [...result].sort(
@@ -156,7 +175,7 @@ export function useVideoFeed(category: string) {
     }
 
     return result;
-  }, [allVideos, search, selectedTags, selectedPublic, selectedChannels, fuse, sortOrder]);
+  }, [allVideos, search, selectedTags, selectedPublic, selectedChannels, fuse, sortOrder, durationFilter]);
 
   const visibleVideos = useMemo(
     () => filteredVideos.slice(0, visibleCount),
@@ -245,5 +264,7 @@ export function useVideoFeed(category: string) {
     resetFilters,
     sortOrder,
     toggleSortOrder,
+    durationFilter,
+    setDurationFilter,
   };
 }

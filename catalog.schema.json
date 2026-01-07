@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/revolunet/cleantube/catalog.schema.json",
+  "title": "CleanTube Catalog",
+  "description": "Schema for the CleanTube catalog.yaml file",
+  "type": "object",
+  "required": ["title", "categories"],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The title of the catalog"
+    },
+    "description": {
+      "type": "string",
+      "description": "A description of the catalog"
+    },
+    "categories": {
+      "type": "array",
+      "description": "List of video categories",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["name", "channels"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Unique identifier for the category (used in URLs)",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "description": {
+            "type": "string",
+            "description": "Human-readable description of the category"
+          },
+          "channels": {
+            "type": "array",
+            "description": "List of YouTube channel IDs",
+            "items": {
+              "type": "string",
+              "description": "YouTube channel ID (starts with UC, 24 characters)",
+              "pattern": "^UC[a-zA-Z0-9_-]{22}$"
+            }
+          },
+          "videos": {
+            "type": "array",
+            "description": "List of individual YouTube video IDs (will appear in 'Autres' channel)",
+            "items": {
+              "type": "string",
+              "description": "YouTube video ID (11 characters)",
+              "pattern": "^[a-zA-Z0-9_-]{11}$"
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

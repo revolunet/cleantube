@@ -52,20 +52,16 @@ Le meilleur de YouTube en Français, sans distractions.
 | [C'est pas sorcier](https://youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg) | C'est pas sorcier, la chaîne officielle.... |
 | [e-penser 2.0](https://youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q) | Ici, je parle de ce dont j'ai envie de parler quoi qu'en pense la plate-forme :)... |
 | [Français Authentique](https://youtube.com/channel/UCQpM25U6iqaRSO-SZxd5oDw) | Apprenez à parler français de façon automatique et sans effort avec Français Authentique... |
-| [Histony](https://youtube.com/channel/UCt8ctlakIflnSG0ebFps7cw) | L'Histoire n'est pas composée que des potins royaux et autres anecdotes croustillantes : c'est aussi... |
 | [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’... |
 | [Jamy - Epicurieux](https://youtube.com/channel/UCG9G2dyRv04FDSH1FSYuLBg) | Le goût du savoir, ça se partage 😃  |
 | [Le Vortex - ARTE ](https://youtube.com/channel/UCZxLew-WXWm5dhRZBgEFl-Q) | Bienvenue dans le Vortex !... |
 | [Les Chroniques de l'Histoire](https://youtube.com/channel/UCZcUbwQ0ju-JJR8ncuDz0ZA) | Bienvenue sur "Les Chroniques de l'Histoire", votre rendez-vous avec le passé !... |
-| [Les P'tits z'Amis](https://youtube.com/channel/UC9pxNghOaqpW4FzW74_KS1Q) | Les P’tits z’Amis ce sont des Contes de Grimm, Charles Perrault, Andersen, des fables de la Fontaine... |
 | [Les petits aventuriers](https://youtube.com/channel/UCd9w5q5LXZhNxN2RC0IvO2A) | Découvrir le monde en vidéo pour les enfants (et les grands enfants)... |
 | [Les Revues du Monde](https://youtube.com/channel/UCnf0fDz1vTYW-sl36wbVMbg) | Ici on essaye de mieux comprendre notre monde à l'aide des sciences, de l'Histoire et de l'archéolog... |
 | [Linguisticae](https://youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw) | La chaine Linguisticae sert à comprendre d'où viennent les mots, les langues, et comment le langage ... |
 | [Mr. Sam - Point d'interrogation](https://youtube.com/channel/UCh2YBKhYIy-_LtfCIn2Jycg) | Chercheur de bonnes questions. |
 | [Nota Bene](https://youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A) | Histoire d'Europe et du monde, de l'antiquité à nos jours, Histoire militaire, scientifique, sociale... |
-| [oldclassiccartoons](https://youtube.com/channel/UC3cE_X6YPIv6Bg8b8_Zg6KQ) |  |
 | [Tu mourras moins bête - ARTE](https://youtube.com/channel/UCKtG_lXZk4pRJkapfK0eprA) | Le Professeur Moustache et son assistant Nathanaël expliquent les phénomènes scientifiques du quotid... |
-| [Underscore_](https://youtube.com/channel/UCWedHS9qKebauVIK2J7383g) | IA, Hacking, Robotique — Des conversations de terrain avec ceux qui construisent. 🥨 |
 
 ### Monde
 

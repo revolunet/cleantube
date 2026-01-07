@@ -169,6 +169,18 @@ export function HomePage() {
           video={selectedVideo}
           onClose={() => setVideoId(null)}
           onTagClick={() => setVideoId(null)}
+          onNext={() => {
+            const currentIndex = allVideos.findIndex((v) => v.id === videoId);
+            if (currentIndex < allVideos.length - 1) {
+              setVideoId(allVideos[currentIndex + 1].id);
+            }
+          }}
+          onPrevious={() => {
+            const currentIndex = allVideos.findIndex((v) => v.id === videoId);
+            if (currentIndex > 0) {
+              setVideoId(allVideos[currentIndex - 1].id);
+            }
+          }}
         />
       )}
     </div>

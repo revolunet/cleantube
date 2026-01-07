@@ -463,12 +463,20 @@ async function fetchChannelData(
     existingVideosMap.set(video.id, video);
   }
 
-  // Build final video list in the order returned by YouTube (newest first)
-  const allVideos: Video[] = videoIds
-    .map((id) => existingVideosMap.get(id))
-    .filter((v): v is Video => v !== undefined);
+  // Build final video list: newest first, then older videos not in current fetch
+  const fetchedVideoIds = new Set(videoIds);
+  const olderVideos = existingData?.videos.filter((v) => !fetchedVideoIds.has(v.id)) ?? [];
 
-  console.log(`  Total videos after merge: ${allVideos.length}`);
+  const allVideos: Video[] = [
+    // Recent videos in YouTube order (newest first)
+    ...videoIds
+      .map((id) => existingVideosMap.get(id))
+      .filter((v): v is Video => v !== undefined),
+    // Older videos that are no longer in the fetch window
+    ...olderVideos,
+  ];
+
+  console.log(`  Total videos after merge: ${allVideos.length} (${olderVideos.length} older preserved)`);
 
   // Find videos that need tag inference (new videos + existing with empty tags)
   const videosNeedingTags = allVideos

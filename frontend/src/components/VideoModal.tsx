@@ -27,20 +27,30 @@ interface VideoModalProps {
   video: VideoWithChannel;
   onClose: () => void;
   onTagClick: (tag: string) => void;
+  onNext?: () => void;
+  onPrevious?: () => void;
 }
 
-export function VideoModal({ video, onClose, onTagClick }: VideoModalProps) {
+export function VideoModal({ video, onClose, onTagClick, onNext, onPrevious }: VideoModalProps) {
   useEffect(() => {
-    const handleEsc = (e: KeyboardEvent) => {
+    const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === "Escape") onClose();
+      if (e.key === "ArrowDown" || e.key === "ArrowRight") {
+        e.preventDefault();
+        onNext?.();
+      }
+      if (e.key === "ArrowUp" || e.key === "ArrowLeft") {
+        e.preventDefault();
+        onPrevious?.();
+      }
     };
-    document.addEventListener("keydown", handleEsc);
+    document.addEventListener("keydown", handleKeyDown);
     document.body.style.overflow = "hidden";
     return () => {
-      document.removeEventListener("keydown", handleEsc);
+      document.removeEventListener("keydown", handleKeyDown);
       document.body.style.overflow = "";
     };
-  }, [onClose]);
+  }, [onClose, onNext, onPrevious]);
 
   return (
     <div className="modal-backdrop" onClick={onClose}>

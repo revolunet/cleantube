@@ -246,6 +246,18 @@ function App() {
             setVideoId(null);
             filterByTagOnly(tag);
           }}
+          onNext={() => {
+            const currentIndex = filteredVideos.findIndex((v) => v.id === videoId);
+            if (currentIndex < filteredVideos.length - 1) {
+              setVideoId(filteredVideos[currentIndex + 1].id);
+            }
+          }}
+          onPrevious={() => {
+            const currentIndex = filteredVideos.findIndex((v) => v.id === videoId);
+            if (currentIndex > 0) {
+              setVideoId(filteredVideos[currentIndex - 1].id);
+            }
+          }}
         />
       )}
     </div>

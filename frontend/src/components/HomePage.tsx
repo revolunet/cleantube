@@ -134,6 +134,9 @@ export function HomePage() {
           <div className="home-random">
             <button className="random-video-button" onClick={playRandomVideo}>
               J'ai de la chance
+              <p className="home-total-videos">
+                parmi {allVideos.length.toLocaleString("fr-FR")} vidéos
+              </p>
             </button>
           </div>
         )}
@@ -183,7 +186,7 @@ function getCategoryIcon(categoryId: string): string {
     "courts-metrages": "🎥",
     cinema: "🎞️",
     monde: "🌍",
-    rire: "😂",
+    humour: "😂",
     tech: "💻",
   };
   return icons[categoryId] || "📺";

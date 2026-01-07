@@ -842,6 +842,18 @@ body {
   font-size: 2rem;
 }
 
+.home-total-videos {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  text-align: center;
+}
+
+.home-lucky:hover .home-total-videos {
+  border-color: var(--accent);
+  color: var(--text-primary);
+}
+
 .home-latest {
   margin-top: 3rem;
   padding-top: 2rem;

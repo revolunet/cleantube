@@ -1,0 +1,83 @@
+{
+  "id": "UC4YRTAl0DLe1Psu3jz1OUog",
+  "name": "A la french  💻",
+  "description": "Prenez le temps de vous installer avec nous. A la French c'est votre Tech Show avec  :\n- Mehdi Medjaoui, fondateur des conférences apidays et GenerationAI, et CEO Refeed News, \n- Jean Baptiste Kempf, CEO de Kyber et Président VideoLAN - VLC\n- Steeve Morin - CEO ZML.ai, ex-VP platform Zenly, Ex Google\n\nIci, nous allons au cœur des sujets  : IA, cybersécurité, open source, hardware, data, infra, produit, standards, etc. Nous parlons aussi biens des bugs glorieux et des paris débiles qui finissent (par miracle ou acharnement) en prod.\nZéro small talk.\n\nBref : la tech, par les tech, pour les tech (et tous qui s'y intéressent), au delà du commentaire.\n",
+  "thumbnail": "https://yt3.ggpht.com/yvHMSoMsGeiRDTSWj9vpiogalQrdCcE1wV96D8-5Izmvn6HxBJPcaCBDxroB_dfKB8jR-olGYg=s800-c-k-c0x00ffffff-no-rj",
+  "public": "adultes",
+  "language": "fr",
+  "tags": [
+    "informatique",
+    "technologie"
+  ],
+  "videos": [
+    {
+      "id": "e4JtdKbZJTg",
+      "title": "💎 9 projets Open Source à ne surtout pas manquer !",
+      "description": "📟 Bienvenue dans ce nouvel épisode de A La French.\nVous avez été des centaines à réagir aux deux épisodes et on vous en remercie ! \n\nCette semaine, on change de registre : fini les catastrophes, place à la construction. On se retrouve tous les 3 pour vous partager nos 9 projets open source sous le radar (et un bonus), pour une sélection haute en couleur.\n\n🧠 Le fil rouge : On oublie les projets mainstream que tout le monde connaît. L'objectif de cet épisode est de mettre en lumière ceux  sortis ou ayant buzzé ces 12 derniers mois. Souvent maintenus par des passionnés, des chercheurs ou même la puissance publique ils redéfinissent l'art. De l'infrastructure IA à la domotique,  les outils pour développeurs, en passant par la souveraineté numérique.\n\n🚀 Performance brute & Dev Tools : Steve ouvre le bal avec USearch, un moteur d'indexation vectorielle \"velu\" qui humilie les performances des géants grâce à une ingénierie de bas niveau. Il nous présente aussi Ghostty, un émulateur de terminal en Zig qui fait passer la performance avant tout.\n\n🏠 L'OS de la Maison (et du son) : Côté domotique, on plonge dans Home Assistant, le véritable système d'exploitation de la maison, et son petit frère Music Assistant (présenté par JB) pour en finir avec la fragmentation audio (Sonos, Spotify, Airplay...).\n\n🛡️ Souveraineté, Données & État : Mehdi et JB abordent la reprise de contrôle. Avec Common Corpus, on parle de données d'entraînement IA libres de droits face au pillage des GAFAM. RIP Aaron. On découvre La Suite Numérique (Doc), le \"Google Docs\" souverain de l'État français, et NextGraph, pour une collaboration chiffrée de bout en bout.\n\n💎 Science & IA Fondamentale : Au-delà du code, l'Open Source touche la science avec GNoME (DeepMind) qui découvre des millions de nouveaux matériaux, et Apertus, le projet suisse qui propose enfin un LLM dont tout est ouvert (données, poids et scripts).\n\n🎁 LE BONUS : Le coup de cœur \"French Touch\" Pour le 10ème projet, on s'autorise une entorse à la règle de l'Open Source avec le coup de cœur du trio : Expedition 33. Un jeu vidéo français qui prouve que la créativité hexagonale est toujours au sommet.\n\n⏱️ CHAPITRES \n0:42 Introduction et retour sur vos commentaires \n01:49 USearch : Le moteur vectoriel qui va trop vite \n07:28 Music Assistant : Le \"Super Sonos\" open source \n11:50 Common Corpus : L es données pour une IA éthique et libre de droits \n15:58 Home Assistant : Le véritable OS de la maison \n27:55 La Suite Numérique (Docs) : L'État code (et c'est bien fait) \n34:37 NextGraph : La collaboration chiffrée end-to-end \n38:09 Ghostty : Le terminal pour les pros, en Zig \n42:36 GNoME : L'IA découvre 400 000 nouveaux matériaux \n44:57 Apertus : Le vrai LLM open source suisse \n48:09 Le Bonus : Expedition 33 (Jeu Vidéo)\n\nLes liens :\n- USearch : Le moteur vectoriel qui va trop vite \nRepo Github : https://github.com/unum-cloud/USearch\nSite Web : https://www.unum.cloud/usearch\n- Music Assistant : Le \"Super Sonos\" open source \nRepo Github : https://github.com/orgs/music-assistant\nSite Web :  https://www.music-assistant.io/\n- Common Corpus : L es données pour une IA éthique et libre de droits \nHuggingface  : https://huggingface.co/datasets/PleIAs/common_corpus\nSite Web :  https://huggingface.co/blog/Pclanglais/common-corpus\n- Home Assistant : Le véritable OS de la maison \nRepo Github : https://github.com/home-assistant/core \nSite Web :  https://www.home-assistant.io/\n-  La Suite Numérique (Docs) : L'État code (et c'est bien fait) \nRepo Github : https://github.com/suitenumerique/docs\nSite Web :  https://docs.numerique.gouv.fr/\n- NextGraph : La collaboration chiffrée end-to-end \nRepo Github : https://github.com/nextgraph-org\nSite Web :  https://nextgraph.org/\n- Ghostty : Le terminal pour les pros, en Zig \nRepo Github : https://github.com/ghostty-org/ghostty\nSite Web :  https://ghostty.org/\n- GNoME : L'IA découvre 400 000 nouveaux matériaux \nRepo Github : https://github.com/google-deepmind/materials_discovery\nSite Web :  https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/\n- Apertus : Le vrai LLM open source suisse \nHuggingface : https://huggingface.co/collections/swiss-ai/apertus-llm\nSite Web :  https://www.swiss-ai.org/apertus\n\nBonus  : Windows : https://www.youtube.com/watch?v=4F4qzPbcFiA\n\nUn épisode dense, technique, et surtout on espère accessible, pour découvrir les outils qui feront le web et l'IA d'aujourd'hui ! \n\n💬 On veut votre avis : Connaissiez-vous ces projets ? Lequel allez-vous tester ce week-end ?  et vousn quel projet vous a marqué?  Dites-le-nous en commentaire 👇 \n 👍 Pensez à liker, partager et vous abonner pour soutenir la chaîne. \n🔔 Activez la cloche pour ne rater aucun épisode.",
+      "duration": "PT52M20S",
+      "published_at": "2026-01-06T09:30:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/e4JtdKbZJTg/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "J9CWp5AQz5E",
+      "title": "📟 Le monde en PLS à cause du Code 🪲? Cloud, Avions, Hôpitaux, Voitures, IA...on vous dit tout!",
+      "description": "📟 Bienvenue dans ce deuxième épisode de La French. Cette semaine on explore une réalité vertigineuse : le logiciel n'est plus seulement une ligne de texte, c'est une infrastructure physique. Et quand elle flanche, les conséquences sont bien réelles.\n \n 🧠 Le fil rouge : Le logiciel dévore le monde (et le paralyse)\nAviation, Cloud mondial, hôpitaux ou voitures autonomes… Programmer aujourd’hui, c’est exercer un réel pouvoir. Mais sommes-nous prêts à assumer les externalités de ce pouvoir ?\n\n✈️ Éruptions solaires et Software : L’épisode s’ouvre sur les derniers incidents  avec Airbus A320Neo, …et controverses liés aux systèmes logiciels dans les avions (Boeing 737MAX), avec un focus sur les derniers bugs des géants de l’aviation. Entre dépendance au logiciel, chaînes de responsabilité floues et pression industrielle, le code devient un facteur critique de sécurité!\n\n☁️ L'Effet Domino : AWS, Cloudflare, qui sera le prochain? Nous enchaînons avec les grands “fails” du cloud : pannes majeures chez AWS et Cloudflare, effets domino à l’échelle mondiale, et question centrale : peut-on encore parler de résilience quand tout repose sur quelques infrastructures ?\n\n🏥 Code Rouge à l'Hôpital : Oh non, pas les Hôpitaux! - les attaques ransomware.\nQuand des lignes de code paralysent des services vitaux, ce ne sont plus seulement des données qui sont en jeu, mais des vies humaines. Qui est responsable ? Qui paie le prix réel de ces attaques?\n\n🚗 Waymo, Tesla…et la moralité des IA : Enfin, l’épisode se projette dans le futur proche avec les bugs et incidents impliquant les véhicules autonomes de Waymo et Tesla. Jusqu’où peut-on déléguer des décisions critiques à des machines ? \n\n🎁 LE BONUS : Le crash test moral -  nous réalisons un test en direct de l’expérience “Moral Machine” du MIT, afin de confronter nos intuitions humaines aux dilemmes moraux des algorithmes! On met en lumière une impasse fondamentale : il n’existe pas de morale universelle. Encoder une décision morale revient à figer des choix politiques, culturels et sociaux dans le code. \n\nUne IA ne décide jamais “objectivement” : elle applique la vision du monde de ses concepteurs.\n🔗 Tester Moral Machine \nPersonne n'a souffert lors de cette expérience de pensée (sauf JB et Steeve) ! \n\n-------------\n⏱️ CHAPITRES :\n0:00 Introduction - rien n'a changé tout va bien ! \n02:53  Les éruptions solaires perturbent les commandes de l'avion Airbus \n04:09 Qui est le chef ? Regardez Minority report\n15:11 Cloudflare et AWS : la résilience en question.\n30:12 Ransomwares : quand les hôpitaux sont pris pour cible.\n37:52 Et les voitures connectées ? \n44:22 l’expérience “Moral Machine” du MIT, on sauve qui ?\n49:45 Conclusion : Faut-il une licence pour être développeur ?\n\n-------------------\nUn épisode drôle (en tout cas on a bien ri) , sans langue de bois, où le code n’est plus un outil neutre, mais un acteur du monde physique et industriel !\n\n💬 On veut votre avis : dites-nous en commentaire ce que vous en pensez 👇\n👍 Pensez à liker, partager et vous abonner pour la suite de la saison.\n🔔 Activez la cloche pour ne rater aucun épisode.\n\nCrédits\nProduit par : Fatima Idhammou\nProduction exécutive : BKE\nRéalisateur : Nicolas Jalu\nCadreurs : Florian Kuenemann, Fairooze Shariff\nIngénieur du son : Quentin Gomez\nChef monteur : Victor Bourdon\nGénérique (images assistées par IA)\nProduction : Aurevoircharlie\nProduit par : Anne-Lise Langlais\nRéalisateur / DA image : Olivier Lelardoux\nMusique originale : Keryan Serrain\nConseillers éditoriaux : Ronan Letoqueux, NES Production\nRéseaux sociaux : Samir Akacha \nRemerciements : l’équipe de Néon Noir, Camille Hamez, Natacha Holtzhausser, , Elie Séonnet, Abdel-Hafid Cherrab, Paguy Shako",
+      "duration": "PT50M49S",
+      "published_at": "2025-12-19T06:30:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/J9CWp5AQz5E/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "RnDY9G_KXMs",
+      "title": "🤖 Moshi, l'IA qui n'attend pas son tour 🎙️",
+      "description": "🔌 SYSTÈME : Cette IA parle (presque) trop bien...  📟 Ici, on oublie le temps de latence. L'IA te coupe la parole, rebondit sur tes idées et prend même l'accent québécois si tu lui demandes. La frontière entre l'humain et la machine devient de plus en plus floue...\n\nHashtags : #Moshi #Kyutai #Cyberpunk #TechGeek #IA #FutureIsNow #VaporwaveVibes #Robotics #Gradium",
+      "duration": "PT40S",
+      "published_at": "2025-12-18T16:05:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/RnDY9G_KXMs/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "TdwlUZovGTI",
+      "title": "📼 DATABASE : Pourquoi Google se réveille et Steeve mange des popcorns ?",
+      "description": "Chargement des données... 💾 Il y a 3 ans, Perplexity débarque et Google passe en mode \"Code Rouge\". Pourtant, les brevets étaient déjà là (Transformers, LaMDA). Alors, génie endormi ou géant dépassé ? On rembobine l’histoire de l’IA.\n\nHashtags : #RetroTech #GoogleAI #ChatGPT #GeekCulture #IntelligenceArtificielle \n\nAppuie sur le bouton S'ABONNER pour ne pas rater la prochaine mise à jour du système. 💾\"\n\nLe flux complet est disponible sur la chaîne. Insert Disk 2... 💿",
+      "duration": "PT31S",
+      "published_at": "2025-12-18T15:08:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/TdwlUZovGTI/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "IoWJFSSDrik",
+      "title": "Pourquoi Google is so back? OpenAI en Code Rouge🚨?",
+      "description": "On ouvre cette saison avec un basculement majeur : on est sortis de l’ère  “qui a le meilleur algo ?” pour entrer dans la compétition “qui a la meilleure usine à compute ?”.Pourquoi ? Parce que le compute devient un avantage stratégique comparable à l’électricité au XXᵉ siècle. Sans puces, datacenters et énergie : pas de modèles entraînés, pas d’inférence bon marché, pas d’autonomie industrielle.\nDans cet épisode, on déroule les sujets suivants : \n\n1) OpenAI en “code rouge” : pertes financières, pression concurrentielle et recentrage stratégique.\n2) Le réveil de Google avec Gemini 3, porté par une intégration massive dans Google Workspace et un avantage décisif sur les données et les puces (TPU).\n3)  AWS Trainium 3 : nouvelle étape dans la guerre des puces IA, et question centrale du compute.\nPourquoi Nvidia reste dominant : l’écosystème CUDA/PyTorch rend le training très difficile à déplacer. \n\n4) La 2ème voie européenne :\n    * Mistral 3 et la montée en puissance des modèles open-weight,\n    * Gradium et la révolution du voice-to-voice à faible latence,\n    * Vsora (puces) et UMA (robotique humanoïde), symboles d’une troisième voie européenne.\n\nUn épisode dense, entre analyse industrielle, enjeux géopolitiques et signaux forts de l’écosystème français et européen.\nAbonnez-vous pour ne pas rater la suite, et dites-nous en commentaire ce que vous pensez de cette “troisième voie” tech européenne.\n-------------\n⏱️ CHAPITRES :\n0:00 Introduction\n00:48 Présentation des invités\n04:30 Open AI : L'alerte \"Code Rouge\"\n07:08 La riposte de Google avec Gemini\n11:50 La culture d'innovation chez Google\n18:16 AWS et les puces Trainium 3\n20:33 L'enjeu de l'écosystème CUDA\n27:52 La tendance du Custom Silicon\n33:07 La troisième voie européenne\n35:36 Gradium : Modèle de Voix\n40:50 VSORA et la production de puces\n\n-------------------\n💬 On veut votre avis :Dites-nous en commentaire ce que vous pensez  👇\n👍 Pensez à liker, partager, et vous abonner pour la suite de la saison.\n🔔 Activez la cloche pour ne rater aucun épisode.\n\nProduit par : Fatima Idhammou\nProduction exécutive : BKE\nRéalisateur : Nicolas Jalu\nCadreurs : Florian Kuenemann, Fairooze Shariff\nIngénieur du son : Quentin Gomez\nChef monteur : Victor Bourdon\nGénérique (images assistées par IA)\nProduction : Aurevoircharlie\nProduit par : Anne-Lise Langlais\nRéalisateur / DA image : Olivier Lelardoux\nMusique originale : Keryan Serrain\nConseillers éditoriaux : Kevin Guive Echraghi, Hérétique, Ronan Letoqueux, NES Production\nRemerciements : l’équipe de Néon Noir, Camille Hamez, Natacha Holtzhausser, Samir Akacha, Elie Séonnet, Abdel-Hafid Cherrab, Paguy Shako.",
+      "duration": "PT46M2S",
+      "published_at": "2025-12-10T11:08:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/IoWJFSSDrik/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "vC8pMoQH9RU",
+      "title": "Teaser - A la French",
+      "description": "The show about tech, by the tech, for the tech !",
+      "duration": "PT43S",
+      "published_at": "2025-12-09T18:46:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/vC8pMoQH9RU/hqdefault.jpg",
+      "tags": []
+    }
+  ]
+}

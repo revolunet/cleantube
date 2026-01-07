@@ -1,0 +1,632 @@
+{
+  "id": "UCnJgqsWP4PhK_v1GmDk3g6A",
+  "name": "PleySmart",
+  "description": "Sur PleySmart, on explore ensemble le monde fascinant de l'intelligence artificielle ! Pas de discours compliqués, juste des échanges et des découvertes pour mieux comprendre comment l'IA peut transformer notre quotidien. Si comme moi, tu es curieux de voir comment l'IA peut booster ta productivité et que tu veux apprendre tout en t'amusant, alors rejoins-nous !",
+  "thumbnail": "https://yt3.ggpht.com/I8pDapXKpv0MFGO6zEWvwrC3tlZxd1J9ROMWpckWizSxcJabi58Vsg2IC80QCa-oIlu-KRLEhA=s800-c-k-c0x00ffffff-no-rj",
+  "public": "15 ans et plus",
+  "language": "fr",
+  "tags": [
+    "informatique",
+    "technologie",
+    "lycee"
+  ],
+  "videos": [
+    {
+      "id": "Z9XAqKnNi34",
+      "title": "ChatGPT: Prompt System Révélé - Gagnez du Temps! #shorts",
+      "description": "Découvrez comment réduire de 40 à 60 % la longueur de vos prompts, garantir un style constant et transformer ChatGPT en un assistant sur mesure. Optimisez votre efficacité dès maintenant ! #ChatGPT #GainDeTemps #IA #Productivité #Astuces",
+      "duration": "PT1M5S",
+      "published_at": "2026-01-06T18:56:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/Z9XAqKnNi34/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "NDZplSKTvo8",
+      "title": "IA : Maîtrisez les Prompts pour des Réponses Précises #shorts",
+      "description": "Fonctionnement de l'IA expliqué : logique probabiliste, prompts basiques vs évolués. Découvrez comment ChatGPT structure l'information comptable et comment la guider pour des résultats optimaux. #IntelligenceArtificielle #ChatGPT #Comptabilité #IAExplication #Probabilités",
+      "duration": "PT1M7S",
+      "published_at": "2026-01-06T07:01:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/NDZplSKTvo8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "Y-P2M_JZQ_A",
+      "title": "Personnalisez votre IA : Le secret du contexte persistant #shorts",
+      "description": "Comment optimiser votre DCG 1ère année ? Persistance du contexte : l'IA se souvient de votre objectif à chaque requête. Personnalisez vos instructions pour un apprentissage plus efficace ! #DCG #Comptabilité #IA #Études #Productivité",
+      "duration": "PT1M5S",
+      "published_at": "2026-01-05T19:16:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y-P2M_JZQ_A/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "Ne64hZiMToY",
+      "title": "Prompt Optimisé VS Simple : Email Prof, Quelle Différence ? #shorts",
+      "description": "Difficulté avec la valeur résiduelle en compta? Cet étudiant en DCG montre comment demander de l'aide à son professeur avec un e-mail concis et respectueux. Objectif: clarification rapide et efficace. #ValeurResiduelle #DCG #Comptabilité #AideComptable",
+      "duration": "PT1M17S",
+      "published_at": "2026-01-05T06:56:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ne64hZiMToY/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "mqZVTfqLm_o",
+      "title": "IA Générative : Révolutionne Tes Calculs Compta & Examens ! #shorts",
+      "description": "Comment obtenir des éclaircissements sur le calcul de l'amortissement auprès de Madame Dupont ? Optimisez votre communication pour des réponses précises et rapides. Contextualisez vos demandes pour éviter les allers-retours. #Amortissement #Comptabilité #CommunicationProfessionnelle #DCG",
+      "duration": "PT1M16S",
+      "published_at": "2026-01-04T18:56:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/mqZVTfqLm_o/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "economie"
+      ]
+    },
+    {
+      "id": "gjchk-zWNOw",
+      "title": "Prompt Engineering: Créez des questions DCG parfaites! #shorts",
+      "description": "Comment obtenir des questions de comptabilité complexes et un corrigé détaillé ? Rôle, contexte, tâches, contraintes, format de sortie : la méthode pour des prompts optimisés. #Comptabilité #DCG #Prompt #Optimisation #Stocks",
+      "duration": "PT1M22S",
+      "published_at": "2026-01-04T07:01:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/gjchk-zWNOw/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "economie"
+      ]
+    },
+    {
+      "id": "8KiW9QW5OB0",
+      "title": "IA : Connecter des Outils pour une Intelligence Augmentée #shorts",
+      "description": "Découvrez comment l'IA évalue ses résultats pour s'autocorriger et s'améliorer en continu. De GitHub Copilot à l'utilisation d'outils externes, plongez au cœur de l'intelligence artificielle. #IA #IntelligenceArtificielle #ChatGPT #Innovation",
+      "duration": "PT1M5S",
+      "published_at": "2026-01-03T19:04:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/8KiW9QW5OB0/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "u3I6Bd6tLy8",
+      "title": "Prompt IA : Les 6 Piliers d'un Prompt Stratégique #shorts",
+      "description": "Un prompt stratégique repose sur 6 piliers essentiels: rôle, expertise, tâches, destination, contexte et format. Minimiser l'espace réduit le temps de réponse et l'impact écologique. Des exemples concrets guident l'IA. #PromptStratégique #IntelligenceArtificielle #AideIA #Efficacité #IA",
+      "duration": "PT1M24S",
+      "published_at": "2026-01-03T06:57:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/u3I6Bd6tLy8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "3sQ016UKb0s",
+      "title": "IA : Éviter les hallucinations avec la stratégie RAG #shorts",
+      "description": "Les IA peuvent \"halluciner\" et donner des réponses incorrectes, car elles privilégient la plausibilité à la vérité. La solution ? Les RAG, qui ancrent l'IA sur des bases de connaissances externes et vérifiables. #IA #IntelligenceArtificielle #RAG #Hallucinations #DeepLearning",
+      "duration": "PT1M6S",
+      "published_at": "2026-01-02T19:04:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/3sQ016UKb0s/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "z16cXm2hXNY",
+      "title": "IA : Les Agents Planificateurs Révolutionnent le Dialogue #shorts",
+      "description": "Découvrez comment les agents de planification décomposent les tâches complexes pour l'IA, améliorant la collaboration et la précision. Un aperçu des innovations comme Hugging GPT et Autogen. #IntelligenceArtificielle #Planification #IA #Technologie #Innovation",
+      "duration": "PT1M4S",
+      "published_at": "2026-01-02T06:54:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/z16cXm2hXNY/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "865e8j2wUEs",
+      "title": "IA : Chaînes de Pensées vs Arbre de Pensées #shorts",
+      "description": "Découvrez les chaînes de pensée (chains of thoughts) de l'IA, comment elles raisonnent séquentiellement ou explorent plusieurs pistes. Comprenez le Tree of Thought (ToT) et les stratégies de résolution. #IntelligenceArtificielle #IA #DeepLearning #MachineLearning #ChaînesDePensée",
+      "duration": "PT1M13S",
+      "published_at": "2026-01-01T18:54:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/865e8j2wUEs/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "1EaDfPLubwA",
+      "title": "Comment un LLM pense : La Vérité Révélée en 3 Étapes #shorts",
+      "description": "Un LLM ne réfléchit pas comme un humain. Il exécute un processus statistique puissant : tokenisation, vectorisation, calcul de probabilité. Comprendre les 3 étapes pour mieux utiliser les LLM. #LLM #Tokenisation #Vectorisation #IA #IntelligenceArtificielle",
+      "duration": "PT1M20S",
+      "published_at": "2026-01-01T06:57:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/1EaDfPLubwA/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "F38bDQ7PLdc",
+      "title": "IS vs IR : La fiche de révision ultime ChatGPT #shorts",
+      "description": "Comprendre les régimes d'imposition pour les entreprises : IR vs IS. Avantages, inconvénients et FAQ pour maîtriser la fiscalité en L1 DCG. Fiche de révision synthétique et concrète. #ImpôtsEntreprises #Fiscalité #IR #IS #DCG #Révisions",
+      "duration": "PT1M6S",
+      "published_at": "2025-12-31T18:55:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/F38bDQ7PLdc/hqdefault.jpg",
+      "tags": [
+        "economie"
+      ]
+    },
+    {
+      "id": "h039mlvoGDY",
+      "title": "ChatGPT et le Bilan Comptable : Guide Complet #shorts",
+      "description": "ChatGPT démystifie le bilan comptable ! Découvrez comment il transforme un jargon complexe en explications claires, parfaites pour les étudiants en DCG première année. Un outil clé pour comprendre les finances. #ChatGPT #Comptabilité #Finance #DCG #Études #BilanComptable",
+      "duration": "PT1M29S",
+      "published_at": "2025-12-31T07:00:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/h039mlvoGDY/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "ZWE1FKQJXn8",
+      "title": "IA: Le secret des Prompts parfaits enfin révélé ! #shorts",
+      "description": "Un prompt vague = recherche immense. Un prompt précis guide l'IA vers la réponse pertinente. Optimisez vos prompts et ciblez l'IA pour des résultats optimaux en marketing digital. #IA #Prompt #MarketingDigital #IntelligenceArtificielle",
+      "duration": "PT1M2S",
+      "published_at": "2025-12-30T18:57:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZWE1FKQJXn8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "_sTfNBgCgbQ",
+      "title": "IA & LLM : Maîtriser les Prompts pour des Réponses Précises #shorts",
+      "description": "Vous êtes-vous déjà demandé comment fonctionnent les LLM et l'IA ? Découvrez le processus statistique puissant derrière, en 3 étapes simples. Améliorez vos prompts et obtenez des réponses précises ! #LLM #IA #IntelligenceArtificielle #Prompts #Explications",
+      "duration": "PT1M26S",
+      "published_at": "2025-12-30T07:03:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/_sTfNBgCgbQ/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "6jx65ttRDoM",
+      "title": "Arrêtez de poser des questions à ChatGPT ! (Faites ça à la place)",
+      "description": "Vous avez l'impression que ChatGPT ou Claude ne vous comprennent pas ? Vos résultats sont trop vagues ou erronés ? C'est normal : vous ne parlez probablement pas le \"langage\" de l'IA.\n\nDans cette vidéo, on arrête de voir l'IA comme de la magie. Je vous explique comment fonctionnent réellement les LLM (Large Language Models) et surtout, comment structurer vos demandes pour obtenir des résultats d'une qualité exceptionnelle.\n\nOn passe de la théorie pure (logique probabiliste, vectorisation) à la pratique avec 5 exemples concrets \"Avant / Après\" pour voir la différence immédiate entre un prompt amateur et un prompt d'expert.\n\n🧠 Ce que vous allez apprendre :\n• Pourquoi l'IA ne \"réfléchit\" pas mais prédit (et pourquoi ça change tout).\n• Les 3 étapes du fonctionnement d'un LLM : Tokenisation, Vectorisation, Probabilités.\n• La méthode des 6 piliers pour construire un prompt parfait.\n• Comment utiliser le \"Chain-of-Thought\" pour les tâches complexes.\n• 5 Démos en direct (basées sur des cas d'études/comptabilité, mais applicables à tous les domaines).\n\n---\n\n⏱️ Chapitres de la vidéo :\n00:00 Introduction : Le problème avec l'utilisation actuelle des IA\n00:45 La logique probabiliste : L'IA ne comprend pas, elle calcule\n01:13 Comment un LLM \"pense\" (Tokenisation & Vectorisation)\n02:38 Le secret révélé : Guider l'IA pour réduire la zone de recherche\n03:30 Au-delà du chat : Les Agents IA et la planification\n05:09 La Méthode : Les 6 Piliers d'un Prompt Stratégique\n07:13 Chain-of-Thought & Tree-of-Thought : Structurer le raisonnement\n08:19 Industrialiser l'excellence : Les Custom Instructions\n09:47 Fiabilité & Hallucinations : Comment les éviter ?\n11:43 Cas #1 : Explication de concept (Le Bilan Comptable)\n14:30 Cas #2 : Création de fiche de révision structurée\n15:51 Cas #3 : Calcul et Raisonnement logique (Amortissement)\n17:37 Cas #4 : Rédaction d'email professionnel avec contexte\n19:16 Cas #5 : Génération de questions d'examen et corrigés\n20:07 Conclusion et appel à l'action\n\n💬 Dites-moi en commentaire : Quel est le domaine où vous utilisez le plus l'IA (Études, Code, Marketing, Rédaction) ? Je ferai peut-être un cas pratique dessus dans la prochaine vidéo !\n\n#PromptEngineering #IA #ChatGPT #PleySmart #TutorielIA #LLM #Productivité #Etudiant #DCG",
+      "duration": "PT22M8S",
+      "published_at": "2025-12-29T08:00:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/6jx65ttRDoM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "4_iT-wJSaxQ",
+      "title": "Ambiance musicale infinie : French tutorial loop generator #shorts",
+      "description": "Découvrez comment créer une ambiance sonore personnalisée en boucle. Ajoutez des roquettes, des instruments, et ajustez la force de chaque élément pour une expérience unique et immersive. #AmbianceSonore #CréationMusicale #Loop #Musique #Instruments",
+      "duration": "PT1M27S",
+      "published_at": "2025-12-19T18:55:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/4_iT-wJSaxQ/hqdefault.jpg",
+      "tags": [
+        "musique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "y-7xrMeoyFA",
+      "title": "Créez l'Ambiance Parfaite avec cette Astuce Sonore! #shorts",
+      "description": "Découvrez une ambiance sonore unique en utilisant une guitare à fond. Idéal pour créer des vibes super cool et personnalisées. Gérez l'intensité et laissez la musique vous emporter ! #AmbianceSonore #Guitare #Musique #DIYMusique #VibesMusicales",
+      "duration": "PT1M27S",
+      "published_at": "2025-12-19T06:55:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/y-7xrMeoyFA/hqdefault.jpg",
+      "tags": [
+        "musique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "ldZep0ymu00",
+      "title": "Générateur d'images IA : Créez votre style unique #shorts",
+      "description": "Découvrez comment créer des images personnalisées en utilisant un style spécifique. Personnalisez votre contenu visuel avec cet outil simple et efficace. Créez des images de qualité facilement ! #CréationImage #StyleUnique #TutorielImage #IAImage",
+      "duration": "PT1M18S",
+      "published_at": "2025-12-18T18:57:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/ldZep0ymu00/hqdefault.jpg",
+      "tags": [
+        "arts",
+        "technologie"
+      ]
+    },
+    {
+      "id": "41dCqtktWWY",
+      "title": "Musique : Expérimentez avec les Prompts pour des Sons Uniques #shorts",
+      "description": "Créez une musique unique en changeant des éléments clés comme Bubbly, Dreamy, Acoustic folk ou Space Opera. Découvrez comment ces modifications transforment complètement votre son. #MusiquePersonnalisée #SpaceOpera #AcousticFolk #CréationMusicale",
+      "duration": "PT1M12S",
+      "published_at": "2025-12-18T07:02:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/41dCqtktWWY/hqdefault.jpg",
+      "tags": [
+        "musique",
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "EzTFfsCBDuo",
+      "title": "IA Révolutionnaire : Transformez vos PDFs en Discussions captivantes ! #shorts",
+      "description": "Découvrez comment transformer un document PDF en discussion captivante grâce à l'IA. Imaginez la notice de votre machine à laver transformée en podcast! Music FX offre aussi des réponses IA aux vidéos YouTube. #IA #Podcast #YouTube #MusicFX #PDF",
+      "duration": "PT1M7S",
+      "published_at": "2025-12-17T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/EzTFfsCBDuo/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "lZnz6jBfx5w",
+      "title": "Générez Musique & Sons avec IA: Expérimentez Genetype! #shorts",
+      "description": "Découvrez Genetype qui transforme votre prompt en texte animé et MusicFX pour créer de la musique. Explorez les possibilités avec GenDino et le mode DJ. Laissez l'IA générer de la musique bubbly et optimistic. #Genetype #MusicFX #IA #MusiqueIA #CréationMusique",
+      "duration": "PT1M23S",
+      "published_at": "2025-12-17T07:02:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/lZnz6jBfx5w/hqdefault.jpg",
+      "tags": [
+        "musique",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "aZ_Bs727TUI",
+      "title": "ImageFX : Transformer Vos Idées en Images Incroyables #shorts",
+      "description": "Exploration rapide d'ImageFX, l'outil d'IA qui transforme vos prompts en visuels étonnants. Des bocaux d'eau sur la plage aux vampires dans des restaurants japonais, la créativité n'a plus de limites. #ImageFX #IAArt #CréationVisuelle #ArtNumérique",
+      "duration": "PT1M13S",
+      "published_at": "2025-12-16T19:04:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/aZ_Bs727TUI/hqdefault.jpg",
+      "tags": [
+        "arts",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "zIsxQnjuG1s",
+      "title": "Google Labs: Whisk, TextFX, et Imagen 3 révélés! #shorts",
+      "description": "Découvrez Whisk et les outils méconnus de Google Labs ! Des projets comme Mariner, Julquier, NotebookLM, TextFX et Imagen 3 à explorer pour booster votre créativité et productivité. #GoogleLabs #Whisk #IA #Innovation #Tech",
+      "duration": "PT1M19S",
+      "published_at": "2025-12-16T06:59:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/zIsxQnjuG1s/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "xl8iGoCzMjA",
+      "title": "Découvrez Whisk : L'outil IA Gratuit de Google Labs #shorts",
+      "description": "Présentation rapide des outils gratuits de Google: MusicFX, VideoFX, ImageFX et Whisk. Testez Whisk, c'est gratuit, pratique et esthétique! Pour plus d'actualités sur l'IA, regardez ma dernière vidéo. #GoogleLab #ImageGen3 #Whisk #IA #OutilsGratuits",
+      "duration": "PT1M26S",
+      "published_at": "2025-12-15T18:59:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/xl8iGoCzMjA/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "WLI8fGuQwNY",
+      "title": "Whisk : Générez des Images Incroyables avec cette IA Alpha #shorts",
+      "description": "Whisk, en alpha, permet de générer des images facilement. Déposez une image, ajoutez des scènes et des styles, ou tapez des prompts pour créer des stickers et plus encore. Le rendu est hyper cool! #GénérationImage #WhiskAlpha #Stickers #IntelligenceArtificielle",
+      "duration": "PT1M5S",
+      "published_at": "2025-12-15T06:57:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/WLI8fGuQwNY/hqdefault.jpg",
+      "tags": [
+        "arts",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "T3cb3WK-Luc",
+      "title": "IA : Créez des BD Incroyables avec Unia en 2024! #shorts",
+      "description": "L'IA génère des BD stylées, mais la consistance... bof ! Des personnages qui se ressemblent sans être les mêmes. On retente le coup pour un résultat hyper stylé ! #IA #BD #IntelligenceArtificielle #Dessin #Création",
+      "duration": "PT1M1S",
+      "published_at": "2025-12-14T19:02:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/T3cb3WK-Luc/hqdefault.jpg",
+      "tags": [
+        "arts",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "-JYisChrYrI",
+      "title": "Whisk: L'outil IA gratuit qui va révolutionner vos créations ! #shorts",
+      "description": "Découvrez Whisk, l'outil gratuit de Google. Explorez ses fonctionnalités pratiques et puissantes pour créer facilement. Idéal pour la fête du nouvel an ! Testez-le, c'est gratuit, pratique et esthétique. #Whisk #Google #OutilsGratuits #Productivité #NouvelAn",
+      "duration": "PT1M27S",
+      "published_at": "2025-12-14T07:04:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/-JYisChrYrI/hqdefault.jpg",
+      "tags": [
+        "arts",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "2PAelKNw2y4",
+      "title": "Google Lab : Musique IA & Génération d'Images Révolutionnaire #shorts",
+      "description": "Découvrez Music FX du Google Lab : créez des ambiances musicales uniques avec des prompts personnalisés. Générez des loops à l'infini pour un fond sonore hyper cool pendant que vous bossez ! #GoogleLab #MusicFX #IA #MusiqueGeneree #Tech",
+      "duration": "PT1M16S",
+      "published_at": "2025-12-13T19:02:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/2PAelKNw2y4/hqdefault.jpg",
+      "tags": [
+        "musique",
+        "arts",
+        "informatique"
+      ]
+    },
+    {
+      "id": "O3dZm140igE",
+      "title": "Outil Gratuit : Créez des Images Incroyables Facilement ! #shorts",
+      "description": "Découvrez un outil gratuit incroyable pour créer des miniatures et des images étonnantes. Facile à utiliser et parfait pour s'amuser. Des stickers aux fonds verts, les possibilités sont infinies! 🚀 #IA #OutilGratuit #CréationImage #Miniatures #Astuces",
+      "duration": "PT1M20S",
+      "published_at": "2025-12-13T06:57:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/O3dZm140igE/hqdefault.jpg",
+      "tags": [
+        "arts",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "2CkFi3Qvls0",
+      "title": "Transforme UN CROQUIS en Rendu 3D : INCROYABLE MAIS VRAI ! #shorts",
+      "description": "Transformez vos croquis en rendus architecturaux 3D photoréalistes grâce à Google Gemini. Même un schéma de cafetière peut devenir une œuvre d'art! #GoogleGemini #Architecture3D #Dessin #IA #Rendu",
+      "duration": "PT1M1S",
+      "published_at": "2025-12-12T05:03:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/2CkFi3Qvls0/hqdefault.jpg",
+      "tags": [
+        "arts",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "x4UXiucplhc",
+      "title": "Google AI : Découvrez les secrets des abonnements pour TOUS ! #shorts",
+      "description": "Tout savoir sur les offres Google AI ! Découvrez les fonctionnalités et les prix des différents abonnements, spécialement pour les codeurs. Quel est le meilleur choix pour vous ? #GoogleAI #Abonnement #Codage #IntelligenceArtificielle",
+      "duration": "PT1M12S",
+      "published_at": "2025-12-12T02:56:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/x4UXiucplhc/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "vA97nkrg0ec",
+      "title": "Google One: 2 To Stockage + Gemini, Moins Cher Que L'Offre AI+ #shorts",
+      "description": "Découvrez les plans Google One : stockage cloud, accès à Gemini et leurs tarifs. Comparaison des offres et réductions la première année. #GoogleOne #StockageCloud #Gemini #Abonnement #Google",
+      "duration": "PT1M9S",
+      "published_at": "2025-12-12T01:05:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/vA97nkrg0ec/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "dfXdXpFY5yw",
+      "title": "Payez Gemini Moins Cher : L'Astuce Anti-Crise Révélée ! #shorts",
+      "description": "Découvrez comment réduire vos coûts Gemini! Comparez les abonnements Google One et AI Pro pour choisir l'option la plus économique et adaptée à vos besoins. #Gemini #GoogleOne #AIPro #Economies #Tutoriel #Abonnement",
+      "duration": "PT1M17S",
+      "published_at": "2025-12-11T22:58:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/dfXdXpFY5yw/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "economie"
+      ]
+    },
+    {
+      "id": "F0ESNuDbWuU",
+      "title": "Nano Banana Pro: L'IA qui DÉPASSE TOUT ! 🤯 #shorts",
+      "description": "Découvrez comment utiliser Nano Banana Pro, l'IA de génération d'images de Google ! Un abonnement Gemini est nécessaire pour y accéder et créer des visuels incroyables. #NanoBananaPro #IA #Google #Gemini #GénérationImages",
+      "duration": "PT1M1S",
+      "published_at": "2025-12-11T21:01:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/F0ESNuDbWuU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "uZ4lA5E0bsE",
+      "title": "IA : Test de Style Scandinave et Génération d'Images Étonnante ! #shorts",
+      "description": "Cette vidéo explore comment une IA peut générer et modifier des images avec des critères spécifiques, en utilisant le style scandinave et en tenant compte du contexte. #IA #StyleScandinave #GénérationImage #IntelligenceArtificielle",
+      "duration": "PT1M2S",
+      "published_at": "2025-12-11T19:01:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/uZ4lA5E0bsE/hqdefault.jpg",
+      "tags": [
+        "arts",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "50K9zmk4GjY",
+      "title": "L'IA de Google: Magie ou Désastre? Voyez par vous-même! #shorts",
+      "description": "Découvrez comment modifier les prompts de l'IA pour générer des images époustouflantes. Contrôlez les reflets, les détails, et la composition pour des résultats ultra-réalistes. #IA #GénérationImage #ArtNumérique #PromptsIA",
+      "duration": "PT1M5S",
+      "published_at": "2025-12-11T16:56:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/50K9zmk4GjY/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "diaYGGvp4CA",
+      "title": "Gemini teste Taïpei : détails fous et qualité hallucinante ! #shorts",
+      "description": "Un test réussi de Gemini : une rue de Taipei sous la pluie. La richesse des détails et la qualité de l'image générée sont impressionnantes. #Gemini #Taipei #IntelligenceArtificielle #ImagesIA",
+      "duration": "PT56S",
+      "published_at": "2025-12-11T14:59:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/diaYGGvp4CA/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "HbEGXAPz-rs",
+      "title": "Gemini impressionne, mais les visages d'animaux déçoivent ! #shorts",
+      "description": "Découvrez Google Gemini en action! Cette vidéo vous montre comment il évalue avec précision la qualité des images générées, en tenant compte des instructions et de la complexité des scènes. #GoogleGemini #IA #GénérationImages #IntelligenceArtificielle",
+      "duration": "PT1M15S",
+      "published_at": "2025-12-11T12:55:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/HbEGXAPz-rs/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "rtZObqeWRIo",
+      "title": "L'IA crée une affiche pub 1920 : Résultat INCROYABLE ! #shorts",
+      "description": "Découvrez la création et l'analyse d'une affiche publicitaire pour le café « L'Éveil des Sens », entièrement générée par l'IA. Innovation et marketing réunis. #AffichePublicitaire #IntelligenceArtificielle #MarketingDigital #CreationIA",
+      "duration": "PT1M28S",
+      "published_at": "2025-12-11T10:59:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/rtZObqeWRIo/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "arts"
+      ]
+    },
+    {
+      "id": "DNQgJO0j-7Q",
+      "title": "L'IA crée des images dingues : détails, prompts négatifs, astronaute 18ème ! #shorts",
+      "description": "Démonstration de la puissance de l'IA pour créer des images ultra-réalistes. Découvrez comment les instructions négatives permettent d'affiner chaque détail et d'obtenir un rendu final parfait. #IA #artificielle #images #générationImage #technologie",
+      "duration": "PT1M2S",
+      "published_at": "2025-12-11T09:04:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/DNQgJO0j-7Q/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "arts"
+      ]
+    },
+    {
+      "id": "JAdSU6MCYmE",
+      "title": "Google Gemini transforme une image: Incroyable mais vrai ! #shorts",
+      "description": "Découvrez Google Gemini transformer des images avec une précision impressionnante : canapé changé, éclairage ajusté, tout en conservant l'environnement extérieur intact. Une révolution visuelle ! #GoogleGemini #IA #ModificationImage #Technologie #IntelligenceArtificielle",
+      "duration": "PT1M9S",
+      "published_at": "2025-12-11T06:57:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/JAdSU6MCYmE/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "10Ft-WFWr0Y",
+      "title": "Créez des infographies PARFAITES avec l'IA : C'EST HALLUCINANT ! #shorts",
+      "description": "Découvrez comment Nano Banana crée des textes précis pour des infographies détaillées. Machine à expresso et interface OBS générées avec une impressionnante exactitude. #Infographie #IntelligenceArtificielle #NanoBanana #GénérationDeTexte",
+      "duration": "PT1M3S",
+      "published_at": "2025-12-11T05:00:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/10Ft-WFWr0Y/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "arts"
+      ]
+    },
+    {
+      "id": "fbDC5WvW8IY",
+      "title": "IA créer une Bille Chrome : Reflets PARFAITS et Réalisme INCROYABLE ! #shorts",
+      "description": "Google Gemini démontre la génération d'image IA en créant une bille chromée macro réaliste. L'adhérence aux instructions et les réflexions détaillées sont mises en valeur. #IA #GoogleGemini #GénérationImage #ArtNumérique",
+      "duration": "PT1M2S",
+      "published_at": "2025-12-11T03:03:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/fbDC5WvW8IY/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "arts"
+      ]
+    },
+    {
+      "id": "dza2qZtgk5o",
+      "title": "IA: L'horloger de vos rêves ou votre pire cauchemar ? #shorts",
+      "description": "Découvrez les prouesses de Google Gemini en génération d'images ! Détails ultra-fins, photoréalisme saisissant, et l'outil 'Nano Banana' pour des infographies parfaites. L'IA au service de la création. #GoogleGemini #IA #GénérationImage #Photoréalisme #Infographie",
+      "duration": "PT1M12S",
+      "published_at": "2025-12-11T01:04:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/dza2qZtgk5o/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "nrRkjVA0czU",
+      "title": "Nano Banana Pro : La génération d'images IA bluffante dévoilée ! #shorts",
+      "description": "Apprenez à générer des images incroyablement réalistes d'un salon scandinave à partir de simples descriptions textuelles. Transformez vos idées en visuels époustouflants avec Nano Banana Pro. #SalonScandinave #NanoBananaPro #Photorealism #IA #Art",
+      "duration": "PT1M24S",
+      "published_at": "2025-12-10T23:04:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/nrRkjVA0czU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "arts"
+      ]
+    },
+    {
+      "id": "njK_oHr4pyY",
+      "title": "IA ÉCRAT TRÈS FORT : La banane de glace qui FOND sur la roche ! #shorts",
+      "description": "Un expert analyse une image IA d'une banane en glace et est bluffé. La machine comprend et exécute l'idée à la perfection. Jusqu'où ira l'IA ? #IntelligenceArtificielle #IA #CréationIA #Technologie",
+      "duration": "PT1M2S",
+      "published_at": "2025-12-10T20:55:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/njK_oHr4pyY/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "arts"
+      ]
+    },
+    {
+      "id": "HVSDVHgw7k0",
+      "title": "Influence du caractère sur la motion capture : tout comprendre ! #shorts",
+      "description": "Découvrez comment le caractère affecte la capture de mouvement facial et les limites de la caméra dans des logiciels comme 'Acte tout'. Perspective et expression décryptées ! #CaptureFaciale #ActeTout #Animation3D #MotionCapture",
+      "duration": "PT56S",
+      "published_at": "2025-12-10T07:55:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/HVSDVHgw7k0/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "VOHGWc8mUwU",
+      "title": "Ghost Rider : Incroyable, mais buggé ! Le feu est fou #shorts",
+      "description": "L'assistant vidéo compare deux personnages numériques. Des observations de base à l'évaluation détaillée des caractéristiques de Ghost Rider. Découvrez l'évolution ! #GhostRider #PersonnagesNumériques #AnalyseVidéo",
+      "duration": "PT1M3S",
+      "published_at": "2025-12-10T04:01:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/VOHGWc8mUwU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "arts"
+      ]
+    }
+  ]
+}

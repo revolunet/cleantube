@@ -1,0 +1,608 @@
+{
+  "id": "UCs_AZuYXi6NA9tkdbhjItHQ",
+  "name": "xavki",
+  "description": "Des tutoriels et formations gratuites en français pour bien débuter sur des outils linux, devops et opensource. La chaine xavki c'est plus de 1400 vidéos. Cette ensemble de tutoriels représente plus de 500 heures de tutos pour progresser en toute simplicité autour du devops.\n\nVous pouvez vous abonner mais également devenir membre pour disposer sans attendre des vidéos programmées mais en attente de publication (environ 230).\n\nChaîne qui parle de linux par la pratique d'un devops/sre.\n\nActuellement vous trouverez des vidéos sur :\n- ansible\n- terraform\n- jenkins\n- clickhouse\n- terraform\n- kubernetes\n- helm\n- docker\n- postgres\n- cassandra\n- elasticsearch\n- kibana\n- logstash\n- filebeat\n- haproxy\n- traefik\n- ssh\n- CI/CD\n- bash\n- awk\n- python\n- prometheus\n- grafana\n- packer \n- kvm\n- loki\n- lxd\n- consul\n- netdata\n- iptables\n- tcpdump\n",
+  "thumbnail": "https://yt3.ggpht.com/6RbZI-TZ7M1xOXv8dJYvYDU2wQV4tPysxu2gZGqFEYRi0SNYRuETIvlYdjfY-IjKi4czco1sbpI=s800-c-k-c0x00ffffff-no-rj",
+  "public": "adultes",
+  "language": "fr",
+  "tags": [
+    "informatique",
+    "technologie"
+  ],
+  "videos": [
+    {
+      "id": "CeTUqqGkMYA",
+      "title": "Infra de A à Z - 94. Terraform : module instance et prise en compte des ports (locals, dynamic...)",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT36M43S",
+      "published_at": "2026-01-06T07:46:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/CeTUqqGkMYA/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "pw41IuxtmyE",
+      "title": "Bonne année 2026 !!!",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT34M6S",
+      "published_at": "2026-01-03T12:38:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/pw41IuxtmyE/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "vD25Vn0ZcOw",
+      "title": "Infra de A à Z - 93. Kubernetes : problème coredns/dnsmasq, changement de control plane endpoint",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT54M24S",
+      "published_at": "2025-12-21T09:40:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/vD25Vn0ZcOw/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "b_d6vJAbG-A",
+      "title": "Infra de A à Z - 92. Kubernetes & Openstack : kube-router, allowed address pairs, router...",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT41M13S",
+      "published_at": "2025-12-18T20:49:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/b_d6vJAbG-A/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "opHS4S-5zX4",
+      "title": "K8S Operator - 03. CRD & Classes",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nCode & Slides : https://gitlab.com/xavki/tutoriels-operator\n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT25M12S",
+      "published_at": "2025-12-15T19:16:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/opHS4S-5zX4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "BVpf-40UIvI",
+      "title": "Infra de A à Z - 91. Kubernetes : intégration à Terraform",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT48M",
+      "published_at": "2025-12-13T20:21:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/BVpf-40UIvI/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "6vX8YZxV8ng",
+      "title": "Infra de A à Z - 90. Kubernetes & Ansible : Join des Masters & Workers",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT37M39S",
+      "published_at": "2025-12-10T20:34:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/6vX8YZxV8ng/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "X4gpOZUj6Ig",
+      "title": "K8S Operator - 02. Projet & Structure de code",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nCode & Slides : https://gitlab.com/xavki/tutoriels-operator\n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT38M52S",
+      "published_at": "2025-12-08T19:27:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/X4gpOZUj6Ig/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "jGxubnBEnA4",
+      "title": "K8S Operator - 01. Notions de CRD et de Controller",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT36M11S",
+      "published_at": "2025-12-05T22:19:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/jGxubnBEnA4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "mAs_Ym3tw1M",
+      "title": "Cloud Native Days France 2026... L'infrastructure opensource derrière l'évènement",
+      "description": "Rejoignez l'évènement : https://www.cloudnativedays.fr/\n\n\n📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT50M21S",
+      "published_at": "2025-12-03T19:46:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/mAs_Ym3tw1M/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "IBelE4nnzDE",
+      "title": "Infra de A à Z - 89. Kubernetes & Ansible : Initialisation du cluster",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT27M3S",
+      "published_at": "2025-12-02T20:12:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/IBelE4nnzDE/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "ksB-XzBu9og",
+      "title": "Infra de A à Z - 88. Kubernetes & Ansible : containerd, kubelet, kubectl, kubeadm",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT35M35S",
+      "published_at": "2025-11-30T15:17:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/ksB-XzBu9og/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "QtZk8fJ7aO8",
+      "title": "Infra de A à Z - 85. Kubernetes : Network, CNI, services, pause conteneur...",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT53M27S",
+      "published_at": "2025-11-27T20:47:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/QtZk8fJ7aO8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "UwaF20gyVJ8",
+      "title": "Infra de A à Z - 87. Kubernetes : cni, masters & workers nodes",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT23M32S",
+      "published_at": "2025-11-26T20:46:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/UwaF20gyVJ8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "quNfkAe00ZI",
+      "title": "Infra de A à Z - 86. Kubernetes : installation de containerd & kubeadm init",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT45M40S",
+      "published_at": "2025-11-24T20:26:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/quNfkAe00ZI/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "Gpoz5cNOjRI",
+      "title": "Infra de A à Z - 84. Kubernetes : Pods, Deploiements, Conteneurs...",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT44M27S",
+      "published_at": "2025-11-22T12:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/Gpoz5cNOjRI/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "HNkkUbo0rgM",
+      "title": "Infra de A à Z - 83. Kubernetes & son architecture, pour qui, pour quoi ?",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT40M41S",
+      "published_at": "2025-11-19T19:19:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/HNkkUbo0rgM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "FesHsnxhUzs",
+      "title": "Infra de A à Z - 82. Les conteneurs, c'est quoi ??",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT34M41S",
+      "published_at": "2025-11-18T12:36:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/FesHsnxhUzs/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "ura85_j3doo",
+      "title": "Infra de A à Z - 81. Gitlab : backups sur stockage objet & ansible",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT41M24S",
+      "published_at": "2025-11-16T20:20:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/ura85_j3doo/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "EQMk7HW_44c",
+      "title": "Infra de A à Z - 80. Gitlab : activation de la registry docker",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT48M24S",
+      "published_at": "2025-11-15T13:37:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/EQMk7HW_44c/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "ZO0tWVSxk0g",
+      "title": "Infra de A à Z - 79. Gitlab : installation avec ansible",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT1H2M4S",
+      "published_at": "2025-11-13T18:42:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZO0tWVSxk0g/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "T1JLA_4mock",
+      "title": "Infra de A à Z - 78. Gitlab : introduction",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT34M36S",
+      "published_at": "2025-11-11T15:37:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/T1JLA_4mock/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "u5biHefIUCM",
+      "title": "Infra de A à Z - 77. Grafana : ajout du SSO keycloak",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT24M30S",
+      "published_at": "2025-11-09T10:03:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/u5biHefIUCM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "anYe3XwEpiY",
+      "title": "Infra de A à Z - 76. Keycloak : création des users, des rôles et des mappings avec ansible",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT22M26S",
+      "published_at": "2025-11-06T19:45:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/anYe3XwEpiY/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "w78GC3KZDC4",
+      "title": "Infra de A à Z - 75. Keycloak : création d'un realm et d'un client avec ansible",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT39M9S",
+      "published_at": "2025-11-03T19:11:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/w78GC3KZDC4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "bA4iayJeJ2g",
+      "title": "Infra de A à Z - 74. Keycloak : installation d'un cluster avec ansible",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT55M2S",
+      "published_at": "2025-11-01T19:19:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/bA4iayJeJ2g/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "LqA_WbrK8qk",
+      "title": "Infra de A à Z - 73. Keycloak : introduction, c'est quoi ??? (sso...)",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT28M53S",
+      "published_at": "2025-10-28T19:12:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/LqA_WbrK8qk/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "5DPVLlMfeAc",
+      "title": "Infra de A à Z - 72. Tempo : installation avec ansible",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT34M39S",
+      "published_at": "2025-10-26T11:46:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/5DPVLlMfeAc/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "A0Q04eIg1kA",
+      "title": "Kubernetes 037 - Affinités : principes et découverte des required de podAffinity et nodeAffinity",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT56M36S",
+      "published_at": "2025-10-22T18:22:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/A0Q04eIg1kA/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "VffhMzVDwrw",
+      "title": "Streamlit - 07. K8S Apiserver : supprimer des déploiments",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT16M48S",
+      "published_at": "2025-10-20T17:49:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/VffhMzVDwrw/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "vGTk0AxHsMM",
+      "title": "Devfest, tp kubernetes...",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT19M18S",
+      "published_at": "2025-10-18T20:18:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/vGTk0AxHsMM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "HmldH-h819o",
+      "title": "Kubernetes 036 - K0S : cluster multi-nodes avec vagrant",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT26M33S",
+      "published_at": "2025-10-18T07:34:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/HmldH-h819o/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "93dlb2r7DLE",
+      "title": "Streamlit - 06. K8S API Server: Créer des deployments",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT23M50S",
+      "published_at": "2025-10-16T17:49:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/93dlb2r7DLE/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "hvixzUaqQ6g",
+      "title": "Streamlit - 05. K8S API Server : lister les pods",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT31M25S",
+      "published_at": "2025-10-14T19:18:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/hvixzUaqQ6g/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "jeOca52k9Lg",
+      "title": "Xavki & CastAI - Live migration sur Kubernetes",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT1H3M21S",
+      "published_at": "2025-10-11T19:39:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/jeOca52k9Lg/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "g-wrfgPRaCA",
+      "title": "SaltStack - Architecture",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP : https://bit.ly/3dItQU9\n👂 Podcast : https://podcast.ausha.co/xavki/\n\n#infrastructure #devops #automation #computerscience \n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT2M1S",
+      "published_at": "2025-10-11T12:37:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/g-wrfgPRaCA/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "ZpCQgzV0_bU",
+      "title": "Streamlit - 04. Onglets & Graphiques",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT17M6S",
+      "published_at": "2025-10-10T19:17:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZpCQgzV0_bU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "xu7T7oWn6q4",
+      "title": "Streamlit - 03. Upload de fichier & Filtres",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT28M",
+      "published_at": "2025-10-09T06:04:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/xu7T7oWn6q4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "-wcOTAZfot4",
+      "title": "Streamlit - 02. Premiers Pas",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT14M43S",
+      "published_at": "2025-10-06T16:42:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/-wcOTAZfot4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "OWIkoIgHGmg",
+      "title": "Live with Restream, October 05",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT1H4M35S",
+      "published_at": "2025-10-06T04:54:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/OWIkoIgHGmg/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "oJIGvY39jiI",
+      "title": "SSH - Comprendre le chiffrement Symétrique et Asymétrique",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP : https://bit.ly/3dItQU9\n👂 Podcast : https://podcast.ausha.co/xavki/\n\n#sécurité #devops #opensource #linux \n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT2M32S",
+      "published_at": "2025-10-05T08:37:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/oJIGvY39jiI/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "51rMyJvenFk",
+      "title": "Ansible - installer nginx avec un oneline",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT1M52S",
+      "published_at": "2025-10-04T08:33:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/51rMyJvenFk/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "PyPg1ytR9_c",
+      "title": "Infra de A à Z - 71. Tempo : introduction, c'est quoi ?",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT30M9S",
+      "published_at": "2025-10-03T04:58:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/PyPg1ytR9_c/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "0ODb-_L6vHM",
+      "title": "Streamlit - 01. Introduction, c'est quoi ?",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT27M21S",
+      "published_at": "2025-09-30T19:04:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/0ODb-_L6vHM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "uy5ubrThfjU",
+      "title": "Evènement: Live Migration - 8 octobre 18h",
+      "description": "Lien vers l'inscription: https://cast.ai/webinars/container-live-migration-fr/?ref_id=157\n\n📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT3M1S",
+      "published_at": "2025-09-28T16:14:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/uy5ubrThfjU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "LCt1H-gsa3Y",
+      "title": "Kubernetes 035 - Volumes : TP. Worpdress partie 2 (solution)",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT28M55S",
+      "published_at": "2025-09-26T11:11:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/LCt1H-gsa3Y/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "2B_HczLrNw0",
+      "title": "Users et Groups - #Salt 13",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT20M50S",
+      "published_at": "2025-09-23T18:17:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/2B_HczLrNw0/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "jxrUk9nB5d4",
+      "title": "Ansible astuce - récupérer des fichiers en oneline",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT1M51S",
+      "published_at": "2025-09-21T16:14:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/jxrUk9nB5d4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "3fDNxkPQS6o",
+      "title": "Kubernetes 034 - Volumes : TP. Worpdress partie 1",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT11M35S",
+      "published_at": "2025-09-19T06:22:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/3fDNxkPQS6o/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "gDtEvkSQJJA",
+      "title": "Cloud de A à Z - 70. PITR & Wal-g : test & script",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT54M4S",
+      "published_at": "2025-09-17T19:18:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/gDtEvkSQJJA/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    }
+  ]
+}

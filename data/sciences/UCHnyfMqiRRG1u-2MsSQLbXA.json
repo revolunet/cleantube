@@ -1,0 +1,612 @@
+{
+  "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+  "name": "Veritasium",
+  "description": "An element of truth - videos about science, education, and anything else we find interesting.",
+  "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s800-c-k-c0x00ffffff-no-rj",
+  "public": "15 ans et plus",
+  "language": "fr",
+  "tags": [
+    "sciences",
+    "physique",
+    "technologie",
+    "mathematiques"
+  ],
+  "videos": [
+    {
+      "id": "MiUHjLxm3V0",
+      "title": "The Ridiculous Engineering Of The World's Most Important Machine",
+      "description": "The insane machines that make the most advanced computer chips. Sponsored by Brilliant - To learn for free for a full 30 days, go to https://brilliant.org/veritasium and get started. Plus, our viewers get 20% off an annual Premium subscription for unlimited daily access to all Brilliant courses. \n\n▀▀▀\n0:00 The Machine That Saved Moore’s Law\n3:12 How are microchips made?\n9:11 What is extreme ultraviolet lithography?\n15:04 Nuclear Fusion To The Rescue \n21:59 How ASML Conquered The Chip World\n35:35 Who are ASML’s biggest customers?\n37:40 The Most Important Tech Company In The World\n41:25 Inside ASML \n\n▀▀▀\nA big thank you to Marc Assinck, Jos Benschop, Jan van Schoot, and Jayson Stewart and the rest of the team at ASML.\n\nWe are also incredibly grateful to Vivek Bakshi, Andy Hawryluk, Marc Hijink, Asianometry & Claude Montcalm for their time and expertise. \n\nIf you want to learn more about ASML and how they developed EUV, check out Marc Hijnk's book “Focus: The ASML way”  - https://focus-dewereldvanasml.nl/\n\nExplore the Asianometry channel (including a wealth of EUV videos) here - https://www.youtube.com/@Asianometry\n\nSee Jayson Stewart’s article on the EUV light source and supernovas here - https://spectrum.ieee.org/euv-light-source\n\n\n▀▀▀\nReferences: https://ve42.co/ASMLRefs\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Damien, Dave Kircher, David Johnston, David Tseng, EJ Alexandra, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Hayden Christensen, Ibby Hadeed, Jeromy Johnson, Jon Jamison, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures, wolfee\n\n▀▀▀\nWriters: Sulli Yost, Casper Mebius & Derek Muller\nProducer and Director: Sulli Yost \nPresenters: Derek Muller & Casper Mebius\nEditor: Trenton Oliver\nAdditional Editors: Spencer Wright, James Stuart & Peter Nelson\nAnimators: Andrew Neet, Emma Wright, Fabio Albertelli, & Mike Radjabov\nCamera Operators: Sulli Yost, Richard van Rijn, Derek Muller & Casper Mebius\nResearchers: Gabe Strong, Callum Cuttle & Aakash Singh Bagga\nThumbnail Designers: Ren Hurley, Ben Powell & Abdallah Rabah\nProduction Team: Josh Pitt, Matthew Cavanagh, Anna Milkovic & Katy Southwood \nExecutive Producers: Casper Mebius & Derek Muller\n\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT55M",
+      "published_at": "2025-12-31T15:37:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/MiUHjLxm3V0/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "piHGnG4LsmQ",
+      "title": "The Future of Veritasium",
+      "description": "Am I retiring?\n\n▀▀▀\nReferences: https://ve42.co/AnnouncementRefs\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Damien, Dave Kircher, David Johnston, David Tseng, EJ Alexandra, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Hayden Christensen, Ibby Hadeed, Jeromy Johnson, Jon Jamison, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures, wolfee\n\n▀▀▀\nWriter and Director: Derek Muller\nEditor: Trenton Oliver\nAdditional Photography: James Horsley, Callum Cuttle, and Miguel Duarte\nResearcher: Aakash Singh Bagga\nAnimator: Peter Nelson\nProduction Team: Katy Southwood, Josh Pitt & Matthew Cavanagh\nExecutive Producer: Derek Muller\n\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound and Jonny Hyman\n\n▀▀▀\nElements of Truth Game: https://www.kickstarter.com/projects/elements-of-truth/elements-of-truth-by-veritasium/description \nSnatoms: https://snatoms.com/\nVeMail: https://veritasium.kit.com/posts",
+      "duration": "PT17M35S",
+      "published_at": "2025-12-24T14:29:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/piHGnG4LsmQ/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "NIk_0AW5hFU",
+      "title": "There Is Something Faster Than Light",
+      "description": "How an argument between Einstein and Bohr changed quantum mechanics forever. \n\nSponsored by NordVPN - 🌏 Get exclusive NordVPN deal here: https://NordVPN.com/veritasium It’s risk free with Nord’s 30 day money-back guarantee!✌\n\n▀▀▀\nThank you to Dr Adam Becker for his help with this video - check out his book here https://ve42.co/WhatReal  \n\nAnd special thanks to Thierry Avignon, Benjamin Vest, and Lionel Jacubowiez of the Institut d'Optique Graduate School - Laboratoire d'Enseignement Expérimental (LEnsE)\n\nCorrection: \n30:53 Electrons and Positrons not Protons\n\n▀▀▀\n0:00 The Speed of Gravity\n3:07 Spooky Action at a Distance\n5:21 The Copenhagen Interpretation\n9:12 The EPR Paradox and Hidden Variables\n17:25 Einstein vs Bohr\n20:51 John Bell and Entanglement \n22:14 Bell’s Theorem \n29:30 The Bell Inequality Test\n33:41 The Most Misunderstood Experiment in Physics\n35:06 The Locality Problem \n40:37 The Many-Worlds Interpretation\n\n▀▀▀\n\nReferences:\nAdam Becker (2018). What is Real?. Basic Civitas Books - ve42.co/WhatReal \nEinstein-Podolsky-Rosen paradox via Wikipedia - ve42.co/EPRWiki \nEinstein, A. et al. (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?. American Physical Society (APS) - ve42.co/EPR \nSolvay Conference via Wikipedia - ve42.co/SolvayConf \nOwen Willans Richardson Photo Galley via nobelprize.org - ve42.co/SolvayPhoto \nBohr-Einstein debates via Wikipedia - ve42.co/BohrEinDeb \nBacciagaluppi, G and Valentini, A (2009). Quantum Theory at the Crossroads. Cambridge University Press - ve42.co/Crossroads \nBohr, N. (1935). Can Quantum-Mechanical Description of Physical Reality be Considered Complete?. American Physical Society (APS) - ve42.co/BohrResp \nThe Solvay Conference via rarehistoricalphotos.com - ve42.co/SolvayImg \nKragh, H. (2022). Chemists Without Knowing It?. Firenze University Press - ve42.co/BhorsConferenceImg \nEinstein Attacks Quantum Theory. The New York Times via nytimes.com - ve42.co/EinsteinAttackQT \nOral History Interviews via repository.aip.org - ve42.co/BohrInterview \n\nImages & Video:\nImage and video references can be found here - https://ve42.co/BellsImRefs \n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Damien, Dave Kircher, David Johnston, David Tseng, EJ Alexandra, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Hayden Christensen, Ibby Hadeed, Jeromy Johnson, Jon Jamison, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures, wolfee\n\n▀▀▀\n\nWriters: Mithuna Yoganathan, Casper Mebius & Derek Muller\nProducer & Director: Mithuna Yoganathan\nEditor: Spencer Wright\nCamera Operators: Mithuna Yoganathan,  Derek Muller and Maxime Beauquesne\nAnimators: Alex Drakoulis, Fabio Albertelli, Emma Wright, Andrew Neet and Peter Nelson\nIllustrators: Jakub Misiek, Katheryn Chan, Grace Nemanic, Isaac McCree and Natalky Zhuk\nAssistant Editor: James Stuart\nResearchers: Gabe Strong and Sophia Long\nThumbnail Designers: Abdallah Rabah, Ren Hurley & Ben Powell\nProduction Team: Katy Southwood, Josh Pitt, Anna Milkovic and Matthew Cavanagh\nExecutive Producers: Derek Muller & Casper Mebius\n\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound\n\nNotes\n\n*When we show the Stern Gerlach experiment we’ve chosen to flip the polarity of the machine when measuring a positron. This is because both its spin and charge should oppose the electron’s. This would mean both would bend in the same direction! We’re interested in seeing the difference in the spins so we flip the machine to make this clearer. \n\n**We show curved spacetime using Flamm’s Parabaloid, which we discovered is controversial, more notes on that here - https://ve42.co/HBDFlamm",
+      "duration": "PT44M16S",
+      "published_at": "2025-12-19T06:03:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/NIk_0AW5hFU/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "nMqWWO6p7-c",
+      "title": "What is this strange pattern down the east coast of America?",
+      "description": "There is this strange pattern of bodies of water all down the east coast of America and most of them point northwest. \n\nThey're called Carolina Bays as they're found predominantly in the Carolina states, and they're home to some crazy wildlife. \n\nBut how did they form?",
+      "duration": "PT2M4S",
+      "published_at": "2025-12-11T14:01:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/nMqWWO6p7-c/hqdefault.jpg",
+      "tags": [
+        "geographie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "Y-W-w8yNiKU",
+      "title": "The Man Who Accidentally Discovered Antimatter",
+      "description": "How Paul Dirac uncovered the anti-universe. Sponsored by Hostinger - visit https://ve42.co/hostinger and use the code VERITASIUM to get an extra discount on top of the sale prices.\n\nGet your exclusive edition of Veritasium’s first tabletop game - join 8,000+ backers - https://ve42.co/did\n\n▀▀▀\nA huge thank you to Graham Farmelo and Cumrun Vafa for their invaluable expertise and contributions to this video. \n\nA special thanks to Matteo Arfini for his help with this video.\n\nCheck out Graham Farmelo’s books here - https://grahamfarmelo.com/ \n\nExplore Cumrun Vafa’s research here - https://www.cumrunvafa.org/ \n\nThank you also to Florida State University and Caltech for their fantastic archives.\n\nYou can find the digitized materials from the FSU’s Paul A. M. Dirac Collection here -  https://ve42.co/FSUdirac - and more about the discovery of the positron here - https://ve42.co/CalispherePositron \n\n▀▀▀\n0:00 Can Negative Energy Exist?\n3:27 The Schrödinger Equation Is Wrong\n8:33 The Strangest Man In Physics\n11:01 Dirac and the Klein-Gordon equation\n17:27 Heisenberg’s Uncertainty Principle\n20:54 The Dirac Equation\n24:21 The Saddest Chapter in Modern Physics\n26:35 The Anti-Electron\n29:57 Antiparticles Travel Backwards In Time\n31:24 The Anti-World \n\n\n▀▀▀\nReferences can be found here - https://ve42.co/DiracRefs \n\nImage and video references can be found here - https://ve42.co/DiracVisuals \n\n▀▀▀\nSpecial thanks to our Patreon supporters: Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Anupam Banerjee, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Hayden Christensen, Ibby Hadeed, Jeromy Johnson, Jon Jamison, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures, wolfee\n\n▀▀▀\nWriters: Lily Shepherd, Casper Mebius & Derek Muller\nProducer & Director: Lily Shepherd \nEditors: Jonny Lennard\nCamera Operators: Casper Mebius\nAnimators: Andrew Neet, Emma Wright, Fabio Albertelli & Peter Nelson\nIllustrators: Jakub Misiek & Nataly Zhuk\nAssistant Editors: James Horsley & James Stuart\nResearchers: Callum Cuttle & Sophia Rose \nThumbnail Designers: Abdallah Rabah, Ren Hurley & Ben Powell\nProduction Team: Katy Southwood & Josh Pitt\nExecutive Producers: Derek Muller & Casper Mebius\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT35M23S",
+      "published_at": "2025-12-05T09:47:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y-W-w8yNiKU/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences",
+        "histoire"
+      ]
+    },
+    {
+      "id": "Bb0uDpvitoE",
+      "title": "I Turned My Phone Into A Microscope",
+      "description": "#Sponsored @madebygoogle A single drop of water is all it takes to turn the new Google #Pixel10Pro into a makeshift microscope.\n\nPromotional code offer expires 12/05/2025 at 11:59p.m. PT; while supplies last. Must be redeemed on Google Store only. User must be signed-in to their Google Account and checkout with Google Pay profile, including a valid form of payment. Limit 1 per customer.Available only to US residents, aged 18 years or older, with US shipping addresses. Google Pay profile must be registered in the US and promotional code can only be used in the US.To redeem, visit store.google.com, add the desired item to the cart, then enter promotional code during checkout for an instant discount on your purchase on one of four eligible items: Pixel 10 (unlocked), Pixel 10 Pro (unlocked), Pixel 10 Pro XL (unlocked), Pixel 10 Pro Fold (unlocked). Promotional code is for one-time use only with no residual balance; is not transferable; and is not valid for cash or cash equivalent. May be combined with other offers on Google Store. Void where prohibited. Terms of sale and additional Promotional code terms apply: https://store.google.com/terms/google_store_promo_codes",
+      "duration": "PT1M42S",
+      "published_at": "2025-11-27T15:04:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/Bb0uDpvitoE/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "HBluLfX2F_k",
+      "title": "You've (Likely) Been Playing The Game of Life Wrong",
+      "description": "The world is not Normal. Sponsored by NordVPN. 🌏 Get exclusive NordVPN deal here ➵  https://NordVPN.com/veritasium It’s risk free with Nord’s 30 day money-back guarantee!✌\n\nGet your exclusive edition of Veritasium’s first tabletop game - join 6,000+ backers - https://ve42.co/pld\n\nTo play around with the simulations in the video, you can follow these links:\nSandpiles - https://www.veritasium.com/simulation3 \nIsing model (magnetism) - https://www.veritasium.com/simulation4\nForest fires - https://www.veritasium.com/simulation5  \n\n▀▀▀\nA huge thanks to Steven Strogatz, Mark Buchanan and Mark Newman for their time and expertise.\n\n▀▀▀\nCHAPTERS: \n0:00 What is a power law?\n4:31 Expected Values\n8:49 The St. Petersburg Paradox\n11:37 Outliers Dominate Averages\n15:23 Fractals and Power Laws \n19:28 Self-Organized Criticality\n24:08 Why do we light controlled forest fires?\n26:40 How We Can Predict Earthquakes\n32:11 Critical Systems and Universality \n36:31 How Some Businesses Are Built On Power Laws \n39:30 What game are you playing? Normal or power?\n\n▀▀▀\nReferences: https://ve42.co/PowerLawsRefs\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Anupam Banerjee, armedtoe, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Hayden Christensen, Ibby Hadeed, Jeromy Johnson, Jon Jamison, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures & wolfee\n\n▀▀▀\nWriters - James Moore, Casper Mebius & Derek Muller\nProducer & Director - James Moore\nPresenters - Derek Muller & Casper Mebius\nEditors - Jack Saxon & Peter Nelson\nAnimators -  Fabio Albertelli, Emma Wright, Saif Javed & Andrew Neet\nAdditional Editor - James Stuart\nResearchers - Aakash Singh Bagga & Callum Cuttle\nSimulations - Aakash Singh Bagga\nThumbnail Designers - Abdallah Rabah, Ren Hurley & Ben Powell\nProduction Team -  Josh Pitt, Matthew Cavanagh, Anna Milkovic & Katy Southwood \nExecutive Producers - Derek Muller & Casper Mebius\n\n\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT45M13S",
+      "published_at": "2025-11-26T21:45:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/HBluLfX2F_k/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "gGtuw7Rejtk",
+      "title": "How Strong Is Super Glue?",
+      "description": "Why does superglue always stick to your hands and never what you want it to?\n\nAnd how strong is it really?",
+      "duration": "PT44S",
+      "published_at": "2025-11-21T14:47:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/gGtuw7Rejtk/hqdefault.jpg",
+      "tags": [
+        "chimie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "QtxVdC7pBQM",
+      "title": "Why don't jet engines melt?",
+      "description": "How does a jet engine not melt? Sponsored by KiwiCo - Use code VERITASIUM to get 50% off your first monthly KiwiCo Crate! https://www.kiwico.com/VERITASIUM \nWant to start your own crystal garden? https://www.kiwico.com/crystalchemistry\n\nOur friends at Science Alert are doing a sweepstakes where you can win a 5-day space themed vacation for two. The itinerary includes a trip to the Kennedy Space Center in Florida for astronaut training and a meet and greet with a NASA astronaut. If you’d like to be entered in the draw, just subscribe to their free science newsletter Spark. No purchase necessary. Open to US residents only.\nEnter here: https://www.sciencealert.com/spark-into-space-comp?utm_source=veritasium\n\nWe have a tabletop game launching! Check it out here! - https://ve42.co/kickstarterdje\n\n▀▀▀\n0:00 How a jet engine works\n3:18 Why are jet engines so big?\n5:17 The Inside of a Jet Engine\n8:49 Edge Dislocation\n11:11 The First Jet Engine\n12:48 Inside the Rolls-Royce Precision Casting Facility\n17:07 Nickel Superalloys - Gamma Prime\n23:58 Crystal Structure\n25:38 Making a Turbine Blade\n32:22 Why don’t turbine blades melt?\n35:30 Throwing Sand Into a Jet Engine\n\n▀▀▀\nA big thanks to Ben Todd, James Banks, Ben Fifoot, Doug Smith, Stefan Wagner, Rumaanah Hoosen and the rest of the team at Rolls-Royce. \n\nA huge thanks also to Professor Howard Stone and Dr George Wise from the University of Cambridge.\n\n\nWe’re also incredibly grateful to Professor Jaafar A. El-Awady, Dr Karen A Thole, Professor Cathie Rae, Professor Paul Withey, Professor Pedro Patrício, Professor José Tavares and Ryan Moreman for their time and expertise.\n\nThanks to Institute for Materials, Ruhr University Bochum, SFB Transregio 103 for the animation showing the microstructure of the nickel superalloy. Full youtube video here - https://www.youtube.com/watch?v=wYHch5QIWTQ\n\nThanks to Professor Hongbiao Dong for the animation showing the grain selection in a single crystal turbine blade. Full youtube video here: https://www.youtube.com/watch?v=br9iaeYYxSM\n\nReferences: https://ve42.co/JetEngineRefs\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Anupam Banerjee, armedtoe, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Hayden Christensen, Ibby Hadeed, Jeromy Johnson, Jon Jamison, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures & wolfee\n\n▀▀▀\n\nWriters - Emilia Gyles, Casper Mebius & Derek Muller \nProducer & Director - Emilia Gyles\nPresenters - Derek Muller & Henry Van Dyck\nEditor - Trenton Oliver\nCamera Operators - Jack Coathupe, Justin Wood, Emilia Gyles, Henry Van Dyck & Derek Muller\nAnimators -  Mike Radjabov, Emma Wright & Fabio Albertelli \nAdditional Editors - James Stuart & Peter Nelson\nResearcher - Aakash Singh Bagga\nThumbnail Designers - Ren Hurley, Ben Powell & Abdallah Rabah\nProduction Team -  Josh Pitt, Matthew Cavanagh, Anna Milkovic & Katy Southwood \nExecutive Producers - Casper Mebius & Derek Muller\n\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT39M34S",
+      "published_at": "2025-11-17T07:58:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/QtxVdC7pBQM/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "9M_QK4stCJU",
+      "title": "Why People Are So Confident When They're Wrong",
+      "description": "The problem with overconfidence. To help correct your overconfidence we have a tabletop game launching. Pledge your support now on kickstarter! - https://ve42.co/ocdsc \n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\nCHAPTERS:\n0:00 The Most Dangerous Cognitive Bias \n3:01 How confident are you that you are right?\n7:40 Why are people overconfident?\n8:53 The Real Dunning-Kruger Effect Graph\n10:22 How Your Brain Takes Shortcuts\n14:02 How overconfidence is good for you\n15:55 Nick Leeson Rogue Trader\n17:17 The Importance of Feedback\n18:45 How One of England's Oldest Banks Collapsed\n20:41 How To Correct Overconfidence\n\n▀▀▀\nA big thanks to Professor Moore and Professor Fischhoff\n\nThank you to everyone who played the game with us @hankschannel, @fryrsquared,  @NileRed , @astrumspace, @MinutePhysics and @LookingGlassUniverse \n\n▀▀▀\nReferences: https://ve42.co/OverconfidenceRefs \n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Hayden Christensen, Ibby Hadeed, Jeromy Johnson, Jon Jamison, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures & wolfee\n\n▀▀▀\nWriters: Gabe Strong & Derek Muller\nProducer & Director: Gabe Strong\nEditor: Max Tobin \nAdditional Editors: James Stuart, Peter Nelson and Jack Saxon\nCamera Operator: Casper Mebius and Gabe Strong\nAnimators: Alex Drakoulis & Fabio Albertelli\nIllustrator: Jakub Misiek\nResearchers: Naomi Dinmore \nAdditional researchers: Callum Cuttle\nThumbnail Designers: Abdallah Rabah, Ren Hurley & Ben Powell\nProduction Team: Josh Pitt, Matthew Cavanagh & Anna Milkovic\nExecutive Producers: Derek Muller & Zoe Heron \n\n\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT24M2S",
+      "published_at": "2025-11-12T23:24:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/9M_QK4stCJU/hqdefault.jpg",
+      "tags": [
+        "sciences"
+      ]
+    },
+    {
+      "id": "HVySQLuxLkI",
+      "title": "Seeing Inside A Thermite Reaction",
+      "description": "The world’s first look inside a thermite reaction.",
+      "duration": "PT2M33S",
+      "published_at": "2025-11-10T14:07:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/HVySQLuxLkI/hqdefault.jpg",
+      "tags": [
+        "chimie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "XX7PdJIGiCw",
+      "title": "The Most Controversial Idea in Biology",
+      "description": "Most people don’t fully understand evolution. Sponsored by Hostinger - visit https://ve42.co/hostingern8n and use the code VERITASIUM to get an extra discount on top of the sale prices.\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\nSign up for the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\nWe have a tabletop game launching! Pledge your support now - https://ve42.co/KickStarterD\n\n▀▀▀\n0:00 Why does poop smell bad?\n2:51 The Beginning Life\n7:15 What is gene mutation? \n8:01 Simulating Evolution\n13:25 How natural selection works \n16:39 What do we pass on?\n19:40 Kin Selection\n22:04 The Selfish Gene\n25:35 It’s all a simulation\n\n▀▀▀\nA big thanks to Dr. Jack Szostak at the University of Chicago, Dr. John Sutherland at Cambridge University, Dr. Joanna Masel at the University of Arizona & Dr. Gerald Joyce at the Salk Institute for their expertise and help with the video.\n\nAnd a huge thank you to Joe Hanson from @besmart for his help! \n\nCheck out @PrimerBlobs here! \n\nCheck out Richard Dawkins’ The Selfish Gene here - https://ve42.co/SGRD\n\n▀▀▀\nReferences: https://ve42.co/SelfishGeneRefs\n\nImages & Video:\nEmperor Penguins Chicks via National Geographic - https://ve42.co/NatGeoPenguin\nChild in bed - https://ve42.co/FeverChild\nPhoto of G.C. Williams - https://ve42.co/GCWilliams\nPhoto of J. M. Smith - https://ve42.co/JMSmith\nPhoto of Bob Trivers - https://ve42.co/RTrivers\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Anupam Banerjee, armedtoe, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Ibby Hadeed, Jeromy Johnson, Jon Jamison, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures, wolfee\n\n▀▀▀\n\nWriters: Gregor Čavlović, Casper Mebius, Daniel Leonard & Derek Muller\nProducer & Director: Gregor Čavlović\nEditor: Peter Nelson\nCamera Operator: Andrew Abballe\nAnimators: Fabio Albertelli, Andrew Neet, Emma Wright & Peter Nelson\nIllustrator: Jakub Misiek\nSimulations: Callum Cuttle\nResearchers: Aakash Singh Bagga & Callum Cuttle\nThumbnail Designers: Abdallah Rabah, Ren Hurley & Ben Powell\nProduction Team: Josh Pitt, Matthew Cavanagh, Anna Milkovic & Zoe Heron\nExecutive Producers: Derek Muller & Casper Mebius\n\n\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT28M50S",
+      "published_at": "2025-10-31T22:42:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/XX7PdJIGiCw/hqdefault.jpg",
+      "tags": [
+        "biologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "tWRyiCP17do",
+      "title": "Why didn't this skateboard stunt start from the top?",
+      "description": "This is the world's largest skateboard ramp from @redbull \n\nSandro Dias broke two world records skating down it but all we could think was...\n\nWhy didn't he start from the very top?",
+      "duration": "PT1M19S",
+      "published_at": "2025-10-29T16:03:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/tWRyiCP17do/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sport"
+      ]
+    },
+    {
+      "id": "h830G5mkTF4",
+      "title": "How To Solve a Quadratic Equation",
+      "description": "What does it mean to solve a quadratic equation by 'completing the square'? Here it is explained visually.\n\nA general solution to the cubic equation was long considered impossible, until we gave up the requirement that math reflect reality.",
+      "duration": "PT2M34S",
+      "published_at": "2025-10-26T13:32:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/h830G5mkTF4/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "scolaire"
+      ]
+    },
+    {
+      "id": "kh9OmFBg8qI",
+      "title": "How To See Atoms",
+      "description": "Here’s what happens when you just keep zooming in.",
+      "duration": "PT1M4S",
+      "published_at": "2025-10-17T13:00:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/kh9OmFBg8qI/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "S7xvqDUPoJo",
+      "title": "Renting A Helicopter To Settle A Physics Debate",
+      "description": "The story of a controversial physics question on the qualifying exam for the 2014 US Physics Olympiad team. How does a uniform cable beneath a helicopter hang?",
+      "duration": "PT1M34S",
+      "published_at": "2025-10-09T14:01:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/S7xvqDUPoJo/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "CYlon2tvywA",
+      "title": "Something Strange Happens When You Trace How Connected We Are",
+      "description": "The beautiful math behind six degrees of separation. Sponsored by Incogni - use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off.\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\nTo play around with the simulations in the video, you can follow these links:\nDisease spreading - https://www.veritasium.com/simulation2\nPreferential attachment - https://ve42.co/barabasiAlbertSim \n\n\n▀▀▀\nA huge thank you to: \nDuncan Watts, for creating the small-world model that inspired this video and expanding on his further work; Steve Strogatz, for telling the story with such clarity & humour; Albert-László Barabási, for revealing the the inevitability and impact of hubs; Mark Buchanan, for his insightful takeaways that pulled it all together.\n\nCheck out Duncan Watts’ books here - https://www.amazon.com/Six-Degrees-Science-Connected-Age/dp/0393325423\nCheck out Mark Buchanan’s book here - https://ve42.co/bookNexusWorlds \n\n▀▀▀\nChapters:\n0:00 What is six degrees of separation?\n4:23 Network Shortcuts\n7:11 The Strength of Weak Ties\n8:20 Proving it’s a small world\n10:39 How quickly can disease spread?\n12:36 Strogatz goes viral\n16:59 What is a network hub?\n18:23 Preferential Attachment\n23:38 The Prisoner’s Dilemma \n28:22 Your behavior can change the world’s\n\n\n▀▀▀\nReferences can be found here - https://ve42.co/networksRefs \n\nImage and video references can be found here - https://ve42.co/networksVisuals \n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAlex Porter, Alexander Tamas, Anton Ragin, Anupam Banerjee, Gnare, Ibby Hadeed, Jon Jamison, Juan Benet, Lee Redden, Meekay, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Ubiquity Ventures, Adam Foreman, Albert Wenger, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, gpoly, Jeromy Johnson, KeyWestr, Kyi, Marinus Kuivenhoven, Matthias Wrobel, meg noah, Michael Bush, Michael Krugman, Robert Oliveira, Tj Steyn & wolfee\n\n▀▀▀\nWriters: James Moore, Casper Mebius & Derek Muller\nProducer & Director: James Moore \nEditors: Peter Nelson & Jack Saxon\nCamera Operators: Derek Muller & Casper Mebius\nAnimators: Andrew Neet, Emma Wright, Fabio Albertelli & Ivy Tello\nIllustrators: Jakub Misiek\nAssistant Editor: James Stuart\nResearchers: Callum Cuttle, Aakash Singh Bagga & Gabe Strong \nSimulations: Callum Cuttle, Gabe Strong & Ivy Tello\nSound Designers: Pavle Peric & James Stuart\nThumbnail Designers: Abdallah Rabah, Ren Hurley & Ben Powell\nProduction Team: Josh Pitt, Nicola Griffiths & Rob Beasley Spence\nExecutive Producers: Derek Muller & Casper Mebius\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT33M17S",
+      "published_at": "2025-09-30T22:00:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/CYlon2tvywA/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences"
+      ]
+    },
+    {
+      "id": "onr80iOoEXs",
+      "title": "Alfred Nobel: The Man Who Fooled The World",
+      "description": "Discover the explosive story of Alfred Nobel. Sponsored by Opera - Upgrade your browsing experience with Opera today. Download it right here: https://opr.as/Opera-browser-veritasium\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\nWe have a tabletop game launching! Pledge your support now - https://ve42.co/KickStarterD\n\nCORRECTIONS:\n30:36 The molecular chain we showed here when talking about cellulose was actually starch, the glycosidic bonds should be bent (beta) not straight (alpha) bonds - Thank you to someriversong1793 for spotting this\n37:38 The animation shows the casing flying away with the bullet, this is incorrect, only the bullet accelerates down the barrel like that - Thank you to kettusnuhveli for pointing this out\n\n▀▀▀\nA huge thank you to Jesse Taylor for making the demonstrations possible and sharing his experience with us!\n\nAnd a big thanks to Dr. Katharine Tibbets, Dr. Julien Glorian & Sabrina DePiero for their expertise and participation in this video.\n\nAlso thanks to Steven Johnson, author of The Infernal Machine (as featured on 99% Invisible) and to Jonah Sachs and professor Terry Reynolds for their help on the project\n\n▀▀▀\n0:00 The Nobel Armament Factory\n4:18 Gunpowder vs Nitroglycerine\n10:58 How safe is nitroglycerin?\n14:50 Blast Caps\n19:09 Why does nitroglycerin explode on impact?\n22:19 The invention of dynamite\n26:56 Dynamite vs TNT\n27:53 Explosive Cotton - Gelignite\n32:43 The Merchant of Death\n35:42 Smokeless Guns\n38:04 The Birth of Terror\n42:08 Why did Nobel start the prize?\n43:11 What happened to Nobel?\n\n▀▀▀\nReferences: https://ve42.co/NobelRefs \n\nImages & Video: https://ve42.co/NobelImRefs \n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Anupam Banerjee, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Ibby Hadeed, Jeromy Johnson, Jon Jamison, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures, wolfee\n\n▀▀▀\nWriter, Director & Producer: Henry van Dyck\nPresenters: Derek Muller & Henry van Dyck\nEditor: Trenton Oliver\nCamera Operators: Wesley Wright, Prescott McCarthy, Joel Schöppe & Henry van Dyck\nAnimators: Andrew Neet, Fabio Albertelli, Emma Wright, Rokas Viksraitis, Saif Javed & Ivy Tello\nIllustrators: Jakub Misiek, Maria Gusakovich, Nataly Zhuk, Isaac McRee, Grace Nemanic, Sofia Constantini & Veronika Pasynkova\nAdditional Editors: James Stuart, Peter Nelson & Spencer Wright\nResearchers: Aakash Singh Bagga & Gabe Strong\nThumbnail Designers: Abdallah Rabah, Ren Hurley, Ben Powell & Henry van Dyck\nProduction Team: Josh Pitt, Nicola Griffiths, Rob Beasley Spence, Matthew Cavanagh, Anna Milkovic & Zoe Heron\nExecutive Producers: Casper Mebius & Derek Muller\n\nAdditional video/photos supplied by Getty Images, The David Rumsey Historical Map Collection, Pond5 & StoryBlocks\nMusic from Epidemic Sound",
+      "duration": "PT46M9S",
+      "published_at": "2025-09-21T14:13:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/onr80iOoEXs/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "sciences"
+      ]
+    },
+    {
+      "id": "q6WlXhtVvkg",
+      "title": "How to solve any maze",
+      "description": "By following this algorithm you can solve any maze in the world.",
+      "duration": "PT2M56S",
+      "published_at": "2025-09-18T13:00:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/q6WlXhtVvkg/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "informatique"
+      ]
+    },
+    {
+      "id": "b8XVCsXyIZs",
+      "title": "What Happens When You Spin a Football?",
+      "description": "The real impact of spin on a football—explained with ⁨@tombrady.",
+      "duration": "PT1M58S",
+      "published_at": "2025-09-14T13:00:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/b8XVCsXyIZs/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sport"
+      ]
+    },
+    {
+      "id": "tZ8ehplVFp4",
+      "title": "The Most Dangerous Escalator in the World",
+      "description": "The surprising science of escalators. Sponsored by Brilliant - check out https://brilliant.org/veritasium to start learning for free. \nPlus, our viewers get 20% off an annual Premium subscription for unlimited daily access to all Brilliant courses.\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\n\n▀▀▀\nA massive thank you to Emily Zhang for suggesting this idea and helping shape it.\n\nA huge thanks to the team at OTIS, especially Ed Jacovino, Gregory Sefcik and Dirk Winkelhake, for their time and expertise.\n\nThank you also to Professor Gero Gschwendtner, Professor Michael Fu, and Dr. Peter Kauffmann for all their help on the project.\n\n\n▀▀▀\n0:00 When escalators go wrong\n2:43 The first escalator\n5:01 How does an escalator work?\n8:35 Why do escalators have grooves?\n10:05 Why do escalators have brushes?\n10:21 The hand rail moves faster than the steps\n12:05 You generate electricity on escalators\n14:09 How does an escalator break?\n18:47 How safe are escalators really?\n\n\n▀▀▀\nReferences: https://ve42.co/EscalatorRefs\nImages & Video: https://ve42.co/EscalatorImgRefs\n\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAlex Porter, Alexander Tamas, Anton Ragin, Anupam Banerjee, Gnare, Ibby Hadeed, Jon Jamison, Juan Benet, Lee Redden, Meekay, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Ubiquity Ventures, Adam Foreman, Albert Wenger, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, gpoly, Jeromy Johnson, JT, Justin Waters, KeyWestr, Kyi, Marinus Kuivenhoven, Matthias Wrobel, meg noah, Michael Bush, Michael Krugman, Robert Oliveira, Tj Steyn, wolfee.\n\n▀▀▀\nWriters - Darius Garewal, Casper Mebius, Emily Zhang & Derek Muller\nPresenters - Derek Muller & Latif Nasser\nProducer & Director - Darius Garewal\nEditor - Spencer Wright \nCamera Operators - Derek Muller, Darius Garewal & Gregory Sefcik\nAnimators -  Mike Radjabov, Fabio Albertelli, Saif Javed, Andrew Neet & Rokas Viksraitis \nIllustrators - Jakub Misiek & Nataly Zhuk\nAdditional Editors - James Stuart, James Horsley, Peter Nelson & Kyle Rossiter\nResearchers - HyoJeong Choi, Callum Cuttle & Gabe Strong\nThumbnail Designers - Ren Hurley, Ben Powell & Abdallah Rabah\nProduction Team - Nicola Griffiths, Josh Pitt, Rob Beasley Spence & Casper Mebius\nExecutive Producers - Casper Mebius & Derek Muller\n\nAdditional video/photos supplied by Getty Images, Pond5 & StoryBlocks\nMusic from Epidemic Sound",
+      "duration": "PT22M18S",
+      "published_at": "2025-09-11T14:22:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/tZ8ehplVFp4/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "CxVXvFOPIyQ",
+      "title": "Exposing Why Farmers Can't Legally Replant Their Own Seeds",
+      "description": "This is the history of Monsanto’s herbicides… Sponsored by Incogni - Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off.\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\nWe have a tabletop game launching! Pledge your support now - https://ve42.co/KickStarterD\n\n▀▀▀\nA huge thank you to Carey Gillam at the New Lede, Nathan Donley at the Center for Biological Diversity, and Bart Elmore at Ohio State University for their time and expertise on the topic.\n\nA very special thank you to Prof. Dr. András Székács at the Hungarian University of Agriculture and Life Sciences\n\nCheck out Carey Gillam’s books here — https://ve42.co/Gillam\nCheck out Bart Elmore’s book here — https://ve42.co/SeedMoney\n\nThe opening music track “Another Offering” is from https://audiomachine.com/\n\n▀▀▀\n0:00 An Unusual Enemy\n5:18 Monsanto’s Secret Poison Problem\n11:17 Vietnam and Agent Orange\n14:08 Roundup\n19:31 How Monsanto Controls Seeds\n26:06 The Crop Mafia\n31:10 The Monsanto Papers\n41:18 How dangerous is Roundup really? \n\n▀▀▀\nReferences:\n\nReferences can be found here - https://ve42.co/MonsantoReferences\n\nImages & Video:\n\nImage and video references can be found here - https://ve42.co/MonsantoVisuals\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Ibby Hadeed, Jeromy Johnson, Jon Jamison, JT, Juan Benet, Justin Waters, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures and wolfee\n\n▀▀▀\nWriters: Gregor Čavlović, Casper Mebius & Derek Muller\nProducer & Director: Gregor Čavlović \nEditor: Spencer Wright & Peter Nelson\nCamera Operators: Gregor Čavlović, Henry van Dyck & Casper Mebius\nAnimators: Allama Nandi, Andrew Neet, Emma Wright, Fabio Albertelli, Ivy Tello, Rokas Viksraitis & Saif Javed\nIllustrators: Jakub Misiek, Maria Gusakovich, Veronika Pasynkova, Grace Nemanic, Isaac McRee, Nataly Zhuk & Hollisstudioo\nAssistant Editor: James Stuart & Fabio Albertelli\nAssistant Writer: Daniel Leonard\nSound Designer: Pavle Peric\nResearchers: Callum Cuttle, Aakash Singh Bagga, Gabe Strong & HyoJeong Choi\nThumbnail Designers: Abdallah Rabah, Ren Hurley & Ben Powell\nProduction Team: Josh Pitt, Nicola Griffiths, Matthew Cavanagh, Rob Beasley Spence & Zoe Heron\nExecutive Producers: Derek Muller & Casper Mebius\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT46M59S",
+      "published_at": "2025-08-31T19:24:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/CxVXvFOPIyQ/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "biologie"
+      ]
+    },
+    {
+      "id": "OW9Mq3wrEqY",
+      "title": "How aerogel can make the ocean drinkable",
+      "description": "This short was made in support of #TeamWater \n\n💧Support Team Water Here: https://www.TeamWater.org\n\nThe biggest YouTuber collab just happened on YouTube! Hundreds of creators got together to post a video about Team Water, a fundraiser launched by @MrBeast and @MarkRober to raise $40 million to give people all over the world clean drinking water!\n\nSpecial thanks to Xi Shen and his team at The Hong Kong Polytechnic University for all their help. ACS Energy Lett. 2025, 10, 7, 3419–3429.",
+      "duration": "PT2M43S",
+      "published_at": "2025-08-28T13:01:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/OW9Mq3wrEqY/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "technologie",
+        "environnement"
+      ]
+    },
+    {
+      "id": "AFXLZ7FEJc4",
+      "title": "This is the natural disaster to worry about",
+      "description": "The strange natural material that reshaped the world. Sponsored by Ground News -\nGo to https://groundnews.com/Ve to see through media misconceptions and get all sides of every story. Subscribe to save 40% off the unlimited Vantage Plan through our link.\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\n▀▀▀\nA huge thanks to Professor James Busfield, Dr. Katrina Cornish, and Dr. Judit Puskas\n\nWe’re incredibly grateful to Toby Samples and the team at ARDL for their time and expertise. \n\nThanks also to Joe Jackson, Dr. Kevin Krause, Dr. Peter Polyak, Donald Shultz, Professor Robert Weiss for all their help on the project.\n\n▀▀▀\n0:00 Where does rubber come from?\n2:59 What is rubber?\n5:10 Why is rubber so stretchy?\n6:29 The problem with natural rubber\n9:02 Cured Rubber\n15:23 Vulcanisation\n18:41 What rubber is used in tires?\n22:54 How fungi could destroy the world economy\n29:17 Synthetic rubber vs natural rubber\n38:20 Why are some people allergic to latex? \n\n▀▀▀\nReferences: https://ve42.co/RubberRefs\n\nImages & Video: https://ve42.co/RubberImgRefs\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Ibby Hadeed, Jeromy Johnson, Jon Jamison, JT, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures, Walter Flinn, and wolfee.\n\n▀▀▀\nWriters - Sulli Yost & Casper Mebius\nProducer & Director - Sulli Yost\nEditors - Jack Saxon & Peter Nelson\nCamera Operators - Adam Bonomo, Jacob Ruocchio-Cole, Henry van Dyck, Thomas Matheis, Derek Muller & Sulli Yost\nAnimators -  Allama Nandi, Andrew Neet, Emma Wright, Ivy Tello, Fabio Albertelli & Rokas Viksraitis\nIllustrators - Jakub Misiek & Maria Gusakovich\nAssistant Editor - James Stuart\nResearchers - HyoJeong Choi, Callum Cuttle & Gabe Strong\nThumbnail Designers - Ren Hurley, Ben Powell & Abdallah Rabah\nProduction Team - Zoe Heron, Casper Mebius, Josh Pitt, Rob Beasley Spence, Henry van Dyck & Sulli Yost\nExecutive Producers - Casper Mebius & Derek Muller\nAdditional video/photos supplied by Getty Images, Pond5 \nMusic from Epidemic Sound",
+      "duration": "PT41M7S",
+      "published_at": "2025-08-22T17:11:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/AFXLZ7FEJc4/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "environnement"
+      ]
+    },
+    {
+      "id": "zQ2ZJuUJeyo",
+      "title": "Can you swim in shade balls?",
+      "description": "I bought 10,000 shade balls and tried to swim in them. \n\nThey appear to act like a non-Newtonian fluid: rigid under high shear stress, but they flow like a liquid under low shear.",
+      "duration": "PT2M28S",
+      "published_at": "2025-08-19T08:35:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/zQ2ZJuUJeyo/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "physique"
+      ]
+    },
+    {
+      "id": "y2y8ME02lX4",
+      "title": "Testing the US Military’s worst idea",
+      "description": "Rods from God.\n\nThis is the nickname for a theoretical space weapon, in which large rods of tungsten would be dropped onto Earth based targets. \n\nThe idea behind this weapon is that the projectiles would build up enough speed, and thus kinetic energy, which would cause bomb-like destruction on the ground below. \n\nThe concept was devised during the Cold War but has faced heavy criticism both logistically and scientifically.\n\nHowever, it has certainly made its mark on science fiction, both appearing in and being referenced across many media, from TV to video games.\n\nBut could it work in practice? \n\nWe tested to find out.",
+      "duration": "PT1M",
+      "published_at": "2025-08-14T13:00:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/y2y8ME02lX4/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "AGglJehON5g",
+      "title": "The Perfect Battery Material Is Dangerous",
+      "description": "High-energy rechargeable batteries seemed impossible, until we made them. Sponsored by CodeRabbit. Cut code review time and bugs in half. Try CodeRabbit at https://coderabbit.link/veritasium\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\n▀▀▀\n0:00 What’s inside a battery?\n4:11 How does a battery work?\n7:15 How did we increase battery power?\n11:13 The first rechargeable lithium battery\n13:29 The Tiny Needles That Kill Batteries\n16:06 Goodenough? We can do better\n20:07 The birth of the lithium-ion battery\n27:10 Why do batteries explode?\n29:31 Blowing up a battery\n\n▀▀▀\nA massive thank you to Dr Billy Wu, Dr Sam Cooper, Dr Derek Sui, Professor Magda Titirici, Dr Jingyu Feng, Dr Monica Marinescu, Li Ren Thow, Genlin Liu and Sam Riley; and to Professor Guillermo Rein, Dr Harry Mitchell, Hanna Berry, and Dr Nick Kalogeropoulos at Imperial College London for their invaluable contributions to this video. And a big thank you to Conrad Duncan for all his help in pulling everything together.\n\nWe’re incredibly grateful to Kurt Kelty and the team at General Motors for their time and expertise. \n\nThanks also go to Dr Yuzhang Li and Prof Jay Morton Turner for all their help on the project.\n\n▀▀▀\nReferences: https://ve42.co/RefsBatteries\n\nImage References: https://ve42.co/ImgRefsBatt \n\n▀▀▀\nSpecial thanks to our Patreon supporters: \n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin,  armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Ibby Hadeed, JT, Jeromy Johnson, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, Ubiquity Ventures, Walter Flinn, wolfee\n\n▀▀▀\nWriters: Emilia Gyles, Casper Mebius, Gregor Čavlović & Derek Muller\nProducer & Director: Emilia Gyles\nEditor: Trenton Oliver\nCamera Operators: Tas Underwood, Emilia Gyles, Gregor Čavlović & Derek Muller\nAnimators: Andrew Neet, Emma Wright, Fabio Albertelli, Mike Radjabov & Rokas Viksraitis\nIllustrators: Jakub Misiek, Maria Gusakovich, Isaac McRee, Nataly Zhuk & Kaitlyn Chille\nAssistant Editor: James Stuart\nResearchers: HyoJeong Choi, Aakash Singh Bagga & Gabe Strong\nThumbnail Designers: Ren Hurley, Ben Powell & Abdallah Rabah\nProduction Team: Rob Beasley Spence & Josh Pitt\nExecutive Producers: Derek Muller & Casper Mebius\nAdditional video/photos supplied by Getty Images, Pond5 \nMusic from Epidemic Sound",
+      "duration": "PT34M42S",
+      "published_at": "2025-08-07T15:02:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/AGglJehON5g/hqdefault.jpg",
+      "tags": [
+        "chimie",
+        "technologie"
+      ]
+    },
+    {
+      "id": "UKfnXd3x-rw",
+      "title": "The blue LED was almost impossible to make",
+      "description": "LED's don't get their colour from their plastic covers. The blue LED was supposed to be impossible—until a young engineer proposed a moon-shot idea.",
+      "duration": "PT1M43S",
+      "published_at": "2025-08-02T13:09:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/UKfnXd3x-rw/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "KZeIEiBrT_w",
+      "title": "The Strange Math That Predicts (Almost) Anything",
+      "description": "How a feud in Russia led to modern prediction algorithms. \n👉 To try everything Brilliant has to offer for free for a full 30 days, visit https://brilliant.org/veritasium. You’ll also get 20% off an annual premium subscription.\n\nIf you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\nA huge thank you to Brian Hayes, David Aldous, Geoff Engelstein, Jeffrey Rosenthal, Jimmy He, Mark Priestley, Michael Choi,  Peter Norvig, Sam Power, and Thomas Haigh for their invaluable expertise and contributions to this video. \n\nAnd a special thank you to Madeline Johnson for her excellent fact-checking.\n\n▀▀▀\n0:00 The Law of Large Numbers\n4:37 What is a Markov Chain?\n9:43  Ulam and Solitaire\n12:21 Nuclear Fission\n15:46 The Monte Carlo Method\n16:32 The first search engines\n19:07 Google is born\n25:16 How does predictive text work?\n27:10 Are Markov chains memoryless?\n29:41 How to perfectly shuffle a deck of cards\n\n▀▀▀\nReferences:\nhttps://ve42.co/RefsMarkov \n\nImages & Video:\nhttps://ve42.co/7Z\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Ibby Hadeed, JT, Jeromy Johnson, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Meekay, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, TTST, Tj Steyn, Ubiquity Ventures, wolfee \n\n▀▀▀\nWriters: Kaela Albert, Casper Mebius & Derek Muller\nProducer & Director: Kaela Albert\nEditors: Peter Nelson & Jack Saxon\nCamera Operators: Gabe Strong, Gregor Cavlovic & Derek Muller\nAnimator: Andrew neet, Emma Wright, Fabio Albertelli & Ivy Trello\nIllustrator: Caine Esperanzo, Jakub Misiek & Maria Gustanovich\nAssistant Editor: James Stuart\nResearchers: Darius Garewal, Gabe Strong & Emilia Gyles\nThumbnail Designers: Ren Hurley & Ben Powell\nProduction Team: Rob Beasley Spence, Casper Mebius, Sulli Yost and Henry Van Dyck\nExecutive Producers: Derek Muller & Casper Mebius\nAdditional video/photos supplied by Getty Images, Pond5 and Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT32M32S",
+      "published_at": "2025-07-25T22:07:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/KZeIEiBrT_w/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "za_HO2E3JEU",
+      "title": "Why do all animals jump to about the same height?",
+      "description": "All animals jump to about roughly the same height, but why is this? Aren't some animals bigger and stronger than others?",
+      "duration": "PT1M39S",
+      "published_at": "2025-07-24T13:31:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/za_HO2E3JEU/hqdefault.jpg",
+      "tags": [
+        "biologie",
+        "physique"
+      ]
+    },
+    {
+      "id": "49NikeBCzWo",
+      "title": "Why did light bulb lifetimes get shorter?",
+      "description": "Planned obsolescence, explained. #veritasium #engineeering #lightbulbs",
+      "duration": "PT1M36S",
+      "published_at": "2025-07-17T18:56:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/49NikeBCzWo/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "physique"
+      ]
+    },
+    {
+      "id": "HCkGUOKAqH0",
+      "title": "What happens if you cut the green rope?",
+      "description": "How an unlikely physics paradox controls these counterintuitive structures.",
+      "duration": "PT1M44S",
+      "published_at": "2025-07-11T12:52:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/HCkGUOKAqH0/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "-QTkPfq7w1A",
+      "title": "This mechanism shrinks when pulled",
+      "description": "How an unlikely physics paradox controls these counterintuitive structures. Sponsored by Incogni - Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off.\n\nIf you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\nA huge thank you to Paul Ducarme and Bas Overvelde at AMOLF for showing us around. \nCheck out their research on counter-snapping structures here - https://ve42.co/CounterSnapping\n\nFor more on Braess’s Paradox, check out these great videos by Up and Atom (https://youtu.be/cALezV_Fwi0) and Steve Mould (https://www.youtube.com/watch?v=Cg73j3QYRJc)\n\n▀▀▀\n0:00 What happens if you cut this rope?\n1:41 The Spring Paradox\n4:59 New York’s Perplexing Discovery\n6:29 Road Networks and Traffic Flow\n8:40 Braess’s Paradox \n14:29 Snapping\n17:16 This object shrinks when you stretch it\n\n▀▀▀\nReferences:\n\nDucarme, P., Weber, B., Hecke, M. van, & Johannes. (2025). Exotic mechanical properties enabled by countersnapping instabilities. Proceedings of the National Academy of Sciences - https://ve42.co/CounterSnapping\nBraess's Paradox via Wikipedia - https://ve42.co/BraessWiki\nBraess, D., Nagurney, A., & Wakolbinger, T. (2005). On a Paradox of Traffic Planning. Transportation Science - https://ve42.co/Braess2005\nSchäfer, B., Pesch, T., Manik, D., Gollenstede, J., Lin, G., Beck, H.-P., … Timme, M. (2022). Understanding Braess’ Paradox in power grids. Nature Communications - https://ve42.co/Schafer2022\nKolata, G. (1990). What if They Closed 42d Street and Nobody Noticed? New York Times - https://ve42.co/Kolata1990\nYoun, H., Gastner, M. T., & Jeong, H. (2008). Price of Anarchy in Transportation Networks: Efficiency and Optimality Control. Physical Review Letters - https://ve42.co/Youn2008\nNicolaou, Z. G., & Motter, A. E. (2012). Mechanical metamaterials with negative compressibility transitions. Nature Materials - https://ve42.co/Nicolaou2012\nCounter-Snapping replication package - https://ve42.co/CSPackage\n\nImages & Video:\n\nEarth Day Festivities via VHS Music Rarities - https://www.youtube.com/watch?v=0awPgHjn2nY\nEarth Day Speeches - https://www.youtube.com/watch?v=RMDI3kXpeQ8\n1990s New York via NYC Nostalgia - https://www.youtube.com/watch?v=0YaFxTw0VqM\n42nd Street Closure via Trainluvr - https://www.youtube.com/watch?v=gELde63Fzio\n42nd Street Traffic Operator - https://ve42.co/NYCTraffic\nDietrich Braess via opc.mfo.de -  https://ve42.co/BraessOPC\nDietrich Braess via Wikipedia - https://ve42.co/BraessWikiPic\nBelt Buckle via Mingda Hardware - https://ve42.co/BeltBuckle\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Charles Ian Norman Venn, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Jeromy Johnson, Jon Jamison, JT, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, and wolfee\n\n▀▀▀\nWriters: Gregor Čavlović & Derek Muller\nProducer & Director: Gregor Čavlović\nEditors: James Stuart & Trenton Oliver\nCamera Operators: Sander Mook, Dylan Meanwell, Fabio Albertelli, Casper Mebius & Gregor Čavlović\nAnimator: Fabio Albertelli\nIllustrator: Jakub Misiek\nAdditional Editor: Peter Nelson & James Horsley\nResearchers: Darius Garewal & Gabe Strong\nThumbnail Designers: Ren Hurley & Ben Powell\nProduction Team: Rob Beasley Spence, Tori Brittain & Matthew Cavanagh\nExecutive Producers: Derek Muller & Casper Mebius\n\nAdditional video/photos supplied by Getty Images, Pond5. \nMusic from Epidemic Sound",
+      "duration": "PT23M7S",
+      "published_at": "2025-06-30T18:02:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/-QTkPfq7w1A/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "Jqz_YuyXKJI",
+      "title": "There are 96 million black balls on this lake",
+      "description": "I took a boat through 96 million black plastic balls on the Los Angeles reservoir to find out why they're there. \n\nThe first time I heard about shade balls the claim was they reduce evaporation. \n\nBut it turns out this isn't the reason they were introduced.",
+      "duration": "PT1M7S",
+      "published_at": "2025-06-24T16:40:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/Jqz_YuyXKJI/hqdefault.jpg",
+      "tags": [
+        "environnement",
+        "technologie"
+      ]
+    },
+    {
+      "id": "x32Zq-XvID4",
+      "title": "The Obviously True Theorem No One Can Prove",
+      "description": "This deceptively simple math problem has stumped mathematicians for almost 300 years! 👉 Head to https://hensonshaving.com/veritasium and enter code 'Veritasium' for 100 free blades with the purchase of a razor. Make sure to add both the razor and the blades to your cart for the code to take effect.\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\nA huge thank you to Steven Strogatz, Alex Kontorovich, Harald Helfgott, Senia Sheydvasser, Jared Duker Lichtman, Roger Heath-Brown, Kevin Ford, Carl-Fredrik Nyberg Brodda, Kaneenika Sinha & Shehzad Hathi for their invaluable expertise and contributions to this video.\n\nLook out for the upcoming @fern-tv  video on the tragic life of Srinivasa Ramanujan! A huge thank you to Ruben Katschko, Mathias Hawk, Chris Varga, Elmer and David from fern for working with us!\n\nThe full interview with Steven Strogatz is out now, exclusive to Patreon! - https://www.patreon.com/c/veritasium\n\n▀▀▀\n0:00 What is Goldbach’s Conjecture?\n4:33 Goldbach and Euler\n7:03 The Prime Number Theorem\n11:16 The Genius of Ramanujan\n14:57 The Circle Method\n27:31 Proving the Weak Goldbach Conjecture\n32:40 Math vs Mao\n36:06 Back to Chen Jingrun\n37:15 How you can prove the Strong Goldbach Conjecture \n\n▀▀▀\nReferences:\nReferences can be found here - https://ve42.co/GoldbachRefs\n\nImages & Video:\nImage and video references can be found here - https://ve42.co/GoldbachVisuals\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Charles Ian Norman Venn, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, iRick, Jeromy Johnson, Jon Jamison, JT, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee\n\n▀▀▀\nWriters: Casper Mebius & Derek Muller\nAdditional Writers: Darius Garewal, Callum Cuttle & Aakasha Bagga\nProducer & Director: Casper Mebius\nEditors: Jack Saxon & Peter Nelson\nCamera Operators: Casper Mebius & Derek Muller\nAnimators: Fabio Albertelli, Emma Wright, Ivy Tello, Allama Nandii, Emma Foster, Mike Radjabov & Andrew Neet\nIllustrators: Maria Gusakovich, Jakub Misiek & Caine Esperanza\nAssistant Editor: James Stuart\nResearchers: Darius Garewal, Geeta Thakur & Gabe Strong\nThumbnail Designers: Ren Hurley & Ben Powell\nProduction Team: Rob Beasley Spence, Tori Brittain, Casper Mebius & Gregor Čavlović\nAdvice & Feedback: Gregor Čavlović\nExecutive Producers: Derek Muller & Casper Mebius\n\nAdditional video/photos supplied by Getty Images, Pond5. \nMusic from Epidemic Sound",
+      "duration": "PT42M34S",
+      "published_at": "2025-06-20T13:01:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/x32Zq-XvID4/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "J3i3F2e4IYs",
+      "title": "The Biggest Misconception in Football (ft. Tom Brady)",
+      "description": "Even the GOAT Tom Brady can’t throw a perfect spiral. Here’s why. 🌏 Get exclusive NordVPN deal here ➵  https://NordVPN.com/veritasium It’s risk free with Nord’s 30 day money-back guarantee!✌\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\nA huge thank you to Tom Brady for coming and throwing some footballs with us and letting us analyse his throw.  You can check out his channel here: https://www.youtube.com/@tombrady \n\nAlso thank you to Kevin Bonner and the team at Shadow Lion for helping make this happen!\n\nA big thanks to Daniel Hare and Wilson for all their help collecting and analyzing the data. \n\nA massive thank you to Prof. Philip Ansell, David Attig, Matt Brotnow, Sam Hince and Derrick Wiberg at the University of Illinois at Urbana-Champaign for all their work testing out footballs in their wind tunnel (more of that to come in our second video).  \n\nWe’d also like to shout out Stewart Bible, Ryan Sayko and the rest of the team at Resolved Analytics for all their work on the CFD models - https://www.resolvedanalytics.com/\n\nThank you to Mike Lopez and Tom Bliss from the Football Data and Analytics at the NFL for sharing data and insights from across NFL history.\n\nWe’re incredibly grateful to Prof. Richard Price and Major Brett Gibbons for their invaluable contributions to this video.\n\nThank you to Prof. Chad Orzel, Prof. John Eric Goff, Dr Ainissa Ramirez, Prof. Tony Schmitz & Jonathan Ferguson for all their help on the project.\n\nAlso thanks to Chris Anstis for his help as a stand-in QB!\n\n▀▀▀\n0:00 How Tom Brady Throws a Football\n2:51 Why do you spin a football to throw it?\n5:36 How does rifling affect a projectile? \n9:09 The Turnover Paradox\n11:15 How fast can Tom Brady throw?\n14:31 Analysing Brady’s Throw \n16:38 Gyroscopic Procession\n19:47 It’s impossible to throw straight\n23:17 Outdoor vs Dome Stadiums\n24:31 Why Tom Brady is the GOAT\n\n▀▀▀\n\nReferences:\nReferences can be found here - https://ve42.co/BradyReferences \n\nImages & Video:\nImage and video references can be found here - https://ve42.co/BradyVisuals \n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Charles Ian Norman Venn, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, iRick, Jeromy Johnson, Jon Jamison, JT, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee\n\n▀▀▀\n\n\nProducer & Director: Henry van Dyck\nWriting: Henry van Dyck & Derek Muller\nEditor: Trenton Oliver\nAnimators: Mike Radjabov & Fabio Albetelli \nIllustrator: Jakub Misiek\nResearchers: Emilia Gyles & Gabe Strong\nField Producer: Katy Savage\nCamera Operators: John Nicholls, Trenton Oliver, Melkwych Pierre-Louis & Scott Wellington\nDrone Operators: Nathan Taupez Scinto, Angelo Fiorini\nSound Recordist: Vlady Garcia\nProduction Assistant: Leah Jiji\nMedia Manager: Gabriel C. Rodriguez\nAssistant Editor: James Stuart\nThumbnail Designers: Ren Hurley & Ben Powell\nProduction Team: Josh Pitt, Rob Beasley Spence, Tori Brittain & Barbara Abraul\nExecutive Producers: Derek Muller & Zoe Heron\n\nAdditional video/photos supplied by Getty Images\nMusic from Epidemic Sound",
+      "duration": "PT27M17S",
+      "published_at": "2025-06-01T05:31:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/J3i3F2e4IYs/hqdefault.jpg",
+      "tags": [
+        "sport",
+        "sciences"
+      ]
+    },
+    {
+      "id": "zeZddwimLc8",
+      "title": "Why do planes fly so high?",
+      "description": "Now, it’s true that one of the benefits of flying at 30,000 ft is a smoother ride. This is high in the troposphere, the layer in which most weather occurs. So, there’s less turbulence and fewer storms to navigate around.\n\nBut this is not the main reason that planes fly so high.",
+      "duration": "PT1M4S",
+      "published_at": "2025-05-21T14:31:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/zeZddwimLc8/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "SC2eSujzrUY",
+      "title": "How One Company Secretly Poisoned The Planet",
+      "description": "The biggest chemical cover up in history. PFAS has polluted the entire global water system. Now, potentially dangerous forever chemicals are being found in the entire US population. Go to https://groundnews.com/Ve to get all sides of every story. Subscribe to save 40% off the unlimited Vantage Plan through our link.\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\nWe have a tabletop game launching! Pledge your support now - https://ve42.co/KickStarterD\n\n▀▀▀\n0:00 Killed by Fridges\n5:27 Teflon and The Manhattan Project\n7:59 Teflon is Tricky\n11:37 The Teflon Revolution\n13:27 Earl Tennant's Farm\n17:34 Inside DuPont\n20:28 Fluoride In Drinking Water \n25:00 It's bigger than that\n29:23 What is PFAS?\n35:56 How much PFAS is in Derek’s blood?\n37:56 How forever chemicals get into your blood\n46:18 Removing PFAS from drinking water\n49:30 Can you lower your PFAS levels?\n\n▀▀▀\nA huge thank you to Rob Bilott for his time and expertise. Check out his fantastic book: Bilott, R. (2019). Exposure. Simon and Schuster - https://ve42.co/7R\n\nRob's story also inspired the 2019 film: Dark Waters.\n\nThank you to Doctor Mike for giving us a medical perspective on PFAS! Check him out at @DoctorMike \n\nThank you to Henrik Haggeman and the Puraffinity team, as well as Andrew Patterson and Eurofins, for doing the PFAS testing.\n\nThank you to Leslie Hamilton, Johns Hopkins APL, Alex Conrad, Imperial College London, Jana Avgustini, and Matija Krvavica for their help on the project.\n\n▀▀▀\nPFAS Tools: \nPFAS Blood Test - https://ve42.co/PFASTest\nWhat's My Exposure? via www-pfas.pfas-exchange.org - https://ve42.co/myexposure\nSerum PFAS Calculator via ics.uci.edu - https://ve42.co/pfascalculator\nInteractive Map: PFAS Contamination Crisis via www.ewg.org - https://ve42.co/pfasmapinteractive\nThe Map of Forever Pollution via foreverpollution.eu - https://ve42.co/foreverpollutionmap\nAustralian PFAS Chemicals Map via pfas.australianmap.net - https://ve42.co/australianpfasmap\n\n▀▀▀\nReferences:\n\nReferences can be found here - https://ve42.co/PFASReferences\n\nImages & Video:\n\nImage and video references can be found here - https://ve42.co/PFASVisuals\n\n3D Models:\n\n\"Low Poly Base Mesh-530 Tri\" (https://skfb.ly/onsxE) by Huge_Man\n\"Blood Vessel\" (https://skfb.ly/owHJX) by IMU University\n“Generic Factory” (https://skfb.ly/onQpR) by assetfactory\n\"Lowpoly People + Waldo\" (https://skfb.ly/6zqCE) by Loïc Norgeot \nPFOA Molecule via PubChem - https://pubchem.ncbi.nlm.nih.gov/compound/Perfluorooctanoic-acid\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, iRick, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Samuel White, TTST, Tj Steyn, Ubiquity Ventures, wolfee\n\n▀▀▀\nWriters: Gregor Čavlović & Derek Muller\nProducer & Director: Gregor Čavlović\nEditors: Peter Nelson & Jack Saxon\nCamera Operators: Tas Underwood, Emilia Gyles, Gregor Čavlović & Derek Muller\nAnimators: Andrew Neet, Emma Wright & Fabio Albertelli\nIllustrators: Caine Esperanza, Jakub Misiek & Maria Gusakovich\nAssistant Editor: James Stuart\nAdditional Editor: James Horsley\nResearchers: Geeta Thakur, Darius Garewal, Gabe Strong & Emilia Gyles\nThumbnail Designers: Ren Hurley & Ben Powell\nProduction Team: Rob Beasley Spence, Tori Brittain, Casper Mebius, Sulli Yost & Matthew Cavanagh\nExecutive Producers: Derek Muller & Zoe Heron\n\nAdditional video/photos supplied by Getty Images, Pond5. \nMusic from Epidemic Sound",
+      "duration": "PT54M8S",
+      "published_at": "2025-05-14T14:07:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/SC2eSujzrUY/hqdefault.jpg",
+      "tags": [
+        "environnement",
+        "chimie"
+      ]
+    },
+    {
+      "id": "Q56PMJbCFXQ",
+      "title": "How a Student's Question Saved This NYC Skyscraper",
+      "description": "How a single phone call from a student helped uncover a flaw that nearly toppled Citicorp. Get an exclusive 15% discount on Saily data plans! Use code veritasium at checkout. Download Saily app or go to https://saily.com/veritasium \n\nIf you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nCorrection: From construction images of Citicorp, sharp-eyed viewers might see that the mid-V columns are still there. Those columns help prevent buckling of the diagonal and the weight of people on the floor above, but do not take the majority of the gravity load. So we left them out of our diagram to clearly explain the load paths. See page 70 of this source for more details - https://drive.google.com/file/d/1ODFo66-_V7Y9vKANbj53mQ0z20RZ2Uai/view\n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\n0:00 Why is the citicorp building on stilts?\n4:44 How wind load works\n7:49 Tuned Mass Dampers \n11:17 The Anonymous Student\n14:00 Quartering Winds\n18:38 What were the odds of collapse?\n20:31 How was the citicorp building fixed?\n25:40 Hurricane Ella\n27:00 TMDs Take Over The World\n28:36 Conspiracies and Cover Ups\n\n▀▀▀\nA big thank you for the incredible people without whom we couldn't have done this! 🖤\n\nTo Michael Greenburg, author of The Great Miscalculation, for his insights that really brought the story and its context to life. He gave us a pre-copy of his upcoming book, and it is fantastic: https://ve42.co/Miscalc\nTo Eric Hines for all his help with the technical details, fact-checking, and making sure we got the engineering right.\nTo Michael J. Vardaro for helping us uncover the details of the story and the resources he provided. \nTo Brock Hedegaard for helping us dive deep into the Citicorp structural analysis. Learn the fundamentals of structural analysis on his brilliant channel, @StructuresProfH, and see here for his analysis of the citicorp center; https://www.youtube.com/watch?v=lE_DspFE2ZM\nTo Michele Barbato from UC Davis for his inputs on the load calculations.\nhttps://faculty.engineering.ucdavis.edu/barbato/\nMatt from @mvvvc  for talking us through his wind load analysis.\nTo Prof. Chris Letchford who helped us understand the impact of wind on Citicorp's structure. \nTo DongHun Yeo from NIST for discussing his research about wind effects on buildings similar to citicorp: https://ve42.co/WindLoad\nFinally, to Team Columbia —who built the epic TMD and ran wind tunnel experiments that made this story come alive.\nThis includes the folks at the Mechanical Engineering Teaching Laboratory\n(Follow all the cool stuff they’re doing: @mechcu, @columbiaengineering or visit https://teachinglab.me/)\nAmanda Lombardo, Manager of Instructional Laboratories\nDaniela Durón García, Assistant Manager of Instructional Laboratories\nJorge Casas, Machinist\nAnd the amazing seniors from the Columbia Space Initiative:\n(Support their awesome work here: columbiaspace.org/support-us/, Follow them: @columbiaspaceinitiative)\nMichael Sheehan\nClaudio Solano\nJessica Bolar\nKathryn Lampo\n\n▀▀▀\nReferences:\nMichael M. Greenburg. The Great Miscalculation via. nyupress.org - https://ve42.co/Miscalc\nJoe Morgenstern. The Fifty-Nine-Story Crisis via. The New Yorker - https://ve42.co/59Crisis\nNational Academy of Engineering. William LeMessurier-The Fifty-Nine-Story Crisis: A Lesson in Professional Behavior - https://www.youtube.com/watch?v=um-7IlAdAtg\nDiane Lee Hartley. Implications of a Major Urban Office Complex: The Scientific, Social and Symbolic Meanings of Citicorp Center via. princeton.edu - https://ve42.co/CitiSymbol\nAddition References here: https://ve42.co/citiref\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, HydrochloRick, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee\n\n▀▀▀\nWritten and Directed by Sulli Yost\nEdited by Trenton Oliver\nAdditional Editing by Axel Oliver, James Horsley and Peter Nelson\n3D Modeling by Maydelis Anaya Romero \nAnimation by Mike Radjabov, Andrew Neet, Fabio Albertelli, Jakub Misiek, and Emma Wright\nIllustration by Jakub Misiek, Maria Gusakovich and Cainejan Esperanza\nFilmed by Sulli Yost, Henry van Dyck, Andrew Abballe, Derek Muller\nProduced by Sulli Yost, Derek Muller, Casper Mebius, Zoe Heron, Rob Beasley Spence and Tori Brittain\nAdditional research by Geeta Thakur\nThumbnail contributions by Ren Hurley and Ben Powell\nAdditional video/photos supplied by Getty Images, Pond5, Axiom Images and Storyblocks \nMusic from Epidemic Sound",
+      "duration": "PT33M39S",
+      "published_at": "2025-04-26T20:07:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/Q56PMJbCFXQ/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "4LYlMqBXTJI",
+      "title": "Why we put spiders on soccer balls",
+      "description": "How jumping spiders reveal an entire secret world of colors.",
+      "duration": "PT1M2S",
+      "published_at": "2025-04-22T16:41:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/4LYlMqBXTJI/hqdefault.jpg",
+      "tags": [
+        "biologie",
+        "sport"
+      ]
+    },
+    {
+      "id": "lcjdwSY2AzM",
+      "title": "The Biggest Misconception in Physics",
+      "description": "Why does energy disappear in General Relativity? 👉 Use code VERITASIUM to get 50% off your first monthly KiwiCo Crate! https://www.kiwico.com/VERITASIUM \n\nTry Snatoms! A molecular modelling kit I invented where the atoms snap together.\nhttps://ve42.co/SnatomsV \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\nA huge thank you to Prof. Geraint Lewis, Prof. Melissa Franklin, Prof. David Kaiser, Elba Alonso-Monsalve, Richard Behiel, Prof. Leo Stein and Jakob Schwintenberg for their invaluable expertise and contributions to this video. \n\nSpecial thanks to Alessandro from ScienceClic for his help on animations and input on the script. Check out his excellent video on Noether’s theorem here: https://www.youtube.com/watch?v=hF_uHfSoOGA \n\n▀▀▀\n0:00 What is symmetry?\n4:25 Emmy Noether and Einstein\n7:33 General Covariance\n11:59 The Principle of Least Action\n15:29 Noether’s First Theorem\n18:24 The Continuity Equation\n23:20 Escape from Germany\n24:49 The Standard Model - Higgs and Quarks\n\n▀▀▀\nReferences:\nMathHistory Biography - Emmy Amalie Noether via mathshistory.st-andrews.ac.uk - https://ve42.co/BioNoether\nBartlett, J. G. (2021). The Standard Cosmological Model and CMB Anisotropies. New Astron.Rev. 43 (1999) 83-109 - https://ve42.co/CosmoCMB\nKimberling, C. (1982). Emmy Noether, Greatest Woman Mathematician. Mathematics Teacher, March 1982, Volume 84, Number 3, pp. 246–249. - https://ve42.co/NoetherGreat\nBlunck, A., et al. (2016). Mathematik und Gender. Verlag Franzbecker - https://ve42.co/MathGender\nEvans, R. J. (1976). The Feminist movement in Germany, 1894-1933. Sage Publications - https://ve42.co/FeministGer \nWithout Emmy Noether, there would be a huge gap in mathematics and its understanding via www.mpg.de - https://ve42.co/NoetherGap \nDihedral group of order 6 via Wikipedia - https://ve42.co/Dihedral6\nEmmy Noether University of Erlangen via Wikipedia - https://ve42.co/Erlangen\nTimeline of women in mathematics via Wikipedia - https://ve42.co/WomenMath\nElizaveta Litvinova via Wikipedia - https://ve42.co/LitvinovaE\nSofya Kovalevskaya via Wikipedia - https://ve42.co/KovalevskayaS\nCharlotte Scott via Wikipedia - https://ve42.co/ScottC\nCornelia Fabri via Wikipedia - https://ve42.co/FabriC\nEmmy Noether, the renowned mathematician who taught 20 years of unpaid classes just because she was a woman via english.elpais.com - https://ve42.co/NoetherPay\nNoether, E. (1908). Über die Bildung des Formensystems der ternären biquadratischen Form. Reimer - https://ve42.co/NDissert\nNoether, E. (1983). Invariante Variationsprobleme. Gott.Nachr.1918:235-257,1918; Transp.Theory Statist.Phys.1:186-207,1971 - https://ve42.co/InvarProb\nNoether, E. (2018). M. A. Tavel’s English translation of “Invariante Variationsprobleme”. arXiv - https://ve42.co/InvarProbEn\nByers, N. (1998). E. Noether’s Discovery of the Deep Connection Between Symmetries and Conservation Laws*. Mod.Phys.Lett. A14 (1999) 99-104 - https://ve42.co/SymCon\nDe Haro, S. (2021). Noether’s Theorems and Energy in General Relativity. Cambridge University Press, 2021 - https://ve42.co/EnergyGR\nRowe, D. E. (2019). Emmy Noether on Energy Conservation in General Relativity. arXiv - https://ve42.co/EnergyCon\nBranding, K. (2005). A Note on General Relativity, Energy Conservation, and Noether’s Theorems. Springer - https://ve42.co/GRanEC\n\nAdditional References:\nhttps://ve42.co/NoethersAdRefs \n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, iRick, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay,  meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, TTST, Tj Steyn, Ubiquity Ventures, wolfee\n\n▀▀▀\nDirected by Matthew Davies\nWritten by Matthew Davies, Casper Mebius, Derek Muller and Pablo Rovetto\nEdited by Trenton Oliver, Peter Nelson and Nick Lear\nAnimated by Fabio Albertelli, Emma Wright, Andrew Neet, Alessandro Roussel and Ivy Tello \nIllustrations by Jakub Misiek, Cainejan Esperanza, Tommy Stevens, Maria Gusakovich and Emma Wright\nAdditional research by Henry van Dyck, Gabe Strong and Darius Garewal\nProduced by Matthew Davies, Casper Mebius, Derek Muller, Zoe Heron, Rob Beasley Spence and Tori Brittain\n\nThumbnail contributions by Jakub Misiek, Ren Hurley, Ben Powell and Peter Sheppard\n\nAdditional video/photos supplied by Getty Images and Pond5\nMusic from Epidemic Sound",
+      "duration": "PT27M40S",
+      "published_at": "2025-04-14T16:31:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/lcjdwSY2AzM/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "ZC98ZK6Ivug",
+      "title": "Can you solve this SAT question?",
+      "description": "How an SAT question became a mathematical paradox.",
+      "duration": "PT1M33S",
+      "published_at": "2025-04-08T16:59:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZC98ZK6Ivug/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "_cr46G2K5Fo",
+      "title": "The Man Who Almost Broke Math (And Himself...) - Axiom of Choice",
+      "description": "How do you make infinite choices? 👉 To try everything Brilliant has to offer for free for a full 30 days, visit http://brilliant.org/veritasium. You’ll also get 20% off an annual premium subscription.\n\nTry Snatoms! A molecular modelling kit I invented where the atoms snap together.\nhttps://ve42.co/SnatomsV \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\nA huge thank you to Dr Asaf Karagila, Prof. Alex Kontorovich, Prof. Joel David Hamkins, Prof. Andrew Marks, Prof. Gabriel Goldberg and Prof. Elliot Glazer for their invaluable expertise and contributions to this video. \n\nHead over and sign up to our Patreon for some exclusive behind the scenes footage, showing how the animations and illustrations for this video were made - https://www.patreon.com/posts/patreon-behind-126443880?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link\n\n▀▀▀\n0:00 What comes after one?\n2:42 Some infinities are bigger than others\n6:17 The Well Ordering Principle \n10:32 Zermelo And The Axiom Of Choice\n17:22 Why is the axiom of choice controversial?\n23:16 The Banach–Tarski Paradox\n27:53 Obviously True, Obviously False\n29:58 Your Proof Your Choice \n\n▀▀▀\nReferences:\n\nUp and Atom - https://www.youtube.com/watch?v=X56zst79Xjg    \nMinutephysics -  https://www.youtube.com/watch?v=A-QoutHCu4o  \nPBS Infinite Series - https://www.youtube.com/watch?v=hcRZadc5KpI&t=125s    \nVsauce - https://www.youtube.com/watch?v=s86-Z-CbaHA&t=474s \nErnst Zermelo via Wikipedia - https://ve42.co/zermeloBio   \nAxiom of choice via Wikipedia - https://ve42.co/choiceAxiom  \nGeorg Cantor via Wikipedia - https://ve42.co/cantorMath \nGregory H. Moore (2013). Consequences of the Axiom of Choice. Dover Publications - https://ve42.co/choiceBook \nGeorg Cantor (1874). On a property of the class of all real algebraic numbers. Journal für die Reine und Angewandte Mathematik  - https://ve42.co/MeyerCantor1874 \nHeinz-Dieter Ebbinghaus (Dec 2012). Zermelo and the Heidelberg Congress 1904. Historia Mathematica - https://ve42.co/SciDirect1904 \nHerbert B. Enderton (1977). Elements of Set Theory.  - https://ve42.co/SciDirectGCH \n\nAdditional References - https://ve42.co/AoCAdRefs \n\nImages & Video: \n\nFoundations of a general theory of sets by Georg Cantor via ViaLibri - https://ve42.co/grundlagen \nAlfred Tarski by George Bergman via Wikimedia Commons - https://ve42.co/tarski \nAlfred Tarski Offprint Group by Alfred Tarski via Bonhams - https://ve42.co/tarskipaper \nLa mission strasbourgeoise de Maurice Fréchet by Laurent Mazliak via Images des mathematiques - https://ve42.co/frechet \nKurt Gödel by Alfred Eisenstaedt via New Yorker  - https://ve42.co/godel \nLeopold Kronecker by Granger  via Fine Art America - https://ve42.co/kronecker \nLashi Bandara (2006). Zermelo-Frankel Set Theory and Well Orderings. ResearchGate - https://ve42.co/zermelofrankel \nHeidelberg, Germany 1936 by Wagner & Debes via Ward Maps - https://ve42.co/heidelberg \nPythagoras  by J. Augustus Knapp via the marginalian - https://ve42.co/pythag \nPaul Cohen by C. J. Mozzochi via C. J. Mozzochi - https://ve42.co/paulcohen \nInstituto de Matemática Pura e Aplicada. Lecture 01: Introduction: a non-measurable set via Youtube - https://www.youtube.com/watch?v=llnNaRzuvd4&t=834s \nSimons Foundation. Fields Medal: James Maynard. Youtube https://www.youtube.com/watch?v=un-z8kgOrV0&t=8s\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, HydrochloRick, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee\n\n\n▀▀▀\nDirected by Kaela Albert\nWritten by Kaela Albert and Emily Zhang \nEdited by Jack Saxon and Luke Molloy\nAssistant Edited by James Stuart\nAnimated by Fabio Albertelli, Andrew Neet, Alex Zepharin, Mike Radjabov, Emma Wright and Ivy Tello\nIllustrations by Jakub Misiek, Maria Gusakovich, Cainejan Esperanza, Tommy A. Steven and Emma Wright\nAdditional research by Emilia Gyles, Gabe Bean, Geeta Thakur and Vincent Cheng \nProduced by Kaela Albert, Casper Mebius, Derek Muller, Emily Zhang, Zoe Heron, Rob Beasley Spence, and Tori Brittain\nAdditional Editing by Luke Molloy and James Stuart\n\nThumbnail contributions by Ben Powell, Peter Sheppard and Ren Hurley  \n\nAdditional video/photos supplied by Getty Images and Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT33M1S",
+      "published_at": "2025-04-02T10:31:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/_cr46G2K5Fo/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "philosophie"
+      ]
+    },
+    {
+      "id": "DCiPrr-dQyw",
+      "title": "Can you solve the prisoner's riddle?",
+      "description": "There is a riddle that is so counterintuitive, it still seems wrong even if you know the answer.\n\nThe 100 prisoners problem - comment your answer!",
+      "duration": "PT1M42S",
+      "published_at": "2025-03-24T15:46:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/DCiPrr-dQyw/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "college"
+      ]
+    },
+    {
+      "id": "20vUNgRdB4o",
+      "title": "How this helicopter survived 1004 days on Mars, then disappeared...",
+      "description": "How a helicopter built of phone parts survived Mars for 3 years. Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off an annual Incogni plan.\n\nTry Snatoms! A molecular modelling kit I invented where the atoms snap together.\nhttps://ve42.co/SnatomsV \n\nCorrection: \n0:12, we say that ingenuity is 680g which is its weight on Mars. On Earth however, it weighs around 1800g.\n\nClarifications:\n- A Patreon supporter named Zeus pointed out that we were wrong about Perseverance's/Ingenuity's position on Mars. It is in the Northern Hemisphere and hence Mars would be getting closer to the Sun as it goes into winter.\n- Ingenuity was on Mars for 1004 Earth days.\n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\nA massive thank you to the team at JPL and especially Teddy Tzanetos, Travis Brown, Håvard Grip and DC Agle\n\nCheck out Astrum's video on Mars - https://www.youtube.com/watch?v=b7mjp7MDx_w\n\n▀▀▀\n0:00 How Did Ingenuity Get To Mars?\n3:23 Better Results, Bigger Expectations\n6:15 Wobblecopter\n7:48 Dust On Mars\n9:41 What Is The Temperature On Mars?\n11:54 Wake-Up Call\n13:41 Android To The Rescue\n16:22 Cosmic Rays\n20:53 Dune and The Crash\n25:26 The Next Generation\n\n▀▀▀\nReferences:\n\nIngenuity Mars Helicopter - NASA Science via science.nasa.gov - https://ve42.co/marsheli2 \nIngenuity (helicopter) via Wikipedia - https://ve42.co/wikiheli \nMars Facts | NASA Mars Exploration via science.nasa.gov - https://ve42.co/marsfacts \nInside the Ingenuity Helicopter Teamwork on Mars via insideunmannedsystems.com - https://ve42.co/marscrew \nIngenuity Adapts for Mars Winter Operations via science.nasa.gov - https://ve42.co/marswinter \nIngenuity Is Doing Surprisingly Well via www.universetoday.com - https://ve42.co/marswell \nRemember NASA's Little Mars Copter? It's Still Going Strong via www.sciencealert.com - https://ve42.co/marsstrong \nHow Far Away Is Mars? via www.space.com - https://ve42.co/marsdist \nMars Cameras via science.nasa.gov - https://ve42.co/marsorb \nMars Exploration Meeting Documentation via www.hou.usra.edu - https://ve42.co/marsmeet \nIngenuity Quick Facts via www.jpl.nasa.gov - https://ve42.co/marsquick \nFlight 14 Delayed via science.nasa.gov - https://ve42.co/marsspin \n\nAdditional References - https://ve42.co/MarsAdRefs \n\nImages & Video:\n\nImages and video from Perseverance and Ingenuity missions supplied by the NASA Jet Propulsion Laboratory\n\nMatthias (3 axis accelerometer, 3 axis gyroscope) https://youtu.be/yqFfmwVufMo?si=IoCj32PeVNZ4VJ-F\nVeritasium. https://youtu.be/ty9QSiVC2g0?si=Gb48I-YjADPbPUsL\nThe Limiting Factor \nhttps://youtu.be/4-1psMHSpKs?si=LF1jfLLNsBwRfwkB\nNASA Jet Propulsion Laboratory. https://youtu.be/xsUtq8PwZpQ?si=xOC91fdoSHdJndgx\nVideoFromSpace. https://youtu.be/Kb0Pc22N6w4?si=4uSUetsSUKFTStme\nNASA Jet Propulsion Laboratory. https://youtu.be/qMbHE_VXI-8?si=TNePbTRpcN3oLEVJ\nVeritasium. https://youtu.be/GhsZUZmJvaM?si=IIY0uuDrT-LzY5bI\nSighawke. https://youtu.be/OdKAW_0ENPU?si=18ZXXll3wSMj_Ex3\nNASA Jet Propulsion Laboratory. https://youtu.be/thk4Rha-fTk?si=_elC6Iqm1uaSjEFX\nNASA Jet Propulsion Laboratory. https://youtu.be/PFbzEM8PzHE?si=LmO71EVFqBAn6NEw\nNASA Jet Propulsion Laboratory. https://youtu.be/ia6S1jZmwWc?si=aAFC-BEmGwHIIqH7\nJPL Raw. https://youtu.be/uz4GaAE7OMQ?si=7084_GDkrGnSSVTy\nNASA Jet Propulsion Laboratory. https://youtu.be/U7DFnNimSfw?si=JgwO2SNU9HXf3GIa\nApex Clips. https://youtu.be/NttUBB98zg4?si=j1OEQD1VBONTEEPI\nVeritasium. https://youtu.be/AaZ_RSt0KP8?si=h7NKzMtJ87HRZ-bB\nCyber Chaos Crew. https://youtu.be/-KFH--_cdiI?si=S5rv8RjTtscu-S22\nNBC News. https://youtu.be/lFiTjZDOekg?si=6a43qnPdveHaz6YA\n\nFurther image and video credits - https://docs.google.com/document/d/19fkGlnMj86GoISqBuEJbmW5oIpDI-JwDmlM7-iFITzU/edit?usp=sharing\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, HydrochloRick, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, TTST, Tj Steyn, Ubiquity Ventures, wolfee\n\n▀▀▀\nDirected by Henry van Dyck\nWritten by Henry van Dyck\nEdited by Trenton Oliver\nOn-site Interviews by Jonny Hyman\nFilming by Alex Gorosh\nProduced by Rob Beasley Spence, Tori Brittain, Jonny Hyman, Henry van Dyck, Gabe Strong, Zoe Heron, and Derek Muller\nAnimated by Emma Wright and Mike Radjabov\nAdditional Research by Gabe Strong and Darius Garewal\nAdditional Editing by James Stuart\nThumbnail contributions by Ben Powell, Ren Hurley, Peter Sheppard, Gregor Čavlović and Henry van Dyck\n\nAdditional video/photos supplied by NASA JPL, Getty Images and Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT29M8S",
+      "published_at": "2025-03-20T22:41:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/20vUNgRdB4o/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "technologie"
+      ]
+    },
+    {
+      "id": "qJZ1Ez28C-A",
+      "title": "Something Strange Happens When You Trust Quantum Mechanics",
+      "description": "Does light take all possible paths at the same time? 🌏 Get exclusive NordVPN deal here ➵  https://NordVPN.com/veritasium It’s risk free with Nord’s 30 day money-back guarantee!✌\n\nA massive thank you to Dr. Andrew Mitchell for all his help and expertise. If you want to delve further into this topic then we highly recommend his lecture on Classical physics derived from quantum mechanics: https://www.youtube.com/watch?v=2iuLwWDYC4U&t=1s\n\nWe’re incredibly grateful to Prof. David Kaiser, Prof. Steven Strogatz, Prof. Geraint F. Lewis, Elba Alonso-Monsalve, Prof. Christopher S. Baird, Prof. Anthony Bloch, and Prof. Stephen Bartlett for their invaluable contributions to this video.\n\nA special thanks to Mahesh Shenoy from FloatHeadPhysics for his help with this video. Check out his excellent intuitive video on the UV Catastrophe here (Sep 2024): https://www.youtube.com/watch?v=ALEDjjAVZSY \n\nWe have a tabletop game launching! Pledge your support now - https://ve42.co/KickStarterD\n\n▀▀▀\n0:00 What path does light travel?\n2:40 Black Body Radiation\n6:47 How did Planck solve the ultraviolet catastrophe?\n9:42 The Quantum of Action\n13:25 De Broglie’s Hypothesis \n15:16 The Double Slit Experiment\n20:00 How Feynman Did Quantum Mechanics\n25:01 Proof That Light Takes Every Path\n31:16 The Theory of Everything\n\n▀▀▀\nSign up to our Patreon to watch the Q&A for free: https://www.patreon.com/c/veritasium\n\nTry Snatoms! A molecular modelling kit I invented where the atoms snap together.\nhttps://ve42.co/SnatomsV    \n\n▀▀▀\nReferences:\nArmin Hermann  (Nov 1974). The Genesis of Quantum Theory (1899-1913).  - https://ve42.co/genquanttheor \nRichard P. Feynman  (1985). QED The Strange Theory of Light and Matter.  - https://ve42.co/qed \nA fantastic book on the history of the Principle of Least Action: Rojo, A. and Bloch, A. The \nPrinciple of Least Action: History and Physics. - https://ve42.co/Bloch2018 \nCoopersmith, J.  (2017). The lazy universe: an introduction to the principle of least action. Oxford University Press. - https://ve42.co/LazyU \nPBS Space Time. (Nov 2021) - https://www.youtube.com/watch?v=Q_CQDSlmboA\nSabine Hossenfelder. (May 2022) - https://www.youtube.com/watch?v=A0da8TEeaeE\nMax Planck (1901). On the Law of Distribution of Energy in the Normal Spectrum. Annalen der Physik - https://ve42.co/lawdistenergy \nPaul Ehrenfest (1911). Welche Züge der Lichtquantenhypothese spielen in der Theorie der Wärmestrahlung eine wesentliche Rolle?. Wiley Online Library  - https://ve42.co/quantthermrad \nNils-Erik Bomark and Reidun Renstrøm (Aug 2023). The Ultraviolet myth. Proceedings of Science  - https://ve42.co/uvmyth \nPlanck's law. In Wikipedia - https://ve42.co/planckslaw \nPBS Space Time. (Jul 2017). - https://www.youtube.com/watch?v=vSFRN-ymfgE&t=10s\nEinstein and The Photoelectric Effect. (Jan 2005) via APS News - https://ve42.co/einsteinphotoelec \nLouis de Broglie (1924). On the Theory of Quanta.  - https://ve42.co/theoryquanta \nLarry Sorensen (2012). Path Integrals 1. University of Washington - https://ve42.co/pathintegrals \nFeynman’s Method of “A Particle Exploring All Possible Paths”. (Mar 2018) via Pure Dhamma - https://ve42.co/allposspaths \n\nAdditional References - https://ve42.co/AdditionalReferences-PoLA2\n\nImages & Video:\nNobistor Altona 1880 via NDR - https://ve42.co/streetlight \nEdison incandescent lights by William J. Hammer via Wikimedia Commons - https://ve42.co/edinclights \nThe full expanded form of the Standard Model Lagrangian by Chen Ning Yang et al. via Wikipedia - https://ve42.co/stmodellang \nMuon Ray. (2011). https://www.youtube.com/watch?v=-QUj2ZRUa7c\nMuon Ray. (2011). https://www.youtube.com/watch?v=1C7abO7LtV0\nBohrs Atomic Model via EEEGUIDE.COM - https://ve42.co/bohrmodel \n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, qiaohui wei, Richard Sundvall, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee\n\n▀▀▀\nDirected by Casper Mebius\nWritten by Casper Mebius and Derek Muller\nEdited by Trenton Oliver and Peter Nelson\nAnimated by Fabio Albertelli, Mike Radjabov, Ivy Tello, Andrew Neet and Emma Wright\nIllustrations by Jakub Misiek, Tommy A. Steven and Cainejan Esperanza\nFilmed by Derek Muller and Casper Mebius\nProduced by Casper Mebius, Derek Muller, Rob Beasley Spence, Gabe Strong, Geeta Thakur, Emilia Gyles, Zoe Heron, Emily Zhang and Tori Brittain\n\nThumbnail contributions by Ignat Berbeci, Ben Powell, Jakub Misiek, Ren Hurley, and Peter Sheppard\n\nAdditional video/photos supplied by Getty Images and Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT33M1S",
+      "published_at": "2025-03-05T02:22:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/qJZ1Ez28C-A/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "dFVrncgIvos",
+      "title": "The Blender Question Everyone Gets Wrong",
+      "description": "Are you smart enough to solve this Google interview question? Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off an annual Incogni plan.\n\nA massive thank you to Dan Goldman, Jeff Aguilar, Daniel Soto and Georgia Tech’s Complex Rheology And Biomechanics Lab\nWe’re incredibly grateful to Carl Zimmer, Gayle McDowell, and Geoffrey West\n\nCorrection: Dan Goldman is a Professor of Physics not Biomechanics.\n\nWe have a tabletop game launching! Pledge your support now - https://ve42.co/KickStarterD\n\n▀▀▀\n0:00 Hard Google Interview Question\n2:34 How do Geckos stick to walls?\n5:58 Do physicists know the answer?\n7:01 The Square-Cube Law\n9:10 Tiny Superheroes\n10:23 Simulating the problem\n13:36 Adding Air Resistance\n15:14 The End? \n16:16 What would happen if you were shrunk?\n17:39 What interviewers actually look for\n\n▀▀▀\nTry Snatoms! A molecular modelling kit I invented where the atoms snap together.\nhttps://ve42.co/SnatomsV  \n\n▀▀▀\nReferences:\nWilliam Poundstone (Jan 2012). Are You Smart Enough to Work at Google?.  - https://ve42.co/smartenough \nGiovanni Alfonso Borelli. Translated by Paul Maquet (1989). On the Movement of Animals.  - https://ve42.co/borellianimals \nIn Head-Hunting, Big Data May Not Be Such a Big Deal. (Jun 2013) via New York Times - https://ve42.co/headhuntbigdata \nDrag Forces. via Lumen Learning  - https://ve42.co/dragforces \nR. McN. Alexander (Feb 1995). Leg design and jumping technique for humans, other vertebrates and insects. The Royal Society Publishing  - https://ve42.co/legdesignjump \nSharon B. Emerson (Sep 1978). Allometry and Jumping in Frogs: Helping the Twain to Meet. JSTOR - https://ve42.co/allometryfrogs \nJay J. Meyers, Anthony Herrel & James Birch (Jan 2002). Scaling of Morphology, Bite Force and Feeding Kinematics in an Iguanian and a Scleroglossan Lizard. Anthony Herrel - https://ve42.co/scalinglizard \nKirby TJ, McBride JM, Haines TL, Dayne AM.  (Aug 2011). Relative Net Vertical Impulse Determines Jumping Performance. Journal of Applied Biomechanics  - https://ve42.co/jumpperformance \nRasmussen Mette H. et al  (Jul 2022). Evidence that gecko setae are coated with an ordered nanometre-thin lipid film. The Royal Society Publishing  - https://ve42.co/geckosetae\nBody Orientation During a Skydive. via Libre Texts Physics  - https://ve42.co/skydivephysics \n\n▀▀▀\nImages & Video:\nHere’s how many Google interviews it takes to hire a Googler. (Apr 2019) via CNBC Make It - https://ve42.co/googleinterviews \nGoogle received 3.3 million job applications in 2019. (Jan 2020) via Axios - https://ve42.co/googleapplications \nHere’s why you only have a 0.2% chance of getting hired at Google. (Oct 2014) via Quartz - https://ve42.co/hiredgoogle \nDear Reddit, my friend was asked this RIDICULOUS question in a job interview, what’s the best possible answer?. (2011) via Reddit - https://ve42.co/redditblender \nMark Rober. (May 2020) Backyard Squirrel Maze 1.0- Ninja Warrior Course https://www.youtube.com/watch?v=hFZFjoX2cGg\nCambridge University. (Feb 2010) Cambridge Ideas - Sticky Feet https://www.youtube.com/watch?v=hd5upt3IrWM\nIV C. (Oct 2023)Incredible Shrinking Man (1957) Jack Arnold. The spider scene. El increíble hombre menguante. Araña https://www.youtube.com/watch?v=wJiJsbBBHpE&t=7s\nRuss Amy. (Apr 2018) Honey I Shrunk the Kids 1989 1080p BluRay X264 AMIABLE mkv https://www.youtube.com/watch?v=byxGZ8cD7rk\nR Sisters Gaming. (Feb 2022) It Takes Two - Destroyed by the Blender https://www.youtube.com/watch?v=QqrPufq2jP8\nClipsyBox. (May 2017) Hulk vs. Ant-Man - Coca-Cola: Coke Mini https://www.youtube.com/watch?v=sMkGwCw7iv8\nEl Gato. (June 2021) Squirrel has 44\" vertical jump straight up to bird feeder! jumping https://www.youtube.com/watch?v=ethwLHw46JM\nA-purpose . (Apr 2024). Who can jump bigger part #2 via Youtube - https://www.youtube.com/shorts/mJhf7wYNkYA \n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, qiaohui wei, Richard Sundvall, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee\n\n▀▀▀\nDirected by Henry van Dyck\nWritten by Henry van Dyck\nEdited by Peter Nelson and Nick Lear\nAssistant Edited by James Stuart\nAnimated by Fabio Albertelli, Andrew Neet, Jakub Misiek and Emma Wright\nFilmed by Henry van Dyck and Lukas Guderjahn\nAdditional Research by Emilia Gyles and Geeta Thakur\nProduced by Derek Muller, Henry van Dyck, Zoe Heron, Rob Beasley Spence and Tori Brittain \nThumbnail contributions by Ben Powell, Ren Hurley and Henry van Dyck\nAdditional video/photos supplied by Getty Images and Storyblocks\nMusic from Epidemic Sound and Jonny Hyman",
+      "duration": "PT20M13S",
+      "published_at": "2025-02-18T16:03:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/dFVrncgIvos/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "mqo1lQL59VI",
+      "title": "This Is The Perfect Bowling Strategy",
+      "description": "What is the optimal strategy for bowling? #science #veritasium #physics #bowling",
+      "duration": "PT2M6S",
+      "published_at": "2025-02-14T16:49:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/mqo1lQL59VI/hqdefault.jpg",
+      "tags": [
+        "sport",
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "P_fHJIYENdI",
+      "title": "AlphaFold - The Most Useful Thing AI Has Ever Done",
+      "description": "The biggest problems in the world might be solved by tiny molecules unlocked using AI. Take your big idea online today with https://ve42.co/hostinger - code VE at checkout.\n\nA huge thank you to John Jumper and Kathryn Tunyasuvunakool at Google Deepmind; and to David Baker and the Institute for Protein Design at the University of Washington for their invaluable expertise and explanations.\n\nWe’re incredibly grateful to Juanita Bagawan and Lucie Kerley at Google Deepmind, and Ian C. Haydon at the UW Institute for Protein Design for their assistance with some of the animation and imagery used in this video.\n\nSpecial thanks to those at Google DeepMind Production Studios for their help interviewing John Jumper:\nDirector - Bernardo Resende\nDirector of Photography - Robert Messere\nSenior Audio Technician - Perry Rogantin\nSenior Production Coordinator - Sarah Ellen Morton\nStudio Manager - Nicholas Duke\n\nFor more on this topic head over to our Patreon for the exclusive extended interview https://www.patreon.com/posts/patreon-with-cut-122274530?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link\n\n▀▀▀\n0:00 How to determine protein structures\n3:50 Why are proteins so complicated?\n5:34 The CASP Competition and Deep Mind \n9:08 How does Alphafold work?\n12:06 3 ways to get better AI\n14:24 What is a Transformer in AI? \n17:15 The Structure Module\n18:35 Alphafold 2 wins the Nobel Prize\n20:36 Designing New Proteins - RF Diffusion\n22:58 The Future of AI\n\n▀▀▀\nTry Snatoms! A molecular modelling kit I invented where the atoms snap together.\nhttps://ve42.co/SnatomsV  \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\nReferences and Credits:\nHow AI Revolutionized Protein Science, but Didn’t End It. (Jun 2024) via Quanta Magazine  - https://ve42.co/airev \nJumper, J., Evans, R., Pritzel, A. et al.  (Jul 2021). Highly accurate protein structure prediction with AlphaFold. Nature - https://ve42.co/alphafoldtwo \nSenior, A.W., Evans, R., Jumper, J. et al.  (Jan 2020). Improved protein structure prediction using potentials from deep learning. Nature - https://ve42.co/alphafold \nR Zwanzig, A Szabo, B Bagchi  (Jan 1992). Levinthal's paradox. PMC, National Institute of Health - https://ve42.co/levparadox \nKhatib, F., DiMaio, F., Foldit Contenders Group. et al.  (Sept 2011). Crystal structure of a monomeric retroviral protease solved by protein folding game players. Nature - https://ve42.co/proteinfoldingsolved \nDeepMind co-founder: Gaming inspired AI breakthrough. (Dec 2020) via BBC - https://ve42.co/aibreakthrough \n3Blue1Brown. (Apr 2024). Transformers (how LLMs work) explained visually | DL5 via Youtube - https://ve42.co/transformers \nAlphaFold impact stories. via Deepmind Blog - https://ve42.co/foldimpact \nQuanta Magazine. (Oct 2024). How AI Cracked the Protein Folding Code and Won a Nobel Prize via Youtube - https://ve42.co/proteinfolding \nLooking Glass Universe. (Apr 2024). how AlphaFold *actually* works via Youtube - https://ve42.co/foldworks \nGoogle DeepMind. (Nov 2020). AlphaFold: The making of a scientific breakthrough via Youtube - https://ve42.co/alphafoldvideo \nNobel Prize. (Dec 2024). 2024 Nobel Prize lectures in chemistry | David Baker, Demis Hassabis and John Jumper via Youtube - https://ve42.co/nobelchem \nThe AlphaFold2 Method Paper: A Fount of Good Ideas. (Jul 2021) via moalquraishi.wordpress - https://ve42.co/Alphafoldpaper \nWhy Don't We Have More Protein-Protein Drug Molecules? (Dec 2009) via Science - https://ve42.co/proteindrugmol \nData sonification. via Carla Scaletti  - https://ve42.co/datasonification\n\nImages & Video:\nAvailable here - https://ve42.co/alphafoldvisuals \n\nAnd if you want to learn more about how we have been making antivenom check out our previous video How Horses Save Humans From Snakebites - https://ve42.co/veantivenom \n\n▀▀▀\nSpecial thanks to our Patreon supporters:\n\nAdam Foreman, Albert Wenger, Alexander Tamas, Anton Ragin, Autodidactic Studios, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, I. H., Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Spilmann Reed, Tj Steyn, TTST, Ubiquity Ventures, wolfee\n\n▀▀▀\nDirected by Sumeet Kulkarni\nWritten by Sumeet Kulkarni, Derek Muller and Zoe Heron\nEdited by Jack Saxon\nAnimated by Ivy Tello, Emma Wright, Andrew Neet and Fabio Albertelli \nIllustrated by Jakub Misiek\nFilmed and demos done by Sumeet Kulkarni \nAdditional research by Geeta Thakur, Vincent Cheng and Emilia Gyles\nProduced by Sumeet Kulkarni, Derek Muller, Zoe Heron, Rob Beasley Spence and Tori Brittain\nThumbnail contributions by Ren Hurley, Peter Sheppard and Ben Powell\nAdditional video/photos supplied by Getty Images and Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT24M52S",
+      "published_at": "2025-02-10T14:03:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/P_fHJIYENdI/hqdefault.jpg",
+      "tags": [
+        "biologie",
+        "informatique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "88bMVbx1dzM",
+      "title": "Can you keep zooming in forever?",
+      "description": "Here’s what happens when you just keep zooming in. Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off an annual Incogni plan.\n\nA big thank you to Magnus Garbrecht from the University of Sydney for showing us around the lab and for his feedback on the script.\n\nSpecial thanks to Quentin Ramasse for his expertise on the video. \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\n0:00 Why is it hard to see atoms? \n2:12 How does an electron microscope work?\n4:09 Transmission Electron Microscope (TEM)\n5:11 Spherical Aberration\n8:55 Field Ion Microscope \n11:05 Scanning Transmission Electron Microscope (STEM)\n13:24 Probe microscopes\n14:02 An unlikely solution\n18:08 Seeing atoms\n\n▀▀▀\nJoin us on Patreon for early access videos, bonus content, and to support Veritasium! https://ve42.co/PatreonDE   \n\nAdam Foreman, Albert Wenger, Alexander Tamas, Anton Ragin, Autodidactic Studios, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, and wolfee\n\nIf you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV  \n\n\n▀▀▀\n\nReferences: \nBusch, H. (1926). Berechnung der Bahn von Kathodenstrahlen im axialsymmetrischen elektromagnetischen Felde. Annalen Der Physik - https://ve42.co/Busch1926\nRuska, E. (1986). The development of the electron microscope and of electron microscopy. Nobel Lecture - https://ve42.co/Ruska1986\nScherzer, O. (1936) - https://ve42.co/Scherzer1936\nJensen, G. (2015). Part 1: EM Lenses. Caltech - https://ve42.co/Jensen2015\nField Ion Microscope via Wikipedia - https://ve42.co/FieldIon\nTransmission Electron Microscope via Wikipedia - https://ve42.co/MicroscopeTEM\nAlbert V. Crewe biography via UChicagoNews Microscopy Society of America - https://ve42.co/CreweBio\nMcMullan, D. (1993). Scanning Electron Microscopy 1928 - 1965. Microscopy Society of America, Cincinnati - https://ve42.co/McMullan1993\nElectric and Magnetic Field Lenses via MIT - https://ve42.co/LensesMIT\nHaider, M. et al. (1998). Towards 0.1 nm resolution with the first spherically corrected transmission electron microscope. Journal of Electron Microscopy - https://ve42.co/Haider1998_1\nHaider, M. et al. (1998). Electron microscopy image enhanced. Nature - https://ve42.co/Haider1998_2\nKrivanek, O. et al. (2022). Aberration correction in the STEM. CRC Press EBooks - https://ve42.co/Krivanek2022\nCrewe, A. V., et al. (1970). Visibility of Single Atoms. Science - https://ve42.co/Crewe1970\nSecrets of Size: Atoms to Supergalaxies via the BBC - https://ve42.co/AtomsBBC\nPennycook, S. J. (2012). Seeing the atoms more clearly: STEM imaging from the Crewe era to today. Ultramicroscopy - https://ve42.co/Pennycook2012\nRose, H. H. (2009). Historical aspects of aberration correction. Journal of Electron Microscopy  - https://ve42.co/Rose2009\nKavli Prize in Nanoscience via kavliprize.org - https://ve42.co/Kavli2020\nVogt, T. (2019) Aberration-Corrected Electron Microscopy - https://ve42.co/Vogt2019\n\nImages & Video:\nAvailable here - https://ve42.co/AtomsVisuals\n\n▀▀▀\nDirected by Gregor Čavlović, Derek Muller, and Tim Usborne\nWritten by Gregor Čavlović, Tim Usborne, Emily Zhang, and Casper Mebius\nEdited by Trenton Oliver and Charlie Grayley\nAnimated by Mike Radjabov, Fabio Albertelli, Ivy Tello, Emma Wright, and Andrew Neet\nIllustrated by Jakub Misiek and Maria Gusakovich\nFilmed by Charles Clements\nAdditional research by Gabe Strong, Geeta Thakur, and Emili Gyles\nProduced by Casper Mebius, Derek Muller, Emily Zhang, Gregor Čavlović, Rob Beasley Spence, Tori Brittain, Gabe Strong, Luke Lewis, and Matthew Cavanagh\nThumbnail contributions by Ben Powell, Ren Hurley, and Peter Sheppard\nAdditional video/photos supplied by Getty Images, Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT21M29S",
+      "published_at": "2025-02-05T15:02:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/88bMVbx1dzM/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "physique"
+      ]
+    }
+  ]
+}

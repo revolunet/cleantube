@@ -1,6 +1,7 @@
 import "dotenv/config";
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir, readdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
+import { basename, join } from "node:path";
 import Anthropic from "@anthropic-ai/sdk";
 import type { Channel, Video, Tag, AgeGroup } from "./types.js";
 
@@ -238,8 +239,8 @@ async function getVideoDetails(
   return allItems;
 }
 
-async function loadExistingChannel(channelId: string): Promise<Channel | null> {
-  const filePath = `data/${channelId}.json`;
+async function loadExistingChannel(category: string, channelId: string): Promise<Channel | null> {
+  const filePath = `data/${category}/${channelId}.json`;
   if (!existsSync(filePath)) {
     return null;
   }
@@ -366,6 +367,7 @@ Attribue 1 à 3 tags pertinents par vidéo. Si aucun tag ne correspond, utilise 
 
 async function fetchChannelData(
   handle: string,
+  category: string,
   videoLimit: number,
   forceInfer: boolean
 ): Promise<Channel | null> {
@@ -383,7 +385,7 @@ async function fetchChannelData(
   console.log(`  Found: ${channel.snippet.title} (${channel.id})`);
 
   // Load existing channel data to preserve manual edits
-  const existingData = await loadExistingChannel(channel.id);
+  const existingData = await loadExistingChannel(category, channel.id);
   if (existingData) {
     console.log(`  Found existing data, will merge videos`);
   }
@@ -501,33 +503,62 @@ async function fetchChannelData(
 
 async function main() {
   const { limit, forceInfer } = parseArgs();
-  const channelsFile = await readFile("channels.json", "utf-8");
-  const handles: string[] = JSON.parse(channelsFile);
+
+  // Read all channel files from channels/ directory
+  const channelsDir = "channels";
+  if (!existsSync(channelsDir)) {
+    console.error(`Error: ${channelsDir}/ directory not found`);
+    process.exit(1);
+  }
+
+  const channelFiles = (await readdir(channelsDir)).filter((f) => f.endsWith(".json"));
+  if (channelFiles.length === 0) {
+    console.error(`Error: No JSON files found in ${channelsDir}/`);
+    process.exit(1);
+  }
 
   const limitLabel = limit === Infinity ? "all" : limit.toString();
-  console.log(`Found ${handles.length} channels to fetch`);
-  console.log(
-    `Options: video limit=${limitLabel}, force-infer=${forceInfer}\n`
-  );
+  console.log(`Found ${channelFiles.length} category files: ${channelFiles.join(", ")}`);
+  console.log(`Options: video limit=${limitLabel}, force-infer=${forceInfer}\n`);
 
+  // Ensure data directory exists
   if (!existsSync("data")) {
     await mkdir("data");
   }
 
-  for (const handle of handles) {
-    try {
-      const channelData = await fetchChannelData(handle, limit, forceInfer);
-      if (channelData) {
-        const outputPath = `data/${channelData.id}.json`;
-        await writeFile(outputPath, JSON.stringify(channelData, null, 2));
-        console.log(`  Saved to ${outputPath}\n`);
+  // Process each category
+  for (const channelFile of channelFiles) {
+    const category = basename(channelFile, ".json");
+    const categoryDataDir = join("data", category);
+
+    console.log(`\n=== Processing category: ${category} ===\n`);
+
+    // Ensure category data directory exists
+    if (!existsSync(categoryDataDir)) {
+      await mkdir(categoryDataDir, { recursive: true });
+    }
+
+    const channelsFilePath = join(channelsDir, channelFile);
+    const channelsContent = await readFile(channelsFilePath, "utf-8");
+    const handles: string[] = JSON.parse(channelsContent);
+
+    console.log(`Found ${handles.length} channels in ${category}\n`);
+
+    for (const handle of handles) {
+      try {
+        const channelData = await fetchChannelData(handle, category, limit, forceInfer);
+        if (channelData) {
+          const outputPath = join(categoryDataDir, `${channelData.id}.json`);
+          await writeFile(outputPath, JSON.stringify(channelData, null, 2));
+          console.log(`  Saved to ${outputPath}\n`);
+        }
+      } catch (error) {
+        console.error(`  Error fetching ${handle}:`, error);
       }
-    } catch (error) {
-      console.error(`  Error fetching ${handle}:`, error);
     }
   }
 
-  console.log("Done!");
+  console.log("\nDone!");
 }
 
 main().catch(console.error);

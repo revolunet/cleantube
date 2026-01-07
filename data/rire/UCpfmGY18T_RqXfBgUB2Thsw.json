@@ -88,7 +88,9 @@
       "duration": "PT2M59S",
       "published_at": "2025-12-18T12:38:28Z",
       "thumbnail": "https://i.ytimg.com/vi/E6od3_1E6VY/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "metiers"
+      ]
     },
     {
       "id": "ZWRRXPw8AGU",
@@ -169,7 +171,9 @@
       "duration": "PT2H35M28S",
       "published_at": "2025-12-15T11:32:17Z",
       "thumbnail": "https://i.ytimg.com/vi/3zYwS9KykLY/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "litterature"
+      ]
     },
     {
       "id": "LaTnNJK1WMo",
@@ -490,7 +494,9 @@
       "duration": "PT1H14M35S",
       "published_at": "2025-11-17T15:33:15Z",
       "thumbnail": "https://i.ytimg.com/vi/Zu3hO65SYgw/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "philosophie"
+      ]
     },
     {
       "id": "mdphfMeZWkQ",

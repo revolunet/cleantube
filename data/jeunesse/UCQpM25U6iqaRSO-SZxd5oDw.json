@@ -28,7 +28,9 @@
       "duration": "PT1M31S",
       "published_at": "2026-01-01T17:01:08Z",
       "thumbnail": "https://i.ytimg.com/vi/i7hnJIqvHig/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "orientation"
+      ]
     },
     {
       "id": "ReBokKL99_o",
@@ -272,7 +274,9 @@
       "duration": "PT1M28S",
       "published_at": "2025-10-30T17:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/-jcEmgnKG0c/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "orientation"
+      ]
     },
     {
       "id": "AwmGYQO3eqM",
@@ -305,7 +309,9 @@
       "duration": "PT1M30S",
       "published_at": "2025-10-23T14:23:38Z",
       "thumbnail": "https://i.ytimg.com/vi/jAFbnZeq9Ao/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "orientation"
+      ]
     },
     {
       "id": "5i2YcJU39Is",
@@ -422,7 +428,9 @@
       "duration": "PT1M15S",
       "published_at": "2025-10-02T14:00:03Z",
       "thumbnail": "https://i.ytimg.com/vi/0lKHYNDv_RA/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "orientation"
+      ]
     },
     {
       "id": "sn_zcHuIOlc",

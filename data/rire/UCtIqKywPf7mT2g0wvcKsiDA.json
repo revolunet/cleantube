@@ -59,7 +59,9 @@
       "duration": "PT36S",
       "published_at": "2025-12-24T16:50:41Z",
       "thumbnail": "https://i.ytimg.com/vi/-9tZxUIdSbk/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "arts"
+      ]
     },
     {
       "id": "_zcO6okvvhI",
@@ -294,7 +296,9 @@
       "duration": "PT5M56S",
       "published_at": "2025-10-05T14:51:07Z",
       "thumbnail": "https://i.ytimg.com/vi/6-1ErbTecm8/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "sciences"
+      ]
     },
     {
       "id": "vcjP0uxQxfA",
@@ -312,7 +316,9 @@
       "duration": "PT2M45S",
       "published_at": "2025-10-01T11:29:48Z",
       "thumbnail": "https://i.ytimg.com/vi/fnc21ddiZu8/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "sport"
+      ]
     },
     {
       "id": "fT66YSS_7Zs",
@@ -357,7 +363,9 @@
       "duration": "PT1M22S",
       "published_at": "2025-08-19T11:44:35Z",
       "thumbnail": "https://i.ytimg.com/vi/Jib8kWvLX-E/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "litterature"
+      ]
     },
     {
       "id": "XzqodxXa06Y",
@@ -440,7 +448,9 @@
       "duration": "PT2M53S",
       "published_at": "2025-06-29T07:37:25Z",
       "thumbnail": "https://i.ytimg.com/vi/M83R_c1REJI/hqdefault.jpg",
-      "tags": []
+      "tags": [
+        "histoire"
+      ]
     },
     {
       "id": "DtlqYP25Zzs",

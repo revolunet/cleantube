@@ -13,6 +13,15 @@
   ],
   "videos": [
     {
+      "id": "QG8jA3TtEpI",
+      "title": "Femmes scientifiques   Alice Vettoretti",
+      "description": "Alice Vettoretti a suivi des études de biologie, complétées par un master en communication scientifique.\n\nElle a fondé son entreprise de communication scientifique, Plume et Sciences, basée à Rennes.\n\nElle s'épanouit pleinement dans ce qu'elle fait.",
+      "duration": "PT9M",
+      "published_at": "2026-01-07T16:07:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/QG8jA3TtEpI/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "Du66NNnBVsM",
       "title": "Femmes scientifiques - Diane Letourneur",
       "description": "Diane Letourneur est une jeune femme qui est en fin de thèse en microbiologie à l’institut Pasteur.\n\nSon sujet de thèse porte sur le lien entre bactéries et cancer du colon. \n\nElle est aussi responsable du pôle biorisques de l’association EffiSciences, qui s’intéresse aux enjeux de sciences et société.\n\nhttps://www.linkedin.com/company/effisciences-org/\n\nhttps://effisciences.org/fr\n\nhttps://www.linkedin.com/in/diane-letourneur-396a7a25a/\nhttps://www.instagram.com/dianeletourneur_ecriture/\n\n\nUniversité Paris Cité Université Claude Bernard",
@@ -619,18 +628,6 @@
       "tags": [
         "mathematiques",
         "sciences"
-      ]
-    },
-    {
-      "id": "KHQwUau1Xec",
-      "title": "Interview Mathador",
-      "description": "Franck Dunas, alias Mathador, est devenu musicien professionnel après avoir effectué des études de mathématiques poussées pour devenir professeur.\nIl est venu au collège proposer une journée sur les mathématiques et la musique et dans cette interview, il nous parle de son parcours, des liens étroits entre ces deux disciplines, de l'histoire des sciences...\nLe tout en musique bien sûr !\n\nRetrouvez Franck Dunas sur sa chaîne Mathador :\nhttps://www.youtube.com/@UCxX0XtLEus9Hu-PawWgtbXQ",
-      "duration": "PT13M59S",
-      "published_at": "2025-01-12T16:00:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/KHQwUau1Xec/hqdefault.jpg",
-      "tags": [
-        "mathematiques",
-        "scolaire"
       ]
     }
   ]

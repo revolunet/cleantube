@@ -13,6 +13,15 @@
   ],
   "videos": [
     {
+      "id": "Mn8_pjvFVmM",
+      "title": "Comment Vénus est devenue un enfer ?",
+      "description": "",
+      "duration": "PT1M28S",
+      "published_at": "2026-01-07T15:00:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/Mn8_pjvFVmM/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "JE9vT-oLAGs",
       "title": "Pourquoi Bluetooth veut dire \"dent bleue\" ?",
       "description": "",
@@ -562,19 +571,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ptxB1ifYt_0/hqdefault.jpg",
       "tags": [
         "histoire"
-      ]
-    },
-    {
-      "id": "2iXy8uIy5nU",
-      "title": "Comment la vie va disparaître",
-      "description": "",
-      "duration": "PT1M26S",
-      "published_at": "2025-09-29T14:00:09Z",
-      "thumbnail": "https://i.ytimg.com/vi/2iXy8uIy5nU/hqdefault.jpg",
-      "tags": [
-        "sciences",
-        "biologie",
-        "environnement"
       ]
     }
   ]

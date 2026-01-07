@@ -15,18 +15,6 @@
   ],
   "videos": [
     {
-      "id": "vfM6eBZYA0w",
-      "title": "Les bébés en tiennent une couche ! 🍼 👶 | Compilation | Tu mourras moins bête | ARTE",
-      "description": "Tout savoir sur les bébés \n\nAbonnez-vous à la chaine Youtube d’ARTE Tu mourras moins bête :  https://www.youtube.com/channel/UCKtG_lXZk4pRJkapfK0eprA\n\nRetrouvez-nous sur les réseaux sociaux :\nFacebook : https://www.facebook.com/ARTEfuture/\nTwitter : https://twitter.com/ARTEfuture",
-      "duration": "PT12M",
-      "published_at": "2026-01-06T23:01:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/vfM6eBZYA0w/hqdefault.jpg",
-      "tags": [
-        "sciences",
-        "biologie"
-      ]
-    },
-    {
       "id": "sivz9EAr-_w",
       "title": "La simulation de chute au football ⚽ #football #animation",
       "description": "S’il y a bien un sport que la science a étudié, en long en large et en travers, c’est le foot. On pensait même tout savoir sur le footballeur… Jusqu’à ce que débarque sa version féminine : la footballeuse ! Et là, chamboulement : les chercheurs démontrent que ce n’est plus trop la même limonade, surtout au niveau comportemental. Comme c’est bizarre…",
@@ -613,6 +601,15 @@
         "biologie",
         "sciences"
       ]
+    },
+    {
+      "id": "zXPxwI0TaEA",
+      "title": "Les bébés sont-ils moches ? 🤢",
+      "description": "",
+      "duration": "PT2M49S",
+      "published_at": "2025-07-17T13:01:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/zXPxwI0TaEA/hqdefault.jpg",
+      "tags": []
     }
   ]
 }

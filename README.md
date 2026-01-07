@@ -83,6 +83,7 @@ Le meilleur de YouTube en Français, sans distractions.
 
 | Chaîne | Description |
 |--------|-------------|
+| [Le Dolmen](https://youtube.com/channel/UCB8LBWgHAuthFrohOH9v_sw) | Journal d'observations de notre drôle de monde moderne. |
 | [Le Précepteur](https://youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA) | Philosophie pour tous |
 | [MLHORION](https://youtube.com/channel/UCyWM4YRwHwAxld74qQ-6wMA) | Bienvenue sur ma chaîne YouTube ! 🌟... |
 | [Monsieur Phi](https://youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw) | Docteur en philosophie, ce qui ne soigne pas grand chose. ... |
@@ -96,14 +97,18 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Le Piano Grand Ouvert - Henri-Luc](https://youtube.com/channel/UCHWcC8O3yl1YxbzjhVSB1XQ) | En route pour cette grande Aventure pianistique 😊... |
 | [Piano en ligne](https://youtube.com/channel/UC2fJkVzZK1WTy4JxwFzKSjQ) | Je crée des vidéos ludiques pour apprendre le piano en s'amusant. ... |
 
-### Rire
+### Humour
 
 > Humour et stand-up
 
 | Chaîne | Description |
 |--------|-------------|
+| [Adel Fugazi](https://youtube.com/channel/UCjVRltp8y_cUBfLmHSB-htw) | Viens me voir en spectacle sur scène ... |
 | [Alexis Le Rossignol](https://youtube.com/channel/UCtIqKywPf7mT2g0wvcKsiDA) | Roues Libres  |
+| [Djamil Le Shlag](https://youtube.com/channel/UCJEjYxKFgRYAxw8bWCGdzfQ) | La chaine officielle de Djamil le Shlag |
 | [Edgar-Yves Jr.](https://youtube.com/channel/UCKO1SFI8EIVU1DGQD6bZylw) | 👊 Nouveau spectacle VIGILANCE 🔥 NOUVELLE DATE - 13 Juin 2026 - Adidas Arena |
+| [Félix DHJAN](https://youtube.com/channel/UCnPImLUpo-EAnV6q4E1Mb3w) |  |
+| [Karim Duval](https://youtube.com/channel/UC57bDOxg_KlFMn2ze5f0QlQ) | Bienvenue sur la chaîne Karim Duval ! Nouveau spectacle ENTROPIE à Paris et en tournée. |
 | [Kevin Razy](https://youtube.com/channel/UCpfmGY18T_RqXfBgUB2Thsw) | Mon podcast CKR 4 fois par semaine du lundi au jeudi en live le matin (sauf si je tourne ou si j'ai ... |
 | [NAÏM](https://youtube.com/channel/UCL5WDPEm30nG6kkBmF9bfig) | NOUVEAU spectacle Chapitre 3 en 2026 🔥 |
 
@@ -114,11 +119,13 @@ Le meilleur de YouTube en Français, sans distractions.
 | Chaîne | Description |
 |--------|-------------|
 | [AstronoGeek](https://youtube.com/channel/UC5X4e8ScZI2AFd_vkjSoyoQ) | AstronoGeek, c'est une chaîne dédiée à la vulgarisation scientifique. Bordel de merde. |
+| [Deus Ex Silicium](https://youtube.com/channel/UCH6ppHEvV3_WIXEwmhv9HEg) | DEUS EX SILICIUM est une chaine francophone dont la thématique principale est l'électronique numériq... |
 | [DirtyBiology](https://youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q) | Docus scientifiques faits avec amour sur des sujets improbables. |
 | [Faire aimer les mathématiques](https://youtube.com/channel/UCMsTgghzMriQCpOkFNUR5Sg) | Faire aimer les mathématiques est une chaîne dédiée à l'éducation de cette discipline. Elle s'adress... |
 | [Grand Labo](https://youtube.com/channel/UCErPogabDLnau5mHw_IENxg) | Une émission pour débattre des grandes questions que se posent les scientifiques aujourd'hui. |
 | [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’... |
 | [Mickaël Launay (Micmaths)](https://youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg) | La chaîne Micmaths vous propose diverses vidéos autour des mathématiques. Vous y trouverez des cours... |
+| [Mon Cours De SVT](https://youtube.com/channel/UCNXhHwGBMZoTVvJCNx9rGow) | Bonjour à tous,... |
 | [Passe-Science](https://youtube.com/channel/UCsz9DiwPtgDvxJ-njWnieZw) | Chaîne de vulgarisation scientifique: physique, mathématiques et informatique. Un niveau de vulgaris... |
 | [ScienceEtonnante](https://youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) | Des vidéos pour raconter la science étonnante, amusante, passionnante et stupéfiante !... |
 | [Scienticfiz (Gilles Gourio)](https://youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g) | Vous aimez être surpris ? Vous êtes curieux de tout ? Découvrez les vidéos scientifiques réalisées a... |
@@ -134,7 +141,9 @@ Le meilleur de YouTube en Français, sans distractions.
 | Chaîne | Description |
 |--------|-------------|
 | [A la french  💻](https://youtube.com/channel/UC4YRTAl0DLe1Psu3jz1OUog) | Prenez le temps de vous installer avec nous. A la French c'est votre Tech Show avec  :... |
+| [Defend Intelligence](https://youtube.com/channel/UCnEHCrot2HkySxMTmDPhZyg) | Je suis ingénieur en Intelligence Artificielle, et je réalise des vidéos de vulgarisations sur l’IA,... |
 | [PleySmart](https://youtube.com/channel/UCnJgqsWP4PhK_v1GmDk3g6A) | Sur PleySmart, on explore ensemble le monde fascinant de l'intelligence artificielle ! Pas de discou... |
+| [Shubham SHARMA](https://youtube.com/channel/UCLKx4-_XO5sR0AO0j8ye7zQ) | IA, Automatisation, Productivité → Si vous voulez transformer votre façon de travailler, vous êtes a... |
 | [Underscore_](https://youtube.com/channel/UCWedHS9qKebauVIK2J7383g) | IA, Hacking, Robotique — Des conversations de terrain avec ceux qui construisent. 🥨 |
 | [xavki](https://youtube.com/channel/UCs_AZuYXi6NA9tkdbhjItHQ) | Des tutoriels et formations gratuites en français pour bien débuter sur des outils linux, devops et ... |
 

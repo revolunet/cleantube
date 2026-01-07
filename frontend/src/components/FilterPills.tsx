@@ -11,6 +11,8 @@ export function FilterPills({
   selected,
   onToggle,
 }: FilterPillsProps) {
+  if (options.length <= 1) return null;
+
   return (
     <div className="filter-group">
       <span className="filter-label">{label}</span>

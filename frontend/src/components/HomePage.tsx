@@ -73,16 +73,13 @@ export function HomePage() {
 
 function getCategoryIcon(categoryId: string): string {
   const icons: Record<string, string> = {
-    youth: "🎓",
-    maths: "📐",
+    jeunesse: "👶",
     sciences: "🔬",
-    histoire: "📜",
-    langues: "🌍",
-    arts: "🎨",
-    musique: "🎵",
-    technologie: "💻",
-    nature: "🌿",
-    cuisine: "👨‍🍳",
+    philo: "🤔",
+    piano: "🎹",
+    ukulele: "🎸",
+    "dessins-animes": "🎬",
+    "courts-metrages": "🎥",
   };
   return icons[categoryId] || "📺";
 }

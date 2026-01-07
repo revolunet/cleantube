@@ -3,7 +3,6 @@ import Fuse from "fuse.js";
 import type { Channel, VideoWithChannel } from "../types";
 
 const PAGE_SIZE = 20;
-const getStorageKey = (category: string) => `cleantube-filters-${category}`;
 
 // Fisher-Yates shuffle algorithm
 function shuffleArray<T>(array: T[]): T[] {
@@ -15,49 +14,27 @@ function shuffleArray<T>(array: T[]): T[] {
   return shuffled;
 }
 
-function loadFilters(category: string) {
-  try {
-    const stored = localStorage.getItem(getStorageKey(category));
-    if (stored) {
-      return JSON.parse(stored);
-    }
-  } catch {}
-  return { search: "", tags: [], public: [], channels: [] };
-}
-
-function saveFilters(category: string, search: string, tags: string[], pub: string[], channels: string[]) {
-  try {
-    localStorage.setItem(getStorageKey(category), JSON.stringify({ search, tags, public: pub, channels }));
-  } catch {}
-}
-
 export function useVideoFeed(category: string) {
   const [channels, setChannels] = useState<Channel[]>([]);
   const [loading, setLoading] = useState(true);
-  const initialFilters = useMemo(() => loadFilters(category), [category]);
-  const [search, setSearch] = useState(initialFilters.search);
-  const [selectedTags, setSelectedTags] = useState<string[]>(initialFilters.tags);
-  const [selectedPublic, setSelectedPublic] = useState<string[]>(initialFilters.public);
-  const [selectedChannels, setSelectedChannels] = useState<string[]>(initialFilters.channels || []);
+  const [search, setSearch] = useState("");
+  const [selectedTags, setSelectedTags] = useState<string[]>([]);
+  const [selectedPublic, setSelectedPublic] = useState<string[]>([]);
+  const [selectedChannels, setSelectedChannels] = useState<string[]>([]);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   // Store shuffled order in a ref so it's only computed once per category
   const shuffledVideosRef = useRef<VideoWithChannel[] | null>(null);
-
-  useEffect(() => {
-    saveFilters(category, search, selectedTags, selectedPublic, selectedChannels);
-  }, [category, search, selectedTags, selectedPublic, selectedChannels]);
 
   // Reset state when category changes
   useEffect(() => {
     setLoading(true);
     setChannels([]);
     shuffledVideosRef.current = null;
-    const filters = loadFilters(category);
-    setSearch(filters.search);
-    setSelectedTags(filters.tags);
-    setSelectedPublic(filters.public);
-    setSelectedChannels(filters.channels || []);
+    setSearch("");
+    setSelectedTags([]);
+    setSelectedPublic([]);
+    setSelectedChannels([]);
     setVisibleCount(PAGE_SIZE);
 
     fetch(`${import.meta.env.BASE_URL}channels/${category}.json`)

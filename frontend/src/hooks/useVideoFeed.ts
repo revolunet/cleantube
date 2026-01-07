@@ -25,11 +25,19 @@ export function useVideoFeed(category: string) {
 
   // Store shuffled order in a ref so it's only computed once per category
   const shuffledVideosRef = useRef<VideoWithChannel[] | null>(null);
+  const currentCategoryRef = useRef<string | null>(null);
 
   // Reset state when category changes
   useEffect(() => {
-    setLoading(true);
-    setChannels([]);
+    const isInitialLoad = currentCategoryRef.current === null;
+    currentCategoryRef.current = category;
+
+    // Only show loading spinner on initial load
+    if (isInitialLoad) {
+      setLoading(true);
+    }
+
+    // Reset filters and shuffle ref for new category
     shuffledVideosRef.current = null;
     setSearch("");
     setSelectedTags([]);

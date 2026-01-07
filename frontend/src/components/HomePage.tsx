@@ -1,18 +1,65 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import type { Catalog } from "../types";
+import { useQueryState } from "nuqs";
+import { VideoCard } from "./VideoCard";
+import { VideoModal } from "./VideoModal";
+import type { Catalog, Channel, VideoWithChannel } from "../types";
 
 export function HomePage() {
   const [catalog, setCatalog] = useState<Catalog | null>(null);
+  const [latestVideos, setLatestVideos] = useState<VideoWithChannel[]>([]);
   const [loading, setLoading] = useState(true);
+  const [videoId, setVideoId] = useQueryState("v");
+
+  const selectedVideo = videoId
+    ? latestVideos.find((v) => v.id === videoId) || null
+    : null;
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}catalog.json`)
       .then((res) => res.json())
-      .then((data: Catalog) => {
+      .then(async (data: Catalog) => {
         // Shuffle categories randomly
         const shuffledCategories = [...data.categories].sort(() => Math.random() - 0.5);
         setCatalog({ ...data, categories: shuffledCategories });
+
+        // Fetch all category data to get latest videos
+        const allVideos: VideoWithChannel[] = [];
+        await Promise.all(
+          data.categories.map(async (cat) => {
+            try {
+              const res = await fetch(`${import.meta.env.BASE_URL}channels/${cat.id}.json`);
+              if (!res.ok) return;
+              const channels: Channel[] = await res.json();
+              for (const channel of channels) {
+                for (const video of channel.videos) {
+                  allVideos.push({
+                    ...video,
+                    channelId: channel.id,
+                    channelName: channel.name,
+                    channelThumbnail: channel.thumbnail,
+                    channelPublic: channel.public,
+                    channelTags: channel.tags,
+                  });
+                }
+              }
+            } catch (e) {
+              console.error(e);
+            }
+          })
+        );
+
+        // Sort by published_at descending, take top 20, then shuffle
+        allVideos.sort((a, b) =>
+          new Date(b.published_at).getTime() - new Date(a.published_at).getTime()
+        );
+        const top20 = allVideos.slice(0, 20);
+        // Fisher-Yates shuffle
+        for (let i = top20.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [top20[i], top20[j]] = [top20[j], top20[i]];
+        }
+        setLatestVideos(top20);
         setLoading(false);
       })
       .catch((error) => {
@@ -64,12 +111,35 @@ export function HomePage() {
         </div>
       </main>
 
+      {latestVideos.length > 0 && (
+        <section className="home-latest">
+          <h2 className="home-section-title">Dernières vidéos</h2>
+          <div className="video-grid">
+            {latestVideos.map((video) => (
+              <VideoCard
+                key={`${video.channelId}-${video.id}`}
+                video={video}
+                onClick={() => setVideoId(video.id)}
+              />
+            ))}
+          </div>
+        </section>
+      )}
+
       <footer className="home-footer">
         <p>Découvrez du contenu éducatif et culturel de qualité.</p>
         <p>
           <a href="https://github.com/revolunet/cleantube">Éditez sur GitHub</a>
         </p>
       </footer>
+
+      {selectedVideo && (
+        <VideoModal
+          video={selectedVideo}
+          onClose={() => setVideoId(null)}
+          onTagClick={() => setVideoId(null)}
+        />
+      )}
     </div>
   );
 }

@@ -793,6 +793,12 @@ body {
   opacity: 0.5;
 }
 
+.home-latest {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border-color);
+}
+
 .home-footer {
   text-align: center;
   padding: 3rem 1rem;

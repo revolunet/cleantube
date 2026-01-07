@@ -5,6 +5,9 @@ on:
     # Every day at 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch: # Allow manual trigger
+  push:
+    paths:
+      - "catalog.yaml"
 
 permissions:
   contents: write

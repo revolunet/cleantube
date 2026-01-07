@@ -1,6 +1,28 @@
 import { useEffect } from "react";
 import type { VideoWithChannel } from "../types";
 
+function linkifyDescription(text: string): React.ReactNode[] {
+  const urlRegex = /(https?:\/\/[^\s]+)/g;
+  const parts = text.split(urlRegex);
+
+  return parts.map((part, index) => {
+    if (part.match(/^https?:\/\//)) {
+      return (
+        <a
+          key={index}
+          href={part}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="description-link"
+        >
+          {part}
+        </a>
+      );
+    }
+    return part;
+  });
+}
+
 interface VideoModalProps {
   video: VideoWithChannel;
   onClose: () => void;
@@ -52,7 +74,7 @@ export function VideoModal({ video, onClose, onTagClick }: VideoModalProps) {
             </div>
           )}
           {video.description && (
-            <p className="modal-description">{video.description}</p>
+            <p className="modal-description">{linkifyDescription(video.description)}</p>
           )}
         </div>
       </div>

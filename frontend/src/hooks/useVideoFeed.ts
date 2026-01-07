@@ -3,7 +3,7 @@ import Fuse from "fuse.js";
 import type { Channel, VideoWithChannel } from "../types";
 
 const PAGE_SIZE = 20;
-const STORAGE_KEY = "cleantube-filters";
+const getStorageKey = (category: string) => `cleantube-filters-${category}`;
 
 // Fisher-Yates shuffle algorithm
 function shuffleArray<T>(array: T[]): T[] {
@@ -15,9 +15,9 @@ function shuffleArray<T>(array: T[]): T[] {
   return shuffled;
 }
 
-function loadFilters() {
+function loadFilters(category: string) {
   try {
-    const stored = localStorage.getItem(STORAGE_KEY);
+    const stored = localStorage.getItem(getStorageKey(category));
     if (stored) {
       return JSON.parse(stored);
     }
@@ -25,37 +25,55 @@ function loadFilters() {
   return { search: "", tags: [], public: [], channels: [] };
 }
 
-function saveFilters(search: string, tags: string[], pub: string[], channels: string[]) {
+function saveFilters(category: string, search: string, tags: string[], pub: string[], channels: string[]) {
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify({ search, tags, public: pub, channels }));
+    localStorage.setItem(getStorageKey(category), JSON.stringify({ search, tags, public: pub, channels }));
   } catch {}
 }
 
-export function useVideoFeed() {
+export function useVideoFeed(category: string) {
   const [channels, setChannels] = useState<Channel[]>([]);
   const [loading, setLoading] = useState(true);
-  const initialFilters = useMemo(() => loadFilters(), []);
+  const initialFilters = useMemo(() => loadFilters(category), [category]);
   const [search, setSearch] = useState(initialFilters.search);
   const [selectedTags, setSelectedTags] = useState<string[]>(initialFilters.tags);
   const [selectedPublic, setSelectedPublic] = useState<string[]>(initialFilters.public);
   const [selectedChannels, setSelectedChannels] = useState<string[]>(initialFilters.channels || []);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
-  useEffect(() => {
-    saveFilters(search, selectedTags, selectedPublic, selectedChannels);
-  }, [search, selectedTags, selectedPublic, selectedChannels]);
+  // Store shuffled order in a ref so it's only computed once per category
+  const shuffledVideosRef = useRef<VideoWithChannel[] | null>(null);
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}channels-data.json`)
-      .then((res) => res.json())
+    saveFilters(category, search, selectedTags, selectedPublic, selectedChannels);
+  }, [category, search, selectedTags, selectedPublic, selectedChannels]);
+
+  // Reset state when category changes
+  useEffect(() => {
+    setLoading(true);
+    setChannels([]);
+    shuffledVideosRef.current = null;
+    const filters = loadFilters(category);
+    setSearch(filters.search);
+    setSelectedTags(filters.tags);
+    setSelectedPublic(filters.public);
+    setSelectedChannels(filters.channels || []);
+    setVisibleCount(PAGE_SIZE);
+
+    fetch(`${import.meta.env.BASE_URL}channels/${category}.json`)
+      .then((res) => {
+        if (!res.ok) throw new Error(`Category not found: ${category}`);
+        return res.json();
+      })
       .then((data) => {
         setChannels(data);
         setLoading(false);
+      })
+      .catch((error) => {
+        console.error(error);
+        setLoading(false);
       });
-  }, []);
-
-  // Store shuffled order in a ref so it's only computed once on initial load
-  const shuffledVideosRef = useRef<VideoWithChannel[] | null>(null);
+  }, [category]);
 
   const allVideos = useMemo(() => {
     if (channels.length === 0) {
@@ -156,23 +174,29 @@ export function useVideoFeed() {
   };
 
   const toggleTag = (tag: string) => {
-    setSelectedTags((prev) =>
-      prev.includes(tag) ? prev.filter((t) => t !== tag) : [...prev, tag]
-    );
+    const isSelected = selectedTags.includes(tag);
+    setSearch("");
+    setSelectedTags(isSelected ? [] : [tag]);
+    setSelectedPublic([]);
+    setSelectedChannels([]);
     setVisibleCount(PAGE_SIZE);
   };
 
   const togglePublic = (pub: string) => {
-    setSelectedPublic((prev) =>
-      prev.includes(pub) ? prev.filter((p) => p !== pub) : [...prev, pub]
-    );
+    const isSelected = selectedPublic.includes(pub);
+    setSearch("");
+    setSelectedTags([]);
+    setSelectedPublic(isSelected ? [] : [pub]);
+    setSelectedChannels([]);
     setVisibleCount(PAGE_SIZE);
   };
 
   const toggleChannel = (channel: string) => {
-    setSelectedChannels((prev) =>
-      prev.includes(channel) ? prev.filter((c) => c !== channel) : [...prev, channel]
-    );
+    const isSelected = selectedChannels.includes(channel);
+    setSearch("");
+    setSelectedTags([]);
+    setSelectedPublic([]);
+    setSelectedChannels(isSelected ? [] : [channel]);
     setVisibleCount(PAGE_SIZE);
   };
 

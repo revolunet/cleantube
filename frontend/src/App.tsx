@@ -1,14 +1,27 @@
-import { useMemo } from "react";
+import { useMemo, useState, useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 import { useQueryState } from "nuqs";
+import { useParams, useNavigate, Link } from "react-router-dom";
 import { VideoCard } from "./components/VideoCard";
 import { VideoModal } from "./components/VideoModal";
 import { FilterPills } from "./components/FilterPills";
 import { SearchBar } from "./components/SearchBar";
 import { useVideoFeed } from "./hooks/useVideoFeed";
+import type { CategoryInfo } from "./types";
 import "./App.css";
 
 function App() {
+  const { category = "youth" } = useParams<{ category: string }>();
+  const navigate = useNavigate();
+  const [categories, setCategories] = useState<CategoryInfo[]>([]);
+
+  useEffect(() => {
+    fetch(`${import.meta.env.BASE_URL}categories.json`)
+      .then((res) => res.json())
+      .then(setCategories)
+      .catch(console.error);
+  }, []);
+
   const {
     loading,
     videos,
@@ -30,7 +43,9 @@ function App() {
     toggleChannel,
     filterByTagOnly,
     resetFilters,
-  } = useVideoFeed();
+  } = useVideoFeed(category);
+
+  const currentCategory = categories.find((c) => c.id === category);
 
   const [videoId, setVideoId] = useQueryState("v");
 
@@ -56,7 +71,24 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1 className="logo" onClick={resetFilters}>CleanTube</h1>
+        <div className="header-left">
+          <Link to="/" className="logo-link">
+            <h1 className="logo">CleanTube</h1>
+          </Link>
+          {categories.length > 1 && (
+            <nav className="category-nav">
+              {categories.map((cat) => (
+                <Link
+                  key={cat.id}
+                  to={`/${cat.id}`}
+                  className={`category-link ${cat.id === category ? "active" : ""}`}
+                >
+                  {cat.name}
+                </Link>
+              ))}
+            </nav>
+          )}
+        </div>
         <SearchBar value={search} onChange={setSearch} />
       </header>
 

@@ -26,3 +26,10 @@ export interface VideoWithChannel extends Video {
   channelPublic: string;
   channelTags: string[];
 }
+
+export interface CategoryInfo {
+  id: string;
+  name: string;
+  channelCount: number;
+  videoCount: number;
+}

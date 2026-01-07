@@ -344,6 +344,7 @@ body {
   opacity: 0.7;
 }
 
+.sort-button,
 .lucky-button {
   padding: 0.5rem 1rem;
   border: 1px solid var(--border-color);
@@ -357,12 +358,20 @@ body {
   backdrop-filter: blur(10px);
 }
 
+.sort-button:hover,
 .lucky-button:hover {
   background: linear-gradient(135deg, var(--accent), var(--accent-light));
   border-color: transparent;
   color: #fff;
   box-shadow: 0 2px 10px var(--accent-glow);
   transform: translateY(-2px);
+}
+
+.sort-button.active {
+  background: linear-gradient(135deg, var(--accent), var(--accent-light));
+  border-color: transparent;
+  color: #fff;
+  box-shadow: 0 2px 10px var(--accent-glow);
 }
 
 /* Video Grid */
@@ -791,6 +800,46 @@ body {
 
 .category-card-stats .separator {
   opacity: 0.5;
+}
+
+.home-random {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.random-video-button {
+  padding: 1rem 2rem;
+  border: 1px solid var(--border-color);
+  border-radius: 999px;
+  background: var(--bg-card);
+  color: var(--text-primary);
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.random-video-button:hover {
+  background: linear-gradient(135deg, var(--accent), var(--accent-light));
+  border-color: transparent;
+  color: #fff;
+  box-shadow: 0 4px 20px var(--accent-glow);
+  transform: translateY(-3px);
+}
+
+.random-video-button:active {
+  transform: translateY(-1px);
+}
+
+.home-lucky {
+  margin-top: 3rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.home-lucky button {
+  font-size: 2rem;
 }
 
 .home-latest {

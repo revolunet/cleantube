@@ -7,33 +7,44 @@ import type { Catalog, Channel, VideoWithChannel } from "../types";
 
 export function HomePage() {
   const [catalog, setCatalog] = useState<Catalog | null>(null);
+  const [allVideos, setAllVideos] = useState<VideoWithChannel[]>([]);
   const [latestVideos, setLatestVideos] = useState<VideoWithChannel[]>([]);
   const [loading, setLoading] = useState(true);
   const [videoId, setVideoId] = useQueryState("v");
 
   const selectedVideo = videoId
-    ? latestVideos.find((v) => v.id === videoId) || null
+    ? allVideos.find((v) => v.id === videoId) || null
     : null;
+
+  const playRandomVideo = () => {
+    if (allVideos.length === 0) return;
+    const randomIndex = Math.floor(Math.random() * allVideos.length);
+    setVideoId(allVideos[randomIndex].id);
+  };
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}catalog.json`)
       .then((res) => res.json())
       .then(async (data: Catalog) => {
         // Shuffle categories randomly
-        const shuffledCategories = [...data.categories].sort(() => Math.random() - 0.5);
+        const shuffledCategories = [...data.categories].sort(
+          () => Math.random() - 0.5
+        );
         setCatalog({ ...data, categories: shuffledCategories });
 
         // Fetch all category data to get latest videos
-        const allVideos: VideoWithChannel[] = [];
+        const videos: VideoWithChannel[] = [];
         await Promise.all(
           data.categories.map(async (cat) => {
             try {
-              const res = await fetch(`${import.meta.env.BASE_URL}channels/${cat.id}.json`);
+              const res = await fetch(
+                `${import.meta.env.BASE_URL}channels/${cat.id}.json`
+              );
               if (!res.ok) return;
               const channels: Channel[] = await res.json();
               for (const channel of channels) {
                 for (const video of channel.videos) {
-                  allVideos.push({
+                  videos.push({
                     ...video,
                     channelId: channel.id,
                     channelName: channel.name,
@@ -49,11 +60,16 @@ export function HomePage() {
           })
         );
 
+        // Store all videos for random selection
+        setAllVideos(videos);
+
         // Sort by published_at descending, take top 20, then shuffle
-        allVideos.sort((a, b) =>
-          new Date(b.published_at).getTime() - new Date(a.published_at).getTime()
+        const sortedVideos = [...videos].sort(
+          (a, b) =>
+            new Date(b.published_at).getTime() -
+            new Date(a.published_at).getTime()
         );
-        const top20 = allVideos.slice(0, 20);
+        const top20 = sortedVideos.slice(0, 20);
         // Fisher-Yates shuffle
         for (let i = top20.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1));
@@ -99,7 +115,9 @@ export function HomePage() {
               </div>
               <h3 className="category-card-title">{category.name}</h3>
               {category.description && (
-                <p className="category-card-description">{category.description}</p>
+                <p className="category-card-description">
+                  {category.description}
+                </p>
               )}
               <div className="category-card-stats">
                 <span>{category.channelCount} chaînes</span>
@@ -110,6 +128,16 @@ export function HomePage() {
           ))}
         </div>
       </main>
+
+      <section className="home-lucky">
+        {allVideos.length > 0 && (
+          <div className="home-random">
+            <button className="random-video-button" onClick={playRandomVideo}>
+              J'ai de la chance
+            </button>
+          </div>
+        )}
+      </section>
 
       {latestVideos.length > 0 && (
         <section className="home-latest">

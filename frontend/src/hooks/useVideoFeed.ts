@@ -14,6 +14,8 @@ function shuffleArray<T>(array: T[]): T[] {
   return shuffled;
 }
 
+type SortOrder = "random" | "date";
+
 export function useVideoFeed(category: string) {
   const [channels, setChannels] = useState<Channel[]>([]);
   const [loading, setLoading] = useState(true);
@@ -22,6 +24,7 @@ export function useVideoFeed(category: string) {
   const [selectedPublic, setSelectedPublic] = useState<string[]>([]);
   const [selectedChannels, setSelectedChannels] = useState<string[]>([]);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const [sortOrder, setSortOrder] = useState<SortOrder>("random");
 
   // Store shuffled order in a ref so it's only computed once per category
   const shuffledVideosRef = useRef<VideoWithChannel[] | null>(null);
@@ -44,6 +47,7 @@ export function useVideoFeed(category: string) {
     setSelectedPublic([]);
     setSelectedChannels([]);
     setVisibleCount(PAGE_SIZE);
+    setSortOrder("random");
 
     fetch(`${import.meta.env.BASE_URL}channels/${category}.json`)
       .then((res) => {
@@ -144,8 +148,15 @@ export function useVideoFeed(category: string) {
       result = result.filter((v) => selectedChannels.includes(v.channelName));
     }
 
+    // Sort by date if requested
+    if (sortOrder === "date") {
+      result = [...result].sort(
+        (a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime()
+      );
+    }
+
     return result;
-  }, [allVideos, search, selectedTags, selectedPublic, selectedChannels, fuse]);
+  }, [allVideos, search, selectedTags, selectedPublic, selectedChannels, fuse, sortOrder]);
 
   const visibleVideos = useMemo(
     () => filteredVideos.slice(0, visibleCount),
@@ -206,6 +217,11 @@ export function useVideoFeed(category: string) {
     setVisibleCount(PAGE_SIZE);
   };
 
+  const toggleSortOrder = () => {
+    setSortOrder((prev) => (prev === "random" ? "date" : "random"));
+    setVisibleCount(PAGE_SIZE);
+  };
+
   return {
     loading,
     videos: visibleVideos,
@@ -227,5 +243,7 @@ export function useVideoFeed(category: string) {
     toggleChannel,
     filterByTagOnly,
     resetFilters,
+    sortOrder,
+    toggleSortOrder,
   };
 }

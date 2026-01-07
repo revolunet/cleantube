@@ -41,6 +41,8 @@ function App() {
     selectedChannels,
     toggleChannel,
     filterByTagOnly,
+    sortOrder,
+    toggleSortOrder,
   } = useVideoFeed(category);
 
   const [videoId, setVideoId] = useQueryState("v");
@@ -116,17 +118,25 @@ function App() {
         <div className="results-header">
           <p className="results-count">{totalCount} vidéos</p>
           {totalCount > 0 && (
-            <button
-              className="lucky-button"
-              onClick={() => {
-                const randomIndex = Math.floor(
-                  Math.random() * filteredVideos.length
-                );
-                setVideoId(filteredVideos[randomIndex].id);
-              }}
-            >
-              J'ai de la chance
-            </button>
+            <>
+              <button
+                className={`sort-button ${sortOrder === "date" ? "active" : ""}`}
+                onClick={toggleSortOrder}
+              >
+                {sortOrder === "date" ? "Plus récentes" : "Aléatoire"}
+              </button>
+              <button
+                className="lucky-button"
+                onClick={() => {
+                  const randomIndex = Math.floor(
+                    Math.random() * filteredVideos.length
+                  );
+                  setVideoId(filteredVideos[randomIndex].id);
+                }}
+              >
+                J'ai de la chance
+              </button>
+            </>
           )}
         </div>
         <div className="video-grid">

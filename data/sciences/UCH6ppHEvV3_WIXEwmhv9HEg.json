@@ -1,0 +1,624 @@
+{
+  "id": "UCH6ppHEvV3_WIXEwmhv9HEg",
+  "name": "Deus Ex Silicium",
+  "description": "DEUS EX SILICIUM est une chaine francophone dont la thématique principale est l'électronique numérique, et plus particulièrement autour des semiconducteurs et leurs très nombreuses applications (bien que l'électronique analogique ait également sa place).\nProduite par un ingénieur en micro-électronique et imaginée pour les ingénieurs, hackeurs, amateurs, étudiants, geeks, passionnés ou curieux de technologie, il y est, entre autre, question de circuits intégrés, de microscopie, d'ordinateurs, de consoles de jeu vidéo, d'instruments de mesure, d'électronique \"vintage\", de kits de développement, d'électronique grand public, d'électronique professionnelle, de vulgarisation, de démystification de certains produits grand public, etc.\n",
+  "thumbnail": "https://yt3.ggpht.com/xIXcj7XpPGCLyVJbor1IMxG_VYuUItTbWNek8TSJTsl8YZvEfcU7SLE6ZywDKS00qSpQGV9kug=s800-c-k-c0x00ffffff-no-rj",
+  "public": "15 ans et plus",
+  "language": "fr",
+  "tags": [
+    "technologie",
+    "informatique",
+    "sciences",
+    "physique"
+  ],
+  "videos": [
+    {
+      "id": "xf53HA7ftfk",
+      "title": "Les casques de Réalité Virtuelle (suite et fin : le Contrôleur)",
+      "description": "Dans cet épisode (qui est la suite du précédent), il est question d'expliquer le principe de fonctionnement du puissant contrôleur du casque de réalité virtuelle Meta Quest Pro, et d'en analyser en détail l'électronique (circuiterie, composants, capteurs, moteurs haptiques).\n\nAu sommaire :\n00:00 Introduction\n00:30 Présentation\n02:04 Comparaison entre le contrôleur du Quest Pro et les autres\n03:27 Une idée de la puissance de calcul de ce contrôleur\n04:55 Désassemblage intégral\n07:52 Analyse des capteurs caméra et de la centrale inertielle\n11:14 Moteur de retour haptique / joystick / capteurs à effet Hall\n12:39 Analyse de l'électronique\n16:32 Diagramme simplifié de rétro-ingénierie\n16:50 Conclusion et fin\n\nLIEN VERS LE PREMIER EPISODE :\nhttps://youtu.be/zfCQ_8-uBy0\n\n- Deus Ex Silicium -\nSite web ______________________ http://www.dexsilicium.com   (pour me contacter)\nX / ex Twitter _________________ https://x.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT17M36S",
+      "published_at": "2025-12-23T14:28:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/xf53HA7ftfk/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "zfCQ_8-uBy0",
+      "title": "Les casques de Réalité Virtuelle (VR) et Réalité Mixte (MR)",
+      "description": "Un épisode consacré à la réalité virtuelle dans lequel il est question d'expliquer le principe de fonctionnement des casques de réalité virtuelle et mixte, et d'en analyser en détail l'électronique (circuiterie, composants, capteurs, éléments mécaniques et optiques).\nLe casque VR qui sert de cobaye dans cette vidéo est le Meta Quest Pro.\n\nAu sommaire :\n00:00 Introduction\n00:44 Présentation de l'épisode\n01:18 Qu'est-ce que la réalité virtuelle ?\n05:34 Le processus de la \"Boucle VR\"\n07:36 Petit tour d'horizon d'un casque VR (Meta Quest Pro)\n08:40 Démontage (phase 1) et analyse de la batterie\n10:13 Démontage (phase 2) et cliché aux rayons X\n12:40 Suite du démontage (phase 3)\n14:55 Début de l''analyse électronique (capteurs)\n18:55 Analyse de l'électronique optique (écran LCD + lentille pancake)\n22:06 Analyse électronique de la carte mère (face avant)\n26:22 Analyse électronique de la carte mère (face arrière)\n27:53 Conclusion\n\n- Deus Ex Silicium -\nSite web ______________________ http://www.dexsilicium.com   (pour me contacter)\nX / ex Twitter _________________ https://x.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT29M50S",
+      "published_at": "2025-12-15T16:00:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/zfCQ_8-uBy0/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "OGMRUiBOFj0",
+      "title": "Un cas (fortement) probable d'obsolescence programmée",
+      "description": "Un épisode consacré à la tentative de réparation d'un robot aspirateur EYE360 du fabricant DYSON et à la découverte de ce qui est très probablement un cas typique d'obsolescence programmée.\nAu sommaire :\n\n00:00 Introduction\n01:41 Exposition du sujet\n07:31 Analyse de son anatomie aux rayons X\n08:20 Démontage et première analyse de son électronique\n12:38 Un composant qui a attiré mon attention\n16:44 Désassemblage\n18:41 Analyse détaillée de la carte CPU et de la caméra\n21:57 Analyse détaillée de la carte contrôleur\n23:11 Résumé de la recherche de panne\n24:11 Verdict et conclusion\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT27M15S",
+      "published_at": "2025-10-16T14:56:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/OGMRUiBOFj0/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "geBcfKn3B1g",
+      "title": "Anatomie détaillée des principaux composants d'un PC (carte mère, carte graphique, RAM, SSD, HDD)",
+      "description": "Un épisode consacré à une analyse poussée avec explications détaillées sur le fonctionnement des principaux éléments électroniques qui composent un PC, à savoir : la carte mère, la carte graphique, la mémoire RAM DDR4/5, le SSD et le disque dur.\nAu sommaire :\n\n00:00 Introduction\n01:40 Exposition du sujet\n07:36 La carte mère\n20:25 La mémoire DRAM\n24:47 Le SSD\n30:22 Autopsie d'une mémoire flash NAND-3D et d'un contrôleur de SSD\n32:20 Le disque dur\n40:16 La carte graphique\n48:29 Fin\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT49M6S",
+      "published_at": "2025-03-30T17:00:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/geBcfKn3B1g/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "tbbNaAIVFd4",
+      "title": "Bio implant sous-cutanée, quand la fiction devient réalité",
+      "description": "Un épisode consacré à l'analyse et à la dissection de 2 bio implants sous-cutanée que l'on peut trouver en vente libre qui utilisent la technologie NFC.\nAu sommaire :\n\n00:00 Introduction\n01:34 Exposition du sujet\n02:36 Présentation du 1er modèle d'implant SPARK 2\n05:11 La question de l'implantation sous-cutanée\n06:23 Lecture du SPARK 2\n07:26 Passage rapide aux rayons X\n07:50 Dissection et analyse du premier implant\n10:30 Présentation et analyse du second implant\n12:12 Dissection du second implant\n12:49 Conclusion et avis sur la question\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT15M31S",
+      "published_at": "2024-12-11T15:43:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/tbbNaAIVFd4/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "uW2FoZQS1YE",
+      "title": "Que vaut l'électronique de produits \"clones\" par rapport à l'original vendu plus cher ?",
+      "description": "Dans un appareil grand public de marque, lorsqu'on se retrouve à devoir remplacer un élément essentiel qui est devenu défaillant (comme par exemple sa batterie, son chargeur, sa lampe s'il s'agit d'un vidéoprojecteur) ou juste simplement du consommable comme une cartouche d'encre ou un toner d'imprimante laser, est-ce qu'il est préférable de racheter au prix fort l'élément vendu par le fabricant de l'appareil (donc à l'identique) ou bien est-ce qu'on peut se contenter d'acheter un élément bien moins cher et 100% compatible (donc un clone) mais pas produit par le fabricant ?\nVoilà un épisode qui va vous donner pas mal d'éléments de réponse...\nAu sommaire :\n\n00:00 Introduction\n00:58 Présentation et exposition du sujet\n03:01 Autres exemples\n04:43 La question qui se pose\n05:01 Ouverture et analyse de la batterie originale\n09:32 Evaluation de son coût de production\n12:56 Ouverture et analyse de la batterie clone\n17:28 Analyse rapide de 2 autres exemples\n18:56 Conclusion et avis sur la question\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT22M7S",
+      "published_at": "2024-08-18T14:08:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/uW2FoZQS1YE/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "LQNGl7yHk3Y",
+      "title": "Comment ça marche #07 : Rubik's Cube bluetooth connecté",
+      "description": "Ce septième épisode de la série est consacré au décorticage d'un Rubik's Cube de la marque Moyu qui a la particularité de contenir un cœur électronique lui permettant d'être connecté en bluetooth et de communiquer avec une application mobile (ou PC) pour pouvoir s'entrainer avec et faire des compétitions en ligne avec d'autres participants du monde entier.\n\nAu sommaire :\n00:00 Introduction\n00:52 Présentation de l'épisode\n01:33 Premier contact avec le smart cube Moyu AI Weilong\n03:51 Démonstration du robot solveur de cube 3x3\n04:41 Première observation du cube aux rayons X\n05:51 Démontage\n07:09 Analyse intégrale de l'électronique\n10:53 Explication du principe de fonctionnement\n11:58 Conclusion et notation\n\nLien vers la vidéo de The Cubicle :\nhttps://www.youtube.com/watch?v=chLOuZrp0zI&t=6s&ab_channel=TheCubicle\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT13M35S",
+      "published_at": "2024-07-17T15:15:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/LQNGl7yHk3Y/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "tlb-9ZPnjmA",
+      "title": "Dans les entrailles de 3 bagues intelligentes connectées",
+      "description": "Un épisode consacré à l'analyse détaillée et au décorticage de l'électronique des bagues connectées Oura Ring, Circular Ring Slim et de la bague NFC Aeklys.\nAu sommaire :\n\n00:00 Introduction\n01:48 Présentation de la Oura Ring génération 3\n04:10 Présentation de la Aeklys One\n05:32 Présentation de la Circular Ring Slim\n07:13 Première analyse des bagues aux rayons X\n09:35 Explication de la méthode de décorticage\n11:08 Ouverture de la Circular Ring\n12:30 Explication de la technique optique de photopléthysmographie\n13:31 Décorticage et analyse de l'électronique de la Circular Ring\n16:10 Ouverture de l'Aeklys et analyse de son électronique\n19:21 Ouverte et décorticage de la Oura Ring\n23:16 Conclusion et avis sur ces produits\n\nLien vers le test Frandroid de la Oura Ring 3 :\nhttps://www.frandroid.com/test/1871195_test-de-loura-ring-3-le-seigneur-des-anneaux-connectes\n\nLien vers le test Frandroid de la Circular Ring :\nhttps://www.frandroid.com/produits-android/accessoires-objets-connectes/bagues-connectees/1896859_test-circular-ring-slim-bague-connectee\n\nLien vers l'épisode d'analyse de la souris Logitech G502 Lightspeed :\nhttps://youtu.be/Tak8Pz4GSn8\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT25M50S",
+      "published_at": "2024-06-30T15:26:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/tlb-9ZPnjmA/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "8S3Ezs1x4Xk",
+      "title": "Le fameux dispositif \"quantique\" à 11000€ qui développe la conscience à l'infini",
+      "description": "Un épisode consacré à l'analyse détaillée et au décorticage du dispositif quantique PRK-1U (vendu 11000€) du Docteur Grigori Grabovoi. Selon ses termes, il permettrait d’accélérer considérablement le développement de la conscience au travers de la concentration de la pensée.\nNous allons donc voir jusqu'à quel point cette affirmation est vérifiable ou pas...\nAu sommaire :\n\n00:00 Introduction\n00:41 Comment je me suis procuré cet appareil\n02:27 Découverte du PRK-1U à travers le site internet officiel\n06:00 Révélation de quelques documents intéressants\n08:53 Première prise en main et mesure des interférences électromagnétiques\n10:49 Ouverture du boitier et premières impressions\n12:25 Analyse détaillée des composants et des divers éléments\n15:54 Que contient la clé USB ?\n17:00 Conclusion et réflexion globale\n\nLien vers l'épisode sur le HEALY :\nhttps://youtu.be/UrDfPGSWxas\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT21M19S",
+      "published_at": "2024-05-01T14:46:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/8S3Ezs1x4Xk/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "XdVPq_FnT7A",
+      "title": "Dans les entrailles de la Freebox ULTRA : analyses, mesures et décorticage de son électronique",
+      "description": "Un épisode consacré à l'analyse intégrale et détaillée du hardware du serveur fibre Ultra, la Freebox de 9ème génération que Free a rendu disponible dans ses offres internet depuis le 30 janvier 2024.\nAu sommaire :\n\n00:00 Introduction\n00:40 Avant propos\n01:51 Unboxing et présentation rapide de la Freebox Ultra Server\n03:51 Mesures électriques, thermiques et électromagnétiques en condition d'utilisation\n06:43 Ouverture et désassemblage des différents éléments\n10:47 Mesure du rayonnement thermique sans dissipateur (par caméra infrarouge)\n11:35 Mesure du rayonnement électromagnétique des composants (sans blindage)\n12:24 Analyse détaillée des composants de la carte mère (face avant)\n16:00 Analyse détaillée des composants de la carte mère (face arrière)\n18:56 Analyse détaillée des modules radio Wifi 7 + antennes\n21:24 Ingénierie inverse : schéma de principe (très simplifié)\n21:44 Verdict et conclusion\n\nLien vers l'épisode de même type consacré à la Freebox Pop :\nhttps://youtu.be/Pneh6QHVhMI\n\nLien vers l'épisode de même type consacré à la Freebox Delta :\nhttps://youtu.be/t0GSFu0ESD8\n\nLien vers l'épisode de même type consacré à la SFR Box 8 :\nhttps://youtu.be/Zum-f-3G4D4\n\nLien vers l'épisode de même type consacré à la BBox Wifi 6 :\nhttps://youtu.be/IBM-CmhzoKs\n\nLien vers l'épisode de même type consacré à la Livebox 6 :\nhttps://youtu.be/VryPNmlxxas\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT24M18S",
+      "published_at": "2024-04-16T15:31:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/XdVPq_FnT7A/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "VweQXOH6f5s",
+      "title": "Ces générateurs d'impulsions électromagnétiques devraient être interdits",
+      "description": "Dans cet épisode, on s'attarde sur un petit boîtier relativement facile à se procurer sur internet et qui a pourtant la faculté d'endommager des appareils électroniques. Je vous explique comment il fonctionne et pourquoi il est nuisible voire même potentiellement dangereux.\n\nLien vers la vidéo sur la pompe à insuline Omnipod :\nhttps://youtu.be/SrM98OO_XcU\n\nLien vers la vidéo sur le stimulateur cardiaque :\nhttps://youtu.be/vhal7DgmEHI\n\nLes chapitres :\n00:00 Début\n00:56 Introduction\n02:35 Présentation du boîtier\n06:00 Mesures électromagnétiques\n07:23 Quels sont les incidences sur les appareils électriques ?\n11:36 Observation via un scanner à rayons X\n12:12 Ouverture et décorticage du boîtier\n13:04 Analyse de son électronique\n14:34 Conclusion\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT16M7S",
+      "published_at": "2024-03-31T14:32:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/VweQXOH6f5s/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "physique"
+      ]
+    },
+    {
+      "id": "ccwTLWLeuwU",
+      "title": "Dans les entrailles de 2 calculateurs de minage de cryptomonnaie",
+      "description": "Dans cet épisode, on analyse et décortique intégralement 2 calculateurs de minage de cryptomonnaie du fabricant Bitmain (Antminer S5 et Antminer Z9 mini). Je vous explique à quoi ils servent, comment ils fonctionnent, il y a aussi un peu d'ingénierie inverse et d'analyse des composants, et on terminera sur l'observation microscopique du circuit intégré d'un des ASIC.\n\nLien vers la chaine youtube Crypto LFDM (La ferme du Mineur) :\nhttps://www.youtube.com/@CryptoLFDM\n\nLien vers la vidéo qui explique pourquoi on voit des couleurs à la surface des puces de silicium :\nhttps://youtu.be/5jhU3-c49Bg\n\nLes chapitres :\n00:00 Début\n00:40 Introduction\n01:05 Présentation des 2 calculateurs Bitmain\n05:26 Tests de mise en service des calculateurs\n07:03 Spécifications des 2 calculateurs\n08:46 Ouverture, décorticage et analyse du Antminer S5\n20:11 Ouverture, décorticage et analyse du Antminer Z9 mini\n26:54 Observation de la puce de silicium d'un ASIC du Z9 mini\n30:26 Conclusion\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT31M12S",
+      "published_at": "2024-02-19T16:48:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/ccwTLWLeuwU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "ssVn_isebs8",
+      "title": "BANDE ANNONCE",
+      "description": "Bande annonce DEUS EX SILICIUM\nToutes les images sont extraites des diverses vidéos de la chaine sorties avant le 1er Janvier 2024.\nImages, musique et montage par Stéphane MARTY.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT1M36S",
+      "published_at": "2023-12-30T10:57:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/ssVn_isebs8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "1wouPyBpsKQ",
+      "title": "Montre connectée intelligente à 2€ : anatomie d'une arnaque Aliexpress",
+      "description": "Dans cette vidéo, vous allez comprendre à travers une démonstration et une analyse technique détaillée pourquoi il ne faut jamais acheter ce genre de produit sur ces boutiques en ligne chinoises.\n\nLien vers l'épisode sur la montre connectée Fitbit Ionic :\nhttps://youtu.be/4JW7bU0n_jM\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT12M14S",
+      "published_at": "2023-12-24T11:01:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/1wouPyBpsKQ/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "JGP98IDCrTc",
+      "title": "Le secret des bracelets lumineux interactifs dans les concerts et spectacles",
+      "description": "Si vous avez déjà participé à un concert ou un évènement dans lequel des bracelets lumineux étaient fournis au public, vous vous êtes peut-être déjà demandé comment autant de bracelets pouvaient être contrôlés de façon aussi synchronisée. La réponse est dans cet épisode, avec en complément une analyse intégrale de l'électronique d'un de ces bracelets, toujours fonctionnel.\n\nLes chapitres :\n00:00 Introduction\n01:35 Présentation de la technologie Pixmob\n03:50 Réactivation de plusieurs bracelets avec un Flipper zéro\n05:39 Analyse de signal\n07:23 Analyse de la circuiterie et des composants\n09:21 Décorticage du récepteur infrarouge\n10:52 Schéma simplifié explicatif du fonctionnement d'un bracelet\n11:17 Conclusion et réflexion sur l'aspect recyclabilité\n\nLa page Github vers les codes IR pour le Flipper zero\nhttps://github.com/danielweidman/flipper-pixmob-ir-codes\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT13M5S",
+      "published_at": "2023-12-17T16:14:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/JGP98IDCrTc/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "physique"
+      ]
+    },
+    {
+      "id": "nXHz9apSYQ0",
+      "title": "Comment ça marche #06 : Balise de détresse GPS pour navire",
+      "description": "Pour ce sixième épisode, je vous propose d'analyser un appareil qui permet de sauver des vies : une balise de détresse pour navire conçue pour pour fonctionner conjointement avec le système international de recherche et sauvetage par satellite ainsi que le système mondial de détresse et de sécurité en mer.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT15M10S",
+      "published_at": "2023-11-30T15:46:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/nXHz9apSYQ0/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "geographie"
+      ]
+    },
+    {
+      "id": "T9HGxxQ-oCI",
+      "title": "Complément d'informations sur le boitier de mesure d'audience Médiamétrie",
+      "description": "Courte vidéo pour apporter un complément d'informations techniques par rapport à l'épisode 51 sur le boitier Médiamétrie, notamment pour clarifier la méthode employée pour identifier les émissions TV et radio dans le flux audio.\n\nLien vers l'épisode :\nhttps://youtu.be/HhEwILqZd0g\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT5M19S",
+      "published_at": "2023-10-26T17:06:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/T9HGxxQ-oCI/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "HhEwILqZd0g",
+      "title": "Analyse et décorticage d'un mystérieux boitier de mesure d'audience des médias : Médiamétrie",
+      "description": "Dans cet épisode, on analyse et décortique intégralement un boitier portatif de 40 grammes qui écoute en continu tous les flux audio de l'endroit où l'on se trouve afin de les transmettre automatiquement en 3G pendant la nuit aux serveurs de Médiamétrie pour y être analysés et traités, et ce, dans le but de mesurer l'audience des médias de certaines émissions TV ou radio.\n\nLien vers la vidéo \"Bonus 24\" de complément d'informations techniques à voir absolument après cet épisode (courte vidéo de 5mn pour apporter un complément d'informations techniques par rapport à l'épisode 51 sur le boitier Médiamétrie, notamment pour clarifier la méthode employée pour identifier les émissions TV et radio dans le flux audio)\nhttps://youtu.be/T9HGxxQ-oCI\n\nLes chapitres :\n00:00 Début\n01:19 Qu'est ce que Médiamétrie et à quoi sert un appareil de mesure d'audience des médias ?\n03:31 Présentation de l'appareil\n05:14 Ouverture et analyse rapide de ses éléments\n08:49 Décorticage intégral de l'écran\n12:44 Scan du circuit imprimé aux rayons X\n13:36 Analyse de l'ensemble des composants du circuit imprimé\n20:08 Analyse et décorticage du microphone microélectromécanique MEMS\n21:21 Parenthèse concernant la fabrication du boitier\n22:24 Visualisation des couches internes de la platine\n22:55 Résumé et conclusion\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT24M45S",
+      "published_at": "2023-10-24T14:51:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/HhEwILqZd0g/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "SrM98OO_XcU",
+      "title": "Analyse et décorticage d'une pompe à insuline miniature jetable",
+      "description": "Dans cet épisode, on analyse intégralement une pompe à insuline miniature Omnipod (du fabricant Insulet) qui contient une technologie assez innovante mais qui a la particularité d'être jetable car sa durée de fonctionnement n'est que de 3 jours, il faut ensuite la remplacer par une nouvelle.\n\nLes chapitres :\n00:00 Début\n00:46 Introduction, qu'est ce qu'une pompe à insuline ?\n02:46 Présentation de la pompe à insuline Omnipod\n03:24 Passage aux rayons X\n04:05 Ouverture et analyse rapide de son anatomie\n06:29 Décorticage de son système électromécanique\n10:14 Analyse de son électronique\n13:05 Réflexion sur l'aspect écologique de ce produit\n15:12 Fin\n\nLien vers la vidéo sur les capteurs de glycémie jetables\nhttps://youtu.be/9MBtXqU0xLU\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT15M46S",
+      "published_at": "2023-10-01T11:43:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/SrM98OO_XcU/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "biologie"
+      ]
+    },
+    {
+      "id": "1FLwy4XPBg0",
+      "title": "L'escroquerie du fameux boitier économiseur d'électricité",
+      "description": "Dans cet épisode, on se penche sur le cas du plus connu des boitiers électroniques vendus pour, soit disant, corriger le facteur de puissance du réseau électrique d'une maison et permettre de réduire la consommation d'énergie électrique (et donc la facture d'électricité).\nVous n'êtes pas au bout de vos surprises...\n\nLes chapitres :\n00:00 Début\n00:24 Introduction\n02:46 Notion de puissance (active, réactive, apparente)\n04:59 Le concept du facteur de puissance\n07:04 Expérimentation du boitier : mesures et observation du facteur de puissance\n10:03 Radiographie X\n10:54 Ouverture du boitier et analyse de la circuiterie\n12:33 Le composant mystère\n13:14 Conclusion et réflexion sur le sujet\n\nLien vers la vidéo de Mr Bidouille\nhttps://youtu.be/lkmymBD3lww?si=G2aIYNuozAX9VWWr\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT15M26S",
+      "published_at": "2023-09-03T15:19:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/1FLwy4XPBg0/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "physique"
+      ]
+    },
+    {
+      "id": "Pneh6QHVhMI",
+      "title": "Dans les entrailles de la Freebox Pop : analyses, mesures et décorticage de son électronique",
+      "description": "Un épisode consacré à l'analyse intégrale et détaillée du hardware de la box internet fibre Freebox Pop, cette petite boite ronde de 16cm de diamètre qui se trouve dans plus de 1 million de foyers Français.\nAu sommaire :\n\n00:00 Introduction\n00:32 Avant propos\n01:33 Présentation rapide de la Freebox Pop Server\n02:39 Mesure de sa consommation électrique (en mode idle)\n03:40 Mesure du rayonnement électromagnétique au contact du boitier\n04:37 Ouverture et désassemblage des différents éléments\n07:15 Analyse du panneau écran LCD\n08:15 Analyse de la platine d'alimentation USB Power Delivery\n10:38 Analyse détaillée du module radio Wifi\n15:40 Analyse détaillée des composants de la carte mère (face avant)\n18:04 Analyse détaillée des composants de la carte mère (face arrière)\n20:22 Mesure du rayonnement électromagnétique des composants (sans blindage)\n21:16 Mesure du rayonnement thermique sans dissipateur (par caméra infrarouge)\n22:11 Ingénierie inverse : schéma de principe (très simplifié)\n22:33 Conclusion\n\nLien vers l'épisode de même type consacré à la Freebox Delta :\nhttps://youtu.be/t0GSFu0ESD8\n\nLien vers l'épisode de même type consacré à la SFR Box 8 :\nhttps://youtu.be/Zum-f-3G4D4\n\nLien vers l'épisode de même type consacré à la BBox Wifi 6 :\nhttps://youtu.be/IBM-CmhzoKs\n\nLien vers l'épisode de même type consacré à la Livebox 6 :\nhttps://youtu.be/VryPNmlxxas\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT24M19S",
+      "published_at": "2023-08-20T14:43:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/Pneh6QHVhMI/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique",
+        "physique"
+      ]
+    },
+    {
+      "id": "Tak8Pz4GSn8",
+      "title": "Une souris optique plus puissante que les ordinateurs des années 80",
+      "description": "On vit une époque étonnante dans laquelle il existe une souris optique dont la puissance de traitement dépasse celle des PC des années 80 ou de l'ordinateur de la NASA qui a permis à Apollo 11 de se poser sur la lune. Voici la vidéo qui analyse et décortique intégralement cette souris Logitech G502 Lightspeed.\nAu sommaire :\n\n00:00 Préambule\n00:57 Introduction et présentation de la souris Logitech G502 Lightspeed\n03:32 Explications techniques sur une souris vintage\n06:32 Ouverture et démontage de la G502\n07:04 Analyse des composants\n09:27 Mesures avec analyseur de spectre et oscilloscope\n10:48 Explication du principe de fonctionnement d'une souris optique\n12:26 Analyse détaillée du System-on-Chip\n15:46 Analyse détaillée du capteur optique 16000 dpi\n18:10 Décorticage et analyse de l'émetteur-récepteur USB\n19:45 Conclusion\n\nLien vers la vidéo \" Pourquoi voit-on des couleurs à la surface d'une puce de silicium ? \"\nhttps://youtu.be/5jhU3-c49Bg\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT20M41S",
+      "published_at": "2023-07-23T14:52:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/Tak8Pz4GSn8/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "t0GSFu0ESD8",
+      "title": "Dans les entrailles de la Freebox Delta : analyses, mesures et décorticage de son électronique",
+      "description": "Un épisode consacré à l'analyse intégrale et détaillée du hardware de la box internet fibre Freebox Delta Server.\nAu sommaire :\n\n00:00 Introduction\n00:41 Avant propos\n02:01 Présentation rapide de la Freebox Delta Server\n03:09 Analyse détaillée du boitier d'alimentation Freeplug\n06:13 Mesure de sa consommation électrique et de la nuisance sonore (en mode idle)\n07:57 Mesure du rayonnement électromagnétique au contact du boitier\n08:50 Ouverture et démontage\n09:32 Analyse détaillée du module fibre\n11:32 Analyse détaillée du panneau LED frontal\n13:12 Analyse détaillée du module radio Wifi\n18:24 Analyse détaillée des composants de la carte mère\n26:18 Mesure du rayonnement électromagnétique des composants (sans blindage)\n27:21 Mesure du rayonnement thermique sans dissipateur (par caméra infrarouge)\n28:31 Décapsulage du capot de protection du CPU\n28:59 Conclusion\n\nLien vers la liste des vidéos déjà publiées sur la chaine :\nhttps://www.youtube.com/@dexsilicium/videos\n\nLien vers l'épisode de même type consacré à la SFR Box 8 :\nhttps://youtu.be/Zum-f-3G4D4\n\nLien vers l'épisode de même type consacré à la BBox Wifi 6 :\nhttps://youtu.be/IBM-CmhzoKs\n\nLien vers l'épisode de même type consacré à la Livebox 6 :\nhttps://youtu.be/VryPNmlxxas\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT32M",
+      "published_at": "2023-06-25T16:53:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/t0GSFu0ESD8/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique",
+        "physique"
+      ]
+    },
+    {
+      "id": "5jhU3-c49Bg",
+      "title": "Capsule #01 : Pourquoi voit-on des couleurs à la surface d'une puce de silicium ?",
+      "description": "Voici une capsule vidéo de 2mn qui vous explique pourquoi on peut voir des tas de couleurs à la surface d'un circuit intégré et pourquoi ces couleurs changent selon l'angle d'observation.\n\nNOTE : de temps en temps, je serai amené à faire des capsules vidéo pour expliquer un sujet, donc n'hésitez pas faire des suggestions pour les prochaines !\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT1M56S",
+      "published_at": "2023-05-23T13:59:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/5jhU3-c49Bg/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences",
+        "technologie"
+      ]
+    },
+    {
+      "id": "Zum-f-3G4D4",
+      "title": "Dans les entrailles de la SFR Box 8 : analyses, mesures et décorticage de son électronique",
+      "description": "Un épisode consacré à l'analyse intégrale et détaillée du hardware de la box internet fibre SFR Box 8.\nAu sommaire :\n\n00:00 Introduction\n00:38 Avant propos\n01:56 Présentation rapide de la SFR Box 8\n02:30 Mesure de sa consommation électrique (en mode idle)\n03:01 Mesure du rayonnement électromagnétique au contact du boitier\n04:21 Ouverture et démontage\n04:43 Découverte de son anatomie interne\n06:32 Analyse détaillée des composants de la carte mère\n13:47 Mesure du rayonnement électromagnétique des composants (sans blindage)\n14:57 Mesure du rayonnement thermique (par caméra infrarouge)\n15:45 Schéma de fonctionnement (très) simplifié\n16:03 Conclusion\n\nLien vers l'épisode de même type consacré à la Freebox Delta Server :\nhttps://youtu.be/t0GSFu0ESD8\n\nLien vers l'épisode de même type consacré à la BBox Wifi 6 :\nhttps://youtu.be/IBM-CmhzoKs\n\nLien vers l'épisode de même type consacré à la Livebox 6 :\nhttps://youtu.be/VryPNmlxxas\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT17M26S",
+      "published_at": "2023-05-14T15:08:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/Zum-f-3G4D4/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique",
+        "physique"
+      ]
+    },
+    {
+      "id": "IBM-CmhzoKs",
+      "title": "Dans les entrailles de la BBOX Ultym Wifi 6 : analyses, mesures et décorticage de son électronique",
+      "description": "Un épisode consacré à l'analyse intégrale et détaillée du hardware de la box internet fibre Bouygues BBOX Ultym Wifi 6.\nAu sommaire :\n\n00:00 Introduction\n00:40 Avant propos\n01:57 Présentation rapide de la BBox Wifi 6\n03:01 Mesure de sa consommation électrique (en mode idle)\n03:40 Mesure du rayonnement électromagnétique au contact du boitier\n04:39 Ouverture et démontage\n05:49 Analyse de l'écran LCD\n06:38 Analyse du capteur de proximité\n07:15 Découverte de son anatomie interne\n09:49 Analyse détaillée des composants de la carte mère\n13:41 Analyse détaillée des composants de la platine radio\n15:55 Mesure du rayonnement thermique (par caméra infrarouge)\n16:32 Mesure du rayonnement électromagnétique des composants (sans blindage)\n17:21 Schéma de fonctionnement (très) simplifié\n17:33 Conclusion\n\nLien vers l'épisode de même type consacré à la Freebox Delta Server :\nhttps://youtu.be/t0GSFu0ESD8\n\nLien vers l'épisode de même type consacré à la SFR Box 8 :\nhttps://youtu.be/Zum-f-3G4D4\n\nLien vers l'épisode de même type consacré à la Livebox 6 :\nhttps://youtu.be/VryPNmlxxas\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT18M51S",
+      "published_at": "2023-04-30T15:32:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/IBM-CmhzoKs/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique",
+        "physique"
+      ]
+    },
+    {
+      "id": "VryPNmlxxas",
+      "title": "Dans les entrailles de la LIVEBOX 6 : analyses, mesures et décorticage de son électronique",
+      "description": "Un épisode consacré à l'analyse intégrale et détaillée du hardware de la box internet fibre Orange LIVEBOX 6.\nAu sommaire :\n\n00:00 Introduction\n00:43 Avant propos\n01:53 Présentation rapide de la Livebox 6\n02:50 Mesure de sa consommation électrique\n03:57 Première mesure du rayonnement électromagnétique\n04:40 Ouverture et démontage\n05:52 Analyse de l'écran à encre électronique\n06:35 Découverte de son anatomie interne en détail\n09:21 Seconde mesure de rayonnement électromagnétique (sans blindage)\n10:08 Mesure du rayonnement thermique (par caméra infrarouge)\n10:54 Analyse détaillée des composants de la platine radio\n15:27 Analyse détaillée des composants de la carte mère\n18:47 Schéma de fonctionnement (très) simplifié\n19:03 Conclusion\n\nLien vers l'épisode de même type consacré à la Freebox Delta Server :\nhttps://youtu.be/t0GSFu0ESD8\n\nLien vers l'épisode de même type consacré à la SFR Box 8 :\nhttps://youtu.be/Zum-f-3G4D4\n\nLien vers l'épisode de même type consacré à la BBox Wifi 6 :\nhttps://youtu.be/IBM-CmhzoKs\n\nLien vers l'épisode \"Comment ça marche : Liseuse Amazon Kindle\"\nhttps://youtu.be/aQCy7VKGJzQ\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT20M34S",
+      "published_at": "2023-04-16T15:36:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/VryPNmlxxas/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique",
+        "physique"
+      ]
+    },
+    {
+      "id": "pP-5bnuHbJY",
+      "title": "Anatomie et décorticage d'une platine et d'un disque vinyle",
+      "description": "Un épisode consacré à l'analyse et au décorticage d'une platine vinyle des années 80 ainsi qu'à l'observation microscopique détaillée de la surface d'un disque vinyle et à son principe de lecture audio.\nAu sommaire :\n\n00:00 Introduction\n00:51 Avant propos\n01:50 Analyse et observation microscopique de la surface d'un disque\n05:40 Observations détaillées au microscope électronique à balayage\n07:29 Principe de fonctionnement d'une platine tourne-disque\n08:58 Nature du signal électrique produit par la platine\n10:28 La correction / égalisation RIAA\n11:40 Transformer un microsillon stéréo en signal électrique\n13:32 Décorticage intégral d'une platine Pioneer\n17:04 Conclusion\n\nLien vers la vidéo de Applied Science qui montre l'animation du diamant dans le microsillon :\nhttps://youtu.be/GuCdsyCWmt8\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT17M56S",
+      "published_at": "2023-02-28T16:00:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/pP-5bnuHbJY/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "musique",
+        "physique"
+      ]
+    },
+    {
+      "id": "aQCy7VKGJzQ",
+      "title": "Comment ça marche #05 : Liseuse Amazon Kindle à encre électronique",
+      "description": "Cinquième épisode de la série, j'analyse la conception électronique d'une liseuse Amazon Kindle Whitepaper et j'aborde en détail le principe de fonctionnement de la technologie d'encre électronique e-Ink avec, à la clé, des images réalisées au microscope de surface et au microscope électronique à balayage.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT13M24S",
+      "published_at": "2023-01-16T16:11:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/aQCy7VKGJzQ/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "odjlvDyy6h8",
+      "title": "Approche scientifique : pourquoi les produits anti-ondes n'ont aucune chance d'être efficaces",
+      "description": "Je vous propose dans cet épisode une approche scientifique démonstrative qui permet de comprendre pourquoi l'ensemble des produits du marché pour se protéger des ondes électromagnétiques n'auront jamais la moindre efficacité face à ces ondes, mis à part la cage de Faraday qui est également abordée en détail.\n\nLes chapitres :\n00:00 Avant propos\n00:52 Rapide introduction\n01:51 Que sont ces produits anti-ondes électromagnétiques ?\n03:31 Rappel à propos des ondes électromagnétiques\n05:41 Quel genre de protection proposent ces produits ?\n06:42 Comprendre les propriétés fondamentales des ondes électromagnétiques\n11:00 Mesures et démonstration avec un produit anti-onde exposé aux ondes électromagnétiques\n14:43 Dispositif efficace pour s'isoler des ondes électromagnétiques\n16:42 Démonstration de l'efficacité d'une cage de Faraday\n18:20 Conclusion\n\nLien vers les 2 épisodes cités :\n\nLes ondes électromagnétiques dans notre quotidien (1ere partie)\nhttps://youtu.be/32LyuC-XI_A\n\nLes ondes électromagnétiques dans notre quotidien (2ème partie)\nhttps://youtu.be/j6QOLPmtGjw\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT20M49S",
+      "published_at": "2022-12-29T17:03:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/odjlvDyy6h8/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences",
+        "technologie"
+      ]
+    },
+    {
+      "id": "1pljGB83wf4",
+      "title": "Comment ça marche #04 : Balle de Golf électronique auto-illuminée",
+      "description": "Quatrième épisode de la série dans lequel j'analyse la conception d'une balle de golf électronique qui a la particularité de s'auto-illuminer au moment de l'impact pour permettre aux joueurs de réaliser des parties nocturnes ou en basse luminosité ambiante.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT9M19S",
+      "published_at": "2022-12-09T11:00:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/1pljGB83wf4/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "physique",
+        "sport"
+      ]
+    },
+    {
+      "id": "E7xgNO2tQwA",
+      "title": "Comment ça marche #03 : Enceinte intelligente Apple Homepod",
+      "description": "Troisième épisode de la série, celui-ci est consacré à l'analyse technique et électronique de l'enceinte intelligente connectée Homepod d'Apple.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf\nBluesky ______________________ https://bsky.app/profile/dexsilicium.bsky.social",
+      "duration": "PT10M24S",
+      "published_at": "2022-11-29T17:01:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/E7xgNO2tQwA/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "4JW7bU0n_jM",
+      "title": "Comment ça marche #02 : Montre connectée Fitbit Ionic",
+      "description": "Episode #02 consacré à l'analyse de l'électronique d'une montre connectée Fitbit Ionic.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT5M33S",
+      "published_at": "2022-11-21T17:15:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/4JW7bU0n_jM/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "fZ_wE-QwbG8",
+      "title": "Comment ça marche #01 : Aspirateur Dyson V11 Absolute",
+      "description": "Episode #01 consacré à l'analyse de l'électronique d'un aspirateur Dyson V11 Absolute Pro.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT6M13S",
+      "published_at": "2022-11-21T17:15:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/fZ_wE-QwbG8/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "physique"
+      ]
+    },
+    {
+      "id": "ipagyNw1UlY",
+      "title": "ANNONCE : nouvelle série \"Comment ca marche ?\"",
+      "description": "Courte vidéo dans laquelle j'annonce et j'explique la nouvelle série de vidéos intitulée \"Comment ça marche ?\" consacrée à l'analyse d'appareils électroniques qui va désormais être publiée régulièrement.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nFacebook ____________________ https://www.facebook.com/dexsilicium\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT3M37S",
+      "published_at": "2022-11-21T17:14:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/ipagyNw1UlY/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "vhal7DgmEHI",
+      "title": "Stimulateur cardiaque : Anatomie d'un petit boitier qui sauve des vies humaines",
+      "description": "Un épisode consacré à l'analyse de l'anatomie interne d'un STIMULATEUR CARDIAQUE (pacemaker), véritable petit bijou de technologie bourré de circuits intégrés et qui a la particularité de pouvoir sauver des vies humaines.\nAu sommaire :\n\n00:00 Avant propos\n00:36 Introduction aux stimulateurs cardiaques\n03:47 Présentation du modèle à décortiquer\n06:01 Analyse d'un cliché aux rayons X\n07:13 Ouverture du boitier\n08:37 Premier aperçu de son électronique\n10:36 Décorticage électronique\n12:52 Extraction des circuits intégrés\n13:56 Explication du principe de fonctionnement\n15:54 Observation microscopique des circuits intégrés\n19:36 Analyse de la pile au lithium-iode\n20:52 Les pacemakers à pile nucléaire\n24:23 Conclusion et fin\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT24M58S",
+      "published_at": "2022-10-04T17:46:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/vhal7DgmEHI/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "biologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "E2Dh6zlPv3Q",
+      "title": "Dans les entrailles d'une boîte noire d'Airbus A320 : décorticage et expérimentations",
+      "description": "Au sommaire :\n\n00:00 Avant propos\n00:37 Introduction\n01:05 Quelques explications sur les enregistreurs de vol\n03:27 Tour d'horizon de la boîte noire\n04:37 Analyse et décorticage de la balise de localisation sous-marine\n07:57 Petite expérimentation avec la balise\n09:24 Analyse et décorticage de l'enregistreur de vol\n16:10 Expérimentations avec l'enregistreur de vol\n18:34 Démontage du bloc blindé\n20:20 Conclusion et fin\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT21M3S",
+      "published_at": "2022-08-22T14:59:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/E2Dh6zlPv3Q/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "physique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "ZhSLxlHFdVE",
+      "title": "Décorticage : pourquoi la cigarette électronique jetable est une aberration écologique",
+      "description": "Un épisode consacré à étudier l'anatomie de 2 cigarettes électroniques jetables en décortiquant intégralement leurs composants et en tirant les conclusions qui s'imposent sur leur impact écologique.\nLa première partie de la vidéo s'intéresse également à l'analyse électronique d'une cigarette électronique de type Box (non jetable) dans le but de comprendre son fonctionnement.\nAu sommaire :\n\n00:00 Présentation\n00:37 Introduction\n02:13 Comment fonctionne une cigarette électronique\n03:36 Analyse de l'électronique d'une Box\n08:28 Découverte de la cigarette électronique jetable\n09:46 Passage aux rayons X\n10:24 Décorticage intégral de 2 cigarettes\n13:00 Dissection de leurs batteries au lithium\n16:07 Conclusion et fin\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT17M15S",
+      "published_at": "2022-07-29T15:10:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZhSLxlHFdVE/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "environnement"
+      ]
+    },
+    {
+      "id": "QJSnf04K9WI",
+      "title": "Etonnantes découvertes lors du décorticage d'un sextoy électronique Womanizer à usage unique",
+      "description": "Dans cet épisode, il est question de faire l'analyse et le décorticage du Womanizer One, un jouet intime féminin qui a la particularité d'être à usage unique, c'est à dire qu'il \"meurt\" au bout de 30 minutes d'utilisation et qu'il n'est donc plus utilisable ensuite. Pourquoi ? Est-il possible d'y remédier ? Les réponses sont dans cette vidéo.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT9M36S",
+      "published_at": "2022-06-26T16:00:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/QJSnf04K9WI/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "j6QOLPmtGjw",
+      "title": "Les ondes électromagnétiques dans notre quotidien (partie 2/4)",
+      "description": "Seconde partie de la thématique de vulgarisation concernant les ondes et le rayonnement électromagnétique.\n\nAu sommaire :\n00:00 Introduction\n00:21 Présentation\n00:53 Rayonnement électromagnétique et technologies\n05:10 Organisation du spectre des fréquences\n07:25 Principe d'émission et de réception d'une onde radioélectrique\n08:40 Les oscillateurs\n10:45 La modulation et la démodulation\n16:16 La physique des antennes\n22:30 La radiodiffusion FM\n29:28 La téléphonie mobile 4G et 5G\n33:15 Décorticage d'un smartphone 4G\n35:29 La 5G, technologie de rupture avec la 4G\n36:47 Les ondes électromagnétiques de la 5G sont-elles potentiellement dangereuses ?\n45:59 Fin\n\nLien vers la première partie\nhttps://youtu.be/32LyuC-XI_A\n\nLien vers l'épisode 33 (sources radioactives)\nhttps://youtu.be/a3JxrB8Gcxc\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT46M47S",
+      "published_at": "2022-06-14T16:40:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/j6QOLPmtGjw/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences",
+        "technologie"
+      ]
+    },
+    {
+      "id": "baSsWlLG6nM",
+      "title": "Anatomie d'une vidéocapsule endoscopique",
+      "description": "Dans cet épisode, il va être question d'étudier en détail la conception et l'électronique d'une capsule vidéo endoscopique utilisée par les gastro-entérologues pour faire des clichés des parois impossibles d'accès de l'intestin grêle.\n\nAu sommaire :\n00:00 Introduction\n01:26 Ouverture et diagnostic\n02:38 Exposition de son mode opératoire\n05:08 Aperçu aux rayons X\n06:21 Ouverture\n07:00 Analyse de la circuiterie\n09:10 Expérimentation n°1\n10:20 Expérimentation n°2\n11:50 Expérimentation n°3\n14:25 Tentative d'analyse de circuit intégré\n17:33 Conclusion\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT18M26S",
+      "published_at": "2022-04-05T16:44:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/baSsWlLG6nM/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "biologie",
+        "technologie"
+      ]
+    },
+    {
+      "id": "v53pLcu0dAc",
+      "title": "Analyses, Diagnostic et Réparation d'un disque dur de 5 To",
+      "description": "Dans cet épisode, il est question de faire le diagnostic d'un disque dur de 5 To en panne qui a subi une surtension, et d'en faire ensuite la réparation avec tentative de récupération de données.\n\nAu sommaire :\n00:00 Introduction\n01:26 Ouverture et diagnostic\n03:07 Remplacement de composants\n06:44 Analyse des composants de la platine\n09:15 Inspection aux rayons X\n10:18 Récupération des données (part.1)\n11:57 Récupération des données (part.2)\n13:26 Partitions\n14:36 Bilan et conclusion\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT17M7S",
+      "published_at": "2022-03-10T15:58:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/v53pLcu0dAc/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "jD9SRYIAXsQ",
+      "title": "Au plus profond des entrailles de la Nintendo Switch OLED",
+      "description": "Dans cet épisode, je procède à un décorticage extrême de la console portable Nintendo Switch (modèle OLED) pour analyser l'essentiel de ses composants électroniques, et j'effectue aussi un certain degré de rétro-ingénierie.\n\nAu sommaire :\n00:00 Introduction\n01:33 Unboxing rapide\n02:31 Démontage et analyse de ses premiers éléments\n04:57 Analyse intégrale de la carte mère\n11:46 Analyse des haut-parleurs\n12:25 Analyse intégrale de l'écran OLED\n16:43 Analyse de la batterie\n17:23 Schéma de rétro-ingénierie simplifié\n18:01 Analyse intégrale du joycon droit\n24:07 Fin\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT24M52S",
+      "published_at": "2022-02-23T11:00:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/jD9SRYIAXsQ/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "1nhg9wrcILY",
+      "title": "Kit de dépistage électronique Covid-19 : analyses et décorticage intégral",
+      "description": "Présentation, analyses et décorticage intégral du kit de dépistage électronique Covid-19 Lucira disponible sur le territoire Nord Américain.\n\nAu sommaire :\n00:00 Introduction\n02:03 Présentation du kit Lucira COVID-19\n04:03 Analyse de l'électronique\n07:26 Analyse du réceptacle du tampon d'extraction\n08:33 Etude du circuit imprimé aux rayons X\n10:18 Tests divers sur son électronique\n13:15 Evaluation du coût de revient\n14:52 Matériaux et recyclage\n15:33 Conclusion\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT16M35S",
+      "published_at": "2021-12-30T11:03:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/1nhg9wrcILY/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "technologie",
+        "biologie"
+      ]
+    },
+    {
+      "id": "oGwWVN89PcQ",
+      "title": "Autopsie d'un casque à réduction de bruit active SONY XM4",
+      "description": "Investigation sur l'incident technique qui a causé des dégâts sur un casque SONY WH1000-XM4, puis analyse et décorticage intégral de son électronique (toujours fonctionnelle).\n\nAu sommaire :\n00:00 Introduction\n00:20 Présentation\n01:51 Investigation de l'incident\n04:11 Analyse et test du chargeur\n07:26 Analyse du câble\n10:04 Démontage\n12:41 Analyse des échanges Bluetooth avec une source\n13:39 Analyse des composants\n19:11 Inspection aux rayons X\n19:49 Analyse d'un des micros MEMS (microscopes)\n21:56 Analyse du capteur de proximité (microscope)\n23:00 Fin\n\nLien vers le Ellisys Bluetooth Explorer BEX400 :\nhttps://www.ellisys.com/products/bex400/\n\nPS : au time code 04:13 il y a une image isolée de mon icône microscope, ça n'est pas volontaire, c'est à priori un bug du logiciel de montage au moment d'exporter la vidéo, désolé.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT23M45S",
+      "published_at": "2021-10-20T10:44:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/oGwWVN89PcQ/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "physique"
+      ]
+    },
+    {
+      "id": "UrDfPGSWxas",
+      "title": "Analyse intégrale d'un appareil de médecine quantique",
+      "description": "Analyse, décorticage et rétro-ingénierie du HEALY, un \"appareil quantique de thérapie fréquentielle\" vendu comme (je cite) \"une thérapie alternative et complémentaire pour traiter diverses maux tels que les douleurs chroniques, la fibromyalgie, les douleurs des os, les migraines, et les maladies psychologiques comme la dépression et l’anxiété, etc.\"\n\nAu sommaire :\n00:00 Introduction\n00:21 Témoignages\n03:59 Présentation\n05:38 Mise en situation\n07:29 Unboxing\n08:53 Testing\n11:01 Analyse des composants\n15:07 Evaluation du coût de fabrication\n17:12 Rétro-ingénierie\n21:24 Conclusion\n\nLien vers la vidéo de G Milgram :\nhttps://www.youtube.com/watch?v=4fT-AZeVn1g\n\nLien vers la chaine de Christophe Casalegno :\nhttps://www.youtube.com/channel/UCIlCglg-Gl6eNtllSB95gMA\n\nLien vers le Ellisys Bluetooth Explorer BEX400 :\nhttps://www.ellisys.com/products/bex400/\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT23M25S",
+      "published_at": "2021-09-19T14:41:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/UrDfPGSWxas/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "physique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "32LyuC-XI_A",
+      "title": "Les ondes électromagnétiques dans notre quotidien (partie 1/4)",
+      "description": "Première partie de l'épisode de vulgarisation du rayonnement électromagnétique.\n\nAu sommaire :\n00:00 Générique\n00:21 Présentation\n01:52 Le rayonnement électromagnétique\n04:41 L'onde électromagnétique\n10:55 Le spectre électromagnétique\n13:27 Rayonnement électromagnétique ionisant et non ionisant\n15:24 Rayonnement électromagnétique et corps humain\n19:11 Protection contre le rayonnement électromagnétique\n\nLien vers l'épisode 27 (cage de Faraday)\nhttps://youtu.be/pAOFLYf405Y\n\nLien vers l'épisode 33 (sources radioactives)\nhttps://youtu.be/a3JxrB8Gcxc\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT24M6S",
+      "published_at": "2021-07-06T15:04:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/32LyuC-XI_A/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "a3JxrB8Gcxc",
+      "title": "Sources radioactives et Détecteur électronique",
+      "description": "Episode consacré à la Radioactivité. Qu'est ce que c'est vraiment ? Comment la détecter, la mesurer, la voir (et oui, on peut visualiser les particules ionisantes) + réparation d'un compteur Geiger numérique Russe Radiascan 701.\n\nERRATUM : à 13:52 je parle d'un courant de quelques milliampères alors qu'il s'agit en fait de microampères, ma langue a fourché...\n\n00:19 Introduction\n02:48 Qu'est ce que la radioactivité\n05:24 Mesurer la radioactivité\n08:11 Voir la radioactivité\n09:22 Expérimentation avec une chambre à brouillard\n11:28 Analyse et réparation du compteur Geiger Radiascan 701\n18:58 Fin\n\nLe lien vers la vidéo de Cloudylabs :\nhttps://www.youtube.com/watch?v=XGNvAEtYZkw\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT19M30S",
+      "published_at": "2021-05-25T14:59:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/a3JxrB8Gcxc/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences",
+        "technologie"
+      ]
+    },
+    {
+      "id": "QPmwfbLPHG8",
+      "title": "Les prothèses auditives telles que vous ne les avez jamais vues",
+      "description": "Un épisode consacré aux prothèses (aides) auditives, qui est un des dispositifs médicaux qui profite le plus de la miniaturisation toujours plus efficace des composants électroniques.\nPrincipe de fonctionnement, analyse électronique détaillée, comparaison avec un autre système beaucoup moins onéreux, etc.\nLa question du \"Qu'est ce qui fait qu'elles sont aussi chères ?\" est aussi abordée.\n\nLe lien vers l'article du Parisien en question :\nhttps://www.leparisien.fr/amp/archives/les-protheses-auditives-presque-un-produit-de-luxe-21-03-2016-5644719.php\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT22M41S",
+      "published_at": "2021-04-29T15:00:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/QPmwfbLPHG8/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "biologie",
+        "technologie"
+      ]
+    },
+    {
+      "id": "BcvADJhTO2o",
+      "title": "Anatomie du plus petit Synthétiseur du monde",
+      "description": "Un épisode dans lequel on expérimente et analyse un composant \"générateur de mélodie\", sorte de nano-synthé autonome aussi encombrant qu'une coccinelle et qui a été produit à des millions d'exemplaires.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT14M11S",
+      "published_at": "2021-04-09T15:03:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/BcvADJhTO2o/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "musique"
+      ]
+    }
+  ]
+}

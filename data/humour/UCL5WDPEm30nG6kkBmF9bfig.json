@@ -5,9 +5,7 @@
   "thumbnail": "https://yt3.ggpht.com/jrbv_cindWMZZePJcdUoUENhBOOOv2XlnnEgkhggfJ_raPFMcuhxi1pN_xNsL0611Uvvr5JNR8M=s800-c-k-c0x00ffffff-no-rj",
   "public": "15 ans et plus",
   "language": "fr",
-  "tags": [
-    "arts"
-  ],
+  "tags": [],
   "videos": [
     {
       "id": "Ht8xvFAKo0s",
@@ -431,8 +429,7 @@
       "published_at": "2025-10-14T16:13:01Z",
       "thumbnail": "https://i.ytimg.com/vi/g7gI9zNf35Y/hqdefault.jpg",
       "tags": [
-        "economie",
-        "histoire"
+        "economie"
       ]
     },
     {
@@ -443,8 +440,7 @@
       "published_at": "2025-10-13T16:42:39Z",
       "thumbnail": "https://i.ytimg.com/vi/--0_uTj0vwY/hqdefault.jpg",
       "tags": [
-        "economie",
-        "histoire"
+        "economie"
       ]
     },
     {
@@ -455,8 +451,7 @@
       "published_at": "2025-10-12T16:06:05Z",
       "thumbnail": "https://i.ytimg.com/vi/S5_F0UkAfv4/hqdefault.jpg",
       "tags": [
-        "economie",
-        "histoire"
+        "economie"
       ]
     },
     {
@@ -511,9 +506,7 @@
       "duration": "PT1M21S",
       "published_at": "2025-09-22T16:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/C-qrxsBMS58/hqdefault.jpg",
-      "tags": [
-        "economie"
-      ]
+      "tags": []
     },
     {
       "id": "Nuqwe_cPpcU",
@@ -522,9 +515,7 @@
       "duration": "PT2M2S",
       "published_at": "2025-09-19T16:00:48Z",
       "thumbnail": "https://i.ytimg.com/vi/Nuqwe_cPpcU/hqdefault.jpg",
-      "tags": [
-        "economie"
-      ]
+      "tags": []
     }
   ]
 }

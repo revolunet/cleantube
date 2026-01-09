@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "j34x95yViLY",
+      "title": "L'État change ENFIN de stratégie ! @alafrench",
+      "description": "On parle de Docs, le projet Open Source lancé par l'État français pour ses services. Contrairement aux échecs coûteux du passé (logiciel de paie Louvois, plaintes en ligne...), l'État semble enfin avoir compris qu'il vaut mieux développer ses propres outils que de payer des centaines de millions à des cabinets externes.\n\nAnalyse rapide d'un changement de paradigme technique et budgétaire.\n\n🚀 Le podcast complet est dispo sur la chaîne !\n\n#Linux #OpenSource #Dev #TechNews #SouverainetéNumériqueBig up à tout l'équipe Virgile Deville,  Samuel Paccoud, Manuel Raynaud, Robin Lecomte Anthony LC,  Cyril Gromoff & Sylvain Boissel\nLa Suite Numérique (Docs) : L'État code (et c'est bien fait) \nRepo Github : https://github.com/suitenumerique/docs",
+      "duration": "PT37S",
+      "published_at": "2026-01-09T15:15:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/j34x95yViLY/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "f8wd24zNF4c",
       "title": "Y a t-il une justice dans la Tech ? @alafrench",
       "description": "RIP Aaron \nAvec Common Corpus #Pleias, on parle de données d'entraînement IA libres de droits face au pillage des GAFAM. \nHuggingface  : https://huggingface.co/datasets/PleIAs/common_corpus",

@@ -119,7 +119,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Deus Ex Silicium](https://youtube.com/channel/UCH6ppHEvV3_WIXEwmhv9HEg) | DEUS EX SILICIUM est une chaine francophone dont la thématique principale est l'électronique numériq... |
 | [DirtyBiology](https://youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q) | Docus scientifiques faits avec amour sur des sujets improbables. |
 | [Faire aimer les mathématiques](https://youtube.com/channel/UCMsTgghzMriQCpOkFNUR5Sg) | Faire aimer les mathématiques est une chaîne dédiée à l'éducation de cette discipline. Elle s'adress... |
-| [Grand Labo](https://youtube.com/channel/UCErPogabDLnau5mHw_IENxg) | Une émission pour débattre des grandes questions que se posent les scientifiques aujourd'hui. |
+| [Grand Labo](https://youtube.com/channel/UCErPogabDLnau5mHw_IENxg) | Une émission pour comprendre comment la science est faite aujourd’hui et explorer la façon dont elle... |
 | [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’... |
 | [Mickaël Launay (Micmaths)](https://youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg) | La chaîne Micmaths vous propose diverses vidéos autour des mathématiques. Vous y trouverez des cours... |
 | [Mon Cours De SVT](https://youtube.com/channel/UCNXhHwGBMZoTVvJCNx9rGow) | Bonjour à tous,... |

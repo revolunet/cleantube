@@ -116,15 +116,6 @@
       "tags": []
     },
     {
-      "id": "IT0kFAuSfRk",
-      "title": "Ce que les Fachos voient #lenasituations",
-      "description": "Retrouvez mon spectacle \"Exode(s)\" à la Scène Parisienne tous les vendredi et samedi à 21h15 : https://www.billetreduc.com/spectacle/djamil-le-shlag-dans-exode-s-355583\n\nPour plus de vidéos ▽▽▽\n\nInstagram : https://www.instagram.com/djamil_leshlag/",
-      "duration": "PT15S",
-      "published_at": "2025-05-25T07:15:03Z",
-      "thumbnail": "https://i.ytimg.com/vi/IT0kFAuSfRk/hqdefault.jpg",
-      "tags": []
-    },
-    {
       "id": "zjijipKP6_M",
       "title": "Kidnapping à Paris",
       "description": "Spectacle Exode(s) : https://msha.ke/djamil.leshlag",
@@ -479,6 +470,24 @@
       "tags": [
         "economie"
       ]
+    },
+    {
+      "id": "J3l9uYXRXuo",
+      "title": "La Chronique Incroyable #46 Gilets jaunes la France des champs sur les Champs !",
+      "description": "",
+      "duration": "PT3M17S",
+      "published_at": "2019-08-07T12:23:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/J3l9uYXRXuo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "IT0kFAuSfRk",
+      "title": "Ce que les Fachos voient #lenasituations",
+      "description": "Retrouvez mon spectacle \"Exode(s)\" à la Scène Parisienne tous les vendredi et samedi à 21h15 : https://www.billetreduc.com/spectacle/djamil-le-shlag-dans-exode-s-355583\n\nPour plus de vidéos ▽▽▽\n\nInstagram : https://www.instagram.com/djamil_leshlag/",
+      "duration": "PT15S",
+      "published_at": "2025-05-25T07:15:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/IT0kFAuSfRk/hqdefault.jpg",
+      "tags": []
     }
   ]
 }

@@ -13,6 +13,15 @@
   ],
   "videos": [
     {
+      "id": "itSkBESLZeY",
+      "title": "What happens if you cut the green rope?",
+      "description": "The problem seems simple but the answer isn't...\n\nHow an unlikely physics paradox controls these counterintuitive structures.",
+      "duration": "PT1M7S",
+      "published_at": "2026-01-15T14:01:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/itSkBESLZeY/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "fkxoaD47-Vo",
       "title": "You're Only 6 Steps Away From Anyone On Earth",
       "description": "The small world problem.\n\nHow can we be connected in 6 steps if most of us spend our lives in small clusters?",
@@ -393,18 +402,6 @@
       ]
     },
     {
-      "id": "HCkGUOKAqH0",
-      "title": "What happens if you cut the green rope?",
-      "description": "How an unlikely physics paradox controls these counterintuitive structures.",
-      "duration": "PT1M44S",
-      "published_at": "2025-07-11T12:52:59Z",
-      "thumbnail": "https://i.ytimg.com/vi/HCkGUOKAqH0/hqdefault.jpg",
-      "tags": [
-        "physique",
-        "mathematiques"
-      ]
-    },
-    {
       "id": "-QTkPfq7w1A",
       "title": "This mechanism shrinks when pulled",
       "description": "How an unlikely physics paradox controls these counterintuitive structures. Sponsored by Incogni - Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off.\n\nIf you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n▀▀▀\nA huge thank you to Paul Ducarme and Bas Overvelde at AMOLF for showing us around. \nCheck out their research on counter-snapping structures here - https://ve42.co/CounterSnapping\n\nFor more on Braess’s Paradox, check out these great videos by Up and Atom (https://youtu.be/cALezV_Fwi0) and Steve Mould (https://www.youtube.com/watch?v=Cg73j3QYRJc)\n\n▀▀▀\n0:00 What happens if you cut this rope?\n1:41 The Spring Paradox\n4:59 New York’s Perplexing Discovery\n6:29 Road Networks and Traffic Flow\n8:40 Braess’s Paradox \n14:29 Snapping\n17:16 This object shrinks when you stretch it\n\n▀▀▀\nReferences:\n\nDucarme, P., Weber, B., Hecke, M. van, & Johannes. (2025). Exotic mechanical properties enabled by countersnapping instabilities. Proceedings of the National Academy of Sciences - https://ve42.co/CounterSnapping\nBraess's Paradox via Wikipedia - https://ve42.co/BraessWiki\nBraess, D., Nagurney, A., & Wakolbinger, T. (2005). On a Paradox of Traffic Planning. Transportation Science - https://ve42.co/Braess2005\nSchäfer, B., Pesch, T., Manik, D., Gollenstede, J., Lin, G., Beck, H.-P., … Timme, M. (2022). Understanding Braess’ Paradox in power grids. Nature Communications - https://ve42.co/Schafer2022\nKolata, G. (1990). What if They Closed 42d Street and Nobody Noticed? New York Times - https://ve42.co/Kolata1990\nYoun, H., Gastner, M. T., & Jeong, H. (2008). Price of Anarchy in Transportation Networks: Efficiency and Optimality Control. Physical Review Letters - https://ve42.co/Youn2008\nNicolaou, Z. G., & Motter, A. E. (2012). Mechanical metamaterials with negative compressibility transitions. Nature Materials - https://ve42.co/Nicolaou2012\nCounter-Snapping replication package - https://ve42.co/CSPackage\n\nImages & Video:\n\nEarth Day Festivities via VHS Music Rarities - https://www.youtube.com/watch?v=0awPgHjn2nY\nEarth Day Speeches - https://www.youtube.com/watch?v=RMDI3kXpeQ8\n1990s New York via NYC Nostalgia - https://www.youtube.com/watch?v=0YaFxTw0VqM\n42nd Street Closure via Trainluvr - https://www.youtube.com/watch?v=gELde63Fzio\n42nd Street Traffic Operator - https://ve42.co/NYCTraffic\nDietrich Braess via opc.mfo.de -  https://ve42.co/BraessOPC\nDietrich Braess via Wikipedia - https://ve42.co/BraessWikiPic\nBelt Buckle via Mingda Hardware - https://ve42.co/BeltBuckle\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Charles Ian Norman Venn, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Jeromy Johnson, Jon Jamison, JT, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, and wolfee\n\n▀▀▀\nWriters: Gregor Čavlović & Derek Muller\nProducer & Director: Gregor Čavlović\nEditors: James Stuart & Trenton Oliver\nCamera Operators: Sander Mook, Dylan Meanwell, Fabio Albertelli, Casper Mebius & Gregor Čavlović\nAnimator: Fabio Albertelli\nIllustrator: Jakub Misiek\nAdditional Editor: Peter Nelson & James Horsley\nResearchers: Darius Garewal & Gabe Strong\nThumbnail Designers: Ren Hurley & Ben Powell\nProduction Team: Rob Beasley Spence, Tori Brittain & Matthew Cavanagh\nExecutive Producers: Derek Muller & Casper Mebius\n\nAdditional video/photos supplied by Getty Images, Pond5. \nMusic from Epidemic Sound",
@@ -606,6 +603,18 @@
         "biologie",
         "informatique",
         "sciences"
+      ]
+    },
+    {
+      "id": "HCkGUOKAqH0",
+      "title": "What happens if you cut the green rope?",
+      "description": "How an unlikely physics paradox controls these counterintuitive structures.",
+      "duration": "PT1M44S",
+      "published_at": "2025-07-11T12:52:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/HCkGUOKAqH0/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "mathematiques"
       ]
     },
     {

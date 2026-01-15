@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "Kn7DIbnOh2w",
+      "title": "Infra de A à Z - 97. Traefik & Consul Sync Catalog : auto-configuration via annotations",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT18M25S",
+      "published_at": "2026-01-14T19:52:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/Kn7DIbnOh2w/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "kax9vi6BY1o",
       "title": "Infra de A à Z - 96. Kubernetes : fix et mise en place de consul sync catalog",
       "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",

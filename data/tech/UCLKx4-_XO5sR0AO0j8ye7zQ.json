@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "PHseIy0DFm4",
+      "title": "Claude Cowork fait le travail que vous détestez #automation #productivity #aihack",
+      "description": "Anthropic ne vend plus un chatbot.\nIls vendent un assistant qui bosse pendant que tu dors. 🤖💤\nClaude Computer Use peut :\n→ Ranger ton dossier téléchargements\n→ Scanner tes tickets de caisse → Excel\n→ Retrouver tes photos perdues\n→ Annuler tes abonnements via Chrome\nComme un pote geek dispo 24/7 qui ne se plaint jamais.\nDispo sur Mac pour les abonnés Max (100$/mois).\nL'ère des agents IA commence. Ceux qui comprennent ça maintenant auront une longueur d'avance. 🚀\nTu veux un test complet ? Dis-le moi en commentaire 👇",
+      "duration": "PT54S",
+      "published_at": "2026-01-16T16:33:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/PHseIy0DFm4/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "Lhu7OzAbjXs",
       "title": "Ma méthode pour créer des Apps avec Cursor (Débutant)",
       "description": "J'ai construit une app de devis vocal pour mon beau-père plombier. Dans cette vidéo, je vous montre ma méthode complète : PRD → Plan → Build.\n\nL'erreur que font la plupart des gens avec Cursor ? Ils commencent à coder tout de suite. Je vous montre pourquoi c'est une mauvaise idée et comment faire autrement.\n\n🎁 VPS Hostinger (code SHUBHAMSHARMA pour -10%) : https://sharma.fr/dokployVPS\nLa solution que j'utilise pour installer Dokploy \n\n📽️ Tuto d'installation dokploy : https://sharma.fr/tutoDokploy\n\n⭐  Tester l'app de devis : https://devis.shubham-sharma.com/\n\n🗓️  Mes workshops privés : https://sharma.fr/masterclass-privees\n\n\nMES AUTRES COMPTES:\n🌍  Mon site web - https://www.sharma.fr/\n👨‍💻  Linkedin - https://www.linkedin.com/in/sharmashubham1/\n📱  TikTok - https://www.tiktok.com/@shubham_nocode \n🐦  Twitter - https://twitter.com/shubham_nocode\n📸  Instagram - https://instagram.com/shubham_nocode\n\n\n⌚️ Les temps forts de la vidéos:\n00:00 Démo : Créer un devis par la voix\n01:34 L'outil \"Cursor\" et son Agent IA\n02:23 Architecture : OpenAI Realtime API\n03:04 Étape 1 : Valider l'idée et le PRD avec Gemini\n04:38 Étape 2 : Le \"Mode Plan\" de Cursor\n06:40 Premier test en local (Localhost)\n07:40 Le problème du déploiement\n09:22 Synchronisation GitHub\n09:50 Solution de déploiement : Dokploy (Open Source)\n10:33 Installation sur VPS Hostinger\n11:11 Configuration du nom de domaine\n11:50 Conclusion et accès à l'outil",

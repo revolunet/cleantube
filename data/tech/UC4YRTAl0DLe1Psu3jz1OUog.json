@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "RBlcjYOQtss",
+      "title": "Le \"Sonos\" Open Source et Gratuit ? Découvrez Music Assistant !",
+      "description": "Marre de jongler entre Spotify, YouTube et vos différentes enceintes sans pouvoir tout synchroniser ? 🤯\n\nDécouvrez Music Assistant, le projet révolutionnaire de la communauté Home Assistant !\n\nTotalement Open Source & Gratuit 🔓\n\nMulti-sources : Regroupez Spotify, YouTube Music, vos fichiers locaux et plus encore.\n\nMulti-sorties : Diffusez sur toutes vos enceintes, peu importe la marque (Bose, Sonos, etc.).\n\nFini les limitations propriétaires et la frustration de l'incompatibilité. Reprenez le contrôle sur votre musique à la maison ! 🏠🎶\n\n👉 Abonnez-vous pour plus de pépites tech et retrouvez l'épisode complet sur notre chaîne YouTube !\n\n#MusicAssistant #HomeAssistant #OpenSource #Domotique #TechFr #SmartHome #Audio #Spotify #LifeHack #ALaFrench",
+      "duration": "PT33S",
+      "published_at": "2026-01-16T10:00:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/RBlcjYOQtss/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "1d19DdpEsx4",
       "title": "Il quitte tout pour coder le terminal ultime 🚀",
       "description": "Dans cet extrait du podcast À La French, on revient sur le nouveau projet de Mitchell Hashimoto (le fondateur légendaire de HashiCorp). Après avoir réussi sa sortie (avec quelques zéros sur le compte 💰), il a décidé de revenir aux bases par pur plaisir geek.\n\nSon objectif ? Créer un émulateur de terminal sans compromis. Le résultat s'appelle Ghostty :\nCodé entièrement en Zig.\n\nConsidéré comme l'un des plus rapides du marché.\nC'est devenu le \"daily driver\" de nombreux dévs !\n\n👇 Et toi, tu utilises quel terminal ? Dis-le-nous en commentaire !\n\n#Ghostty #Zig #HashiCorp #Dev #Coding #Tech #Terminal #Programmation #ALaFrench",

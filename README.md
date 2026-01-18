@@ -18,6 +18,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | Chaîne | Description |
 |--------|-------------|
 | [ARTE Cinema](https://youtube.com/channel/UClo03hULFynpoX3w1Jv7fhw) | Tout le cinéma d'ARTE enfin disponible en intégralité, gratuitement et en VOSTFR sur une chaîne YouT... |
+| [Des Toiles & Des Poils](https://youtube.com/channel/UC_pG8ExKXuWeqVyGasQkbMg) | Aller au cinéma dans les années 80, quand on est jeune, c'était faire place au rêve, sortir pour voi... |
 
 ### Courts Metrages
 
@@ -55,6 +56,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Français Authentique](https://youtube.com/channel/UCQpM25U6iqaRSO-SZxd5oDw) | Apprenez à parler français de façon automatique et sans effort avec Français Authentique... |
 | [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’... |
 | [Jamy - Epicurieux](https://youtube.com/channel/UCG9G2dyRv04FDSH1FSYuLBg) | Le goût du savoir, ça se partage 😃  |
+| [Le Monde De Jamy - France Télévisions](https://youtube.com/channel/UCrRKlEDktKeraMTgAN_DIzw) | Bienvenue dans la fabrique du savoir ! 🤓 📚 📖 🧬... |
 | [Le Vortex - ARTE ](https://youtube.com/channel/UCZxLew-WXWm5dhRZBgEFl-Q) | Bienvenue dans le Vortex !... |
 | [Les Chroniques de l'Histoire](https://youtube.com/channel/UCZcUbwQ0ju-JJR8ncuDz0ZA) | Bienvenue sur "Les Chroniques de l'Histoire", votre rendez-vous avec le passé !... |
 | [Les petits aventuriers](https://youtube.com/channel/UCd9w5q5LXZhNxN2RC0IvO2A) | Découvrir le monde en vidéo pour les enfants (et les grands enfants)... |
@@ -141,6 +143,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Defend Intelligence](https://youtube.com/channel/UCnEHCrot2HkySxMTmDPhZyg) | Je suis ingénieur en Intelligence Artificielle, et je réalise des vidéos de vulgarisations sur l’IA,... |
 | [PleySmart](https://youtube.com/channel/UCnJgqsWP4PhK_v1GmDk3g6A) | Sur PleySmart, on explore ensemble le monde fascinant de l'intelligence artificielle ! Pas de discou... |
 | [Shubham SHARMA](https://youtube.com/channel/UCLKx4-_XO5sR0AO0j8ye7zQ) | IA, Automatisation, Productivité → Si vous voulez transformer votre façon de travailler, vous êtes a... |
+| [Silicon Carne 🌶️](https://youtube.com/channel/UCt11zYNefnunOkgCrsO9UYg) | Un peu de picante dans un monde de Tech 🌶️ Silicon Carne est le seul talk-show francophone qui parl... |
 | [Underscore_](https://youtube.com/channel/UCWedHS9qKebauVIK2J7383g) | IA, Hacking, Robotique — Des conversations de terrain avec ceux qui construisent. 🥨 |
 | [xavki](https://youtube.com/channel/UCs_AZuYXi6NA9tkdbhjItHQ) | Des tutoriels et formations gratuites en français pour bien débuter sur des outils linux, devops et ... |
 
@@ -154,6 +157,15 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Karim Ukulele Therapy](https://youtube.com/channel/UC8VGr31xTJIa2cgr6aVJbJQ) | Yo, c'est K.... |
 | [Les Tutos ukulélé de DYAN](https://youtube.com/channel/UCA8ANCoVZamCobCEQ7U8vnQ) | 💌 Vous souhaitez me remercier en me donnant un coup de pouce financier ? ... |
 | [Mihanta // Ukulele Covers](https://youtube.com/channel/UCgDuKK9rrPcfAQUt1ANf46A) | Du ukulele 🎶 des covers 🎤 des tuto 📚 et du smile 😊 |
+
+### Underground
+
+> culture underground
+
+| Chaîne | Description |
+|--------|-------------|
+| [ALT 236](https://youtube.com/channel/UC1KxoDAzbWOWOhw5GbsE-Bw) | Explorateur d'univers fictifs, je cherche une entrée dans le labyrinthe de l'imaginaire. ... |
+| [Feldup](https://youtube.com/channel/UCQVaKQcp4OxSg1eC6SF3NTw) | Des vidéos et de la musique |
 
 ## Setup
 

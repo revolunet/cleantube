@@ -3,9 +3,12 @@
   "name": "Feldup",
   "description": "Des vidéos et de la musique\nc'est un bon départ",
   "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lOrU0Hx8dg6T_x4P1cFJC2voEwSILEzXgy3pXg71FmiPg=s800-c-k-c0x00ffffff-no-rj",
-  "public": "tout public",
+  "public": "15 ans et plus",
   "language": "fr",
-  "tags": [],
+  "tags": [
+    "informatique",
+    "technologie"
+  ],
   "videos": [
     {
       "id": "bUruCIOl5Oo",

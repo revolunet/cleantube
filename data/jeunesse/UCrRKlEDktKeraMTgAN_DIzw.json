@@ -3,9 +3,17 @@
   "name": "Le Monde De Jamy - France Télévisions",
   "description": "Bienvenue dans la fabrique du savoir ! 🤓 📚 📖 🧬\nLe Monde De Jamy (France 3) & C Jamy (France 5) sont deux émissions avec Jamy Gourmaud sur le thème de la connaissance et de la découverte.\n\n• Le monde de Jamy\nLe Monde de Jamy est une collection de documentaires inédits sur le thème du savoir et de la découverte. Cette émission vous fait découvrir le spectacle de la terre dans toute sa diversité sous le regard curieux et complice de Jamy Gourmaud que les téléspectateurs de France 3 connaissent bien, accompagné de Églantine Éméyé.\n\n• C Jamy\nChaque jour, \"C Jamy\" éclaire les sujets de l'actualité par le prisme de la connaissance. En couvrant un territoire très large : histoire, sciences, économie, technologies, environnement, espace, éducation civique, géographie, alimentation, nature... \"C Jamy\" aborde tous les sujets avec pédagogie, gourmandise et expertise.\nDes productions Elephant Doc & France.Tv Studio.\n",
   "thumbnail": "https://yt3.ggpht.com/xnS1GlkSxjq4gSCszvOZs2JXukVrLQ_PvJS1D8qD-kGlQWAmRd2FclWf9Os0lBx6U8JsMqWoVg=s800-c-k-c0x00ffffff-no-rj",
-  "public": "tout public",
+  "public": "10-15 ans",
   "language": "fr",
-  "tags": [],
+  "tags": [
+    "scolaire",
+    "sciences",
+    "histoire",
+    "geographie",
+    "environnement",
+    "technologie",
+    "biologie"
+  ],
   "videos": [
     {
       "id": "lBrNbed57ag",

@@ -200,6 +200,7 @@ function getCategoryIcon(categoryId: string): string {
     monde: "🌍",
     humour: "😂",
     tech: "💻",
+    underground: "🚇",
   };
   return icons[categoryId] || "📺";
 }

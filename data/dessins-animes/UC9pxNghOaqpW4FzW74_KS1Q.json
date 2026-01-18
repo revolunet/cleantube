@@ -3,9 +3,14 @@
   "name": "Les P'tits z'Amis",
   "description": "Les P’tits z’Amis ce sont des Contes de Grimm, Charles Perrault, Andersen, des fables de la Fontaine et Esope, des comptines pour enfants connues et des comptines éducatives pour apprendre les gestes quotidiens .\nLe Petit Chaperon Rouge, Cendrillon, Raiponce, Blanche Neige, les 3 petits cochons,  le loup et les 7 chevreaux, Ali Baba et les 40 voleurs, Peter Pan.\nLe lion et le rat, le lièvre et la tortue, le corbeau et le renard.\nSi tu as d’la joie au coeur frappe des mains, Pomme reinette et pomme d’api, la ferme à Mathurin.",
   "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksvWahOJ5R2pAmaBugVlXDlxbCHJgvPZCTrJoW3KXLlgc=s800-c-k-c0x00ffffff-no-rj",
-  "public": "tout public",
+  "public": "3-5 ans",
   "language": "fr",
-  "tags": [],
+  "tags": [
+    "scolaire",
+    "elementaire",
+    "francais",
+    "litterature"
+  ],
   "videos": [
     {
       "id": "y1ZI4LTda_c",

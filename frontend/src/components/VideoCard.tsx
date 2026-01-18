@@ -1,3 +1,4 @@
+import { memo } from "react";
 import type { VideoWithChannel } from "../types";
 
 interface VideoCardProps {
@@ -7,7 +8,7 @@ interface VideoCardProps {
 
 const PLACEHOLDER = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9'%3E%3Crect fill='%23ddd' width='16' height='9'/%3E%3C/svg%3E";
 
-export function VideoCard({ video, onClick }: VideoCardProps) {
+export const VideoCard = memo(function VideoCard({ video, onClick }: VideoCardProps) {
   const formatDuration = (duration: string) => {
     if (!duration) return "";
     const match = duration.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
@@ -43,4 +44,7 @@ export function VideoCard({ video, onClick }: VideoCardProps) {
       </div>
     </article>
   );
-}
+}, (prevProps, nextProps) => {
+  // Custom comparison: only re-render if video.id changes or onClick reference changes
+  return prevProps.video.id === nextProps.video.id;
+});

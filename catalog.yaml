@@ -5,6 +5,7 @@ categories:
     description: Films et documentaires sur le cinéma
     channels:
       - UClo03hULFynpoX3w1Jv7fhw
+      - UC_pG8ExKXuWeqVyGasQkbMg
 
   - name: courts-metrages
     description: Courts métrages et films indépendants
@@ -103,6 +104,7 @@ categories:
       - UCs_AZuYXi6NA9tkdbhjItHQ
       - UCLKx4-_XO5sR0AO0j8ye7zQ
       - UCnEHCrot2HkySxMTmDPhZyg
+      - UCt11zYNefnunOkgCrsO9UYg
 
   - name: ukulele
     description: Apprentissage et tutoriels de ukulélé
@@ -111,3 +113,9 @@ categories:
       - UC8VGr31xTJIa2cgr6aVJbJQ
       - UCA8ANCoVZamCobCEQ7U8vnQ
       - UCgDuKK9rrPcfAQUt1ANf46A
+
+  - name: underground
+    description: culture underground
+    channels:
+      - UC1KxoDAzbWOWOhw5GbsE-Bw
+      - UCQVaKQcp4OxSg1eC6SF3NTw

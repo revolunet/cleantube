@@ -1,0 +1,611 @@
+{
+  "id": "UCtqbkFru7lDLwbZdEzSyT3Q",
+  "name": "Alex so yes",
+  "description": "Code avec L'IA pour booster ta productivité en tant que développeur ! Rejoins l'#AIDrivenDev.",
+  "thumbnail": "https://yt3.ggpht.com/JT4ipYg1NnYdPXglaVb-8MLiygbcVxbfx2CmlZpb3p6ZLuQM-tt92tM6D8um2eh9rZk2SYu-og=s800-c-k-c0x00ffffff-no-rj",
+  "public": "adultes",
+  "language": "fr",
+  "tags": [
+    "informatique",
+    "technologie"
+  ],
+  "videos": [
+    {
+      "id": "jPpwBzPn4p8",
+      "title": "Les ingénieurs chez Google utilisent Claude Code (voici comment)",
+      "description": "Rejoins l'AI-Driven Dev 🚀🚀🚀 : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=34_astuces-claude-code-boris\n\nHello, c'est Alex !\n\nBoris Cherny, le createur de Claude Code chez Anthropic, a partagé son workflow exact sur X debut janvier.\n\nThread viral avec 7.2M de vues, et pour cause : il livre 13 astuces concretes qui lui permettent de délivrer 259 PRs en 30 jours.\n\nJe décortique chaque astuce avec vous pour vous montrer comment intégrer tout ça dans votre day to day de développeur augmenté à l'IA.\n\nOn termine sur ce que ca change pour le futur du développement en 2026, avec les reactions marquantes de l'industrie dont celle d'une principale engineer Google.\n\nOn se retrouve dans la communauté AI-Driven Dev 👇,\nAlex\n\n#ClaudeCode #Anthropic #BorisCherny\n\n---\n\n🎞️ Chapitres\n\n0:00 - Intro : Qui est Boris Cherny + le thread viral\n1:23 - Astuce #1 : 5 Claudes en parallèle\n1:56 - Astuce #2 : 5-10 Claudes sur le web\n3:10 - Astuce #3 : Teleport web/local\n3:48 - Astuce #4 : Opus 4.5 avec thinking\n4:29 - Astuce #5 : CLAUDE.md partagé\n5:02 - Astuce #6 : GitHub Action @claude\n6:04 - Astuce #7 : Plan Mode au démarrage\n6:50 - Astuce #8 : Auto-accept edits\n7:49 - Astuce #9 : Slash commands\n8:16 - Astuce #10 : Subagents\n9:09 - Astuce #11 : PostToolUse hooks\n10:15 - Astuce #12 : /permissions config\n11:06 - Astuce #13 : Boucles de vérification\n12:08 - Le futur du code : ce qui nous attend\n12:51 - Conclusion\n\n📺 Autres vidéos de la chaîne mentionnées\n\n- https://www.youtube.com/watch?v=WLjDMINxwHU&t=619s&pp=ygURcmFscGggY2xhdWRlIGNvZGU%3D\n\n🔗 Liens mentionnés\n\n- Thread original de Boris Cherny : https://x.com/bcherny/status/2007179832300581177\n- How Boris Uses Claude Code (site dédié) : https://howborisusesclaudecode.com/\n- Thread Reader App : https://threadreaderapp.com/thread/2007179832300581177.html\n- Documentation Claude Code : https://code.claude.com/docs\n- Claude Code Best Practices (Anthropic) : https://www.anthropic.com/engineering/claude-code-best-practices\n- Ingénieur Google : \"J'ai donné à Claude Code une description du problème, il a généré ce que nous avons construit l'année dernière chez Google en une heure.\" : https://x.com/rakyll/status/2007239758158975130\n- \"Boris Cherny a réalisé 259 pull requests en 30 jours avec 497 commits, ajoutant 40 000 lignes et en supprimant 38 000 — tout écrit par Claude Code avec Opus 4.5.\" : https://www.theautomated.co/p/boris-cherny-s-claude-code-workflow-that-5-developer-productivity\n\n🔥 L'AI-Driven Dev : 1ère communauté IA FR pour les devs\n\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\nhttps://discord.com/invite/ai-driven-dev\nhttps://github.com/ai-driven-dev\n\n🌐 Mes réseaux\n\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\nhttps://x.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=34_astuces-claude-code-boris",
+      "duration": "PT13M31S",
+      "published_at": "2026-01-21T16:01:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/jPpwBzPn4p8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "metiers"
+      ]
+    },
+    {
+      "id": "WLjDMINxwHU",
+      "title": "Claude Cowork : Anthropic a compris ce qu'il manquait aux devs",
+      "description": "Rejoins l'AI-Driven Dev : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=35_cowork-claude-code-non-devs\n\nHello, c'est Alex !\n\nEn tant que développeur, on passe 50% de notre temps sur des tâches qui ne sont pas du code : trier des specs, répondre aux mails clients, organiser des fichiers de projet, préparer des daily, gérer son calendrier de dev freelance ou en équipe.\n\nAnthropic vient de sortir Claude Cowork. C'est la puissance de Claude Code, mais pour toutes ces tâches annexes du quotidien de développeur. Dans cette vidéo, je teste en live sur des cas concrets : organisation de fichiers de projet, actions web automatisées avec Claude Chrome, workflow de productivité dev.\n\nJe compare aussi Claude Desktop, Claude Code, Claude Cowork et Claude Chrome pour savoir quel outil utiliser selon ta situation de développeur.\n\nOn se retrouve dans la communauté AI-Driven Dev,\nAlex\n\n#ClaudeCowork #ClaudeCode #Anthropic\n\n---\n\n🎞️ Chapitres\n\n00:22 - Claude Cowork : c'est quoi ?\n01:06 - Démo Claude Cowork : organisation fichiers\n06:41 - Claude Cowork + Chrome : actions web automatisées\n09:21 - Claude Desktop / Claude Cowork : assistant personnel\n10:42- Mon avis sur Claude Cowork : comparaison des tools Claude \n11:51 - Conclusion ⚡️\n\n📺 Autres vidéos de la chaîne mentionnées\n\n- Ralph : l'IA Claude Code qui code pendant que tu dors → https://www.youtube.com/watch?v=WL7acca2aUI&t=2s \n\n🔗 Liens mentionnés\n\n- Annonce officielle d'Anthropic Cowork : https://claude.com/blog/cowork-research-preview\n- Tweet Steve Faulkner (Claude Code personal assistant) : https://x.com/southpolesteve/status/1952422489847689383\n- GitHub claude-code-personal-assistant : https://github.com/c0dezli/claude-code-personal-assistant\n- Guide The Neuron : https://www.theneuron.ai/explainer-articles/how-to-turn-claude-code-into-your-personal-ai-assistant\n- Reddit post setup assistant : https://www.reddit.com/r/ClaudeAI/comments/1m0mreb/i_built_a_personal_ai_assistant_using_claude_code/\n- Simon Willison first impressions : https://simonwillison.net/2026/Jan/12/claude-cowork/\n- TechCrunch article : https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/\n\n🔥 L'AI-Driven Dev : 1ère communauté IA FR pour les devs\n\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\nhttps://discord.com/invite/ai-driven-dev\nhttps://github.com/ai-driven-dev\n\n🌐 Mes réseaux\n\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\nhttps://x.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=35_cowork-claude-code-non-devs",
+      "duration": "PT12M45S",
+      "published_at": "2026-01-15T16:34:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/WLjDMINxwHU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "WL7acca2aUI",
+      "title": "J'ai testé Ralph : le plugin Claude Code qui code seul",
+      "description": "Rejoins l'AI-Driven Dev 🚀🚀🚀 : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=33_ralph-loop-ia-autonome\n\nHello, c'est Alex !\n\nDans cette vidéo, je teste Ralph, un plugin officiel Claude Code qui permet de laisser l'IA coder seule dans une boucle autonome. Je te montre comment fonctionne le mécanisme de loop créé par Geoffrey Huntley, comment l'installer, et je le compare avec l'approche /assert de l'AI-Driven Dev. On finit avec une démo pratique où Ralph tourne en boucle pendant plusieurs minutes pour accomplir une tâche de dev de A à Z.\n\nOn se retrouve dans la communauté AI-Driven Dev,\nAlex\n\n#claudecode  #ralphwiggum  #anthropic \n\n---\n\n🎞️ Chapitres\n\n00:00 - Introduction : L'IA qui code seule pendant que tu dors\n00:53 - C'est quoi Ralph ? Origine et créateur Geoffrey Huntley\n02:13 - Comment fonctionne la boucle autonome Ralph\n06:00 - Exploration du code source du plugin officiel\n09:00 - Comparaison avec l'approche AI-Driven Dev\n10:13 - Démo pratique : lancer une boucle autonome\n12:30 - Résultats et cas d'usage concrets\n15:00 - Installation du plugin ralph-wiggum dans Claude Code\n18:46 - Outro\n\n🔗 Liens mentionnés\n\n- Ralph Loop Plugin officiel : https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-loop\n- Ralph Methodology : https://ghuntley.com/ralph/\n- Thread par Boris Cherny (créateur de Claude Code) : https://x.com/bcherny/status/2007179858435281082\n- Matt Pocock sur Ralph : https://x.com/mattpocockuk/status/2007924876548637089\n- Ethan Mollick (Wharton) sur Ralph : https://x.com/emollick/status/2008701960225206486\n- Daisy Hollman (Anthropic) sur Ralph : https://x.com/The_Whole_Daisy/status/2008625420741341355\n- Arvid Kahl sur l'avenir des loops autonomes : https://x.com/arvidkahl/status/2008202699372626091\n\n🔥 L'AI-Driven Dev : 1ère communauté IA FR pour les devs\n\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\nhttps://discord.com/invite/ai-driven-dev\nhttps://github.com/ai-driven-dev\n\n🌐 Mes réseaux\n\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\nhttps://x.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=33_ralph-loop-ia-autonome",
+      "duration": "PT19M22S",
+      "published_at": "2026-01-14T14:08:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/WL7acca2aUI/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "TTAqdtaKylk",
+      "title": "De 2h/jour à 5 min/jour : j'ai automatisé ma veille techno (méthode complète)",
+      "description": "Rejoins l'AI-Driven Dev 🚀🚀🚀 : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=31_veille-techno-automatisee-ia\n\nHello, c'est Alex !\n\nOn passe des heures à scroller X (Twitter), Reddit, nos mails pour rester à jour.\n\nEt on rate quand même des infos critiques.\n\nPourquoi ? Parce qu'on n'a pas de workflow structuré et automatisé.\n\nJ'ai automatisé 93% de ma veille techno avec ce workflow pour développeurs. Collecte automatique sur Notion, enrichissement IA via n8n, agrégation hebdo.\n\nRésultat : 5 minutes par jour max, zéro Fear of Missing Out.\n\nBonus : comment je limite le TDAH avec ma Kindle pour vraiment lire au lieu de scroller.\n\nOn se retrouve dans la communauté AI-Driven Dev,\nAlex\n\n#n8n #Notion #VeilleTechno #AIDrivenDev\n\n---\n\n🎞️ Chapitres\n\n0:00 Introduction - Pourquoi la veille techno est un problème\n0:48 Collecte automatique (Mails + Twitter → Notion)\n3:26 Enrichissement IA avec n8n\n4:19 Agrégation hebdomadaire automatisée\n5:33 Ma revue vidéo pour les membres\n8:27 Bonus : Kindle pour gérer le TDAH sur la veille\n\n📺 Autres vidéos de la chaîne mentionnées\n\nhttps://youtu.be/-94Mh-bcnb4\n\n🔗 Liens mentionnés\n\n- n8n : https://n8n.io/\n- Notion : https://notion.so\n- Extension Save to Notion : https://chromewebstore.google.com/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm?hl=en\n- Extension Send to Kindle : https://chromewebstore.google.com/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea\n\n🔥 L'AI-Driven Dev : 1ère communauté IA FR pour les devs\n\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\nhttps://discord.com/invite/ai-driven-dev\nhttps://github.com/ai-driven-dev\n\n🌐 Mes réseaux\n\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\nhttps://x.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=31_veille-techno-automatisee-ia",
+      "duration": "PT9M56S",
+      "published_at": "2026-01-13T14:51:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/TTAqdtaKylk/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "RIF7YPGg59g",
+      "title": "J'étais un dev freelance moyen... jusqu'à ce système (11x plus productif)",
+      "description": "La méthode AIDD pour Coder 2x à 5x plus vite (garanti) ✨ : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=32_systeme-productivite-dev-freelance\n\nHello, c'est Alex !\n\nVoici mon système de productivité que j'ai développé pendant 4 ans en tant que développeur freelance. \n\nIl m'a permis d'éviter le burnout, le FOMO permanent, et la dispersion entre clients et projets...\n\nGrâce à cette méthode, j'ai récupéré mon focus, ma sérénité, et la liberté de travailler moins sans sacrifier mes revenus.\n\nJe vous ai tout packagé en 11 actions (+ 1 bonus) concrètes que vous pouvez appliquer dès la semaine prochaine.\n\nOn se retrouve dans la communauté AI-Driven Dev,\nAlex\n\n#freelance #productivité \n\n---\n\n🎞️ Chapitres\n\n0 INTRO\n1:30 Trouver son chronotype\n2:30 Structurer son temps\n3:32 Prioriser l'essentiel\n4:13 Organiser tes pôles de vie\n5:08 Protéger ton attention (focus anti-TDAH)\n7:34 Automatiser\n9:43 Recharge ton énergie\n11:50 Déléguez\n13:10 Écosystème freelance\n14:30 Amplifie avec l'IA\n15:27 Déconnectez ! ( shutdown )\n19:25 BONUS\n\n---\n\n📺 Autres vidéos de la chaîne mentionnées\n\nhttps://youtu.be/-94Mh-bcnb4\nhttps://www.youtube.com/watch?v=KOFyX-QBFRE\n\n🔗 Liens mentionnés\n\n- https://www.trillmag.com/lifestyle/night-owls-vs-early-birds-how-your-sleep-schedule-influences-your-life/\n- https://www.youtube.com/watch?v=X8Z0YcFr-XI\n- https://luxafor.com/the-eisenhower-matrix\n\n🔥 L'AI-Driven Dev : 1ère communauté IA FR pour les devs\n\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\nhttps://discord.com/invite/ai-driven-dev\nhttps://github.com/ai-driven-dev\n\n🌐 Mes réseaux\n\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\nhttps://x.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=32_systeme-productivite-dev-freelance",
+      "duration": "PT20M44S",
+      "published_at": "2025-12-18T13:41:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/RIF7YPGg59g/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "metiers",
+        "technologie"
+      ]
+    },
+    {
+      "id": "-mb7plK6ocY",
+      "title": "Comment configurer son IA pour coder vite et bien",
+      "description": "Code 5x plus vite avec l'IA (sans perdre en qualité) 👉 https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=short&utm_content=coder-5x-sans-perdre-qualite\n\n#AIDrivenDev : La communauté #1 FR pour les développeurs sous AI.\n\nhttps://discord.gg/ai-driven-dev",
+      "duration": "PT46S",
+      "published_at": "2025-11-01T11:00:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/-mb7plK6ocY/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "yA4EI4LxzSc",
+      "title": "Comment générer du code de qualité avec l’IA ?",
+      "description": "Code 5x plus vite avec l'IA (sans perdre en qualité) 👉 https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=short&utm_content=coder-5x-sans-perdre-qualite\n\n#AIDrivenDev : La communauté #1 FR pour les développeurs sous AI.\n\nhttps://discord.gg/ai-driven-dev",
+      "duration": "PT57S",
+      "published_at": "2025-10-31T11:02:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/yA4EI4LxzSc/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "iNsGDFr52jU",
+      "title": "Qu'est-ce qui va arriver aux développeurs le 19 octobre 2027 ?",
+      "description": "On t'offre la méthode qui nous a fait Coder 2x à 5x plus vite : : https://www.ai-driven-dev.fr/roadmap?utm_source=youtube&utm_medium=description&utm_campaign=28-avenir-developpeurs-ia\n\nHello, c'est Alex !\n\nDans cette vidéo, je partage ma vision sur ce qui va arriver aux développeurs dans les 2 prochaines années.\n\nOn parle du marché catastrophique en France avec une chute de 80% des offres d'emploi depuis 2023, de pourquoi j'ai quitté un job très bien payé pour me concentrer à 100% sur l'IA, et surtout comment devenir un AI-Driven Developer avant la crise à venir.\n\nJe dévoile les 3 étapes obligatoires pour maîtriser l'IA en tant que dev, mon workflow complet de dev IA et mon business model en toute transparence. \n\nSi tu veux survivre et prospérer dans le marché qui arrive, cette vidéo est pour toi.\n\nOn se retrouve dans la communauté AI-Driven Dev,\nAlex\n\n---\n\n🎞️ Chapitres\n\n00:00 - Intro : Les développeurs sont en danger\n01:08 - L'IA évolue plus vite qu'on pense\n04:00 - Qu'est-ce qui va arriver aux devs dans les 2 prochaines années ?\n04:50 - Le marché catastrophique des devs en 2025\n05:12 - Qui est responsable de la crise ?\n07:15 - Pourquoi j'ai quitté un job très bien payé\n10:03 - Dev Senior vs. AI-Driven Developer\n11:55 - La Méthode AI-Driven Dev\n13:20 - Les 3 étapes indispensables pour maîtriser l'IA\n17:05 - Mon business model (transparence totale)\n18:55 - Accélérateur IA pour développeur\n22:25 - Roadmap personnalisée pour devenir AI-Driven Developer\n24:10 - Ma vraie peur pour 2027\n24:40 - Mes prédictions sur l'IA pour les développeurs dans 2 ans\n\n📺 Autres vidéos de la chaîne mentionnées\nhttps://www.youtube.com/watch?v=563QW18dtwo\nhttps://www.youtube.com/watch?v=MOFDkXgb_H8\n\n🔗 Liens mentionnés\n- Projet AI 2027 : https://ai-2027.com/\n- OpenAI VS. Humains : https://openai.com/fr-FR/index/gdpval/\n- Gemini VS. Développeurs : https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/\n- Stats jobs développeurs : https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/\n- SORA 2 : https://x.com/OpenAI/status/1973071069016641829\n\n🔥 L'AI-Driven Dev\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\n\n🌐 Mes réseaux\nhttps://discord.com/invite/ai-driven-dev\nhttps://github.com/ai-driven-dev\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/",
+      "duration": "PT27M58S",
+      "published_at": "2025-10-31T09:01:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/iNsGDFr52jU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "metiers",
+        "technologie"
+      ]
+    },
+    {
+      "id": "I8kLlhhwu5Y",
+      "title": "Configurer ton IA, c’est 80% du taf",
+      "description": "Code 5x plus vite avec l'IA (sans perdre en qualité) 👉 https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=short&utm_content=coder-5x-sans-perdre-qualite\n\n#AIDrivenDev : La communauté #1 FR pour les développeurs sous AI.\n\nhttps://discord.gg/ai-driven-dev",
+      "duration": "PT57S",
+      "published_at": "2025-10-30T11:00:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/I8kLlhhwu5Y/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "563QW18dtwo",
+      "title": "From \"Dev Senior\"  to \"AI-Driven Developer\" (ma transformation complète)",
+      "description": "Hello, c'est Alex !\n\nAI-Driven Developer : le workflow complet pour coder 2 à 10 fois plus vite avec l'IA en 2025.\n\nJe te montre les 4 piliers pour maîtriser ChatGPT, Claude, GitHub Copilot etc ; mon équation secrète (hautement recherchée 😅), et comment orchestrer des agents IA sur une vraie codebase.\n\nSi tu galères à obtenir du code propre avec l'IA ou si tu veux rester compétitif sur le marché, cette méthode va changer ta façon de développer.\n\nOn se retrouve dans la communauté AI-Driven Dev,\nAlex\n\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=26_ai-driven-developer\n\n---\n\n🎞️ Chapitres\n\n00:00 - C'est quoi un AI-Driven Developer ?\n01:07 - Les 4 étapes du développement piloté par l'IA\n03:48 - Delivery complet et force de proposition\n07:47 - L'équation Vitesse × Qualité × Proposition\n09:19 - Piliers 1 & 2 : Technique et métier\n11:01 - Pilier 3 : Maîtriser l'IA pour coder 10x plus vite\n13:00 - Pilier 4 : Environnement de travail optimisé\n15:02 - Workflow : De la feature au client satisfait\n18:01 - Orchestration d'agents IA sur codebase réelle\n23:40 - Qui va gagner sur le marché en 2025 ?\n\n---\n\n📺 Autres vidéos de la chaîne mentionnées\n\nhttps://www.youtube.com/watch?v=KOFyX-QBFRE\n\n🔥 L'AI-Driven Dev\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\n\n🌐 Mes réseaux\nhttps://discord.com/invite/ai-driven-dev\nhttps://github.com/ai-driven-dev\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=26_ai-driven-developer",
+      "duration": "PT24M55S",
+      "published_at": "2025-10-17T22:00:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/563QW18dtwo/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "metiers",
+        "technologie"
+      ]
+    },
+    {
+      "id": "3PYmOXdJDIg",
+      "title": "Opus 4.1 vs. GPT-5 : je teste les 2 meilleurs modèles IA",
+      "description": "Rejoins l'AI-Driven Dev 🚀🚀🚀 : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=18_gpt5-vs-claude-opus-4-1\n\nHello, c'est Alex !\n\nJ'ai testé GPT-5 avec OpenAI Codex contre Claude Opus 4.1 via Conductor sur 3 features de complexité croissante. Méthodologie rigoureuse avec agents.md, memory bank et tests E2E. Le résultat ? Codex a pris 27 minutes pour la feature XL, 50% plus lent que Claude Code, avec des erreurs stupides. Conductor a planté avec une pollution de contexte sur les worktrees. Les outils asynchrones ne sont pas encore au point, mais j'ai découvert des limites importantes pour choisir ton modèle IA selon la complexité de tes features.\n\nOn se retrouve dans la communauté AI-Driven Dev,\nAlex\n\n#OpenAICodex #Conductor #ClaudeCode #codex \n\n---\n\n📺 Autres vidéos de la chaîne mentionnées\n\nhttps://www.youtube.com/watch?v=5Q843CqM0yM\nhttps://www.youtube.com/watch?v=zbIDMNm9NPo\nhttps://www.youtube.com/watch?v=cRRbuJitKyk\n\n---\n\n🎞️ Chapitres\n\n00:00 - GPT-5 vs Claude Opus 4.1 : Test comparatif\n00:38 - 3 critères de test : qualité, vitesse, compréhension\n01:02 - Méthodologie : agents.md et memory bank pour l'IA\n03:10 - OpenAI Codex vs Conductor : présentation des outils\n05:31 - 3 features testées : complexité M, L et XL\n10:05 - Démo du CLI AIDD : workflow de développement\n10:25 - Architecture CLI : système de plugins et policies\n14:22 - Résultats du test : quel modèle a gagné ?\n19:37 - Analyse des 3 features et conclusion\n\n---\n\n🔗 Liens mentionnés\n\n- https://chatgpt.com/codex\n- https://conductor.build\n- https://claude.ai/code\n\n🔥 L'AI-Driven Dev\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\n\n🌐 Mes réseaux\nhttps://discord.com/invite/ai-driven-dev\nhttps://github.com/ai-driven-dev\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=18_gpt5-vs-claude-opus-4-1",
+      "duration": "PT28M40S",
+      "published_at": "2025-10-16T11:23:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/3PYmOXdJDIg/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "4yJ6aMvAtQg",
+      "title": "100€/mois pour Coder avec l'IA : Rentable ou Pas ? #aidrivendev #développeur",
+      "description": "Claude à 100$/mois : J'ai consommé 8X plus que ce que j'ai payé\n\nRejoins la 1ère communauté IA de France pour les développeurs : https://discord.gg/ai-driven-dev\n\n#AIDD #AI-Driven Dev #Code #CodewithIA #alexsoyes",
+      "duration": "PT47S",
+      "published_at": "2025-10-16T10:00:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/4yJ6aMvAtQg/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "economie"
+      ]
+    },
+    {
+      "id": "z2tFyDAU9Dg",
+      "title": "Ma stack IA complète de 2025 👀 #aidrivendev #développeur",
+      "description": "Je montre ENFIN les outils que j'utilise tous les jours pour coder 2 à 5 fois plus vite... \n\nRejoins la 1ère communauté IA de France pour les développeurs : https://discord.gg/ai-driven-dev\n\n#AIDD #AI-Driven Dev #Code #CodewithIA #alexsoyes",
+      "duration": "PT42S",
+      "published_at": "2025-10-15T10:02:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/z2tFyDAU9Dg/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "O5uW7P85NRw",
+      "title": "Débugger 10x Plus Vite, grâce à Alter 👀 #aidrivendev #développeur",
+      "description": "Raccourci clavier, capture de contexte automatique et dictée vocale : https://alterhq.com/\n\nRejoins la 1ère communauté IA de France pour les développeurs : https://discord.gg/ai-driven-dev\n\n#AIDD #AI-Driven Dev #Code #CodewithIA #alexsoyes",
+      "duration": "PT42S",
+      "published_at": "2025-10-14T13:10:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/O5uW7P85NRw/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "bvZ0NGk0O4I",
+      "title": "J’ai testé Cursor CLI : la meilleure alternative à Claude Code ?",
+      "description": "🚀 Coder 2x à 5x plus vite avec l'IA (sans perdre en qualité) : https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=24_cursor-cli-test\n\nHolà friend!\n\nAlex's here (je m'entraîne pour la Thaïlande 😄 -- de toute façon personne ne lit les descriptions alors je peux bien dire ce que je veux !).\n\nJ'ai reçu un e-mail de Michael, le co-fondateur de Cursor, pour tester leur nouveau CLI (évidemment il ne l'a pas envoyé qu'à moi).\n\nDans cette vidéo, je teste avec toi Cursor CLI en live : installation, configuration, et développement d'une vraie feature pour notre AIDD CLI. \n\nJe compare aussi Cursor CLI avec Claude Code, OpenAI Codex et les autres CLIs du marché pour vous donner mon verdict honnête après utilisation.\n\n00:00 - Un email surprise du fondateur de Cursor\n00:31 - CLI vs IDE : Quel est le vrai avantage ?\n01:21 - GPT-5, DeepSeek, Gemini : Les modèles disponibles\n02:26 - Installation : Simple comme bonjour\n04:43 - Tour complet des commandes disponibles\n09:18 - L'IA de Cursor CLI code seule avec sa todo list\n15:05 - Test en conditions réelles\n19:09 - Mon verdict après ce test complet\n\n---\n\n🔗 Liens mentionnés :\n\n- Cursor CLI : https://cursor.com/cli\n- Claude Code : https://claude.ai/code\n- OpenAI Codex : https://openai.com/codex\n\nMa newsletter privée :\n📰 https://www.ai-driven-dev.fr/newsletter\n\nNotre Groupe Privé :\nhttps://discord.com/invite/ai-driven-dev\n\nNotre GitHub (prompts, rules...)\nhttps://github.com/ai-driven-dev\n\nMon LinkedIn :\nhttps://www.linkedin.com/in/alexandre-soyer/\n\nMon Instagram :\nhttps://www.instagram.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=24_cursor-cli-test",
+      "duration": "PT19M44S",
+      "published_at": "2025-10-11T17:00:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/bvZ0NGk0O4I/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "-94Mh-bcnb4",
+      "title": "TDAH chez les développeurs (3 stratégies pour s'en sortir)",
+      "description": "Rejoins l'AI-Driven Dev 🚀🚀🚀 : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=19_tdah-developpeurs\n\nHello, c'est Alex !\n\nDans cette vidéo, je partage ma découverte avec le TDAH : comment j'ai arrêté de lutter contre mon cerveau.\n\nJe partage des stratégies concrètes pour transformer nos difficultés de concentration en avantage, et pourquoi l'IA est un game-changer pour les développeurs \"neuroatypiques\" comme nous.\n\n2 millions de Français sont concernés par le TDAH, et on retrouve une forte proportion de développeurs dans cette population.\n\nIl serait temps qu'on en parle...\n\nOn se retrouve dans la communauté AI-Driven Dev,\nAlex\n\n# TDAH #Développeur #Hyperfocus\n\n🎞️ Chapitres\n\n00:00 - Introduction : Mon quotidien chaotique\n02:22 - Définition officielle\n09:45 - Ma réalité de dev\n15:46 - Méthodes d'hyper-focus\n18:02 : Chapitre présentations outils\n23:39 - Explications & Bro science\n25:25 - Stratégies concrètes anti-TDAH\n29:04 -  IA et TDAH : pourquoi ça change tout\n36:12 - Transformer un handicap en avantage compétitif\n\n---\n\n🔗 Liens mentionnés\n\n- Insecure over-achievers: https://x.com/ChrisWillx/status/1866150820989030491\n- ADHD Employment Statistics 2024: https://mydisabilityjobs.com/statistics/adhd-employment/\n- Stack Overflow - Developer with ADHD: https://stackoverflow.blog/2023/12/26/developer-with-adhd-youre-not-alone/\n- Subreddit programmers with ADHD: https://www.reddit.com/r/ADHD_Programmers/\n- GitHub Copilot productivity research: https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/\n- Etude dopamine souris : https://pmc.ncbi.nlm.nih.gov/articles/PMC18425/\n\n📺 Les chaînes des potes\n- https://www.youtube.com/@alexisbouvet\n- https://www.youtube.com/@KillianPalermo\n\n🔥 L'AI-Driven Dev\n- https://www.ai-driven-dev.fr\n- https://www.ai-driven-dev.fr/newsletter\n\n🌐 Mes réseaux\nhttps://discord.com/invite/ai-driven-dev\nhttps://github.com/ai-driven-dev\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=19_tdah-developpeurs",
+      "duration": "PT42M30S",
+      "published_at": "2025-09-29T20:22:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/-94Mh-bcnb4/hqdefault.jpg",
+      "tags": [
+        "metiers"
+      ]
+    },
+    {
+      "id": "QM8aVrr9dog",
+      "title": "Pourquoi les développeurs sont devenus INTERCHANGEABLES et c'est grave",
+      "description": "Rejoins la 1ère communauté IA de France pour les développeurs : https://discord.gg/ai-driven-dev",
+      "duration": "PT55S",
+      "published_at": "2025-09-27T19:14:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/QM8aVrr9dog/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "metiers"
+      ]
+    },
+    {
+      "id": "bNFgLy-Lt7Y",
+      "title": "Pourquoi les développeurs ne trouvent PLUS de travail ?",
+      "description": "Rejoins la 1ère communauté IA de France pour les développeurs : https://discord.gg/ai-driven-dev",
+      "duration": "PT1M5S",
+      "published_at": "2025-09-27T12:40:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/bNFgLy-Lt7Y/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "metiers",
+        "orientation"
+      ]
+    },
+    {
+      "id": "-eOaOVYepZc",
+      "title": "Pourquoi l'IA va AGGRAVER la crise de l'emploi des développeurs",
+      "description": "Rejoins la 1ère communauté IA de France pour les développeurs : https://discord.gg/ai-driven-dev",
+      "duration": "PT57S",
+      "published_at": "2025-09-27T12:39:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/-eOaOVYepZc/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "metiers",
+        "technologie"
+      ]
+    },
+    {
+      "id": "KOFyX-QBFRE",
+      "title": "Mon Workflow IA de développeur (Septembre 2025)",
+      "description": "🚀 Coder 2x à 5x plus vite avec l'IA (sans perdre en qualité) : https://www.ai-driven-dev.fr?utm_source=youtube&utm_medium=description&utm_campaign=23-ma-stack-ia-aidd\n\nSalut, c'est Alex !\n\nJe vous partage ma stack quotidienne, de comment je code en day-to-day.\n\nOn parle des outils, des LLMs, de la configuration, des templates, du workflow, de mes IDEs... et d'autres petits plus comme Repomix, Marksnipe, Alter pour la dictée vocale...\n\nOn va corriger un bug et développer une nouvelle feature en live, pour vous montrer comment je m'organise.\n\nJ'espère que ça vous plaira !\n\nAlex\n\n---\n00:00 - Introduction : Ma stack complète AI-Driven Dev\n01:35 - Mes outils du quotidien : VS Code + Claude Code\n02:34 - Combien ça coûte : de 20$ à 100$ par mois\n03:32 - Configuration optimale : Memory Bank + Rules + Templates\n05:39 - Flow quotidien : prompts et templates en action\n08:06 - Démo live : corriger un bug + nouvelle feature\n11:01 - Implémentation Windsurf avec OpenCode\n16:00 - Résultat : feature complète en quelques minutes\n17:50 - L'importance cruciale de la code review\n18:36 - Récap du flow + outils bonus\n---\n\n📺 Vidéos annexes : \nhttps://www.youtube.com/watch?v=5Q843CqM0yM\nhttps://www.youtube.com/watch?v=0gzKVRwsUuw\nhttps://www.youtube.com/watch?v=zbIDMNm9NPo\n\n🔗 Outils mentionnés :\n\n- Claude Code\n- Claude Opus 4.1\n- OpenCode\n- VSCode\n- ChatGPT \n- Grok Fast Code 1\n- AlterHQ (dictée vocale)\n- Marksnipe (extension Chrome)\n- Repomix\n\n---\n\nMa newsletter privée :\nhttps://www.ai-driven-dev.fr/newsletter\n\nNotre Groupe Privé :\nhttps://discord.com/invite/ai-driven-dev\n\nMon LinkedIn :\nhttps://www.linkedin.com/in/alexandre-soyer/\n\nMon Instagram :\nhttps://www.instagram.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=23-ma-stack-ia-aidd",
+      "duration": "PT19M15S",
+      "published_at": "2025-09-15T13:18:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/KOFyX-QBFRE/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "0gzKVRwsUuw",
+      "title": "J'ai testé OpenCode avec le nouveau Grok ... (incroyable)",
+      "description": "🚀 Coder 2x à 5x plus vite avec l'IA (sans perdre en qualité) : https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=21-opencode-grok-test\n\nJ'ai testé OpenCode avec le nouveau modèle Grok pour coder une vraie feature.\n\nObjectif : réduire la dépendance aux IDEs (comme Cursor) et aux modèles (comme Claude Sonnet) !\n\nJe vous montre comment utiliser n'importe quel LLM depuis votre terminal, sans changer d'outil.\n\nDans cette vidéo, on débugge ensemble une issue dans mon projet AIDD, on explore le standard AGENTS.md, et je vous explique pourquoi les outils agnostiques vont révolutionner notre manière de coder.\n\n#OpenCode #Grok #VSCode #xAI #GrokFastCode1\n\n00:00 - Intro : OpenCode et nouveau modèle Grok\n01:02 - Pourquoi utiliser OpenCode (indépendance IDE)\n03:12 - Installation et configuration des providers\n07:07 - agents.md : le nouveau standard universel\n10:01 - Grok et modèles spécialisés code (vitesse)\n13:01 - Workflow : planification vs implémentation\n18:00 - Configuration avancée et permissions\n22:01 - Retour d'expérience et timing vidéo\n\n---\n\nLiens mentionnés :\n\n- OpenCode : https://opencode.ai/\n- Grok Code Fast 1 : https://x.ai/news/grok-code-fast-1\n- agents.md : https://agents.md\n\nMa newsletter privée :\n📰 https://www.ai-driven-dev.fr/newsletter\n\nNotre Groupe Privé :\nhttps://discord.com/invite/ai-driven-dev\n\nMon LinkedIn :\nhttps://www.linkedin.com/in/alexandre-soyer/\n\nMon Instagram :\nhttps://www.instagram.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=21-opencode-grok-test",
+      "duration": "PT28M46S",
+      "published_at": "2025-09-09T14:09:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/0gzKVRwsUuw/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "hQUf-rcuuxQ",
+      "title": "Hackathon OpenAI : 3 erreurs fatales (+ démo de l'app)",
+      "description": "Rejoindre l'AI-Driven Dev : https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=hackathon-openai-paris\n\nHello, c'est Alex,\n\nC'était mon premier hackathon OpenAI à Paris : 24h de galère, d'apprentissage et de code en vrac. Je te montre tout, de la préparation last minute jusqu'à notre échec final.\n\nDans cette vidéo, je partage mon expérience complète du hackathon OpenAI : comment on a perdu 24h à chercher LA bonne idée, pourquoi notre app \"Friction\" n'a pas convaincu le jury, et surtout les erreurs fatales qu'on a commises en voulant trop en faire avec les agents IA.\n\n(+ qui a gagné le hackathon 🎉)\n\nDans cette vidéo :\n- Notre processus de brainstorming chaotique (et pourquoi c'était une erreur)\n- Le développement de notre app motivante avec Real-time API et agents OpenAI\n- Les 3 erreurs qui nous ont coûté la victoire\n- Une démo complète de l'app et son architecture technique\n- Mes conseils concrets pour \"mon prochain hackathon\"\n\nN'hésite pas à me dire si ce genre de vidéo t'a plus, c'était pas facile à faire mais je suis content du résultat 🙏\n\nBon code avec l'IA,\nAlex\n\nChapitres :\n00:00 Intro - Mon premier hackathon OpenAI sans préparation\n00:43 Départ pour Paris avec 0 ligne de code\n02:24 Arrivée chez Sam - Début du brainstorming produit\n04:03 24h pour trouver une idée qui nous passionne\n05:52 L'idée \"Friction\" : une IA qui te challenge\n07:31 Développement : orchestrateur et agents multiples\n09:22 Les problèmes arrivent (API down, contexte trop long)\n10:54 Stress final : on rollback à 17h\n12:04 Résultat : pas sélectionnés\n12:35 Analyse post-mortem des 3 erreurs fatales\n14:00 Démo complète de l'app Friction\n16:20 Architecture technique : agents et real-time API\n17:30 Leçons apprises et conseils hackathon\n18:05 Conclusion et prochaines étapes\n\n⭐ Postuler pour rentrer dans l'accompagnement AI-Driven Dev : https://www.ai-driven-dev.fr/reservation?utm_source=youtube&utm_medium=description&utm_campaign=hackathon-openai-paris\n\nLiens mentionnés :\n- SDK OpenAI Agents : https://github.com/openai/openai-node\n- Documentation Real-time API : https://platform.openai.com/docs/guides/realtime\n- Template starter OpenAI : https://github.com/openai/openai-realtime-console\n- Event OpenAI : HTTP://event.openai.com/openaivivalehack\n\nNotre Groupe Privé : \nhttps://discord.com/invite/ai-driven-dev\n\nMon LinkedIn :\nhttps://www.linkedin.com/in/alexandre-soyer/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Coder 2x à 5x plus vite avec de l'IA : https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=hackathon-openai-paris",
+      "duration": "PT19M",
+      "published_at": "2025-08-10T22:00:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/hQUf-rcuuxQ/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "zbIDMNm9NPo",
+      "title": "Claude Code : le guide que 95% des devs devraient voir",
+      "description": "Rejoindre l'AI-Driven Dev : https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=masterclass-claude-code\n\nHello, c'est Alex,\n\n(Oui je sais, personne ne lit les descriptions...)\n\nJe partage avec toi la masterclass complète sur Claude Code, l'outil qui a changé mon flow de dev depuis 2 mois.\n\nDécouvre comment optimiser ton workflow avec les fonctionnalités avancées que 95% des développeurs ignorent encore.\n\nDe l'installation aux agents parallèles, en passant par les commandes secrètes et le YOLO mode, je te montre comment coder plus vite avec Claude Code sur VSCode (en appliquant la méthodologie AI-Driven Dev).\n\nCette formation payante, je te l'offre gratuitement pour t'aider à rester compétitif sur le marché.\n\nTu verras des démonstrations concrètes, des configurations optimales et des techniques avancées que j'utilise quotidiennement.\n\nJ'espère que ça te plaira !\n\nP.S. : Rejoins-nous sur Discord pour discuter https://discord.gg/ai-driven-dev\n\n#ClaudeCode #VSCode #IA #Developpeur #Productivite\n\n🎥 Chapîtres\n\n00:00 - Annonce de la masterclass Claude Code\n01:02 - Présentation de la formation payante\n01:22 - Pourquoi Claude Code (stats financières, avantages)\n07:00 - Installation et Setup (VSCode, CLI, config)\n13:00 - Démo de dev en action (modes, modèles, navigation)\n20:00 - Commandes avancées (arguments, CLI, exemples)\n27:00 - Mémoire et personnalisation (CLAUDE.md, MCP)\n33:00 - Usages avancées (agents parallèles, hooks, YOLO mode)\n\n💡 Liens mentionnés\n\n- Claude Code CLI : https://claude.ai/code\n- Documentation officielle : https://docs.anthropic.com/claude/docs/claude-code\n- Claude Flow : https://github.com/ruvnet/claude-flow\n\nMa newsletter privée :\nhttps://www.ai-driven-dev.fr/newsletter\n\nNotre Groupe Privé :\nhttps://discord.com/invite/ai-driven-dev\n\nMon LinkedIn :\nhttps://www.linkedin.com/in/alexandre-soyer/",
+      "duration": "PT39M4S",
+      "published_at": "2025-08-05T09:42:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/zbIDMNm9NPo/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "sf9X8ose5CQ",
+      "title": "Je ne tape plus AUCUNE ligne de commandes (LinkedIn me déteste)",
+      "description": "Rejoindre l'AI-Driven Dev : https://ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=v15_reactions_linkedin_ia_terminal\n\nSalut, c'est Alex,\n\n(Oui je sais, personne ne lit jamais les descriptions)\n\nJ'ai posté sur LinkedIn que je n'écrivais plus aucune commande terminal depuis que j'utilise l'IA. Les réactions ont été... intenses. Certains disent que je me ramollis le cerveau, d'autres que je vends du bullshit. Je réponds point par point aux commentaires les plus pertinents et j'explique pourquoi l'IA est un outil formidable quand on l'utilise correctement.\n\nSpoiler : elle ne remplace pas les développeurs, elle les rend plus efficaces sur ce qui compte vraiment.\n\n---\n\n🔥 Chapitres\n00:00 : Intro - Pourquoi cette vidéo de réaction\n01:25 : Le post LinkedIn qui fait polémique\n02:50 : \"Tu te ramollis le cerveau\" - Ma réponse\n06:00 : L'expertise vs l'automatisation\n09:00 : \"L'IA va te remplacer\" - Faux débat\n11:00 : Ma philosophie sur l'IA comme outil\n14:30 : Message final - Good vibes et futur\n\n🔗 Liens mentionnés\n- Warp Terminal : https://warp.dev\n- Warp (avec lien affilié pour me faire gagner des goodies) : https://app.warp.dev/referral/2EG9DD\n- N8N : https://n8n.io\n\n🚀 Rejoindre l'AI-Driven Dev\nhttps://discord.com/invite/ai-driven-dev\nhttps://www.linkedin.com/in/alexandre-soyer/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.\n\n👉 Programme : https://ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=v15_reactions_linkedin_ia_terminal\n\n#IA #DeveloppeurIA #Warp #Terminal #ProductiviteIA",
+      "duration": "PT15M18S",
+      "published_at": "2025-07-22T09:45:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/sf9X8ose5CQ/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "rb-NuFiYos8",
+      "title": "Coder un SaaS de HAUTE QUALITÉ avec l’IA (en moins de 2 semaines)",
+      "description": "Programme AI-Driven Dev : Code 2x à 5x plus vite avec l'IA (sans perdre en qualité) 👉 https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_campaign=1_live_youtube_saas_rex&utm_medium=description\n\n👀 Les différents liens énoncés pendant le live :\nLe studio : https://xscape.studio/\nLa communauté : https://discord.gg/ai-driven-dev\nExpert DevOps : https://www.linkedin.com/in/victor-langlois-/\nPierre de Flint : https://www.youtube.com/@Flint_company\n\n\n👉 Comment un dev code avec de l’IA en day-to-day ?\nOn peut vraiment coder un SaaS entier de A à Z en étant production ready ?\nEst-ce qu’on peut coder un SaaS rapidement et propre en tant que développeur... en moins de 2 semaines ?\n\nDans ce live, je vous montre exactement comment j’ai fait : stack IA, méthodes, orga (et galères).\n\nL’idée : prouver qu’avec 3h/jour + les bons outils IA, on peut livrer un vrai produit solide AVEC UNE GROSSE QUALITÉ.\n\nVous repartez avec des idées concrètes à appliquer demain sur vos projets.\nEt en bonus, je réponds à toutes vos questions sur le programme AI-Driven Dev qu'on a en backend",
+      "duration": "PT1H19M16S",
+      "published_at": "2025-06-25T20:03:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/rb-NuFiYos8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "d0gsDie074c",
+      "title": "CEO Cursor : “On ne recommande pas le Vibe Coding ! Sauf…”",
+      "description": "Rejoins la 1ère communauté IA de France pour les développeurs : https://discord.gg/ai-driven-dev #short",
+      "duration": "PT16S",
+      "published_at": "2025-06-24T06:00:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/d0gsDie074c/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "zQz8xHjxy6g",
+      "title": "CEO Cursor :  “40% à 50% des lignes de code sont générées par IA”",
+      "description": "Rejoins la 1ère communauté IA de France pour les développeurs : https://discord.gg/ai-driven-dev #short",
+      "duration": "PT41S",
+      "published_at": "2025-06-23T06:00:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/zQz8xHjxy6g/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "3G-esgSEjdk",
+      "title": "Le SAC d’un Développeur NOMADE (indispensable)",
+      "description": "👉 Rejoindre l'AI-Driven Dev : https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=16_sac_a_dos_digital_nomad\n\n---\n\nHello à toi,\n\nJe pars souvent voyagé en tant que développeur et je suis parti 1 an en tant que digital nomad.\n\nComme je recommence à bouger, je voulais te montrer tout ce qu'il y a dans mon sac à dos de voyage et comment tu peux maximiser tes voyages en tant que codeur / dev / vibe-codeur.\n\nDans une prochaine vidéo je te montrerais comment je me prépare quand je bouge.\n\nCheers 🫡\n\nAlex\n\nPS : Oui je sais, personne ne lit les descriptions... Mais je les écris quand même.\n\n---\n\n\n🌐 Liens mentionnés\n--\n- Sac à dos (backpack) : https://www.minaal.com/en-fr/products/carry-on-bag-3\n- Sac à dos (daily): https://shop.tropicfeel.com/products/packable-daypack\n- Vêtements Merinos: https://seagale.fr\n\n📚 Chapitres\n--\n00;00;00;00 : INTRO\n00;00;29;02 : Mon sac à dos\n00;04;52;06 : Papiers essentiels\n00;07;01;03 : Les vêtements\n00;12;38;23 : Trousse de toilettes\n00;14;04;24 : Matériel info\n00;16;25;18 : Liseuse et journal\n00;17;48;04 : Lunettes\n00;17;48;04 : Création de contenu\n00;19;43;00 : Bien dormir\n00;20;38;01 : Bien s'hydrater\n00;22;30;03 : Trousse médicale\n00;22;46;23 : Lessive\n00;23;23;10 : Paire de chaussure\n00;24;53;23 : Bonus : Partir léger\n00;28;02;00 : OUTRO\n\n🚀 L'AI-Driven Dev  - 1ère communauté FR de développeurs IA\n--\nhttps://youtube.com/alexsoyes\nhttps://discord.gg/ai-driven-dev  \nhttps://www.linkedin.com/in/alexandre-soyer/  \nhttps://x.com/alexsoyes",
+      "duration": "PT28M59S",
+      "published_at": "2025-06-22T06:05:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/3G-esgSEjdk/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "5Q843CqM0yM",
+      "title": "Comment CODER entre 2X et 5X plus VITE avec L'IA",
+      "description": "👉 Rejoindre l'AI-Driven Dev : https://www.ai-driven-dev.fr?utm_source=youtube&utm_medium=description&utm_campaign=15_vsl\n\nAprès 2 ans de R&D, on a créé la méthode AI-Driven Dev (v2) qui nous a permis de coder 2x et jusqu'à 5x plus rapidement grâce à l'IA.\n\nDans cette vidéo, je te présente tout mon flow complet en codant une feature avec toi.\n\n📚 Chapitres\n00:00 : Méthode AI-Driven Dev : coder jusqu’à 5x plus vite avec l’IA\n04:09 : Devenir un développeur augmenté (et ne pas devenir obsolète)\n09:00 : Rejoindre la communauté Privée\n09:40 : Préparer un setup IA ultra-efficace avant de coder\n11:24 : Créer une base de connaissance IA pour booster la productivité\n15:24 : Comprendre le besoin métier avant d’écrire une ligne de code\n16:56 : Documenter intelligemment pour guider l’IA dans le projet\n19:26 : Organiser ses user stories comme un dev senior\n20:34 : Lead Architect : Structurer un plan de code (IA-compatible)\n26:13 : Générer 80% du code avec des agents IA intelligents\n32:38 : Accélérer tout le Git Flow grâce à l’IA\n\n\n🚀 L'AI-Driven Dev Community\nDécouvre le meilleur contenu FR sur l'IA et le Code.\nhttps://youtube.com/alexsoyes\nhttps://discord.gg/ai-driven-dev  \nhttps://www.linkedin.com/in/alexandre-soyer/  \nhttps://x.com/alexsoyes\n\nJe te montre comment j’ai codé 2 à 5 fois plus vite grâce à l’IA, sans sacrifier la qualité. Dans cette vidéo, je partage ma méthode complète pour intégrer GitHub Copilot, Cursor, agents IA et prompt engineering dans ton workflow, même sur des projets complexes. C’est le guide ultime pour ne pas devenir obsolète en tant que dev, et prendre une vraie avance sur le marché. Pas de bullshit, juste des techniques concrètes que j’applique tous les jours pour facturer mieux et coder plus vite.",
+      "duration": "PT36M33S",
+      "published_at": "2025-06-15T07:08:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/5Q843CqM0yM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "1AFPEhI4h5g",
+      "title": "Tutoriel Complet : Coder une app entière avec Cline (OpenSource)",
+      "description": "👉 Rejoindre l'AI-Driven Dev : https://www.ai-driven-dev.fr?utm_source=youtube&utm_medium=description&utm_campaign=12_CLINE_MEMORY_BANK_DEMO_VSCODE\n\nCline est l'extension IA pour développeur la plus populaire sur VSCode avec +1.3 millions de téléchargement.\nOn l'a testé pour coder une app entière et je vous montre en quoi l'approche de Cline est différente des autres comme Cursor, Windsurf, ou même GitHub Copilot.\nLa \"memory bank\" est ce qui a permis à Cline de devenir aussi populaire, regardons ensemble en quoi elle conciste et comment elle va optimiser la rapidité et la pertinence du code généré à l'IA.\n\n🌐 Liens mentionnés\n- OpenRouter https://openrouter.ai/\n- Cline https://cline.bot/\n- Roo Code https://github.com/RooVetGit/Roo-Code\n- Google Cloud 300$ gratuit sur Gemini 2.5 https://console.cloud.google.com\n\n🚀 L'AI-Driven Dev Community\nDécouvre le meilleur contenu FR sur l'IA et le Code.\nhttps://youtube.com/alexsoyes\nhttps://discord.gg/ai-driven-dev  \nhttps://www.linkedin.com/in/alexandre-soyer/  \nhttps://x.com/alexsoyes",
+      "duration": "PT37M30S",
+      "published_at": "2025-06-15T07:07:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/1AFPEhI4h5g/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "nsTD7UGEGj4",
+      "title": "\"Tous les enfants devraient apprendre à coder\" : Thomas DOHMKE (CEO GitHub)",
+      "description": "",
+      "duration": "PT1M6S",
+      "published_at": "2025-06-15T06:54:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/nsTD7UGEGj4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "scolaire"
+      ]
+    },
+    {
+      "id": "oFtpvXMoP3I",
+      "title": "Créer un Agent IA en 30 secondes avec #BrowserUse",
+      "description": "",
+      "duration": "PT57S",
+      "published_at": "2025-06-14T09:49:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/oFtpvXMoP3I/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "sm61KFa8TSQ",
+      "title": "Faut-il encore apprendre à Coder en 2025 ? (CEO Replit)",
+      "description": "",
+      "duration": "PT34S",
+      "published_at": "2025-06-14T09:49:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/sm61KFa8TSQ/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "orientation"
+      ]
+    },
+    {
+      "id": "poE1DyMG7aA",
+      "title": "Dario Amodei (CEO Anthropic) : \"Tout le code sera bientôt écrit par IA\"",
+      "description": "",
+      "duration": "PT37S",
+      "published_at": "2025-06-14T09:45:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/poE1DyMG7aA/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "cRRbuJitKyk",
+      "title": "OpenAI Codex 1 : Créer une feature sans coder ?",
+      "description": "👉 Rejoindre l'AI-Driven Dev : https://www.ai-driven-dev.fr?utm_source=youtube&utm_medium=description&utm_campaign=OPENAI_CODEX_WEB_DEMO\n\nJe teste la toute dernière version d’OpenAI Codex, désormais accessible en interface web avec agents intégrés. Cette version transforme Codex en véritable environnement de développement piloté par l’IA.\nPeut-il vraiment remplacer un développeur ? Je vous montre comment il lit le code, corrige les bugs, crée des features et gère des pull requests dans un projet réel.\nMon avis complet sur les agents OpenAI Codex, leur productivité, (et est-ce que ça change quelques chose pour les devs en 2025 ?).\n\n🌐 Liens mentionnés\n- OpenAI Codex (app): https://chatgpt.com/codex\n- OpenAI Codex (annonce officielle) : https://openai.com/codex/\n- OpenAI Codex CLI : https://www.youtube.com/watch?v=TrZGQm-37VY\n\n📚 Chapitres\n00:00 - OpenAI Codex : la promesse de remplacer les devs ?\n00:45 - Introduction à Codex 1\n04:29 - Test et démo d'une feature\n10:50 - Nouvelle \"Pull Request\"\n13:05 - Retour sur l'Agent de Code IA\n14:30 - Revue de code\n15:25 - Ma prédiction des agents de code sur 2025\n16:52 - Revue finale de Codex\n19:55 - Rendu final ;)\n\n🚀 L'AI-Driven Dev Community\nDécouvre le meilleur contenu FR sur l'IA et le Code.\nhttps://youtube.com/alexsoyes\nhttps://discord.gg/ai-driven-dev  \nhttps://www.linkedin.com/in/alexandre-soyer/  \nhttps://x.com/alexsoyes",
+      "duration": "PT20M27S",
+      "published_at": "2025-06-03T08:03:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/cRRbuJitKyk/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "TrZGQm-37VY",
+      "title": "OpenAI Codex CLI : Coder avec une IA dans un terminal ?",
+      "description": "👉 Rejoindre l'AI-Driven Dev : https://www.ai-driven-dev.fr?utm_source=youtube&utm_medium=description&utm_campaign=11_OPENAI_CODEX_CLI\n\nAprès OpenAI Codex en tant que modèle de code pour GitHub Copilot, OpenAI rebrand son outil pour le transformer en agent de dev autonome sous forme de CLI (comme Claude Code).\n\nDans cette vidéo je te propose de tester OpenAI Codex avec o4-mini pour créer un nouveau projet from scratch qui nous servira de base pour les projets communautaires de l'AI-Driven Dev.\n\n🔥 Setup\n- Installer Warp : https://app.warp.dev/referral/2EG9DD\n- Clef OpenAI : https://platform.openai.com/playground\n\n🌐 Liens mentionnés\n- OpenAI Codex (source) : https://openai.com/index/openai-codex/\n- OpenAI Codex : https://github.com/openai/codex\n- Claude Code : https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview\n- Claude Code (test vidéo) : https://www.youtube.com/watch?v=S9CkumVX0X0\n\n🚀 L'AI-Driven Dev Community\nDécouvre le meilleur contenu FR sur l'IA et le Code.\nhttps://youtube.com/alexsoyes\nhttps://discord.gg/ai-driven-dev  \nhttps://www.linkedin.com/in/alexandre-soyer/  \nhttps://x.com/alexsoyes",
+      "duration": "PT26M59S",
+      "published_at": "2025-05-30T10:34:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/TrZGQm-37VY/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "DFTc0W3oTyQ",
+      "title": "On a dev la 1ère extension VSCode IA 🇫🇷 ! (pour les Cursor Rules)",
+      "description": "👉 Rejoindre l'AI-Driven Dev : https://www.ai-driven-dev.fr?utm_source=youtube&utm_medium=description&utm_campaign=extension-vscode-aidd\n\nJ’ai développé une extension IA pour VSCode qui permet de créer et partager facilement des règles personnalisées (comme les Cursor Rules).\n\nC’est un gain de temps énorme pour tous ceux qui veulent tirer le meilleur de Cursor dans VS Code. Je te montre comment on a conçu l’outil, comment il fonctionne, et surtout comment tu peux l’utiliser concrètement dans tes projets pour récupérer des règles.\n\n* Fait avec 🩷 en utilisant #cline \n\n🌐 Liens mentionnés\n- Télécharger l'extension : https://github.com/ai-driven-dev/rules\n- Discord : https://discord.gg/ai-driven-dev\n\n🚀 L'AI-Driven Dev Community\nDécouvre le meilleur contenu FR sur l'IA et le Code.\nhttps://www.linkedin.com/in/alexandre-soyer/  \nhttps://x.com/alexsoyes",
+      "duration": "PT18M48S",
+      "published_at": "2025-05-19T18:30:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/DFTc0W3oTyQ/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "6fBHvKTYMCM",
+      "title": "COURS COMPLET de A à Z sur Cursor AI (Formation Gratuite 2025)",
+      "description": "🚀 Accès au programme AI-Driven Dev qui te fait coder 2x à 5x plus vite grâce à l'IA : https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=cursor-masterclass\n\n✅ Télécharge gratuitement la mindmap complète avec toutes les étapes ici :\nhttps://www.ai-driven-dev.fr/cursor?utm_source=youtube&utm_campaign=cursor-masterclass\n\n🔥 Rejoindre la communauté gratuite AI-Driven Dev : https://discord.com/invite/ai-driven-dev\n\n🎯 Ma formation avancée sur Cursor\n\nTu veux coder plus vite avec l’IA ? Dans cette formation gratuite sur Cursor, je te montre comment utiliser l'IDE Cursor à son top niveau, cette alternative à VSCode dopée à l’IA en codant une vraie feature de A à Z (sur une vraie codebase).\n\nOn verra ensemble tous les réglages à connaître, comment brancher le meilleur modèle IA (GPT, Claude ou Gemini ?), comment automatiser tes commits et structurer ton projet avec des règles d’IA avancées.\n\nCursor, c’est plus qu’un éditeur. C’est un problème l'éditeur le plus intelligent à utiliser en tant que développeur. Si tu veux une vraie démo complète — pas juste une vidéo promo — alors cette masterclass sur Cursor est faite pour toi.\n\n🧠 Sommaire\n\n00:00 Introduction + pourquoi cette masterclass est essentielle\n00:43 Présentation masterclass Cursor \n01:50 Pourquoi Cursor + Disclaimer\n03:30 Démo d'une création de feature de A à Z\n08:00 Overview de Cursor + Dashboard\n09:20 Installation et Onboarding\n14:32 Configuration optimale Cursor IDE (setup)\n23:42 Fonctionnalités de base à maîtriser (autocomplete, chat IA, doc)\n30:46 Utilisation avancée du Chat IA (Manual, Ask, Agent)\n45:08 Commits IA et automatisation Git\n46:36 Fonctionnalités avancées : Custom Modes et Agent\n52:32 Coder avec le mode Agent (avec démo)\n01:00:25 Cursor Rules : créer des règles IA puissantes\n01:06:05 Revue de code et nouvelles fonctionnalités 2025\n01:08:33 MCP (Postgre, terminal, etc.)\n01:13:31 Conclusion (futur) + bonus et prochaines étapes\n\n🔗 Site officiel de Cursor : https://www.cursor.com\n\n#Cursor #AIDrivenDev #VSCode #AIForDevs",
+      "duration": "PT1H16M42S",
+      "published_at": "2025-05-15T19:00:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/6fBHvKTYMCM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "pMBFXw8aM-Q",
+      "title": "Mark Zuckerberg : \"Dans les 12 à 18 prochains mois, la plupart du code sera écrit pas IA\" (Avril 202",
+      "description": "Mark Zuckerberg : \"Dans les 12 à 18 prochains mois, la plupart du code sera écrit pas IA\" (Avril 2025)  #short",
+      "duration": "PT11S",
+      "published_at": "2025-05-02T11:16:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/pMBFXw8aM-Q/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "XPviGZgF51U",
+      "title": "JetBrains Junie : Enfin un vrai Agent IA sur IntelliJ ?",
+      "description": "👉 Rejoindre l'AI-Driven Dev : https://www.ai-driven-dev.fr?utm_source=youtube&utm_medium=description&utm_campaign=Pourquoi%20personne%20ne%20parle%20de%20Junie%20sur%20JetBrains%20IDEA\n\nSi tu es un développeur qui utilise JetBrains IDEA et que tu ne souhaites pas passer sur VSCode / JetBrains / Windsurf... j’ai une bonne nouvelle pour toi : Junie.\nUn agent IA directement intégré à ton IDE ton Windsurf Cascade, Cursor Composer ou Copilot Edits. Maintenant, est-ce que ça vaut quelque chose ?\n\nDans cette vidéo, je te fais un tour rapide de Junie : présentation, comparaison avec AI Assistant, test en conditions réelles avec génération d’une fonctionnalité complète, et pour finir : \nJe laisse une revue publique directement sur le site de JetBrains.\nChaud de voir avec moi ce que ça donne ?\n\n🌐 Liens\n- Prompt utilisé: https://gist.github.com/alexsoyes/622c41bfd17965b14d3a55066afd386e\n- Site officiel de Junie : https://www.jetbrains.com/fr-fr/junie/\n- Sortie de Cursor Composer : https://www.cursor.com/changelog/composer-beta-\n\n🚀 L'AI-Driven Dev Community\nhttps://youtube.com/alexsoyes\nhttps://discord.gg/ai-driven-dev  \nhttps://www.linkedin.com/in/alexandre-soyer/  \nhttps://x.com/alexsoyes",
+      "duration": "PT20M30S",
+      "published_at": "2025-04-15T07:00:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/XPviGZgF51U/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "bl0qHk2fBcM",
+      "title": "Windsurf testée sur une codebase existante",
+      "description": "Rejoindre l'AI-Driven Dev : https://www.ai-driven-dev.fr?utm_source=youtube&utm_medium=description&utm_campaign=windsurf-wave-4\n\nJ'ai testé pour vous la dernière mise à jour de Windsurf Wave 4 en utilisant le mode preview et en codant une feature. \n\nEst-ce à la hauteur de Cursor ? Qu'est-ce que ça vaut en mode agent ? \n\nBref, on fait le tour ensemble du concurrent principal de Cursor, j'ai nommé le numéro 2, Windsurf. \n\nLiens mentionnés\n- Windsurf: https://codeium.com/pricing\n- WindSurf Preview (Beta): https://docs.codeium.com/windsurf/previews\n- Changelog : https://codeium.com/changelog\n- Wave 5 (Annonce): https://x.com/windsurf_ai/status/1897799426024128919\n- Mon SaaS: https://www.linkedin.com/feed/update/urn:li:activity:7287749776891076609/\n- Fonctionnalité générée (dépôt accessibles aux membres AI-Driven Dev): \n\nNotre Groupe Privé\nhttps://discord.com/invite/ai-driven-dev\n\nMon LinkedIn\nhttps://www.linkedin.com/in/alexandre-soyer/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.",
+      "duration": "PT27M22S",
+      "published_at": "2025-04-10T14:57:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/bl0qHk2fBcM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "MOFDkXgb_H8",
+      "title": "L'IA va-t-elle DÉTRUIRE le Métier de Développeur en 2025 ?",
+      "description": "Rejoindre l'AI-Driven Dev : https://app.iclosed.io/e/alexsoyes/coaching-dev-ia?utm_source=youtube&utm_medium=description&utm_campaign=avenir-dev-ia\n\nComme vous le savez, l'IA est désormais partout, et en tant que développeur, il est impossible d'y échapper. \n\nMaintenant, est-ce une opportunité ? À quoi va ressembler notre avenir ? Comment peut-on se préparer à ce qui va arriver ? \n\nDans cette vidéo, je vous livre un peu ce que je pense de l'IA après deux années à l'étudier sérieusement et mon TOP 3 des conseils pour exploiter l'IA.  \n\nLibrairie de prompts AI-Driven Dev\nhttps://github.com/ai-driven-dev/prompts\n\nNotre Groupe Privé\nhttps://discord.com/invite/ai-driven-dev\n\nMon LinkedIn\nhttps://www.linkedin.com/in/alexandre-soyer/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.",
+      "duration": "PT18M48S",
+      "published_at": "2025-03-12T10:05:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/MOFDkXgb_H8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "metiers",
+        "orientation"
+      ]
+    },
+    {
+      "id": "S9CkumVX0X0",
+      "title": "Claude Code est-il VRAIMENT Révolutionnaire ? (on le TESTE)",
+      "description": "🤖 Rejoindre l'AI-Driven Dev : https://bit.ly/programme-ai-driven-dev\n\nJ’ai testé Claude Code (Claude 3.7 Sonnet), le dernier outil IA d’Anthropic pour coder une application. Est-ce efficace pour les développeurs ?  \n\nRoadmap IA gratuite  pour les devs freelances :\nhttps://app.iclosed.io/e/alexsoyes/coaching-dev-ia?utm_source=youtube&utm_medium=description&utm_campaign=claude-code\n\nLes avancées de l'AI-Driven Dev :\n- Discord : https://discord.com/invite/5nHEtgsEhq  \n- LinkedIn : https://www.linkedin.com/in/alexandre-soyer/  \n\nAbonne-toi pour récupérer les méthodes de l'AI-Driven Dev et coder 2x plus rapidement.\n\nBon code avec l'IA !",
+      "duration": "PT18M43S",
+      "published_at": "2025-02-27T17:44:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/S9CkumVX0X0/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "Bv-IuQ39oNs",
+      "title": "Prompter 3x plus vite son #code avec la dictée vocale",
+      "description": "",
+      "duration": "PT1M",
+      "published_at": "2025-02-14T07:57:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/Bv-IuQ39oNs/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "VXKFSjKw03Y",
+      "title": "Les Meilleures Techniques ChatGPT Pour BOOSTER Votre Code !",
+      "description": "Je code avec ChatGPT tous les jours et je ne me vois plus ne pas l'utiliser en tant que développeur. Tellement que j'en ai payé la version à 200$/ mois.\n\n00:00 Partie 0 - Introduction\n01:45 Partie 1 - Optimisation de ChatGPT\n02:33 Partie 2 - Mode vocal avancé\n04:34 Partie 3 - Recherche web intégrée\n06:01 Partie 4 - Analyse de documents\n06:39 Partie 5 - Analyse d'images pour le code\n09:34 Partie 6 - Création de GPTs personnalisés / Projets\n10:58 Partie 7 - Intégration avec des environnements de développement (IDE)\n12:06 Partie 8 - Intégration via API\n12:57 Partie 9 - Application mobile\n13:38 Outro - Conclusion\n\n#aidrivendev #chatgpt #gpt \n\nLiens:\n- Extension ChatGPT Desktop pour VSCode : https://help.openai.com/en/articles/10128592-how-to-install-the-work-with-apps-visual-studio-code-extension\n\n---\n\nGuide IA pour les développeurs 👇 \nhttps://learn.alexsoyes.com/guide-ia?utm_source=youtube&utm_medium=description&utm_campaign=continue-tutoriel-vscode\n\nSuivre les avancées de l'AI-Driven Dev 🤖 \nhttps://discord.com/invite/5nHEtgsEhq\nhttps://www.linkedin.com/in/alexandre-soyer/\n\n---\n\nN'oublie pas de t'abonner !\n\nJ’aide les développeurs à exceller dans l’IA pour produire du code de qualité, 2x plus rapidement.",
+      "duration": "PT14M30S",
+      "published_at": "2025-02-07T12:20:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/VXKFSjKw03Y/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "_Mt1oA3u-Tc",
+      "title": "Windsurf : Officiellement le meilleur IDE IA pour coder plus vite (DÉMO)",
+      "description": "Sorry pour la qualité de l'audio ! On a réupload une version corrigée ici 👉 https://youtu.be/4Q5ovKngcz0\n\nWindsurf, c’est plus qu’un IDE : c’est un agent IA. Dans cette vidéo, tu verras comment il transforme la création de fichiers, la gestion des commandes, et l’ajout de fonctionnalités complexes. Une vraie solution pour gagner du temps et coder plus efficacement.\n\n🔗 Liens mentionnés dans la vidéo\n- Découvrir Windsurf : https://codeium.com/windsurf\n\n---\n\n🙋‍♂️ Tu es développeur freelance ? Ta roadmap IA gratuite\nhttps://app.iclosed.io/e/alexsoyes/coaching-dev-ia?utm_source=youtube&utm_medium=description&utm_campaign=windsurf-demo\n\n🤖 Suivre les avancées de l'AI-Driven Dev\nhttps://discord.com/invite/5nHEtgsEhq \nhttps://www.linkedin.com/in/alexandre-soyer/\n\n---\n\nN'oublie pas de t'abonner !  \n\nJ’aide les développeurs à exceller dans l’IA pour produire du code de qualité, 2x plus rapidement.\n\n#AIDrivenDev #AIDriven #windsurf #codeium",
+      "duration": "PT13M46S",
+      "published_at": "2025-01-21T15:00:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/_Mt1oA3u-Tc/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "LWzIEtEiQjM",
+      "title": "Coder avec une IA 100% locale dans VSCode (Tutoriel + Test)",
+      "description": "Ta session de conseil \"Coder avec L'IA\" gratuite : https://app.iclosed.io/e/alexsoyes/coaching-dev-ia?utm_source=youtube&utm_medium=description&utm_campaign=continue-tutoriel-vscode\n\nComment installer, configurer et coder avec un LLM local dans VSCode ? \nJe présente Continue, une extension pour configurer une IA locale ou dans le Cloud.\n\n#aidrivendev #vscode #continue #llm #deepseek #qwen #ai  #code  #llama  #ollama \n\nLiens mentionnés dans la vidéo :\n\n- Extension VSCode : https://marketplace.visualstudio.com/items?itemName=Continue.continue\n- Documentation Continue : https://docs.continue.dev/customize/model-providers/ollama\n- Ollama : https://ollama.com/\n- Jan : https://jan.ai/\n\n---\n\nGagner 2h par jour en codant avec L'IA 👇 \nhttps://learn.alexsoyes.com/guide-ia?utm_source=youtube&utm_medium=description&utm_campaign=continue-tutoriel-vscode\n\nSuivre les avancées de l'AI-Driven Dev 🤖 \nhttps://discord.com/invite/5nHEtgsEhq\nhttps://www.linkedin.com/in/alexandre-soyer/\n\n---\n\nN'oublie pas de t'abonner !\n\nJ’aide les développeurs à exceller dans l’IA pour produire du code de qualité, 2x plus rapidement.",
+      "duration": "PT11M25S",
+      "published_at": "2025-01-16T09:38:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/LWzIEtEiQjM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "IU2xOG2Z2T0",
+      "title": "Gagner 2h / jour en codant avec l'IA ? (Méthode AIDD v1.0)",
+      "description": "🤖 Rejoindre l'AI-Driven Dev : https://bit.ly/programme-ai-driven-dev\n\nComment gagner 2 heures par jour en tant que développeur grâce à la méthode AI Driven Dev et des outils comme Cursor, ChatGPT et Espanso. Je te montre tout, de l’application existante à la création d’une nouvelle feature, avec des démonstrations claires pour optimiser ton workflow.\n\n---\n\nGuide gratuit pour coder avec L’IA 👇\nhttps://learn.alexsoyes.com/guide-ia?utm_source=youtube&utm_medium=description&utm_campaign=ai-driven-dev-methode-2h-jour\n\nSuivre les avancées de l'AI-Driven Dev 🤖 \nhttps://discord.com/invite/5nHEtgsEhq\nhttps://www.linkedin.com/in/alexandre-soyer/\n\n---\n\nN'oublie pas de t'abonner !\n\nJ’aide les développeurs à exceller dans l’IA pour produire du code de qualité, 2x plus rapidement.",
+      "duration": "PT10M6S",
+      "published_at": "2024-12-19T18:13:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/IU2xOG2Z2T0/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "MjgXWlnhEQ8",
+      "title": "Ces 6 outils IA vont changer la productivité des développeurs en 2025",
+      "description": "Ta session de conseil \"Coder avec L'IA\" gratuite :\nhttps://app.iclosed.io/e/alexsoyes/coaching-dev-ia?utm_source=youtube&utm_medium=description&utm_campaign=5-outils-ia-2025\n\nDécouvre ces 6 outils IA qui peuvent vraiment booster ta productivité en tant que développeur en 2025.\nJe te partage des solutions concrètes : IDE intelligent, outils de gestion du temps, de productivité... pour travailler plus vite et mieux. \n\n**Tableau Notion top outils IA 🤖**:\nhttps://bit.ly/alexsoyes-top-outils-ia\n\n**Outils mentionnés dans la vidéo** :\n- Amie (calendrier intelligent)\n- ChatGPT (assistant conversationnel IA)\n- Cursor (IDE intelligent)\n- Notion (prise de notes)\n- Rize (gestion de productivité)\n- Warp (terminal IA)\n\nBonus : Better Dictation (outil de dictation MacOS)\n---\n\n**Gagner 2h par jour en codant avec L'IA 👇** \nhttps://learn.alexsoyes.com/guide-ia?utm_source=youtube&utm_medium=description&utm_campaign=5-outils-ia-2025\n\n**Suivre les avancées de l'AI-Driven Dev 🔥** :\nhttps://discord.com/invite/5nHEtgsEhq\nhttps://www.linkedin.com/in/alexandre-soyer/\n\n---\n\nN'oublie pas de t'abonner !\n \nJ’aide les développeurs à exceller dans l’IA pour produire du code de qualité, 2x plus rapidement.",
+      "duration": "PT10M1S",
+      "published_at": "2024-12-18T09:06:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/MjgXWlnhEQ8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    }
+  ]
+}

@@ -124,7 +124,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Grand Labo](https://youtube.com/channel/UCErPogabDLnau5mHw_IENxg) | Une émission pour comprendre comment la science est faite aujourd’hui et explorer la façon dont elle... |
 | [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’... |
 | [Mickaël Launay (Micmaths)](https://youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg) | La chaîne Micmaths vous propose diverses vidéos autour des mathématiques. Vous y trouverez des cours... |
-| [Mon Cours De SVT](https://youtube.com/channel/UCNXhHwGBMZoTVvJCNx9rGow) | Bonjour à tous,... |
+| [Mon Cours De SVT](https://youtube.com/channel/UCNXhHwGBMZoTVvJCNx9rGow) | 🎓 Bienvenue sur ma chaîne SVT !... |
 | [Passe-Science](https://youtube.com/channel/UCsz9DiwPtgDvxJ-njWnieZw) | Chaîne de vulgarisation scientifique: physique, mathématiques et informatique. Un niveau de vulgaris... |
 | [ScienceEtonnante](https://youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) | Des vidéos pour raconter la science étonnante, amusante, passionnante et stupéfiante !... |
 | [Scienticfiz (Gilles Gourio)](https://youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g) | Vous aimez être surpris ? Vous êtes curieux de tout ? Découvrez les vidéos scientifiques réalisées a... |

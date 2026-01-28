@@ -13,6 +13,18 @@
   ],
   "videos": [
     {
+      "id": "LDwTQGqMDW4",
+      "title": "Il archive le code source de TOUS les logiciels libres. Voici pourquoi.",
+      "description": "Sans logiciel, pas de science moderne ! Mais jusqu'à récemment, ce précieux code source des logiciels libres utilisés dans la science pouvait disparaitre sans qu'on y prenne garde : oublié sur un vieux disque dur, supprimé par erreur... Avec le risque de ne plus pouvoir reproduire certaines expériences ou observations. Software Heritage s'est donné pour mission de lutter contre ce grand effacement. A l'occasion de ses 10 ans, on en parler avec Roberto Di Cosmo, son fondateur.\n\n----------\n00:00 : intro\n02:08 : aux origines de Software Heritage\n06:31 : quelques exemples de logiciels dans les sciences (PyMoDaq)\n08:06 : sauvegarder les logiciels : comment ?\n12:10 : obsolescence des plateformes de partage de code : quel impact sur la reproductibilité de la recherche ?\n14:51 : Ten Years Reproducibility Challenge\n16:22 : une communauté scientifique sensibilisée à ces sujets ?\n19:33 : sauver les logiciels : une course contre la montre ?\n21:03 : 10 ans de Software Heritage : quel bilan ?\n----------\n📬 La newsletter : https://www.grandlabo.com/#newsletter\n----------\nBluesky : https://bsky.app/profile/grandlabo.com\nMastodon : https://mastodon.social/@grandlabo\nInsta : https://www.instagram.com/grdlabo/\nLinkedin : https://www.linkedin.com/company/grand-labo\n----------\n🔴 Abonnez-vous à la chaîne : https://www.youtube.com/@GrandLabo\n----------\n🎧 Grand Labo en podcast :\n- Apple Podcasts : https://podcasts.apple.com/us/podcast/grand-labo/id1785225162\n- Deezer : https://www.deezer.com/fr/show/1001469581\n- Spotify : https://open.spotify.com/show/2WcaqnEv927x5kpPoJlW6m\n- Amazon Music : https://music.amazon.com/podcasts/77c3c8b0-03ff-42c6-b4bf-c757c41d4cdf/grand-labo",
+      "duration": "PT23M54S",
+      "published_at": "2026-01-28T14:57:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/LDwTQGqMDW4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "vRY7I0mm0R8",
       "title": "Moins de science ?",
       "description": "Les changements globaux doivent-ils conduire les scientifiques à réorienter, voire à cesser certaines de leurs recherches ? Extrait de l'épisode du 14 novembre dernier avec Nicolas Chevassus-au-Louis, auteur de \"Décroiscience\".",

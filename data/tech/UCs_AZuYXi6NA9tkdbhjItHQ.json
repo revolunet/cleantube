@@ -11,6 +11,42 @@
   ],
   "videos": [
     {
+      "id": "fnbjkvp05DE",
+      "title": "Cloud Native Days FR - Après-Midi",
+      "description": "🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/5046686724915200",
+      "duration": "P0D",
+      "published_at": "2026-01-30T12:12:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/fnbjkvp05DE/hqdefault_live.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "94PdLaqRK5c",
+      "title": "Cloud Native Days FR - Matinée",
+      "description": "🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/5046686724915200",
+      "duration": "P0D",
+      "published_at": "2026-01-30T12:10:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/94PdLaqRK5c/hqdefault_live.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "xUt_kA3EhNA",
+      "title": "Infra de A à Z - 100. Helm : démo, automatisation vs industrialisation ??!!",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT40M11S",
+      "published_at": "2026-01-29T20:13:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/xUt_kA3EhNA/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "3DdQCQPheb8",
       "title": "Infra de A à Z - 99. Helm : introduction, c'est quoi ?",
       "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",

@@ -74,6 +74,7 @@ Le meilleur de YouTube en Français, sans distractions.
 |--------|-------------|
 | [ARTE Évasion](https://youtube.com/channel/UCXV7LUI7G1MaKRN18yQ5y7Q) | Bienvenue sur Évasion, la chaîne qui vous transporte loin du quotidien à travers une sélection de pr... |
 | [ARTE.tv Documentary](https://youtube.com/channel/UCVogAsASqbceBmQMi1WA39g) | ARTE.tv Documentary is here to tell you more about what’s going on in the world with powerful and re... |
+| [BBC Earth](https://youtube.com/channel/UCwmZiChSryoWQCZMIQezgTg) | Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of bei... |
 | [Le Dessous des Cartes - ARTE](https://youtube.com/channel/UCHGMBrXUzClgjEzBMei-Jdw) | Le Dessous des cartes décrypte les enjeux géopolitiques de notre monde contemporain au moyen de cart... |
 
 ### Philo
@@ -123,6 +124,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Faire aimer les mathématiques](https://youtube.com/channel/UCMsTgghzMriQCpOkFNUR5Sg) | Faire aimer les mathématiques est une chaîne dédiée à l'éducation de cette discipline. Elle s'adress... |
 | [Grand Labo](https://youtube.com/channel/UCErPogabDLnau5mHw_IENxg) | Une émission pour comprendre comment la science est faite aujourd’hui et explorer la façon dont elle... |
 | [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’... |
+| [Je T'explique Comment](https://youtube.com/channel/UCbn3FkZp0zwfQUHDAGSZBpQ) | Tu t'es déjà demandé comment sont fabriqués les objets que tu utilises tous les jours ? Que ce soit ... |
 | [Mickaël Launay (Micmaths)](https://youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg) | La chaîne Micmaths vous propose diverses vidéos autour des mathématiques. Vous y trouverez des cours... |
 | [Mon Cours De SVT](https://youtube.com/channel/UCNXhHwGBMZoTVvJCNx9rGow) | 🎓 Bienvenue sur ma chaîne SVT !... |
 | [Passe-Science](https://youtube.com/channel/UCsz9DiwPtgDvxJ-njWnieZw) | Chaîne de vulgarisation scientifique: physique, mathématiques et informatique. Un niveau de vulgaris... |

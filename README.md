@@ -118,6 +118,7 @@ Le meilleur de YouTube en Français, sans distractions.
 
 | Chaîne | Description |
 |--------|-------------|
+| [3Blue1Brown](https://youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) | My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like p... |
 | [AstronoGeek](https://youtube.com/channel/UC5X4e8ScZI2AFd_vkjSoyoQ) | AstronoGeek, c'est une chaîne dédiée à la vulgarisation scientifique. Bordel de merde. |
 | [Deus Ex Silicium](https://youtube.com/channel/UCH6ppHEvV3_WIXEwmhv9HEg) | DEUS EX SILICIUM est une chaine francophone dont la thématique principale est l'électronique numériq... |
 | [DirtyBiology](https://youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q) | Docus scientifiques faits avec amour sur des sujets improbables. |

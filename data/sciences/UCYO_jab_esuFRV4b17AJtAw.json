@@ -1,0 +1,625 @@
+{
+  "id": "UCYO_jab_esuFRV4b17AJtAw",
+  "name": "3Blue1Brown",
+  "description": "My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualizing the core ideas. The goal is to use animation to help elucidate and motivate otherwise tricky topics, and for difficult problems to be made simple with changes in perspective.\n\nFor more information, other projects, FAQs, and inquiries see the website: https://www.3blue1brown.com",
+  "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s800-c-k-c0x00ffffff-no-rj",
+  "public": "15 ans et plus",
+  "language": "fr",
+  "tags": [
+    "mathematiques",
+    "sciences",
+    "physique",
+    "informatique"
+  ],
+  "videos": [
+    {
+      "id": "BHdbsHFs2P0",
+      "title": "The Hairy Ball Theorem",
+      "description": "Unexpected applications and a beautiful proof.\nLooking for a new career? Check out https://3b1b.co/talent\nSupporters get early access to new videos: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\nHome page: https://www.3blue1brown.com\n\nCredits:\nSenia Sheydvasser: Co-writing and sphere deformation animations, made in Blender\nPaul Dancstep: Those lovely fluffy sphere animations, made in Cinema4D\nVince Rubinetti: Music\n\nTimestamps:\n0:00 - To comb a hairy ball\n1:24 - Applications\n8:46 - The puzzle of one null point\n12:12 - The proof outline\n16:41 - Defining orientation\n21:44 - Why inside-out is impossible\n25:59 - 3b1b Talent\n27:44 - Final food for thought\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\n\nMusic by Vincent Rubinetti.\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nBluesky: https://bsky.app/profile/3blue1brown.com\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT29M40S",
+      "published_at": "2026-01-31T14:57:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/BHdbsHFs2P0/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "t3jZ2xGOvYg",
+      "title": "The ladybug clock puzzle",
+      "description": "This is the first in a set of monthly puzzles, curated by Peter Winkler. This one was originally suggested by Richard Stanley.\n\nYou can sign up to hear his description of the answer at http://momath.org/mindbenders",
+      "duration": "PT1M1S",
+      "published_at": "2026-01-16T14:16:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/t3jZ2xGOvYg/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "college"
+      ]
+    },
+    {
+      "id": "FE-hM1kRK4Y",
+      "title": "Why Laplace transforms are so useful",
+      "description": "Studying the forced harmonic oscillator by taking a Laplace transform and studying its poles.\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\nHome page: https://www.3blue1brown.com\n\nChapter on the Laplace Transform:\nhttps://youtu.be/j0wJBEZdwLs\n\nChapter on the S-plane and Simple Harmonic Motion:\nhttps://youtu.be/-j8PzkZ70Lg\n\nTimestamps:\n0:00 - Opening puzzle\n1:06 - Key properties of a Laplace Transform\n3:29 - Qualitative analysis with Laplace Transforms\n4:29 - The Laplace Transforms of a Derivative\n6:06 - The forced oscillator\n11:59 - Intuition from the transformed solution\n15:15 - Inverting to find a final answer\n17:40 - Explaining the derivative property\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\n\nMusic by Vincent Rubinetti.\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nBluesky: https://bsky.app/profile/3blue1brown.com\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT23M5S",
+      "published_at": "2025-11-05T13:09:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/FE-hM1kRK4Y/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "bnjKwiUg-kw",
+      "title": "The dynamics of e^(πi)",
+      "description": "A fuller version of this explanation, also including the reason we care about complex exponents in the first place: https://youtu.be/-j8PzkZ70Lg",
+      "duration": "PT1M46S",
+      "published_at": "2025-10-12T12:40:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/bnjKwiUg-kw/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "j0wJBEZdwLs",
+      "title": "But what is a Laplace Transform?",
+      "description": "Visualizing the most important tool for differential equations.\nPrevious chapter: https://youtu.be/-j8PzkZ70Lg\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\nHome page: https://www.3blue1brown.com\n\nPi creature car artwork by Kurt Bruns\n\nEngine animation borrowed with permission from this (excellent) blog: https://ciechanow.ski/internal-combustion-engine/\n\nTimestamps:\n0:00 - Understanding the engine\n1:16 - Key background ideas\n5:41 - Definition and intuition\n10:43 - Complex integration\n20:43 - Analytic continuation\n23:52 - The transform of exponentials\n26:15 - A deep look at cos(t)\n32:59 - What’s coming next\n\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\n\nMusic by Vincent Rubinetti.\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nBluesky: https://bsky.app/profile/3blue1brown.com\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT34M41S",
+      "published_at": "2025-10-12T11:19:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/j0wJBEZdwLs/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "-j8PzkZ70Lg",
+      "title": "The Physics of Euler's Formula | Laplace Transform Prelude",
+      "description": "The simple harmonic oscillator and the fundamental role of complex exponents for ODEs.\nNext chapter on the Laplace Transform video: https://youtu.be/j0wJBEZdwLs\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\nHome page: https://www.3blue1brown.com\n\nTimestamps:\n0:00 - Intro\n1:51 - Euler's formula explained dynamically\n9:27 - The harmonic oscillator\n21:08 - General linear equations\n22:47 - Motivating the Laplace Transform\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\n\nMusic by Vincent Rubinetti.\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nBluesky: https://bsky.app/profile/3blue1brown.com\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT27M49S",
+      "published_at": "2025-10-05T13:53:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/-j8PzkZ70Lg/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "physique",
+        "lycee"
+      ]
+    },
+    {
+      "id": "M-MgQC6z3VU",
+      "title": "What was Euclid really doing? | Guest video by Ben Syversen",
+      "description": "What role were ruler and compass constructions really serving?\nCheck out Ben's channel: @bensyversen \nInterview with the author of this video: https://youtu.be/VohYM99j8e0\nSupporters get early views of new videos: https://3b1b.co/support\n\nWritten, produced, edited, and animated by Ben Syversen\nAdditional editing: Jack Saxon\n3d Blender model: Jan-Hendrik Müller\nAdditional Blender help: Thibaut Modrzyk (@Deepia)\nIllustrations: Alex Zepherin/DonDada Studio\nCamera: Giacomo Belletti\nDrums: Jeremy Gustin\nAdditional music from Epidemic Sound\n\nSpecial thanks to Viktor Blåsjö: https://intellectualmathematics.com/opinionated-history-of-mathematics/\n\nLean footage is borrowed from Alex Kontorovich’s lecture series on formal Euclidean geometry: https://www.youtube.com/playlist?list=PLs6rMe3K87LEkc2nd2VZVyLfgJH0Rgage\n\nReferences/Recommended reading:\n\nEuclid’s Elements:\nVisual edition of Book 1: https://intellectualmathematics.com/dl/Elements.pdf\nEuclid’s Elements in full: https://farside.ph.utexas.edu/books/Euclid/Elements.pdf\nThe Thirteen Books of The Elements, translated with introduction and commentary by Sir Thomas L. Heath\n\nCommentary and academic papers:\nA Commentary on the First Book of Euclid’s Elements, Proclus, translated by Glenn R. Morrow\nOperationalism: An Interpretation of the Philosophy of Ancient Greek Geometry, Viktor Blåsjö: https://link.springer.com/article/10.1007/s10699-021-09791-4\nThe Euclidean Diagram, Kenneth Manders\nA New Look at Euclid’s Second Proposition, Godfried Toussaint https://www-cgrl.cs.mcgill.ca/~godfried/teaching/dm-reading-assignments/Euclid-Second-Proposition-Math-Intell.pdf\nLogic of Ruler and Compass Constructions, M. Beeson https://www.michaelbeeson.com/research/papers/Cambridge.pdf\nEuclid’s Fourth Postulate, Vincenzo De Risi https://www.cambridge.org/core/journals/science-in-context/article/abs/euclids-fourth-postulate-its-authenticity-and-significance-for-the-foundations-of-greek-mathematics/DD7EB8AFEDD350A0A8B0BE714D74D2EE\n\nSome related books:\n\nEuclid’s Window: The Story of Geometry from Parallel Lines to Hyperspace, Leonard Mlodinow\nThe Geometry of Rene Descartes, Rene Descartes\n\nTimestamps:\n\n0:00 - About guest videos\n0:54 - Why ruler and compass?\n2:38 - Diagrams as part of the proof\n8:08  - Geometry as philosophy\n15:21 - Mistakes in diagrammatic reasoning\n19:07 - The parallel postulate\n28:34 - Letting go of the ruler and compass\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nBluesky: https://bsky.app/profile/3blue1brown.com\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT33M29S",
+      "published_at": "2025-09-18T14:13:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/M-MgQC6z3VU/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "histoire",
+        "lycee"
+      ]
+    },
+    {
+      "id": "1lZpowy21Gc",
+      "title": "Incomplete open cubes",
+      "description": "Full video: https://youtu.be/_BrFKp-U8GI",
+      "duration": "PT1M12S",
+      "published_at": "2025-09-07T12:25:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/1lZpowy21Gc/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "college"
+      ]
+    },
+    {
+      "id": "_BrFKp-U8GI",
+      "title": "Exploration & Epiphany | Guest video by Paul Dancstep",
+      "description": "Sol LeWitt's \"Incomplete Open Cubes\" and rediscovering Burnside's lemma in group theory\nAn interview with the author of this video: https://youtu.be/JEeM2ABUMoo\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to share the videos.\nHome page: https://www.3blue1brown.com\n\nThanks to the Wadsworth Atheneum for granting permission to use LeWitt's notebooks.\n\nTalks by Paul you can find online:\n\nWhat is Category Theory:\nhttps://youtu.be/eXBwU9ieLL0\n\nHow to Predict Eclipses:\nhttps://www.exploratorium.edu/eclipse/video/how-predict-eclipses\n\nTheo Jansen's Strandbeests\nhttps://youtu.be/NxGTuQdp3IQ\n\nTimestamps\n0:00 - Incomplete open cubes\n3:21 - Sol LeWitt\n7:10 - Goofing around\n13:12 - Size and symmetry\n16:50 - Labelling things\n22:34 - Lookalikes\n28:02 - Probing for patterns\n33:11 - Counting using lookalikes\n35:50 - Epiphany\n45:50 - Formalizing\n49:51 - Reflection\n\n------------------\n\nMusic by Vincent Rubinetti.\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nBluesky: https://bsky.app/profile/3blue1brown.com\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT52M12S",
+      "published_at": "2025-09-07T12:25:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/_BrFKp-U8GI/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "itRV2jEtV8Q",
+      "title": "Simulating and understanding phase change | Guest video by Vilas Winstein",
+      "description": "Deriving the Boltzmann formula, defining temperature, and simulating liquid/vapor.\n@SpectralCollective has the second part: https://youtu.be/yEcysu5xZH0\nYou can play with a simulation of this model here: https://vilas.us/simulations/liquidvapor/\nThese lessons are funded directly by viewers: https://3b1b.co/support\nHome page: https://www.3blue1brown.com\n\nNotes from Vilas:\n1) This open problem is to prove the ergodicity of the deterministic dynamical systems that are used to model the molecule-level physics. A good example of such a dynamical system is the box with particles evolving according to Newton's laws with elastic collisions, like in the video.\n\n2) This video assumes that all probability distributions are discrete, which is the case in the simulations. But one can also set up this formalism for systems with continuous state spaces. Again, a good example is particles in a box, which are not restricted to a lattice, which is only used for visualization purposes in this video.\n\n3) Strictly speaking, these \"derivatives\" don't make sense since in our simulations the energy can only take on a discrete set of values. But a derivative is the right way to think about this, and is the correct notion in a limiting sense.\n\n4) The factor of -T in the definition of the chemical potential is sort of a historical leftover, but including it has the convenient side effect of allowing the same Boltzmann formula to hold, with an energy function that depends on the chemical potential as well. It should also be noted that temperature must equalize in any situation where the chemical potential equalizes, since it is impossible for systems to exchange molecules without also exchanging energy.\n\n5) This algorithm, where we only choose one pixel at a time, is called Glauber dynamics. There are multiple ways to parallelize it, but the method chosen in this video is to only update each pixel with a low probability at each call of the compute shader, to avoid (frequently) updating two neighboring pixels simultaneously. One could also alternate between updating the even or odd pixels at each step.\n\n6) By \"zooming out,\" what is meant, technically, is a renormalization operation whereby each 3x3 grid of pixels is replaced by just one pixel, which has a molecule exactly when 5 or more of the pixels in the 3x3 grid have molecules. But that is somewhat tough to simulate as the size has to increase by 9 at each step, so this video cheats a bit by just zooming out on a large simulation.\n\n7) The \"interesting behavior\" referenced here is the fact that the interface between the up and down sections of the picture can be rescaled (as the size of the model goes to infinity) in a way that yields a universal random curve called Schramm-Loewner evolution. This family of random curves shows up in many seemingly-unrelated places in statistical mechanics and probability.\n\nChapter markers:\n0:00 - What is phase change?\n6:27 - The Boltzmann law and free energy\n12:05 - A preliminary simulation\n15:30 - Defining temperature\n21:25 - Deriving the Boltzmann law\n24:30 - Sampling with MCMC\n28:30 - Chemical potential\n33:20 - Interesting properties\n\nThis video made use of the following Creative Commons material:\n\nhttps://commons.m.wikimedia.org/wiki/File:How_to_(nearly)_instantly_freeze_a_bottle_of_sparkling_water.ogv\n\nhttps://commons.m.wikimedia.org/wiki/File:Blue_rotating_brain_animation.mpg\n\nhttps://commons.m.wikimedia.org/wiki/File:7_Tesla_MRI_of_the_ex_vivo_human_brain_at_100_micron_resolution_(100_micron_MRI_acquired_FA25_coronal).webm\n\nhttps://commons.m.wikimedia.org/wiki/File:Axonal_nerve_fibers_in_a_brain_-_the_neural_network_that_is_us.webm",
+      "duration": "PT41M3S",
+      "published_at": "2025-08-28T14:00:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/itRV2jEtV8Q/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences",
+        "lycee"
+      ]
+    },
+    {
+      "id": "j5h9dBtWZXM",
+      "title": "How AI connects text and images",
+      "description": "From this guest video by @WelchLabsVideo on how diffusion models work: https://youtu.be/iv-5mZ_9CPY",
+      "duration": "PT1M43S",
+      "published_at": "2025-08-21T18:24:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/j5h9dBtWZXM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "4NlrfOl0l8U",
+      "title": "The AI that solved IMO Geometry Problems | Guest video by @Aleph0",
+      "description": "How AlphaGeometry combines logic and intuition.\nCheck out Aleph0’s channel: https://youtube.com/@Aleph0\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to share the videos.\nHome page: https://www.3blue1brown.com\n\nSpecial thanks to Trieu Trinh for fact-checking the script.\n\nBlog post on an open-sourced geometry solver:\nhttps://harmonic.fun/news#blog-post-geometry\n\nAlphaGeometry announcement:\nhttps://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/\n\nSimilar open-source model, Newclid, by Harmonic:\nhttps://harmonic.fun/news#blog-post-geometry\n\nTimestamps:\n0:00 - What's surprising\n1:33 - Solve without AI\n7:10 - Where AI comes in\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nBluesky: https://bsky.app/profile/3blue1brown.com\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT13M31S",
+      "published_at": "2025-08-17T13:02:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/4NlrfOl0l8U/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "iv-5mZ_9CPY",
+      "title": "But how do AI images and videos actually work? | Guest video by Welch Labs",
+      "description": "Diffusion models, CLIP, and the math of turning text into images\nWelch Labs Book: https://www.welchlabs.com/resources/imaginary-numbers-book\n\nSections\n0:00 - Intro\n3:37 - CLIP\n6:25 - Shared Embedding Space\n8:16 - Diffusion Models & DDPM\n11:44 - Learning Vector Fields\n22:00 - DDIM\n25:25 - Dall E 2\n26:37 - Conditioning\n30:02 - Guidance\n33:39 - Negative Prompts\n34:27 - Outro\n35:32 - About guest videos\n\nSpecial Thanks to:\nJonathan Ho - Jonathan is the Author of the DDPM paper and the Classifier Free Guidance Paper.\nhttps://arxiv.org/pdf/2006.11239\nhttps://arxiv.org/pdf/2207.12598\n\nPreetum Nakkiran - Preetum has an excellent introductory diffusion tutorial:\nhttps://arxiv.org/pdf/2406.08929\n\nChenyang Yuan - Many of the animations in this video were implemented using manim and Chenyang’s smalldiffusion library: https://github.com/yuanchenyang/smalldiffusion\n\nCheyang also has a terrific tutorial and MIT course on diffusion models\nhttps://www.chenyang.co/diffusion.html\nhttps://www.practical-diffusion.org/\n\nOther References\nAll of Sander Dieleman’s diffusion blog posts are fantastic: https://sander.ai/\nCLIP Paper: https://arxiv.org/pdf/2103.00020\nDDIM Paper: https://arxiv.org/pdf/2010.02502\nScore-Based Generative Modeling: https://arxiv.org/pdf/2011.13456\nWan2.1: https://github.com/Wan-Video/Wan2.1\nStable Diffusion: https://huggingface.co/stabilityai/stable-diffusion-2\nMidjourney: https://www.midjourney.com/\nVeo: https://deepmind.google/models/veo/\nDallE 2 paper: https://cdn.openai.com/papers/dall-e-2.pdf\nCode for this video: https://github.com/stephencwelch/manim_videos/tree/master/_2025/sora\n\nWritten by: Stephen Welch, with very helpful feedback from Grant Sanderson\nProduced by: Stephen Welch, Sam Baskin, and Pranav Gundu\n\nTechnical Notes\nThe noise videos in the opening have been passed through a VAE (actually, diffusion process happens in a compressed “latent” space), which acts very much like a video compressor - this is why the noise videos don’t look like pure salt and pepper.\n\n6:15 CLIP: Although directly minimizing cosine similarity would push our vectors 180 degrees apart on a single batch, overall in practice, we need CLIP to maximize the uniformity of concepts over the hypersphere it's operating on. For this reason, we animated these vectors as orthogonal-ish. See: https://proceedings.mlr.press/v119/wang20k/wang20k.pdf\n\nPer Chenyang Yuan: at 10:15, the blurry image that results when removing random noise in DDPM is probably due to a mismatch in noise levels when calling the denoiser. When the denoiser is called on x_{t-1} during DDPM sampling, it is expected to have a certain noise level (let's call it sigma_{t-1}). If you generate x_{t-1} from x_t without adding noise, then the noise present in x_{t-1} is always smaller than sigma_{t-1}. This causes the denoiser to remove too much noise, thus pointing towards the mean of the dataset. \n\nThe text conditioning input to stable diffusion is not the 512-dim text embedding vector, but the output of the layer before that, [with dimension 77x512](https://stackoverflow.com/a/79243065)\n\nFor the vectors at 31:40 - Some implementations use f(x, t, cat) + alpha(f(x, t, cat) - f(x, t)), and some that do f(x, t) + alpha(f(x, t, cat) - f(x, t)), where an alpha value of 1 corresponds to no guidance. I chose the second format here to keep things simpler.\n\nAt 30:30, the unconditional t=1 vector field looks a bit different from what it did at the 17:15 mark. This is the result of different models trained for different parts of the video, and likely a result of different random initializations.\n\n\nPremium Beat Music ID: EEDYZ3FP44YX8OWT",
+      "duration": "PT37M20S",
+      "published_at": "2025-07-25T12:14:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/iv-5mZ_9CPY/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "Dlsa9EBKDGI",
+      "title": "Where my explanation of Grover’s algorithm failed",
+      "description": "Addressing viewer questions from the last video: https://youtu.be/RQWpF2Gb-gU\nThese lessons are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to share the videos.\n\nThe subtitles on this video were done using AI, and are likely imperfect, but they are open for community corrections at https://criblate.com/\n\nTimestamps:\n0:00 - The confusion\n1:25 - Example: Sudokus\n7:58 - Linearity\n14:19 - Is this useful?\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT16M23S",
+      "published_at": "2025-05-04T11:45:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/Dlsa9EBKDGI/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "physique",
+        "lycee"
+      ]
+    },
+    {
+      "id": "RQWpF2Gb-gU",
+      "title": "But what is quantum computing?  (Grover's Algorithm)",
+      "description": "Qubits, state vectors, and Grover's algorithm for search.\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to share the videos.\n\nThe subtitles on this video were done using AI, and are likely imperfect, but they are open for community corrections at https://criblate.com/\n\nAdam Brown's paper on the connection between Grover's Algorithm and block collisions:\nhttps://arxiv.org/pdf/1912.02207\n\nIf you want to learn the relevant underlying quantum mechanics here, a very friendly resource is the course Mithuna at Looking Glass Universe is currently putting together. See, for instance, this explainer of a qubit:\nhttps://youtu.be/kgSVkVNxXyU\n\nIf you want to learn more about the fundamentals of quantum computing, my friends Michael Nielsen and Andy Matuschak put together this wonderful resource, aimed at ensuring long-term memory of core concepts:\nhttps://quantum.country/\n\nBBBV Theorem:\nhttps://www.scottaaronson.com/qclec/23.pdf\n\nTimestamps:\n0:00 - Misconceptions\n6:03 - The state vector\n12:00 - Qubits\n15:52 - The vibe of quantum algorithms\n18:38 - Grover’s Algorithm\n29:30 - Support pitch\n30:11 - Complex values\n31:27 - Why square root?\n34:01 - Connection to block collisions \n35:08 - Additional resources\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT36M54S",
+      "published_at": "2025-04-30T12:32:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/RQWpF2Gb-gU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "physique",
+        "lycee"
+      ]
+    },
+    {
+      "id": "XX8mjBXBqz8",
+      "title": "Testing your intuition for quantum computing",
+      "description": "Full video: https://youtu.be/RQWpF2Gb-gU",
+      "duration": "PT1M41S",
+      "published_at": "2025-04-30T12:32:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/XX8mjBXBqz8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "physique",
+        "lycee"
+      ]
+    },
+    {
+      "id": "aQwEJKWATlE",
+      "title": "How to measure nearby galaxies",
+      "description": "From this video: https://youtu.be/hFMaT9oRbs4",
+      "duration": "PT1M3S",
+      "published_at": "2025-04-20T19:36:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/aQwEJKWATlE/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences",
+        "lycee"
+      ]
+    },
+    {
+      "id": "aw-8BhCilj0",
+      "title": "Measuring the distance to Venus without radar",
+      "description": "From this video with Terry Tao: https://youtu.be/hFMaT9oRbs4",
+      "duration": "PT2M21S",
+      "published_at": "2025-04-08T13:45:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/aw-8BhCilj0/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences",
+        "lycee"
+      ]
+    },
+    {
+      "id": "M6LUPYsjods",
+      "title": "Measuring the speed of light using Jupiter's moons",
+      "description": "From this video with Terry Tao: https://youtu.be/hFMaT9oRbs4",
+      "duration": "PT1M45S",
+      "published_at": "2025-04-07T15:57:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/M6LUPYsjods/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences",
+        "lycee"
+      ]
+    },
+    {
+      "id": "mHya9J9pkq4",
+      "title": "The tragic tale of Guillaume Le Gentil",
+      "description": "From this video: https://youtu.be/hFMaT9oRbs4\n\nArtwork by Kurt Bruns",
+      "duration": "PT56S",
+      "published_at": "2025-03-27T16:01:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/mHya9J9pkq4/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "sciences",
+        "lycee"
+      ]
+    },
+    {
+      "id": "C8baNzpnZ7o",
+      "title": "Zooming out by powers of 10",
+      "description": "From this video: https://youtu.be/YdOXS_9_P4U",
+      "duration": "PT1M38S",
+      "published_at": "2025-03-26T18:37:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/C8baNzpnZ7o/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences"
+      ]
+    },
+    {
+      "id": "6dTyOl1fmDo",
+      "title": "Why colliding blocks compute pi",
+      "description": "The physics behind one of the most surprising occurrences of pi\nNext video on Grover's Algorithm: https://youtu.be/RQWpF2Gb-gU\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\n\nNext video on Grover's Algorithm:\nhttps://youtu.be/RQWpF2Gb-gU\n\nThe original paper by Gregory Galperin:\nhttps://www.maths.tcd.ie/~lebed/Galperin.%20Playing%20pool%20with%20pi.pdf\n\nAdam Brown's paper on the analogy with Grover's Algorithm:\nhttps://arxiv.org/pdf/1912.02207\n\nHere's a lovely interactive built by GitHub user prajwalsouza after watching this video: https://prajwalsouza.github.io/Experiments/Colliding-Blocks.html\n\nMatt Parker's Pi Day video:\nhttps://youtu.be/vlUTlbZT4ig\n\nNY Times blog post about this problem:\nhttps://wordplay.blogs.nytimes.com/2014/03/10/pi/\n\nTimestamps:\n0:00 - Intro\n0:48 - Recap, the surprise pi\n3:58 - How to analyze the blocks\n13:30 - The geometry puzzle\n18:35 - Small angle approximations\n23:30 - The value of pure puzzles\n\nSEV#7: https://youtu.be/RTCQYcOpmN4\n\nThe original version of this explanation (now unlisted): https://youtu.be/jsYwFizhncE\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT26M7S",
+      "published_at": "2025-03-13T15:36:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/6dTyOl1fmDo/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "physique"
+      ]
+    },
+    {
+      "id": "TZAC0WFemvE",
+      "title": "When being beautifully wrong leads to discovery",
+      "description": "Full video: https://youtu.be/YdOXS_9_P4U",
+      "duration": "PT1M1S",
+      "published_at": "2025-02-28T15:00:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/TZAC0WFemvE/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "histoire"
+      ]
+    },
+    {
+      "id": "YP1mMXRCnaI",
+      "title": "Why the ancient Greeks rejected heliocentrism",
+      "description": "From this video on the cosmic distance ladder: https://youtu.be/YdOXS_9_P4U",
+      "duration": "PT1M46S",
+      "published_at": "2025-02-27T15:00:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/YP1mMXRCnaI/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "sciences"
+      ]
+    },
+    {
+      "id": "gzbFNnTCkqQ",
+      "title": "How to estimate the distance to the sun",
+      "description": "Full video: https://youtu.be/YdOXS_9_P4U",
+      "duration": "PT1M32S",
+      "published_at": "2025-02-26T15:01:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/gzbFNnTCkqQ/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences"
+      ]
+    },
+    {
+      "id": "drmphB3rdHY",
+      "title": "How Aristarchus deduced the distance to the moon",
+      "description": "Full video: https://youtu.be/YdOXS_9_P4U",
+      "duration": "PT53S",
+      "published_at": "2025-02-25T15:00:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/drmphB3rdHY/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences",
+        "histoire"
+      ]
+    },
+    {
+      "id": "hFMaT9oRbs4",
+      "title": "Terence Tao continuing history’s cleverest cosmological measurements",
+      "description": "How we know the distances to the planets, stars, and faraway galaxies.\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nFAQ with added details and corrections: https://terrytao.wordpress.com/2025/02/13/cosmic-distance-ladder-video-with-grant-sanderson-3blue1brown-commentary-and-corrections/\n\nAn equally valuable form of support is to simply share the videos.\n\nTerry and his collaborator Tanya have an Instagram about the cosmic distance ladder: https://www.instagram.com/cosmic_distance_ladder/\n\nArtwork of Guillaume Le Gentil by Kurt Bruns\nArtwork of Antonia Maury and Henrietta Leavitt by Talia Gershon: https://bit.ly/taliagershonart\nSeveral of the great cosmological animations where by Paul Dancstep\n\nTimestamps: \n0:00 - Intro\n1:04 - Distance to Venus\n7:30 - Speed of light\n10:08 - Nearby stars\n13:20 - The Milky Way\n18:14 - Nearby Galaxies\n19:44 - Distant Galaxies\n22:42 - Lingering mysteries\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT25M35S",
+      "published_at": "2025-02-23T14:54:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/hFMaT9oRbs4/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences"
+      ]
+    },
+    {
+      "id": "9s0srZneJ38",
+      "title": "How Earth's size was computed by Eratosthenes",
+      "description": "From this video: https://youtu.be/YdOXS_9_P4U",
+      "duration": "PT2M7S",
+      "published_at": "2025-02-12T15:00:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/9s0srZneJ38/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences",
+        "histoire"
+      ]
+    },
+    {
+      "id": "YdOXS_9_P4U",
+      "title": "Terence Tao on the cosmic distance ladder",
+      "description": "The Cosmic Distance Ladder: How we learned distances in the heavens.\nNext part: https://youtu.be/hFMaT9oRbs4\nPatreon supporters see early views of new videos: https://www.patreon.com/3blue1brown\n\nArtwork by Kurt Bruns\nThanks to Paul Dancstep for several animations, such as the powers of 10 zoom out and the simulations of shadows on the moon.\n\nTerry has kindly cataloged many of the added nuances, including a few corrections, in this post:\nhttps://terrytao.wordpress.com/2025/02/13/cosmic-distance-ladder-video-with-grant-sanderson-3blue1brown-commentary-and-corrections/\n\nAs an additional one, the portrait shown for Kepler, despite being somewhat widespread, actually turns out not to be Kepler. See this article by  Václav Pavlík https://ui.adsabs.harvard.edu/abs/2021PhT....74i..10S/abstract\n\nAlso,  although the Earth is about 4 times as wide as the Moon, as it happens, you would not see this with the lunar eclipse composites, since the umbra of Earth's shadow from the sun is sufficiently smaller than the Earth out where the Moon is.\n\nMoon composite shot by Reddit user _wanderloots: https://www.reddit.com/r/astrophotography/comments/yil0tu/partial_lunar_eclipse_composite/\nhttps://youtube.com/@Wanderloots\n\nThanks to Tanya Klowden for helpful conversations about the history of the distance ladder.\n\nArgument for why if every shadow of a convex shape is a circle, it must be a sphere: https://mathoverflow.net/questions/39127/is-the-sphere-the-only-surface-with-circular-projections-or-can-we-deduce-a-sp\n\nTimestamps: \n0:00 - About Terence Tao and the Distance Ladder\n2:02 - Earth\n8:07 - Moon\n11:15 - Sun\n15:45 - Heliocentrism in Antiquity\n18:27 - Kepler’s genius\n27:16 - Where this leaves us\n\n\nSEV #5: https://youtu.be/uq83hprtpGE\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT28M33S",
+      "published_at": "2025-02-08T13:35:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/YdOXS_9_P4U/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences"
+      ]
+    },
+    {
+      "id": "uT4-WVa-YfU",
+      "title": "Measuring the earth with Terence Tao",
+      "description": "From this video: https://youtu.be/YdOXS_9_P4U",
+      "duration": "PT1M22S",
+      "published_at": "2025-02-08T13:35:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/uT4-WVa-YfU/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences"
+      ]
+    },
+    {
+      "id": "K-pGGb0f3tc",
+      "title": "The topology of two-note chords",
+      "description": "Based on a construction in this video: https://youtu.be/IQqtsm-bBRU",
+      "duration": "PT2M3S",
+      "published_at": "2025-01-30T15:00:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/K-pGGb0f3tc/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "musique"
+      ]
+    },
+    {
+      "id": "0TdBP9m4R74",
+      "title": "The barber pole optical mystery",
+      "description": "Series exploring optics: https://www.youtube.com/watch?v=QCX62YJCmGk&list=PLZHQObOWTQDMKqfyUvG2kTlYt-QQ2x-ui",
+      "duration": "PT3M",
+      "published_at": "2025-01-06T15:37:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/0TdBP9m4R74/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "zxOK2vKVfQM",
+      "title": "Monge's Theorem",
+      "description": "Full video: https://youtu.be/piJkuavhV50",
+      "duration": "PT59S",
+      "published_at": "2024-12-29T16:00:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/zxOK2vKVfQM/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "DgMhayP2NPU",
+      "title": "Thinking through double slits",
+      "description": "Extracted from this video about holograms: https://youtu.be/EmKQsSDlaa4",
+      "duration": "PT1M49S",
+      "published_at": "2024-12-26T16:48:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/DgMhayP2NPU/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "LuVUnd0C07U",
+      "title": "The inscribed square problem",
+      "description": "Full video: https://youtu.be/IQqtsm-bBRU",
+      "duration": "PT58S",
+      "published_at": "2024-12-24T18:46:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/LuVUnd0C07U/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "IQqtsm-bBRU",
+      "title": "This open problem taught me what topology is",
+      "description": "The inscribed square/rectangle problem, solved using Möbius strips and Klein bottles.\nPlaylist with more neat proofs: https://www.youtube.com/playlist?list=PLZHQObOWTQDPSKntUcMArGheySM4gL7wS\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\n\nThis argument was originally by Herbert Vaughan, appearing for examples in this issue of the Topology Proceedings.\nhttps://topology.nipissingu.ca/tp/reprints/v06/tp06107.pdf\n\nThe on-screen argument for why all closed non-orientable surfaces must intersect themselves in 3d is a slight variation on one I heard from Dan Asimov.\n\n2020 Paper by Greene and Lobb:\nhttps://arxiv.org/pdf/2005.09193\n\nNice Quanta article about this result:\nhttps://www.quantamagazine.org/new-geometric-perspective-cracks-old-problem-about-rectangles-20200625/\n\nTimestamps:\n0:00 - Inscribed squares\n1:00 - Preface to the second edition\n3:04 - The main surface\n10:47 - The secret surface\n16:45 - Klein bottles\n22:38 - Why are squares harder?\n25:10 - What is topology?\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT27M26S",
+      "published_at": "2024-12-24T17:50:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/IQqtsm-bBRU/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "y9BK--OxZpY",
+      "title": "The meaning within the Mandelbrot set",
+      "description": "The full video dives deeper into the field of math studying this called holomorphic dynamics: https://youtu.be/LqbZpur38nw",
+      "duration": "PT1M45S",
+      "published_at": "2024-11-24T17:00:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/y9BK--OxZpY/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "qSn8dVI9V5I",
+      "title": "The scale of training LLMs",
+      "description": "From this 7-minute LLM explainer: https://youtu.be/LPZh9BOjkQs",
+      "duration": "PT32S",
+      "published_at": "2024-11-20T15:07:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/qSn8dVI9V5I/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "LPZh9BOjkQs",
+      "title": "Large Language Models explained briefly",
+      "description": "A light intro to LLMs, chatbots, pretraining, and transformers.\nDig deeper here: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi\nTechnical details as a talk: https://youtu.be/KJtZARuO3JY\nThis was made for an exhibit at the Computer History Museum: https://computerhistory.org/\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\n\nNo secret end-screen vlog for this one, the end-screen real estate was all full!\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT7M58S",
+      "published_at": "2024-11-20T15:07:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/LPZh9BOjkQs/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "nAT-MCsJeik",
+      "title": "This puzzle is trickier than it seems",
+      "description": "From this full video: https://youtu.be/piJkuavhV50",
+      "duration": "PT1M45S",
+      "published_at": "2024-11-19T19:06:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/nAT-MCsJeik/hqdefault.jpg",
+      "tags": [
+        "mathematiques"
+      ]
+    },
+    {
+      "id": "EPDZTLavmcg",
+      "title": "Sphere surface area proof sketch",
+      "description": "Full video: https://youtu.be/GNcFjFmqEc8",
+      "duration": "PT1M25S",
+      "published_at": "2024-11-17T16:00:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/EPDZTLavmcg/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "LOulCFdVOGY",
+      "title": "Newton’s Fractal is beautiful",
+      "description": "Full video: https://youtu.be/-RdOwhmqP5s",
+      "duration": "PT3M",
+      "published_at": "2024-11-16T16:53:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/LOulCFdVOGY/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "JNVZK4ofW-Y",
+      "title": "The Triangle Of Power",
+      "description": "The referenced stack exchange post by usename 2'5 9'2,  http://math.stackexchange.com/questions/30046/alternative-notation-for-exponents-logs-and-roots",
+      "duration": "PT2M27S",
+      "published_at": "2024-11-15T15:58:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/JNVZK4ofW-Y/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "0W243LGSJFU",
+      "title": "The twirling tiles puzzle",
+      "description": "Full video: https://youtu.be/piJkuavhV50",
+      "duration": "PT1M",
+      "published_at": "2024-11-13T18:01:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/0W243LGSJFU/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "college"
+      ]
+    },
+    {
+      "id": "Pny70rNPJLk",
+      "title": "A bizarre probability fact",
+      "description": "I learned this from Matt Parker, who then made a full video: https://youtu.be/ga9Qk38FaHM",
+      "duration": "PT2M49S",
+      "published_at": "2024-11-12T23:09:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/Pny70rNPJLk/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "lycee"
+      ]
+    },
+    {
+      "id": "piJkuavhV50",
+      "title": "Five puzzles for thinking outside the box",
+      "description": "Geometry puzzles that benefit from shifting the dimension.\nBonus video with extra puzzles: https://www.patreon.com/posts/115570453\n\nThe artwork at the end is by Kurt Bruns\n\nThanks to Daniel Kim for sharing the first two puzzles with me. He mentioned the earliest reference he knows for the tile puzzles is David and Tomei's AMM article titled \"The problem of Calissons.\"\n\nThe idea to include the tetrahedron volume example was based on a conversation with Po Shen Lo about these puzzles, during which he mentioned the case of one dimension lower.\n\nI received the cone correction to the proof of Monge's theorem from Akos Zahorsky via email. Also, the Bulgarian team leader Velian Velikov brought up the same argument, and just shot me a message saying \"I came across it in a book I found online titled 'Mathematical Puzzles' by Peter Winkler. There, it is attributed to Nathan Bowler\"\n\nI referenced quaternions at the end, and if you're curious to learn more, here are a few options.\n\nThis is a nice talk targetted at game developers:\nhttps://youtu.be/en2QcehKJd8\n\nThis video walks through concretely what the computation is for using quaternions to compute 3d rotations: \nhttps://youtu.be/-zsnHbQyRnc\n\nMy own video on the topic is mainly focused on understanding what they do up in four dimensions, which is not strictly necessary for using them, but for math nerds like me may be satisfying:\nhttps://youtu.be/d4EgbgTm0Bg\n\nAlso, one of the coolest projects I've ever done was a collaboration with Ben Eater to make interactive videos based on that topic:\nhttps://eater.net/quaternions\n\nTimestamps\n- 0:00 - Intro\n- 0:32 - Twirling tiles\n- 6:45 - Tarski Plank Problem\n- 10:24 - Monge’s Theorem \n- 17:26 - 3D Volume, 4D answer\n- 18:51 - The hypercube stack\n- 25:52 - The sadness of higher dimensions\n\n\nSEV#3: https://youtu.be/vXBtyYvMx24\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT29M42S",
+      "published_at": "2024-11-08T13:34:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/piJkuavhV50/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "college"
+      ]
+    },
+    {
+      "id": "KHEtJUlpqcg",
+      "title": "LLMs are next-word predictors",
+      "description": "Full video: https://youtu.be/wjZofJX0v4M",
+      "duration": "PT49S",
+      "published_at": "2024-11-04T15:24:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/KHEtJUlpqcg/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "rbu7Zu5X1zI",
+      "title": "How I animate 3Blue1Brown | A Manim demo with Ben Sparks",
+      "description": "A behind-the-scenes look at how I animate videos.\nCode for all the videos: https://github.com/3b1b/videos\nManim: https://github.com/3b1b/manim\nCommunity edition: https://github.com/ManimCommunity/manim/\nExample scenes shown near the end: https://github.com/3b1b/manim/blob/master/example_scenes.py\n\nI added some more details about the workflow shown in this video to the readme of the videos repo: https://github.com/3b1b/videos?tab=readme-ov-file#workflow\n\nThese lessons are funded directly by viewers: https://3b1b.co/support\n\nTimestamp:\n0:00 - Intro\n2:39 - Hello World\n10:32 - Coding up a Lorenz attractor\n23:46 - Add some tracking points\n28:52 - The globals().update(locals()) hack\n32:57 - Final styling on the scene\n41:42 - Rending the scene\n44:35 - Adding equations\n48:43 - Where to start\n\nSEV2: https://youtu.be/XEafCqcwBLs\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT53M41S",
+      "published_at": "2024-10-12T13:00:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/rbu7Zu5X1zI/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "W3-kpRz-e1Q",
+      "title": "Hologram preview",
+      "description": "Full video: https://youtu.be/EmKQsSDlaa4",
+      "duration": "PT58S",
+      "published_at": "2024-10-11T14:00:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/W3-kpRz-e1Q/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "DnjATyPuFFk",
+      "title": "Holograms are wild (full video linked above)",
+      "description": "Full video: https://youtu.be/EmKQsSDlaa4",
+      "duration": "PT55S",
+      "published_at": "2024-10-05T15:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/DnjATyPuFFk/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "technologie"
+      ]
+    }
+  ]
+}

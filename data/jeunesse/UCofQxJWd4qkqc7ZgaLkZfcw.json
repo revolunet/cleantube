@@ -11,6 +11,30 @@
   ],
   "videos": [
     {
+      "id": "5Tlqbe42ZNo",
+      "title": "Faut-il apprendre l'indonésien ?",
+      "description": "",
+      "duration": "PT1M",
+      "published_at": "2026-02-05T08:43:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/5Tlqbe42ZNo/hqdefault.jpg",
+      "tags": [
+        "langues",
+        "orientation"
+      ]
+    },
+    {
+      "id": "zMBE3d8N2_Y",
+      "title": "Faut-il apprendre le roumain ?",
+      "description": "",
+      "duration": "PT1M",
+      "published_at": "2026-02-04T19:58:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/zMBE3d8N2_Y/hqdefault.jpg",
+      "tags": [
+        "langues",
+        "orientation"
+      ]
+    },
+    {
       "id": "RTNtk8NxpoY",
       "title": "faut-il apprendre le swahili ?",
       "description": "",

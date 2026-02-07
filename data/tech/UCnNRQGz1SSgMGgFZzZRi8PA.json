@@ -1,0 +1,587 @@
+{
+  "id": "UCnNRQGz1SSgMGgFZzZRi8PA",
+  "name": "Enzo Emakerz",
+  "description": "Bienvenue à tous ! \n\nSur cette chaîne vous trouverez des bricolages en électronique, de l'impression 3D et plein d'autres constructions plus dingue les unes que les autres !\n\nAbonnez vous pour ne rien manquer.\n\n",
+  "thumbnail": "https://yt3.ggpht.com/Xmua0CDjMzUkIl3DpsN8Bw6n83lSj-kfGyImCTj84fR-SVfZZ1SxlOb5U5y2UAy4oYEEE08RWys=s800-c-k-c0x00ffffff-no-rj",
+  "public": "15 ans et plus",
+  "language": "fr",
+  "tags": [
+    "technologie",
+    "informatique"
+  ],
+  "videos": [
+    {
+      "id": "q3JjOaGKpgQ",
+      "title": "Créer des appareils de domotique compatibles matter avec un esp32 #domotique #esp32 #electronic",
+      "description": "",
+      "duration": "PT1M2S",
+      "published_at": "2026-02-04T17:39:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/q3JjOaGKpgQ/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "JMfwFZiDWxI",
+      "title": "10€ pour une domotique Matter : IKEA a craqué",
+      "description": "🖥️ Mon site pour recevoir du contenu éducatif sur la modélisation 3D et la conception électronique \nhttps://www.emakerz.com\n\n🔧 Suis-moi sur Instagram\nhttps://www.instagram.com/enzo.emakerz\nJe partage plein d’avancées de projets, de prototypes et d’expériences que tu ne vois pas sur YouTube 👀\n\n⸻\n\n🧩 Dans cette vidéo\nJe simplifie toute ma domotique avec le standard Matter over Thread. De la nouvelle gamme IKEA 2026 au bricolage électronique. Je détaille l'intégration du matériel IKEA et la fabrication d'un module Matter sur mesure à partir d'un ESP32-C3 pour seulement 3€. \n\n⸻\n\n🛠️ Matériel utilisé\n• Pont matter - zigbee : https://amzn.to/4t9uS2J\n• Boitier meross (pour interrupteur ampoule) : https://amzn.to/3Zul8CV\n• ESP32 C3 super mini : https://s.click.aliexpress.com/e/_c4BhIRfl\n• Bandeau LED adressable : https://s.click.aliexpress.com/e/_c3LI0gpl\n• Mon fer à souder (il est top !) : https://s.click.aliexpress.com/e/_c3fmWAun\n• Filament d'impression 3D pas cher et top ! : https://amzn.to/4nwfYja\n• Alimentation de laboratoire : https://amzn.to/49zDKqZ\n• Afficheur de temps : https://s.click.aliexpress.com/e/_c4mvAPf1\n• Bouton capacitif : https://s.click.aliexpress.com/e/_c3P9qTmf\n\n⸻\n\n00:00 Introduction\n00:38 Le choix du capteur\n02:12 Les protocoles de domotique\n04:25 La domotique Ikea Matter\n06:22 Fabriquer un appareil Matter \n07:10 Appareil bonus\n07:38 Home assistant et conclusion\n\n⸻\n\n21,6k",
+      "duration": "PT7M39S",
+      "published_at": "2026-02-01T16:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/JMfwFZiDWxI/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "SZBlUQ7wj5U",
+      "title": "La domotique IKEA !  #domotique #ikea #impression3d",
+      "description": "",
+      "duration": "PT49S",
+      "published_at": "2026-01-31T18:37:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/SZBlUQ7wj5U/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "DmquoY5X4KA",
+      "title": "Apprends à contrôler des LEDs avec ton téléphone ! #esp32 #led #wled #diy",
+      "description": "",
+      "duration": "PT39S",
+      "published_at": "2026-01-23T18:19:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/DmquoY5X4KA/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "F0Q3JRmEQLg",
+      "title": "La fabrication complète est dispo sur me chaîne ! #esp #arduino #electronic #engineering",
+      "description": "",
+      "duration": "PT50S",
+      "published_at": "2026-01-17T17:35:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/F0Q3JRmEQLg/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "sTDkoPL446o",
+      "title": "J'ai FABRIQUÉ l'objet ULTIME pour vos soirées (de A à Z)",
+      "description": "Découvrez une fabrication de PCB facile, abordable et fiable avec JLCPCB ! Inscrivez-vous pour obtenir des coupons de 123 $ pour les nouveaux clients : https://jlcpcb.com/fr/?from=EmakerzPCB Offre spéciale : Obtenez un coupon de 25 $ pour les PCBs 6 couches premium de JLCPCB : https://jlcpcb.com/fr/coupon-center/?from=EmakerzCoupon\n\n🖥️ Mon site pour recevoir du contenu éducatif sur la modélisation 3D et la conception électronique \nhttps://www.emakerz.com\n\n🔧 Suis-moi sur Instagram\nhttps://www.instagram.com/enzo.emakerz\nJe partage plein d’avancées de projets, de prototypes et d’expériences que tu ne vois pas sur YouTube 👀\n\n⸻\n\n🧩 Dans cette vidéo\nJe conçois et fabrique Beerze, un boîtier électronique qui mesure le temps nécessaire pour boire un verre d'une traite. De l’idée au produit fini : modélisation 3D, conception électronique, PCB sur mesure, batterie et firmware embarqué. L’objectif n’était pas de faire un simple prototype, mais un objet propre et fonctionnel, comme un vrai produit d’ingénieur.\n\n⸻\n\n🛠️ Matériel utilisé\n• Mon fer à souder (il est top !) : https://s.click.aliexpress.com/e/_c3fmWAun\n• Filament d'impression 3D pas cher et top ! : https://amzn.to/4nwfYja\n• Alimentation de laboratoire : https://amzn.to/49zDKqZ\n• Afficheur de temps : https://s.click.aliexpress.com/e/_c4mvAPf1\n• Bouton capacitif : https://s.click.aliexpress.com/e/_c3P9qTmf\n\n⸻\n\n00:00 Introduction\n00:35 Le choix du capteur\n02:18 premiers essais\n03:03 Conception électronique\n05:24 Design et modélisation 3D\n07:36 Fonctionnement de ma PCB\n09:00 L'assemblage !\n10:01 Programmation et TESTS !\n12:24 conclusion\n\n⸻\n\n19,3k",
+      "duration": "PT12M38S",
+      "published_at": "2026-01-17T16:01:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/sTDkoPL446o/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "LXaJSsvuf6Q",
+      "title": "IP5306 pour réaliser des projets sur batterie ! #battery #electronic #engineering",
+      "description": "",
+      "duration": "PT1M1S",
+      "published_at": "2026-01-08T17:58:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/LXaJSsvuf6Q/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "D4YWTeK6-5g",
+      "title": "1 mois que je développe ce boîtier #beerze #engineering #fabrication",
+      "description": "",
+      "duration": "PT50S",
+      "published_at": "2026-01-04T21:00:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/D4YWTeK6-5g/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "s4zSuEF-eGI",
+      "title": "1 mois que je fabrique BEERZE.. il a déjà du succès ! #soirée #diy #newyear #jeux",
+      "description": "",
+      "duration": "PT14S",
+      "published_at": "2025-12-30T17:42:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/s4zSuEF-eGI/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "xMm5OA5OCI4",
+      "title": "Astuce impression 3D multicolore ! #impression3d #astuce #bambulab",
+      "description": "",
+      "duration": "PT1M7S",
+      "published_at": "2025-12-29T17:30:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/xMm5OA5OCI4/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "rRFjA0edIuY",
+      "title": "C'est ce qui donne vie au projet ! #arduino #code #electronique #beerze",
+      "description": "",
+      "duration": "PT49S",
+      "published_at": "2025-12-26T17:24:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/rRFjA0edIuY/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "2uYw63pLZhA",
+      "title": "Calculateur de bi*re Fabrice Éboué #fabriceeboue #electronic #arduino #humour #impression3d",
+      "description": "",
+      "duration": "PT38S",
+      "published_at": "2025-12-23T16:45:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/2uYw63pLZhA/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "OAcutkXZFqk",
+      "title": "J’ai assemblé une première version #arduino #electronic #impression3d",
+      "description": "",
+      "duration": "PT43S",
+      "published_at": "2025-12-21T14:32:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/OAcutkXZFqk/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "IwJAvmj1NG0",
+      "title": "Super utile pour les projets sur batterie #tp4056 #arduino #electronic",
+      "description": "",
+      "duration": "PT1M15S",
+      "published_at": "2025-12-18T17:25:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/IwJAvmj1NG0/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "kBNIJdb56Hs",
+      "title": "Fabriquer ça depuis chez soit #electronic #pcb #kicad #engineering",
+      "description": "",
+      "duration": "PT52S",
+      "published_at": "2025-12-16T18:21:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/kBNIJdb56Hs/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "tYaDBs6kwis",
+      "title": "Le matos que j’utilise pour mes projets d’électronique #engineering #electronic #matos #materiel",
+      "description": "",
+      "duration": "PT1M8S",
+      "published_at": "2025-12-13T14:16:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/tYaDBs6kwis/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "uLShHlxqUX0",
+      "title": "Ce composants paraît magique, c’est un bouton capacitif TTP223 ! #electronic #arduino #maker #ttp223",
+      "description": "",
+      "duration": "PT38S",
+      "published_at": "2025-12-10T17:17:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/uLShHlxqUX0/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "_xgRUZYSRWg",
+      "title": "Comment faire des pièces multicolores avec ton imprimante 3D ! #impression3d #bambulab #tuto",
+      "description": "",
+      "duration": "PT56S",
+      "published_at": "2025-12-08T17:34:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/_xgRUZYSRWg/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "FIhY0foPkUk",
+      "title": "La taille compte…. Surtout en modélisation3D #impression3d #modelisation3d #electronic #engineering",
+      "description": "",
+      "duration": "PT45S",
+      "published_at": "2025-12-06T18:47:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/FIhY0foPkUk/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "S0ZDHKWmbIs",
+      "title": "T’en penses quoi de ce design ? #fusion360 #ingenieur #electronic #impression3d",
+      "description": "",
+      "duration": "PT49S",
+      "published_at": "2025-12-03T17:50:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/S0ZDHKWmbIs/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "V2F2fRgf0gs",
+      "title": "+ de 20h pour faire ça #electronic #ingenieur #kicad #conception",
+      "description": "",
+      "duration": "PT31S",
+      "published_at": "2025-11-30T10:13:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/V2F2fRgf0gs/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "5YOFGVl2q_s",
+      "title": "Tu connaissais ces logiciels ? #ingenieur #electronic #impression3d #conception #logiciel",
+      "description": "",
+      "duration": "PT1M9S",
+      "published_at": "2025-11-27T18:36:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/5YOFGVl2q_s/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "16KG2_Xut5I",
+      "title": "+ de 10 pièces pour ça ? On passe à l’électronique maintenant. #impression3d #electronic #ingenieur",
+      "description": "",
+      "duration": "PT49S",
+      "published_at": "2025-11-24T20:04:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/16KG2_Xut5I/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "PmFr68kxwFU",
+      "title": "Un capteur de force ? #fsr #capteur #arduino #électronique",
+      "description": "",
+      "duration": "PT37S",
+      "published_at": "2025-11-21T18:30:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/PmFr68kxwFU/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "Ju3wnx-72i8",
+      "title": "Tu connais ce capteur ? #capteur #électronique #hall",
+      "description": "",
+      "duration": "PT42S",
+      "published_at": "2025-11-19T18:43:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ju3wnx-72i8/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "InswdNZPLDM",
+      "title": "Fabriquer une objet de A à Z, c’est parti ! #impression3d #maker #fabriquer #ingenieur",
+      "description": "",
+      "duration": "PT31S",
+      "published_at": "2025-11-18T17:28:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/InswdNZPLDM/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "fvgUXqA9JMQ",
+      "title": "Tu peux imprimer en 3D des diffuseurs de lumière #impression3d #diy #led",
+      "description": "",
+      "duration": "PT37S",
+      "published_at": "2025-11-11T18:14:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/fvgUXqA9JMQ/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "arts"
+      ]
+    },
+    {
+      "id": "jW5pqFglHuw",
+      "title": "Je vais quand même pas appuyer moi même sur le bouton 🤨#ingenieur #programmation #electronic #pov",
+      "description": "",
+      "duration": "PT12S",
+      "published_at": "2025-11-07T17:59:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/jW5pqFglHuw/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "ZM7gK05JDyA",
+      "title": "J’ai fabriquer ça sur-mesure ?! #diy #impression3d #led #enseigne #electronic",
+      "description": "",
+      "duration": "PT53S",
+      "published_at": "2025-11-06T16:46:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZM7gK05JDyA/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "arts"
+      ]
+    },
+    {
+      "id": "WMglLm7zeFQ",
+      "title": "Fabriquer une enseigne LED connectée (led strip + Wled)",
+      "description": "JLC3DP : l’impression 3D à partir de 0,30 $, et jusqu’à 70 $ de coupons offerts pour les nouveaux utilisateurs !\nHere: https://jlc3dp.com/?from=Emakerz \n\n⚠️ Dans le schéma électronique visible en vidéo il manque une connexion pour le GND du wemos. \n\nToutes les ressources (fichiers 3D, schéma à jour, etc) sont dispo ici : https://www.emakerz.com/projects/1\n\n🔧 Suis-moi sur Instagram\n➡️ https://www.instagram.com/enzo.emakerz\nJe partage plein d’avancées de projets, de prototypes et d’expériences que tu ne vois pas sur YouTube 👀\n\n⸻\n\n🧩 Dans cette vidéo\nJe fabrique une enseigne lumineuse connectée, entièrement personnalisée et contrôlable via WLED.\nEntre modélisation 3D, impression, électronique et paramétrage Wi-Fi, le but c’était de créer une enseigne unique, pilotable depuis mon téléphone 📱💡\n\n⸻\n\n🛠️ Matériel utilisé\n• Mon fer à souder (il est top !) : https://s.click.aliexpress.com/e/_c3fmWAun\n• Filament d'impression 3D pas cher et top ! : https://amzn.to/4nwfYja\n• Bande LED WS2815 : https://shorturl.at/ZbOkn\n• Wemos D1 Mini (ESP8266) : https://s.click.aliexpress.com/e/_c3S0BBll\n• Alimentation 12V 5A : https://s.click.aliexpress.com/e/_c34nbDz5￼\n• Régulateur de tension : https://amzn.to/4qDQYco\n\n(Certains liens peuvent être affiliés — ça ne change rien pour toi mais ça soutient la chaîne ☺️)\n\n⸻\n\n00:00 Introduction\n00:21 Le matos\n02:12 Modélisation & impression 3D\n04:30 Bois & peinture\n05:54 Électronique et installation WLED\n09:07 Assemblage final\n\n⸻\n\n🎵 Musiques libres de droit\n•Musique fournie par https://www.lalason.com \nVideo Link:    / @lamusiquelibre  \n• Luke Hall – Dystopia\n\n15,2k",
+      "duration": "PT10M34S",
+      "published_at": "2025-11-01T16:00:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/WMglLm7zeFQ/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "LeZZCoZBi2w",
+      "title": "Comment fonctionne un bandeau LED adressable ? (Arduino & NeoPixel) #LED #Electronique #Arduino",
+      "description": "",
+      "duration": "PT53S",
+      "published_at": "2025-10-29T17:00:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/LeZZCoZBi2w/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "IWLj1ZwifBU",
+      "title": "J’ai motorisé une cachette secrète dans un meuble (IKEA Hack) #IkeaHack #electronic  #Impression3D",
+      "description": "",
+      "duration": "PT1M1S",
+      "published_at": "2025-10-15T16:00:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/IWLj1ZwifBU/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "9ksvoB2ES1M",
+      "title": "Cette pièce est compatible Apple #3dprinting  #conception #electronic",
+      "description": "",
+      "duration": "PT20S",
+      "published_at": "2025-10-14T15:51:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/9ksvoB2ES1M/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "WwXpmypAu9c",
+      "title": "Astuce à connaître avec ton imprimante 3D #3dprinting #astuce #impression3d",
+      "description": "",
+      "duration": "PT25S",
+      "published_at": "2025-10-13T16:39:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/WwXpmypAu9c/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "1-xrqGWXQjQ",
+      "title": "J’ai caché un système électronique dans ce meuble #arduino #diy #ikea #3dprinting",
+      "description": "",
+      "duration": "PT16S",
+      "published_at": "2025-10-11T10:00:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/1-xrqGWXQjQ/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "1leatF45Vew",
+      "title": "J’ai fabriqué une cachette secrète à lecteur de badge ! (IKEA / Arduino)",
+      "description": "Le code et les fichiers 3D sont téléchargeables via ce lien :  https://www.emakerz.com/projects/2\n\n🔧 Suis-moi sur Instagram\n➡️ https://www.instagram.com/enzo.emakerz\nJe partage plein d’avancées de projets, de prototypes et d’expériences que tu ne vois pas sur YouTube 👀\n\n🧩 Dans cette vidéo\nJ’ai fabriqué un meuble avec une cachette secrète motorisée / électronique, qui s’ouvre automatiquement quand je passe un badge RFID.\nEntre conception mécanique, électronique et impression 3D, ce projet m’a demandé pas mal de tests pour rendre le système fluide, fiable et surtout discret 👇\n\n🛠️ Matériel utilisé\n• Mon fer à souder (il est top !) : https://s.click.aliexpress.com/e/_c3fmWAun\n • Mon fer à souder : https://amzn.to/4q8a5eC\n • Carte Arduino : https://amzn.to/47hZ6Yt\n • Module RFID RC522 : https://amzn.to/3VZiGm8\n • Moteur pas à pas NEMA17 : https://amzn.to/3VWp25J\n • Driver A4988 : https://amzn.to/48qfI1g\n\n(Certains liens peuvent être affiliés — ça ne change rien pour toi mais ça soutient la chaîne ☺️)\n\n00:00 Introduction\n00:38 premier test\n01:10 Conception 3D\n02:34 Assemblage\n03:54 l'électronique\n06:40 Assemblage final\n08:07 Résultat final\n\n🎵 Musiques libres de droit\n • Anwar amr stomps claps beatbox\n • Vyra - Defense Matrix\n • Dystopia by Luke Hall\n\n14,2k",
+      "duration": "PT8M40S",
+      "published_at": "2025-10-11T09:00:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/1leatF45Vew/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "zTIPhyWfVrg",
+      "title": "Le composant le plus utilisé !#électronique #transistor #arduino",
+      "description": "",
+      "duration": "PT48S",
+      "published_at": "2025-10-05T10:43:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/zTIPhyWfVrg/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "physique"
+      ]
+    },
+    {
+      "id": "qIljAURfxEM",
+      "title": "Il est ultra précis ! #électronique #arduino #moteur",
+      "description": "",
+      "duration": "PT46S",
+      "published_at": "2025-09-27T08:59:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/qIljAURfxEM/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "physique"
+      ]
+    },
+    {
+      "id": "LSSCGfbx2O0",
+      "title": "Un atelier dans 4m2 🛠️#diy #atelier #aménagementintérieur",
+      "description": "",
+      "duration": "PT1M9S",
+      "published_at": "2025-09-22T16:56:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/LSSCGfbx2O0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "HSotWHLMS18",
+      "title": "J’ai collé ça sur mon frigo… et magie 🧲☕️ #shorts #impression3d #cafe",
+      "description": "",
+      "duration": "PT20S",
+      "published_at": "2025-09-17T18:39:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/HSotWHLMS18/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "qb29dOOLArY",
+      "title": "FABRIQUER UNE LAMPE CONNECTÉE ! #bricolage #diy #arduino #led #impression3d",
+      "description": "",
+      "duration": "PT33S",
+      "published_at": "2024-03-30T09:51:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/qb29dOOLArY/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "YGlCwjbZdxc",
+      "title": "Quand ta crush vient dans ta chambre #electronic #arduino #bricolage",
+      "description": "",
+      "duration": "PT19S",
+      "published_at": "2024-03-22T17:10:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/YGlCwjbZdxc/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "EuSqMUifxVI",
+      "title": "Bricolage ASMR #asmr  #3dprinting",
+      "description": "",
+      "duration": "PT27S",
+      "published_at": "2024-03-15T17:25:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/EuSqMUifxVI/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "YAMwEGypxWg",
+      "title": "Comment j’ai fait ça !? #diy #bricolage",
+      "description": "",
+      "duration": "PT34S",
+      "published_at": "2024-03-01T17:00:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/YAMwEGypxWg/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "LBykVsaiYZA",
+      "title": "Ce singe soude des composants électroniques ?? #singe #monkey #ai #bricolage #diy",
+      "description": "",
+      "duration": "PT34S",
+      "published_at": "2024-02-25T18:37:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/LBykVsaiYZA/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "q51VVZnAHuQ",
+      "title": "UN PORTE CLEF MAGIQUE !",
+      "description": "Regardez comment j'ai fabriqué ce porte clef magique 🎨🔌 #DIY #gadgets  #aimant #impression3D #artisanat #bricolage",
+      "duration": "PT32S",
+      "published_at": "2024-02-16T17:52:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/q51VVZnAHuQ/hqdefault.jpg",
+      "tags": [
+        "technologie"
+      ]
+    },
+    {
+      "id": "Katrh34fzIU",
+      "title": "FABRIQUER UNE DÉCORATION EN NÉON !",
+      "description": "Regardez comment j'ai fabriqué cette décoration néon personnalisée 🎨🔌 #DIY #décoration #LED #impression3D #artisanat #vin #bricolage",
+      "duration": "PT55S",
+      "published_at": "2024-02-11T10:16:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/Katrh34fzIU/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "arts"
+      ]
+    },
+    {
+      "id": "UqA_hhGMXdM",
+      "title": "automatise ta plantation ☘️ #shorts",
+      "description": "",
+      "duration": "PT33S",
+      "published_at": "2022-11-19T17:18:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/UqA_hhGMXdM/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "environnement"
+      ]
+    },
+    {
+      "id": "RlCMN_pL1cw",
+      "title": "Fabriquer un arrosage automatique connecté (Arduino/ESP32, Blynk)",
+      "description": "PCB+Assembly à partir de 2$, obtenez un coupon JLCPCB  de 54$ en tant que nouvel utilisateur :  https://jlcpcb.com/DYE\n\nPlein d'exclusivités sur Twitter : https://twitter.com/Emakerz07\n---------------------------------------------------------------------\nMatériel : \n\nPLA noir mat : https://amzn.to/3DJmXBv\n\nESP 32 x3 : https://amzn.to/3TNEpdL\n\nLM 2596 x6 (pour abaisser la tension) : https://amzn.to/3sIIhRq\n\nRelais : https://amzn.to/3gJTe2m\n\nBrumisateur (il existe des équivalents moins chers sur aliexpress) : https://amzn.to/3TVgUzB\n\nMes fichiers 3D : https://www.printables.com/model/427865-connected-water-mist-automate-a-plantation\n\nCode arduino à mettre dans l'esp : https://pastebin.com/G6bExn8J\n---------------------------------------------------------------------\nTuto créer des PCB (Abrege) : https://youtu.be/aICfPYkbBus\nVidéo pour apprendre à configurer Blynk (Les Frères Poulain) : https://youtu.be/oEBCneD3_Tw\n---------------------------------------------------------------------\nmail professionnel : emakerz07@gmail.com\n---------------------------------------------------------------------\n\"Brumisateur d'eau connecté / automatisation d'un terrarium ou d'une plantation (Blynk IOT, ESP32)\"\n\nCrédits musiques:\nMercy · Ballpoint https://www.youtube.com/watch?v=41FeyJY8NfE&ab_channel=Ballpoint-Topic\nWaited (instrumental) by RYYZN https://soundcloud.com/ryyzn\nCreative Commons — Attribution 3.0 Unported  — CC BY 3.0\nFree Download / Stream: http://bit.ly/al-waited\nLuke Hall\nDystopia by Luke Hall https://soundcloud.com/c_luke_hall\nCreative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0\nFree Download / Stream: http://bit.ly/al-dystopia\nMusic promoted by Audio Library https://youtu.be/elnlHcxPyFQ \nRYYZN:\nhttps://www.youtube.com/ryyzn​\nhttps://www.facebook.com/RYYZN​\nhttps://soundcloud.com/ryyzn​\nhttps://www.instagram.com/weareryyzn​\nhttps://twitter.com/weareryyzn​\nhttps://spoti.fi/2U6jHcT​\nhttps://www.tiktok.com/@weareryyzn\nHashess huit beat\nhttps://www.youtube.com/channel/UCgQ-...\n---------------------------------------------------------------------\n4,3k",
+      "duration": "PT6M56S",
+      "published_at": "2022-10-30T10:00:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/RlCMN_pL1cw/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "4v7jHMBKwzw",
+      "title": "DIY : ENSEIGNE NÉON nike CONNECTÉE (wled)",
+      "description": "Plein d'exclusivités sur Twitter : https://twitter.com/Emakerz07\n\n\"Enseigne lumineuse Nike air Jordan one connectée avec WLED\"\n---------------------------------------------------------------------\nMatériel : \n\nMes fichiers 3D : https://www.printables.com/model/440782-nike-connected-neon-sign\n\nESP 32 x3 : https://amzn.to/3s7Y49F\n\nESP 01 x4(moins chers que les 32)(sans adaptateur usb) : https://amzn.to/2YCGRdE\nESP 01 (avec adaptateur usb) : https://amzn.to/3nRmR0F\n\nLM 2596 x6 (pour abaisser la tension) : https://amzn.to/3wIrM8J\n\nle bandeau led (magasin action rayon lumière)\n\nFilament imprimante 3D de bonne qualité : https://amzn.to/38o8z0H\n\n---------------------------------------------------------------------\nVidéo de Néodyme sur les LEDs : https://youtu.be/BxyNtwnlCkU\nChaîne Twitch de Néodyme : https://www.twitch.tv/ioodyme?sr=a\n---------------------------------------------------------------------\nCrédits musiques\n\nMercy · Ballpoint https://www.youtube.com/watch?v=41FeyJY8NfE&ab_channel=Ballpoint-Topic\nWaited (instrumental) by RYYZN https://soundcloud.com/ryyzn\nCreative Commons — Attribution 3.0 Unported  — CC BY 3.0\nFree Download / Stream: http://bit.ly/al-waited\nRYYZN:\nhttps://www.youtube.com/ryyzn\nhttps://www.facebook.com/RYYZN\nhttps://soundcloud.com/ryyzn\nhttps://www.instagram.com/weareryyzn\nhttps://twitter.com/weareryyzn\nhttps://spoti.fi/2U6jHcT\nhttps://www.tiktok.com/@weareryyzn\nDystopia by Luke Hall https://soundcloud.com/c_luke_hall\nCreative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0\nFree Download / Stream: http://bit.ly/al-dystopia\nMusic promoted by Audio Library https://youtu.be/elnlHcxPyFQ\nRYYZN:\nhttps://www.youtube.com/ryyzn\nhttps://www.facebook.com/RYYZN\nhttps://soundcloud.com/ryyzn\nhttps://www.instagram.com/weareryyzn\nhttps://twitter.com/weareryyzn\nhttps://spoti.fi/2U6jHcT\n ---------------------------------------------------------------------\n2,5k",
+      "duration": "PT10M35S",
+      "published_at": "2021-04-14T16:00:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/4v7jHMBKwzw/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    }
+  ]
+}

@@ -145,6 +145,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [A la french  💻](https://youtube.com/channel/UC4YRTAl0DLe1Psu3jz1OUog) | Prenez le temps de vous installer avec nous. A la French c'est votre Tech Show avec  :... |
 | [Alex so yes](https://youtube.com/channel/UCtqbkFru7lDLwbZdEzSyT3Q) | Code avec L'IA pour booster ta productivité en tant que développeur ! Rejoins l'#AIDrivenDev. |
 | [Defend Intelligence](https://youtube.com/channel/UCnEHCrot2HkySxMTmDPhZyg) | Je suis ingénieur en Intelligence Artificielle, et je réalise des vidéos de vulgarisations sur l’IA,... |
+| [Enzo Emakerz](https://youtube.com/channel/UCnNRQGz1SSgMGgFZzZRi8PA) | Bienvenue à tous ! ... |
 | [Nobody & The Computer](https://youtube.com/channel/UCaPaDEFusMaogm0Vn0LbzoA) | Hey there and a ridiculously warm welcome to my little corner of the internet... |
 | [PleySmart](https://youtube.com/channel/UCnJgqsWP4PhK_v1GmDk3g6A) | Sur PleySmart, on explore ensemble le monde fascinant de l'intelligence artificielle ! Pas de discou... |
 | [Shubham SHARMA](https://youtube.com/channel/UCLKx4-_XO5sR0AO0j8ye7zQ) | IA, Automatisation, Productivité → Si vous voulez transformer votre façon de travailler, vous êtes a... |

@@ -11,6 +11,18 @@
   ],
   "videos": [
     {
+      "id": "b2ej5VAWTLs",
+      "title": "Ce boîtier est vraiment pratique pour la #domotique #matter #bricolage",
+      "description": "",
+      "duration": "PT36S",
+      "published_at": "2026-02-08T15:18:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/b2ej5VAWTLs/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
       "id": "q3JjOaGKpgQ",
       "title": "Créer des appareils de domotique compatibles matter avec un esp32 #domotique #esp32 #electronic",
       "description": "",

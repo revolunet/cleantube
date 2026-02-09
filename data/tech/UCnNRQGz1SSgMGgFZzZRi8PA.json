@@ -514,17 +514,6 @@
       ]
     },
     {
-      "id": "YAMwEGypxWg",
-      "title": "Comment j’ai fait ça !? #diy #bricolage",
-      "description": "",
-      "duration": "PT34S",
-      "published_at": "2024-03-01T17:00:25Z",
-      "thumbnail": "https://i.ytimg.com/vi/YAMwEGypxWg/hqdefault.jpg",
-      "tags": [
-        "technologie"
-      ]
-    },
-    {
       "id": "LBykVsaiYZA",
       "title": "Ce singe soude des composants électroniques ?? #singe #monkey #ai #bricolage #diy",
       "description": "",
@@ -593,6 +582,17 @@
       "tags": [
         "technologie",
         "informatique"
+      ]
+    },
+    {
+      "id": "YAMwEGypxWg",
+      "title": "Comment j’ai fait ça !? #diy #bricolage",
+      "description": "",
+      "duration": "PT34S",
+      "published_at": "2024-03-01T17:00:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/YAMwEGypxWg/hqdefault.jpg",
+      "tags": [
+        "technologie"
       ]
     }
   ]

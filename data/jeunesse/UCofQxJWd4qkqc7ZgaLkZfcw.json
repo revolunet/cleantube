@@ -11,6 +11,30 @@
   ],
   "videos": [
     {
+      "id": "ojnRWpVLm_c",
+      "title": "Faut-il apprendre l'arabe ?",
+      "description": "",
+      "duration": "PT1M23S",
+      "published_at": "2026-02-09T17:08:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/ojnRWpVLm_c/hqdefault.jpg",
+      "tags": [
+        "langues",
+        "orientation"
+      ]
+    },
+    {
+      "id": "pwMvKaXAtTk",
+      "title": "Faut-il apprendre le berbère ?",
+      "description": "",
+      "duration": "PT1M10S",
+      "published_at": "2026-02-09T16:56:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/pwMvKaXAtTk/hqdefault.jpg",
+      "tags": [
+        "langues",
+        "orientation"
+      ]
+    },
+    {
       "id": "RmwL6ZU68cw",
       "title": "Faut-il apprendre le finnois?",
       "description": "",

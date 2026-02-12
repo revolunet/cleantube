@@ -11,6 +11,30 @@
   ],
   "videos": [
     {
+      "id": "Wxgen79UjiM",
+      "title": "Faut-il apprendre le hongrois ?",
+      "description": "",
+      "duration": "PT1M",
+      "published_at": "2026-02-11T21:51:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/Wxgen79UjiM/hqdefault.jpg",
+      "tags": [
+        "langues",
+        "orientation"
+      ]
+    },
+    {
+      "id": "D2b25mdHy88",
+      "title": "Faut-il apprendre le bulgare ?",
+      "description": "",
+      "duration": "PT1M22S",
+      "published_at": "2026-02-11T21:51:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/D2b25mdHy88/hqdefault.jpg",
+      "tags": [
+        "langues",
+        "orientation"
+      ]
+    },
+    {
       "id": "b58FKwQg2RE",
       "title": "faut-il apprendre le turc?",
       "description": "",

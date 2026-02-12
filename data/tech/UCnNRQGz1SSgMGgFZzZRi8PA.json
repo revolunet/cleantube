@@ -1,7 +1,7 @@
 {
   "id": "UCnNRQGz1SSgMGgFZzZRi8PA",
   "name": "Enzo Emakerz",
-  "description": "Bienvenue à tous ! \n\nSur cette chaîne vous trouverez des bricolages en électronique, de l'impression 3D et plein d'autres constructions plus dingue les unes que les autres !\n\nAbonnez vous pour ne rien manquer.\n\n",
+  "description": "Concevoir. Prototyper. Tester.\nIngénieur et créateur d’objets en tout genre 🛠️\n\n",
   "thumbnail": "https://yt3.ggpht.com/Xmua0CDjMzUkIl3DpsN8Bw6n83lSj-kfGyImCTj84fR-SVfZZ1SxlOb5U5y2UAy4oYEEE08RWys=s800-c-k-c0x00ffffff-no-rj",
   "public": "15 ans et plus",
   "language": "fr",
@@ -10,6 +10,19 @@
     "informatique"
   ],
   "videos": [
+    {
+      "id": "6T9ajzpFHqg",
+      "title": "Tu connaissais le point commun de ces composants ? #ingénierie #electronic #histoire e",
+      "description": "",
+      "duration": "PT1M9S",
+      "published_at": "2026-02-12T17:43:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/6T9ajzpFHqg/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "histoire",
+        "sciences"
+      ]
+    },
     {
       "id": "b2ej5VAWTLs",
       "title": "Ce boîtier est vraiment pratique pour la #domotique #matter #bricolage",

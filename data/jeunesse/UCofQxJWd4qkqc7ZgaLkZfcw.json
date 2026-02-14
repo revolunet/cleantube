@@ -11,6 +11,42 @@
   ],
   "videos": [
     {
+      "id": "bXwhcgxUfG8",
+      "title": "Faut-il apprendre le gallois ?",
+      "description": "",
+      "duration": "PT42S",
+      "published_at": "2026-02-13T21:15:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/bXwhcgxUfG8/hqdefault.jpg",
+      "tags": [
+        "langues",
+        "scolaire"
+      ]
+    },
+    {
+      "id": "rhTn9v4pUrk",
+      "title": "Faut-il apprendre le lingala ?",
+      "description": "",
+      "duration": "PT52S",
+      "published_at": "2026-02-13T21:15:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/rhTn9v4pUrk/hqdefault.jpg",
+      "tags": [
+        "langues",
+        "scolaire"
+      ]
+    },
+    {
+      "id": "QoZjiwQInx0",
+      "title": "Faut-il apprendre le wolof ?",
+      "description": "",
+      "duration": "PT52S",
+      "published_at": "2026-02-13T21:14:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/QoZjiwQInx0/hqdefault.jpg",
+      "tags": [
+        "langues",
+        "scolaire"
+      ]
+    },
+    {
       "id": "xgCZ7QU4Xec",
       "title": "Faut-il apprendre le thai?",
       "description": "",

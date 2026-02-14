@@ -76,6 +76,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [ARTE Évasion](https://youtube.com/channel/UCXV7LUI7G1MaKRN18yQ5y7Q) | Bienvenue sur Évasion, la chaîne qui vous transporte loin du quotidien à travers une sélection de pr... |
 | [ARTE.tv Documentary](https://youtube.com/channel/UCVogAsASqbceBmQMi1WA39g) | ARTE.tv Documentary is here to tell you more about what’s going on in the world with powerful and re... |
 | [BBC Earth](https://youtube.com/channel/UCwmZiChSryoWQCZMIQezgTg) | Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of bei... |
+| [INA Officiel](https://youtube.com/channel/UCPlxmWbGbwVM2baH8q7MK6w) | Ina.fr vous propose plusieurs chaînes thématiques sur Youtube.... |
 | [Le Dessous des Cartes - ARTE](https://youtube.com/channel/UCHGMBrXUzClgjEzBMei-Jdw) | Le Dessous des cartes décrypte les enjeux géopolitiques de notre monde contemporain au moyen de cart... |
 
 ### Philo

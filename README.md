@@ -51,6 +51,7 @@ Le meilleur de YouTube en Français, sans distractions.
 
 | Chaîne | Description |
 |--------|-------------|
+| [50 NUANCES DE GRECS OFFICIEL 🇫🇷](https://youtube.com/channel/UCMh4KHDC23n89xSQlS5eTqw) | Bienvenue sur la chaîne officielle de 50 NUANCES DE GRECS !... |
 | [C'est pas sorcier](https://youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg) | C'est pas sorcier, la chaîne officielle.... |
 | [e-penser 2.0](https://youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q) | Ici, je parle de ce dont j'ai envie de parler quoi qu'en pense la plate-forme :)... |
 | [Français Authentique](https://youtube.com/channel/UCQpM25U6iqaRSO-SZxd5oDw) | Apprenez à parler français de façon automatique et sans effort avec Français Authentique... |

@@ -11,6 +11,18 @@
   ],
   "videos": [
     {
+      "id": "iDDp051tADc",
+      "title": "Copilot CLI : prometteur mais encore en bêta (test en live)",
+      "description": "🚀 AI-Driven Dev : Accompagnement 1:1 pour freelances: https://www.ai-driven-dev.fr/?utm_source=youtube&utm_medium=description&utm_campaign=39_copilot-cli-test-equipes\n\n📦 AI-Driven Dev : Formation Entreprise : https://www.ai-driven-dev.fr/formation?utm_source=youtube&utm_medium=description&utm_campaign=39_copilot-cli-test-equipes\n\n\n\nHello, c'est Alex !\n\nGitHub Copilot CLI est encore en bêta, mais je l'ai quand même testé sur un vrai projet pour voir ce qu'il a dans le ventre. Bonne surprise : l'idéation et le prompting sont vraiment prometteurs. Il génère des idées de features depuis un README, les trie en S/M/L, et propose des plans solides.\n\nPar contre, quand on lui demande de coder une feature en live... c'est pas encore ça. L'implémentation reste à améliorer.\n\nDans cette vidéo, je teste tout ça en live pour toi : ce qui marche, ce qui ne marche pas encore, et quand utiliser le CLI vs Copilot Chat dans VSCode. Verdict honnête à la fin.\n\nOn se retrouve dans la communauté AI-Driven Dev,\nAlex\n\n#GitHubCopilot #CopilotCLI #AIDrivenDev #Microsoft #GitHub\n\n---\n\n🎞️ Chapitres\n\n00:00 - Copilot CLI : c'est quoi exactement ?\n00:26 - Installer Copilot CLI\n01:27 - Les agents intégrés : Explore, Task, Plan\n02:41 - Custom Agents et Skills\n06:15 - Démo : générer 10 idées de features depuis le README\n10:25 - Le tableau S/M/L : trier les features par taille\n11:38 - On code une feature ensemble en live\n14:38 - Là où ça coince : l'implémentation échoue\n16:29 - Ce qui manque encore (c'est en bêta)\n17:14 - Verdict : CLI vs Chat VSCode, pour quelles équipes\n\n🔗 Liens mentionnés\n\n- Copilot CLI (repo officiel) : https://github.com/github/copilot-cli\n- Installer Copilot CLI : https://docs.github.com/en/copilot/how-tos/set-up/install-copilot-cli\n- Utiliser Copilot CLI : https://docs.github.com/en/copilot/how-tos/use-copilot-agents/use-copilot-cli\n- Agent Skills (changelog dec 2025) : https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills/\n- Enhanced agents + context (jan 2026) : https://github.blog/changelog/2026-01-14-github-copilot-cli-enhanced-agents-context-management-and-new-ways-to-install/\n- Plan before you build (jan 2026) : https://github.blog/changelog/2026-01-21-github-copilot-cli-plan-before-you-build-steer-as-you-go/\n\n🔥 L'AI-Driven Dev : 1ère communauté IA FR pour les devs\n\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\nhttps://discord.com/invite/ai-driven-dev\n\n🌐 Mes réseaux\n\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\nhttps://x.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.",
+      "duration": "PT18M27S",
+      "published_at": "2026-02-17T10:41:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/iDDp051tADc/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "hGok7urwvEc",
       "title": "Augmente ton leverage avec l’IA  #aidrivendev",
       "description": "La vidéo en entier juste ici : https://www.youtube.com/watch?v=j_M47ZkGNpE&pp=2AYx\n\n#AIDrivenDev : La communauté #1 FR pour les développeurs boosté a l'IA https://discord.gg/ai-driven-dev",

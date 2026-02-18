@@ -13,6 +13,19 @@
   ],
   "videos": [
     {
+      "id": "d0ai33oqqDE",
+      "title": "The lattice bacteria puzzle",
+      "description": "Part of a series of monthly puzzles, done in collaboration with MoMath.\nhttps://momath.org/mindbenders",
+      "duration": "PT1M2S",
+      "published_at": "2026-02-18T06:02:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/d0ai33oqqDE/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences",
+        "biologie"
+      ]
+    },
+    {
       "id": "7gG91SZwBoE",
       "title": "Solution to the ladybug clock puzzle",
       "description": "Solution to last month's probability puzzle.",

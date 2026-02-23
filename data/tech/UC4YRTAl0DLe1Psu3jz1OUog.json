@@ -11,6 +11,17 @@
   ],
   "videos": [
     {
+      "id": "IGn73BkK21w",
+      "title": "Diffusion en direct de A la french  💻",
+      "description": "",
+      "duration": "P0D",
+      "published_at": "2026-02-23T15:58:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/IGn73BkK21w/hqdefault_live.jpg",
+      "tags": [
+        "informatique"
+      ]
+    },
+    {
       "id": "wirmd5kCWok",
       "title": "IA : Pourquoi la taille ne compte plus ?",
       "description": "Peut-on battre les modèles de Google ou Meta avec seulement 4 GPU et une disquette Zip ? C’est le pari fou de notre invité.e  qui nous explique comment le \"Data Design\" est en train de ringardiser le scraping massif du web.\n\n🥖 L'IA qui tient sur une disquette : La fin du gigantisme ?\n\nDans cet épisode, on plonge dans le coeur de l'IA souveraine : pourquoi la qualité des données (tokens) prime sur la quantité, et comment les Small Language Models (SLM) vont permettre de décentraliser l'intelligence.\n\n🚀 Ce que vous allez apprendre :\n- Baguettotron : Le modèle de 320M de paramètres qui raisonne mieux que des géants.\n- Data Design vs Scraping : Pourquoi \"nettoyer\" la donnée ne suffit plus, il faut la concevoir.\n-  Le secret des données synthétiques : Comment éviter le \"Model Collapse\" (l'appauvrissement de l'IA).\n-  Souveraineté : L'enjeu des bibliothèques nationales et de l'Open Data face au pillage des \"Shadow Libraries\".\n\n⏳ Timestamps pour naviguer :\n\n00:00 — Jeu d'indices : qui est la pionnière de la tech française ? \n04:38 — L'arnaque du \"poids ouvert\" : qu'est-ce qu'une IA vraiment Open Source ? \n14:41 — Data Design : pourquoi Pleias mise sur la provenance plutôt que le scraping \n24:11 — Baguettotron : l'IA performante qui tient sur une disquette Zip\n36:01 — Small Language Models (SLM) : battre les géants avec seulement 4 GPU \n52:00 — L'avenir décentralisé : IA locale, souveraineté et modèles de raisonnement \n\nSPOILER ALERT : pour en savoir plus sur notre invitée\n\nAnastasia Stasenko , CEO Pleias : https://www.linkedin.com/in/anastasia-stasenko?originalSubdomain=fr\n\n🔗 Liens et ressources :\nPleias : https://pleias.fr/\nModèles & Datasets : Retrouvez \"Common Corpus\" sur Hugging Face.\n\nVous préférez une IA géante dans le Cloud ou une IA agile sur votre téléphone ? On attend votre avis en commentaire ! 👇\n\n#IntelligenceArtificielle #SLM #OpenSource #TechFrançaise #ALaFrench #MachineLearning #SouverainetéNumérique",

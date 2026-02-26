@@ -13,6 +13,18 @@
   ],
   "videos": [
     {
+      "id": "aoag03mSuXQ",
+      "title": "The Internet Was Weeks Away From Disaster and No One Knew",
+      "description": "How a single hack infected the world’s most important operating system. Sponsored by NordVPN - Get exclusive NordVPN deal here: https://NordVPN.com/veritasium It’s risk free with Nord’s 30 day money-back guarantee!\n\nIf you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nSign up for the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter \n\n▀▀▀\n0:00 The Free Software Foundation\n5:03 Why is Linux so popular?\n9:57 The XZ Weakness\n12:07 End To End Encryption - SSH\n18:40 How To Compress Data\n23:47 How The .XZ Hack Worked\n34:24 A Bug In Jia’s Code\n38:27 Henry Hacks Derek\n43:16 The Back Door Is Exposed\n47:16 Who is Jia Tan?\n50:33 Open Vs Closed Source\n\n▀▀▀\nA huge thank you to everyone who made this possible:\n\nRich Jones for his openness throughout this project.\n\nDenzel Farmer for his incredible breakdown - https://youtu.be/Q6ovtLdSbEA?si=qlbcg6skR-BoS5z1 \n\nKarsten Nohl @hackingmatters, Yannis Hofmann, and Matthias Marx at SRLabs for their help throughout this project.\n\nFabian Fäßler @LiveOverflow  Alex Schlögl and the rest of the Cure53 team for their technical insights on the project.\n\nTom Scott, and Computerphile for their excellent videos on compression.\n\nJosh at @breakfastserial  for the filming inspiration.\n\nPlanet Money for a podcast that helped inform our research and @fern-tv  for inspiration.\n\nThomas Roccia for his technical feedback on the video. And Ed at @LowLevelTV for helping out early on!\n\n▀▀▀\nReferences: https://ve42.co/XZHackRefs\n\n▀▀▀\nSpecial thanks to our Patreon supporters: Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Charles Ian Norman Venn, Daniel Martins, Data Don, Dave Kircher, David Johnston, David Tseng, EJ Alexandra, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Hayden Christensen, Hong Thai Le, Ibby Hadeed, Jeromy Johnson, Jesse Brandsoy, Jon Jamison, Juan Benet, Kelcey Steele, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Mark Heising, Martin Paull, Meekay, meg noah, Michael Krugman, Moebiusol - Cristian, Orlando Bassotto, Parsee Health, Paul Peijzel, Richard Sundvall, Robson, Sam Lutfi, Shalva Bukia, Sinan Taifour, Tj Steyn, Ubiquity Ventures, Vahe Andonians, wolfee\n\n▀▀▀\nWriter, Director & Producer: Henry van Dyck\nPresenters: Derek Muller & Henry van Dyck\nEditor: Trenton Oliver\nAnimators: Fabio Albertelli, Domonkos Józsa, Andrew Neet, Alex Drakoulis & Emma Wright\nIllustrators: Jakub Misiek & Nataly Zhuk\nResearchers: Aakash Singh Bagga & Sophia Rose\nAdditional Editing: James Stuart & Peter Nelson\nThumbnail Designers: Abdallah Rabah, Ren Hurley, Ben Powell & Henry van Dyck\nProduction Team: Josh Pitt, Matthew Cavanagh, Anna Milkovic, Katy Southwood & Jess Bishop-Laggett\nExecutive Producers: Derek Muller & Casper Mebius\n\nAdditional video/photos supplied by Getty Images & Storyblocks\nMusic from Epidemic Sound",
+      "duration": "PT53M",
+      "published_at": "2026-02-25T20:28:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/aoag03mSuXQ/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "qtPPfM7Tz1o",
       "title": "The Crazy Physics of Jet Engines",
       "description": "This is one of the most powerful jet engines in the world, and it runs at temperatures more than 250 degrees celsius hotter than the melting point of the materials that make it up.\n\nSo why doesn't it melt?",

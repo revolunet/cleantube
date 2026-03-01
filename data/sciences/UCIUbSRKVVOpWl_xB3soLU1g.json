@@ -13,6 +13,27 @@
   ],
   "videos": [
     {
+      "id": "GcNdVGtaIsE",
+      "title": "https://youtube.com/@becqdunk",
+      "description": "",
+      "duration": "PT7S",
+      "published_at": "2026-03-01T13:25:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/GcNdVGtaIsE/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "bzJ40AHL-rg",
+      "title": "Femmes scientifiques   Busra Bulut",
+      "description": "Busra Bulut est ingénieure en mathématiques appliquées et prépare un doctorat en intelligence artificielle.\n\nLe film \"Les figures de l'ombre\" et son expérience avec l'association Science Ouverte ont eu une grande influence sur elle.",
+      "duration": "PT13M59S",
+      "published_at": "2026-03-01T12:48:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/bzJ40AHL-rg/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "orientation"
+      ]
+    },
+    {
       "id": "cVPHFBG17DU",
       "title": "Concours de robotique par Elodie Chabrol",
       "description": "Elodie Chabrol interviewe des élèves de l'équipe Becq Dunk à propos du défi de robotique organisé par First Robotique France.\nCela fait suite aux belles performances de l'équipe et à sa qualification pour la finale nationale à Lyon.",
@@ -248,15 +269,6 @@
         "orientation",
         "metiers"
       ]
-    },
-    {
-      "id": "xRtbUDwaNBc",
-      "title": "Page Instagram becq_dunk",
-      "description": "",
-      "duration": "PT30S",
-      "published_at": "2025-10-03T15:21:11Z",
-      "thumbnail": "https://i.ytimg.com/vi/xRtbUDwaNBc/hqdefault.jpg",
-      "tags": []
     },
     {
       "id": "CchFoTJv1Ms",
@@ -619,6 +631,15 @@
         "mathematiques",
         "scolaire"
       ]
+    },
+    {
+      "id": "xRtbUDwaNBc",
+      "title": "Page Instagram becq_dunk",
+      "description": "",
+      "duration": "PT30S",
+      "published_at": "2025-10-03T15:21:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/xRtbUDwaNBc/hqdefault.jpg",
+      "tags": []
     },
     {
       "id": "PtpOLSogmAM",

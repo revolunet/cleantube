@@ -11,6 +11,18 @@
   ],
   "videos": [
     {
+      "id": "6tuvd8qh9CA",
+      "title": "A la French passe en direct, le trio répond aux questions",
+      "description": "Premier live pour JB, Mehdi et Steeve, posez toutes les questions qui vous passent par la tête",
+      "duration": "PT1H29M32S",
+      "published_at": "2026-03-02T16:17:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/6tuvd8qh9CA/hqdefault_live.jpg",
+      "tags": [
+        "francais",
+        "langues"
+      ]
+    },
+    {
       "id": "PXmhr4NusN4",
       "title": "L’état n’est pas une entreprise, c’est un écosystème",
       "description": "L'État peut-il vraiment être géré comme une boîte de la Silicon Valley ? 🧐\n\nDans ce nouvel épisode de À la French, Samuel Paccoud (CTO de \"La Suite\" à la DINUM) répond à Steeve : la DINUM est-elle le grand architecte technique de l'administration ?\n\n\nCe qu'il faut retenir :\n\n* L'indépendance avant tout : Entre l'Intérieur, la Justice ou l'Éducation, chaque ministère a ses propres enjeux.\n* Pas de pyramide : Une centralisation totale n'est pas souhaitable ; l'État doit rester complexe pour rester stable.\n* Le rôle de la DINUM : Partager des guidelines, montrer l'exemple et mutualiser le code pour que chacun puisse le réutiliser dans son propre contexte.\nBref, l'État n'est pas une entreprise, c'est un écosystème. 🥗\n\n\n👉 Découvrez la stratégie complète derrière \"La Suite\" dans l'épisode complet sur notre chaîne !\n\n#ALaFrench #DINUM #Tech #OpenSource #Etat #Souverainete #CTO #InnovationPublique #Gouvernement",
@@ -44,17 +56,6 @@
       "tags": [
         "informatique",
         "technologie"
-      ]
-    },
-    {
-      "id": "IGn73BkK21w",
-      "title": "Diffusion en direct de A la french  💻",
-      "description": "",
-      "duration": "P0D",
-      "published_at": "2026-02-23T15:58:43Z",
-      "thumbnail": "https://i.ytimg.com/vi/IGn73BkK21w/hqdefault_live.jpg",
-      "tags": [
-        "informatique"
       ]
     },
     {
@@ -232,6 +233,17 @@
       "published_at": "2025-12-09T18:46:21Z",
       "thumbnail": "https://i.ytimg.com/vi/vC8pMoQH9RU/hqdefault.jpg",
       "tags": []
+    },
+    {
+      "id": "IGn73BkK21w",
+      "title": "Diffusion en direct de A la french  💻",
+      "description": "",
+      "duration": "P0D",
+      "published_at": "2026-02-23T15:58:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/IGn73BkK21w/hqdefault_live.jpg",
+      "tags": [
+        "informatique"
+      ]
     }
   ]
 }

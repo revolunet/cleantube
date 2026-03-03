@@ -30,7 +30,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Les Parasites](https://youtube.com/channel/UCqS1gDNHEX3FgJ8dPfSuRoQ) | Les Parasites vous racontent des histoires... |
 | [Nikon Film Festival](https://youtube.com/channel/UCSeYP0nLo7iz6DZfAj4Z3Yw) | Bienvenue sur la chaîne YouTube officielle du Nikon Film Festival, un événement qui encourage la cré... |
 | [Très Court International Film Festival](https://youtube.com/channel/UCyUX9yScoWGsRwsCyAWrbcg) | TRES COURT is the channel of very short great movies, coming from the International Very Short Film ... |
-| [Univers Court](https://youtube.com/channel/UCFNWBtJZHMlKC3tw0q4i5Hg) | UniversCourt est la chaîne 100 % court métrage, animée par l'équipe d'UniversCiné. Retrouvez ici une... |
+| [Univers Court](https://youtube.com/channel/UCFNWBtJZHMlKC3tw0q4i5Hg) | Univers Court est la chaîne 100 % court métrage, animée par l'équipe de SOONER. Retrouvez ici une sé... |
 
 ### Dessins Animes
 

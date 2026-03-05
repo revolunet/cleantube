@@ -1,7 +1,7 @@
 {
   "id": "UC4YRTAl0DLe1Psu3jz1OUog",
   "name": "A la french  💻",
-  "description": "Prenez le temps de vous installer avec nous. A la French c'est votre Tech Show avec  :\n- Mehdi Medjaoui, fondateur des conférences apidays et GenerationAI, et CEO Refeed News, \n- Jean Baptiste Kempf, CEO de Kyber et Président VideoLAN - VLC\n- Steeve Morin - CEO ZML.ai, ex-VP platform Zenly, Ex Google\n\nIci, nous allons au cœur des sujets  : IA, cybersécurité, open source, hardware, data, infra, produit, standards, etc. Nous parlons aussi biens des bugs glorieux et des paris débiles qui finissent (par miracle ou acharnement) en prod.\nZéro small talk.\n\nBref : la tech, par les tech, pour les tech (et tous qui s'y intéressent), au delà du commentaire.\n",
+  "description": "\"A la French\" c'est une \"Certaine idée de la Tech\". On parle pas de la French tech, mais de la Tech, à la French et cela fait une grosse différence. Le fond des sujets, sans filtre, jamais dans le commentaire. Que des retours de gens qui font la Tech d'aujourd'hui et de demain. Alors Bienvenue!\n\nPrenez le temps de vous installer avec nous. A la French c'est votre Tech Show avec  :\n- Mehdi Medjaoui, fondateur des conférences apidays et GenerationAI, et CEO Refeed News, \n- Jean Baptiste Kempf, CEO de Kyber et Président VideoLAN - VLC\n- Steeve Morin - CEO ZML.ai, ex-VP platform Zenly, Ex Google\n\nIci, nous allons au cœur des sujets  : IA, cybersécurité, open source, hardware, data, infra, produit, standards, etc. Nous parlons aussi biens des bugs glorieux et des paris débiles qui finissent (par miracle ou acharnement) en prod.\nZéro small talk.\n\nBref : la tech, par les tech, pour les tech (et tous qui s'y intéressent), au delà du commentaire.\n",
   "thumbnail": "https://yt3.ggpht.com/yvHMSoMsGeiRDTSWj9vpiogalQrdCcE1wV96D8-5Izmvn6HxBJPcaCBDxroB_dfKB8jR-olGYg=s800-c-k-c0x00ffffff-no-rj",
   "public": "adultes",
   "language": "fr",
@@ -10,6 +10,18 @@
     "technologie"
   ],
   "videos": [
+    {
+      "id": "C2sK9JXBZJw",
+      "title": "L’IA a révélé le secret de Kasparov",
+      "description": "Garry Kasparov a créé les monstres qui l'ont poussé vers la sortie. ♟️ \nDécouvrez comment l'Intelligence Artificielle n'a pas seulement battu les champions d'échecs, mais a volé leurs secrets.\n\nDans cet extrait du podcast À la French, on décrypte le lien fascinant (et méconnu) entre l'évolution de l'IA et l'apogée des plus grands maîtres de l'histoire.\n\nAu programme de cet extrait :\n\nLe point commun troublant entre le pic de niveau de Kasparov en 1999 et celui de Magnus Carlsen en 2019 : l'absorption des méthodes de la machine.\n\nPourquoi l'ordinateur a fini par gommer l'avantage historique des génies.\n\nLes vraies raisons de la retraite de Kasparov en 2005 : l'usure, la perte de son titre, mais surtout... une nouvelle génération de joueurs dopée aux ordinateurs qu'il a lui-même initiée.\n\n👇 Débat dans les commentaires : D'après vous, l'Intelligence Artificielle a-t-elle ruiné la créativité aux échecs ou l'a-t-elle poussée à son paroxysme ? Donnez-nous votre avis !\n\n🔔 N'oubliez pas de liker la vidéo et de vous abonner à À la French pour ne rater aucun de nos prochains débats ! 🎧",
+      "duration": "PT46S",
+      "published_at": "2026-03-05T09:56:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/C2sK9JXBZJw/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "mathematiques"
+      ]
+    },
     {
       "id": "8hLPNQKjZG8",
       "title": "♟️Échecs : A-t-on vraiment perdu la partie face à l’IA ? Avec Laurent Fressinet, Grand Maître.",

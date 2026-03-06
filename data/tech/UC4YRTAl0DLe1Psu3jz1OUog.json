@@ -1,7 +1,7 @@
 {
   "id": "UC4YRTAl0DLe1Psu3jz1OUog",
   "name": "A la french  💻",
-  "description": "\"A la French\" c'est une \"Certaine idée de la Tech\". On parle pas de la French tech, mais de la Tech, à la French et cela fait une grosse différence. Le fond des sujets, sans filtre, jamais dans le commentaire. Que des retours de gens qui font la Tech d'aujourd'hui et de demain. Alors Bienvenue!\n\nPrenez le temps de vous installer avec nous. A la French c'est votre Tech Show avec  :\n- Mehdi Medjaoui, fondateur des conférences apidays et GenerationAI, et CEO Refeed News, \n- Jean Baptiste Kempf, CEO de Kyber et Président VideoLAN - VLC\n- Steeve Morin - CEO ZML.ai, ex-VP platform Zenly, Ex Google\n\nIci, nous allons au cœur des sujets  : IA, cybersécurité, open source, hardware, data, infra, produit, standards, etc. Nous parlons aussi biens des bugs glorieux et des paris débiles qui finissent (par miracle ou acharnement) en prod.\nZéro small talk.\n\nBref : la tech, par les tech, pour les tech (et tous qui s'y intéressent), au delà du commentaire.\n",
+  "description": "\"A la French\" c'est une \"Certaine idée de la Tech\". On ne parle pas de la French tech, mais de la Tech, \"à la French\" et cela fait une grosse différence. Le fond des sujets, sans filtre, jamais dans le commentaire. Que des retours de gens qui font la Tech d'aujourd'hui et de demain. Alors Bienvenue! \n\nPrenez le temps de vous installer avec nous. A la French c'est votre Tech Show avec  :\n- Mehdi Medjaoui, fondateur des conférences apidays et GenerationAI, et CEO Olympe, \n- Jean Baptiste Kempf, CEO de Kyber et Président VideoLAN - VLC\n- Steeve Morin - CEO ZML.ai, ex-VP platform Zenly, Ex Google\n\nIci, nous allons au cœur des sujets  : IA, cybersécurité, open source, hardware, data, infra, produit, standards, etc. Nous parlons aussi biens des bugs glorieux et des paris débiles qui finissent (par miracle ou acharnement) en prod.\nZéro small talk.\n\nBref : la tech, par les tech, pour les tech (et tous qui s'y intéressent), au delà du commentaire.\n",
   "thumbnail": "https://yt3.ggpht.com/yvHMSoMsGeiRDTSWj9vpiogalQrdCcE1wV96D8-5Izmvn6HxBJPcaCBDxroB_dfKB8jR-olGYg=s800-c-k-c0x00ffffff-no-rj",
   "public": "adultes",
   "language": "fr",
@@ -10,6 +10,18 @@
     "technologie"
   ],
   "videos": [
+    {
+      "id": "lPKs3io7azI",
+      "title": "Le « Baguettotron » : L'IA dans un Zip Disque ?",
+      "description": "Anastasia présente le « Baguettotron » stocké sur un ancien Zip disque de 900 Mo.\n\nLe modèle, composé de 320 millions de paramètres et quantifié en 8 bits, permet d'exécuter l'IA via Llama.cpp sur n'importe quel ordinateur, même les plus anciens. \n\nUne démonstration fascinante de la légèreté des modèles IA actuels et un clin d'œil nostalgique à la technologie des années 90 !\n\nRetrouvez l'intégralité du podcast sur notre chaîne YouTube « À La French » sur l'intelligence artificielle.",
+      "duration": "PT41S",
+      "published_at": "2026-03-06T11:53:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/lPKs3io7azI/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
     {
       "id": "C2sK9JXBZJw",
       "title": "L’IA a révélé le secret de Kasparov",

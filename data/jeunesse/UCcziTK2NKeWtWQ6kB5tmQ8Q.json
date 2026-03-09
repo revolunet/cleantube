@@ -13,13 +13,16 @@
   ],
   "videos": [
     {
-      "id": "CBnijesJnuk",
-      "title": "Mon guest répond aux questions de la dernière vidéo",
-      "description": "ne manquez pas la vidéo lundi 9 mars à 18h00 sur la chaîne",
-      "duration": "PT47S",
-      "published_at": "2026-03-08T08:00:21Z",
-      "thumbnail": "https://i.ytimg.com/vi/CBnijesJnuk/hqdefault.jpg",
-      "tags": []
+      "id": "cZwuhte5ZBI",
+      "title": "Les photons ont-ils la notion du temps ? feat. Etienne Klein",
+      "description": "Profitez des promotions EMMA, avec le code \"EPENSER\" bénéficiez de 10% de remise sur tous les articles en promotion pour la rentrée, jusqu'au 16 mars 2026, au lien suivant :\nhttp://emma.fr/?utm_source=youtube&utm_medium=influencer&utm_campaign=Epenser1&utm_code=EPENSER\n\nRejoignez mon discord : https://https://discord.gg/ZEYsCvhET2\n\nLiens de la chaîne :\nhttps://instagram.com/e_penser\nhttps://twitter.com/epenser\nhttps://twitch.tv/epenser\nhttps://facebook.com/epenser\n\nLes liens de la vidéo :\n- Partie 1 : https://youtu.be/Id6se4XWc3M\n- https://youtu.be/KX9QSjv0Ib0\n- https://youtu.be/yhxK0A6fS8g\n- https://youtu.be/l9jsQ3vlEnY\n- https://youtu.be/BpC_OcI_nQA\n\nLes liens au sujet d'Etienne Klein :\n- https://www.radiofrance.fr/franceculture/podcasts/la-conversation-scientifique\n- https://www.amazon.fr/dp/2080509721\n\nChapitrage :\n0:00 Sponso\n1:59 Introduction\n3:24 Entretien\n57:28 Petite annonce\n58:21 Conclusion\n58:50 Générique de fin",
+      "duration": "PT1H58S",
+      "published_at": "2026-03-09T17:00:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/cZwuhte5ZBI/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "sciences"
+      ]
     },
     {
       "id": "Id6se4XWc3M",
@@ -582,6 +585,15 @@
       "tags": [
         "musique"
       ]
+    },
+    {
+      "id": "CBnijesJnuk",
+      "title": "Mon guest répond aux questions de la dernière vidéo",
+      "description": "ne manquez pas la vidéo lundi 9 mars à 18h00 sur la chaîne",
+      "duration": "PT47S",
+      "published_at": "2026-03-08T08:00:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/CBnijesJnuk/hqdefault.jpg",
+      "tags": []
     },
     {
       "id": "V52QB7TIv9Q",

@@ -11,6 +11,19 @@
   ],
   "videos": [
     {
+      "id": "VmIEhV57_Nw",
+      "title": "La dette technique : le piège des startups et des grands groupes?",
+      "description": "💸👨‍💻 Qu'est-ce que la dette technique en développement logiciel et comment la gérer sans ralentir la croissance de votre startup ? 🚀 Dans ce nouvel épisode de La French, Steeve, JB et Mehdi s'attaquent au plus grand défi des équipes tech et des CTO avec cette question - Faut-il TOUT réécrire ou payer les intérêts ? \n\nQue vous soyez développeur back-end, front-end ou architecte logiciel, vous avez déjà été confronté à ce dilemme : faire vite pour livrer une fonctionnalité (le fameux \"quick and dirty\"), ou faire l'architecture parfaite au risque de rater le marché. La dette technique est en réalité un emprunt de temps au futur. Mais attention aux intérêts composés qui peuvent figer vos déploiements !\n\nDans cette vidéo, on analyse pourquoi lancer une réécriture totale d'une application (le \"full rewrite\") est presque toujours une erreur stratégique. On décrypte la différence fondamentale entre du Code Legacy et de la dette assumée , et on vous partage des méthodes concrètes d'ingénierie logicielle pour assainir votre base de code : le Strangler Pattern , l'approche API First , l'utilisation de reverse proxies , et la fameuse \"règle des 4 jours\" pour le refactoring.\n\nEnfin, on débat de l'impact de l'intelligence artificielle (Claude, ChatGPT) sur la génération de code : l'IA va-t-elle supprimer la dette technique ou au contraire l'empirer ? 🤖\nPensez à liker, à vous abonner à La French, et dites-nous en commentaire quelle est la pire dette technique que vous ayez croisée en production ! 👇\n\n⏱️ Chapitres de la vidéo (Sommaire)\n00:00:00 - Qu'est-ce que la Dette Technique en développement logiciel ?\n00:05:51 - CTO & Management : Les intérêts composés du mauvais code\n00:09:58 - Le mythe du Rewrite : Pourquoi réécrire une application est une erreur\n00:17:45 - Comprendre la différence entre Code Legacy et Dette Technique\n00:28:15 - Les 4 types de dette : Architecture, Code, Infrastructure et Déploiement\n00:38:14 - Gérer la dette avec le Strangler Pattern et l'Architecture API First\n01:00:51 - Refactoring (Règle des 4 jours) et l'impact de l'IA sur le code\n\n\n#DetteTechnique #DeveloppementLogiciel #CTO #Refactoring #ArchitectureLogicielle #CodeLegacy #PodcastTech #LaFrenchDette -",
+      "duration": "PT1H10M48S",
+      "published_at": "2026-03-10T11:01:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/VmIEhV57_Nw/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "economie"
+      ]
+    },
+    {
       "id": "lPKs3io7azI",
       "title": "Le « Baguettotron » : L'IA dans un Zip Disque ?",
       "description": "Anastasia présente le « Baguettotron » stocké sur un ancien Zip disque de 900 Mo.\n\nLe modèle, composé de 320 millions de paramètres et quantifié en 8 bits, permet d'exécuter l'IA via Llama.cpp sur n'importe quel ordinateur, même les plus anciens. \n\nUne démonstration fascinante de la légèreté des modèles IA actuels et un clin d'œil nostalgique à la technologie des années 90 !\n\nRetrouvez l'intégralité du podcast sur notre chaîne YouTube « À La French » sur l'intelligence artificielle.",

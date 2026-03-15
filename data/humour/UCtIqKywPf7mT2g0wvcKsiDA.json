@@ -10,6 +10,24 @@
   ],
   "videos": [
     {
+      "id": "igO3cpc98CI",
+      "title": "Roue libre dans ma cuisine",
+      "description": "La préparation du poulet du dimanche et mes petits tips de cuisinier expérimental\nBon dimanche à tous",
+      "duration": "PT5M37S",
+      "published_at": "2026-03-15T10:38:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/igO3cpc98CI/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "wbVoJdPD0e4",
+      "title": "Pour une France citoyenne et conviviale #vote #électionsmunicipales",
+      "description": "",
+      "duration": "PT32S",
+      "published_at": "2026-03-15T08:35:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/wbVoJdPD0e4/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "AmGNBh3r2_w",
       "title": "En Roue libre à Bobino (Bobino, Bobino... ♬🎶)",
       "description": "Le fil rouge du dernier soir des 4 dates à Bobino. Ça me manque déjà...",
@@ -273,6 +291,15 @@
       "tags": [
         "sport"
       ]
+    },
+    {
+      "id": "c4Rxv-_OdsU",
+      "title": "Chaîne d'Alexis Le Rossignol",
+      "description": "Humoriste et chroniqueur dans La Bande Originale sur France Inter",
+      "duration": "P0D",
+      "published_at": "2025-11-07T08:46:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/c4Rxv-_OdsU/hqdefault_live.jpg",
+      "tags": []
     },
     {
       "id": "gBNcR5luN94",

@@ -3,10 +3,21 @@
   "name": "Djamil Le Shlag",
   "description": "La chaine officielle de Djamil le Shlag",
   "thumbnail": "https://yt3.ggpht.com/Heblm8XDb9_uYS7q7I1myS3ke4CFqT1WSfRr1VF2jYuAhjtitrerohno7osO1wQG1GIaITH-Hg=s800-c-k-c0x00ffffff-no-rj",
-  "public": "15 ans et plus",
+  "public": "adultes",
   "language": "fr",
   "tags": [],
   "videos": [
+    {
+      "id": "6uHCFgkF5d4",
+      "title": "CAN : une victoire tardive !",
+      "description": "",
+      "duration": "PT49S",
+      "published_at": "2026-03-18T15:00:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/6uHCFgkF5d4/hqdefault.jpg",
+      "tags": [
+        "sport"
+      ]
+    },
     {
       "id": "FIbZEUQ4BTI",
       "title": "Retour sur : Francky Vincent « Le restaurant »",

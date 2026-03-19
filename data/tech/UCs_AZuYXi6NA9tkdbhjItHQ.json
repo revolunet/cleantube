@@ -11,6 +11,18 @@
   ],
   "videos": [
     {
+      "id": "zXCFyKc1_H4",
+      "title": "Kubernetes 038 - Affinités : préférences & skew",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",
+      "duration": "PT31M47S",
+      "published_at": "2026-03-18T19:28:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/zXCFyKc1_H4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "UGiTqCRH_Ng",
       "title": "Infra de A à Z - 103. Kubernetes : monitoring de k8S + remote_write prometheus",
       "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource",

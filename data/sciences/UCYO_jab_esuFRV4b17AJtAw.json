@@ -13,6 +13,18 @@
   ],
   "videos": [
     {
+      "id": "ldxFjLJ3rVY",
+      "title": "This picture broke my brain",
+      "description": "Escher's Print Gallery, and the tour of complex analysis it invites.\nCheck out our virtual career fair: 3b1b.co/talent\nJoin channel supporters to see videos early: 3b1b.co/support\nAn equally valuable form of support is to share the videos.\nHome page: https://www.3blue1brown.com\n\nOriginal paper by de Smit and Lenstra:\nhttps://pub.math.leidenuniv.nl/~smitbde/papers/2003-de_smit-lenstra-escher.pdf\n\nCo-written by Paul Dancstep, who handled many of the animations in the art section, including the delightful mesh warp scene.\n\nAaron Gostein helped with the manim animations in the section introducing complex functions.\n\nArtwork provided by Talia Gerhson, Mitchell Zemil, and Anna Fedczuk.\n\nMusic by Vincent Rubinetti\n\nTimestamps:\n\n0:00 - The print gallery\n13:04 - Conformal maps from complex analysis\n21:41 - The complex exponential\n25:56 - The complex logarithm\n32:32 - 3b1b Talent\n33:14 - Constructing the key function\n40:16 - The deeper math behind Escher\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nBluesky: https://bsky.app/profile/3blue1brown.com\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT44M52S",
+      "published_at": "2026-03-22T12:59:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/ldxFjLJ3rVY/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences"
+      ]
+    },
+    {
       "id": "Qoes9bTJtn0",
       "title": "Bacteria Grid Puzzle Solution",
       "description": "Part of a monthly series of puzzlers, in collaboration with MoMath and Peter Winkler",

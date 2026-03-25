@@ -11,6 +11,43 @@
   ],
   "videos": [
     {
+      "id": "L7NnDMmfiQQ",
+      "title": "Pourquoi rejoindre l’AI Driven Dev ?",
+      "description": "La vidéo en entier juste ici : https://www.youtube.com/watch?v=WL7acca2aUI&pp=2AYF\n\n#AI-DrivenDev : La communauté #1 FR pour les développeurs boosté a l'IA https://discord.gg/ai-driven-dev",
+      "duration": "PT1M5S",
+      "published_at": "2026-03-25T08:45:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/L7NnDMmfiQQ/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "orientation"
+      ]
+    },
+    {
+      "id": "Pd4fspsN4to",
+      "title": "Opus VS Sonnet : Lequel ?  #aidrivendev #claudecode",
+      "description": "La vidéo en entier juste ici : https://www.youtube.com/watch?v=jPpwBzPn4p8&pp=2AasAw%3D%3D\n\n#AI-DrivenDev : La communauté #1 FR pour les développeurs boosté a l'IA https://discord.gg/ai-driven-dev",
+      "duration": "PT45S",
+      "published_at": "2026-03-25T08:45:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/Pd4fspsN4to/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "W3ujbJ2as2E",
+      "title": "L'IA génère ton code mais personne le review (ma solution)",
+      "description": "🚀 AI-Driven Dev : Accompagnement 1:1 pour freelances: https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=43_pre-commit-code-review-copilot-cli\n\n📦 AI-Driven Dev : Formation Entreprise : https://www.ai-driven-dev.fr/formation?utm_source=youtube&utm_medium=description&utm_campaign=43_pre-commit-code-review-copilot-cli\n\n---\n\nHello, c'est Alex !\n\nOn génère tous du code avec l'IA maintenant.\n\nMais qui review ce code avant qu'il atterrisse en production ?\n\nSurtout en équipe, c'est un vrai problème.\n\nDans cette vidéo, je crée un agent et un skill Copilot CLI qui review automatiquement chaque commit.\n\nOn installe un hook pre-commit Git, et je te montre en live ce qui se passe quand on essaie de commit un secret hardcodé.\n\nZero CI, feedback instantané.\n\nOn se retrouve dans la communauté AI-Driven Dev 👇,\nAlex\n\n#GitHubCopilot #CodeReview #CopilotCLI\n\n---\n\n🎞️ Chapitres\n\n00:00 - Le code généré par l'IA doit être irréprochable\n02:35 - Créer un skill de review dédié\n03:48 - Créer un agent de code review avec Copilot CLI\n04:38 - Tester l'agent et le skill dans le terminal\n06:45 - Installer le hook pre-commit Git\n05:28 - Démo : est-ce que l'IA détecte un secret hardcodé ?\n11:47 - Pourquoi chaque dev devrait avoir ça\n\n📺 Autres vidéos de la chaîne mentionnées\n\n- https://www.youtube.com/watch?v=iDDp051tADc\n- https://www.youtube.com/watch?v=I23Fni34X2A\n\n🔗 Liens mentionnés\n\n- Copilot CLI GA : https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available/\n- Copilot code review agentique : https://github.blog/changelog/2026-03-05-copilot-code-review-now-runs-on-an-agentic-architecture/\n- Agent Skills documentation : https://docs.github.com/en/copilot/concepts/agents/about-agent-skills\n- 60M code reviews Copilot : https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/\n\n🔥 L'AI-Driven Dev : 1ère communauté IA FR pour les devs\n\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\nhttps://discord.com/invite/ai-driven-dev\n\n🌐 Mes réseaux\n\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\nhttps://x.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.",
+      "duration": "PT12M37S",
+      "published_at": "2026-03-25T08:36:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/W3ujbJ2as2E/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "FtX6v1_y8zU",
       "title": "SPECKIT : Comment donner les bonnes commandes à l’IA #aidrivendev #chatgpt #ai #claudecode #aidd",
       "description": "La vidéo en entier juste ici : https://www.youtube.com/watch?v=I23Fni34X2A&t=1s\n\n#AI-DrivenDev : La communauté #1 FR pour les développeurs boosté a l'IA https://discord.gg/ai-driven-dev",

@@ -13,6 +13,18 @@
   ],
   "videos": [
     {
+      "id": "Y7ImxZ_YhJk",
+      "title": "Escher's most mind-bending piece",
+      "description": "On \"The Print Gallery\", by M.C. Escher\nFull video: https://youtu.be/ldxFjLJ3rVY",
+      "duration": "PT1M43S",
+      "published_at": "2026-03-27T20:56:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y7ImxZ_YhJk/hqdefault.jpg",
+      "tags": [
+        "arts",
+        "mathematiques"
+      ]
+    },
+    {
       "id": "4h5BEALuh44",
       "title": "The subset sum puzzle",
       "description": "Part of a series of monthly puzzlers. Stay subscribed to see the solution",

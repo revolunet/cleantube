@@ -15,6 +15,19 @@
   ],
   "videos": [
     {
+      "id": "w8oyUTgSrXA",
+      "title": "Re: Saving Georgia's Largest Dam - ARTE",
+      "description": "https://www.arte.tv/en/videos/120881-011-A/re-saving-georgia-s-largest-dam/\r\nThe Enguri hydroelectric dam is the largest in the Caucasus, a masterpiece of Soviet era engineering which provides a large part of Georgia’s power. But the concrete colossus is showing its age. A group of German and Georgian scientists visit the structure to identify the risks of the 50-year-old structure.\r\n\r\n\r\nSubscribe to our Youtube channel: https://www.youtube.com/channel/UCVogAsASqbceBmQMi1WA39g\n\nYou can also find us on:\nFacebook: http://www.facebook.com/ARTE.tv \nTwitter: https://twitter.com/ARTEen",
+      "duration": "PT30M19S",
+      "published_at": "2026-03-29T16:01:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/w8oyUTgSrXA/hqdefault.jpg",
+      "tags": [
+        "environnement",
+        "technologie",
+        "geographie"
+      ]
+    },
+    {
       "id": "Go1XHZ8co_Q",
       "title": "42: The Answer to Almost Everything - ARTE",
       "description": "https://www.arte.tv/en/videos/121328-014-A/42-the-answer-to-almost-everything/\r\nWe know black holes as destroyers: they tear apart stars, devour light and bend space-time. At the same time, they are among the largest sources of energy in the universe and could easily fulfil all our energy needs for millions of years. But is it possible to harness their formidable power?\r\n\r\n\r\nSubscribe to our Youtube channel: https://www.youtube.com/channel/UCVogAsASqbceBmQMi1WA39g\n\nYou can also find us on:\nFacebook: http://www.facebook.com/ARTE.tv \nTwitter: https://twitter.com/ARTEen",
@@ -25,31 +38,6 @@
         "mathematiques",
         "sciences",
         "philosophie"
-      ]
-    },
-    {
-      "id": "1mm5muqYZuw",
-      "title": "42: The Answer to Almost Everything - ARTE",
-      "description": "https://www.arte.tv/en/videos/121328-014-A/42-the-answer-to-almost-everything/\r\nWe know black holes as destroyers: they tear apart stars, devour light and bend space-time. At the same time, they are among the largest sources of energy in the universe and could easily fulfil all our energy needs for millions of years. But is it possible to harness their formidable power?\r\n\r\n\r\nSubscribe to our Youtube channel: https://www.youtube.com/channel/UCVogAsASqbceBmQMi1WA39g\n\nYou can also find us on:\nFacebook: http://www.facebook.com/ARTE.tv \nTwitter: https://twitter.com/ARTEen",
-      "duration": "PT30M18S",
-      "published_at": "2026-03-28T12:00:05Z",
-      "thumbnail": "https://i.ytimg.com/vi/1mm5muqYZuw/hqdefault.jpg",
-      "tags": [
-        "mathematiques",
-        "sciences",
-        "philosophie"
-      ]
-    },
-    {
-      "id": "XDfeUIRPIIg",
-      "title": "The World in Images - ARTE",
-      "description": "https://www.arte.tv/en/videos/127395-004-A/the-world-in-images/\r\nWith perfect hair cuts and beards, gym-toned bodies under clerical garments, a new generation of ‘sexy priests’ are taking social media by storm to gain followers on Instagram and follower of the Catholic Church.\r\n\r\n\r\nSubscribe to our Youtube channel: https://www.youtube.com/channel/UCVogAsASqbceBmQMi1WA39g\n\nYou can also find us on:\nFacebook: http://www.facebook.com/ARTE.tv \nTwitter: https://twitter.com/ARTEen",
-      "duration": "PT10M55S",
-      "published_at": "2026-03-28T09:00:27Z",
-      "thumbnail": "https://i.ytimg.com/vi/XDfeUIRPIIg/hqdefault.jpg",
-      "tags": [
-        "geographie",
-        "histoire"
       ]
     },
     {
@@ -616,6 +604,31 @@
       "tags": [
         "geographie",
         "economie"
+      ]
+    },
+    {
+      "id": "1mm5muqYZuw",
+      "title": "42: The Answer to Almost Everything - ARTE",
+      "description": "https://www.arte.tv/en/videos/121328-014-A/42-the-answer-to-almost-everything/\r\nWe know black holes as destroyers: they tear apart stars, devour light and bend space-time. At the same time, they are among the largest sources of energy in the universe and could easily fulfil all our energy needs for millions of years. But is it possible to harness their formidable power?\r\n\r\n\r\nSubscribe to our Youtube channel: https://www.youtube.com/channel/UCVogAsASqbceBmQMi1WA39g\n\nYou can also find us on:\nFacebook: http://www.facebook.com/ARTE.tv \nTwitter: https://twitter.com/ARTEen",
+      "duration": "PT30M18S",
+      "published_at": "2026-03-28T12:00:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/1mm5muqYZuw/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "sciences",
+        "philosophie"
+      ]
+    },
+    {
+      "id": "XDfeUIRPIIg",
+      "title": "The World in Images - ARTE",
+      "description": "https://www.arte.tv/en/videos/127395-004-A/the-world-in-images/\r\nWith perfect hair cuts and beards, gym-toned bodies under clerical garments, a new generation of ‘sexy priests’ are taking social media by storm to gain followers on Instagram and follower of the Catholic Church.\r\n\r\n\r\nSubscribe to our Youtube channel: https://www.youtube.com/channel/UCVogAsASqbceBmQMi1WA39g\n\nYou can also find us on:\nFacebook: http://www.facebook.com/ARTE.tv \nTwitter: https://twitter.com/ARTEen",
+      "duration": "PT10M55S",
+      "published_at": "2026-03-28T09:00:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/XDfeUIRPIIg/hqdefault.jpg",
+      "tags": [
+        "geographie",
+        "histoire"
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "id": "UCt11zYNefnunOkgCrsO9UYg",
   "name": "Silicon Carne 🌶️",
-  "description": "Silicon Carne 🌶️ L'insider francophone de la Silicon Valley. Pas de langue de bois. Pas de hype. On analyse ce qui se passe vraiment.\n\n👉 Pour toute demande de collaborations commerciales : carlos[AT]siliconcarne.co\n\n⸻\nQui est El Gringo ?\nCarlos Diaz est un entrepreneur et investisseur franco-américain, avec plus de 25 ans d’expérience dans le monde des startups. Installé à San Francisco depuis 15 ans, il fait le pont entre deux mondes, deux cultures… et deux visions de la Tech.\n",
+  "description": "Silicon Carne 🌶️ L'insider francophone de la Silicon Valley. Ici, on ne commente pas la tech, on la confronte. IA, pouvoir, économie, Silicon Valley : on réfléchit à voix haute, avec ceux qui la construisent, la financent et la challengent.\n\n👉 Pour toute demande de collaborations commerciales : carlos[AT]siliconcarne.co\n\n⸻\nQui est El Gringo ?\nCarlos Diaz est un entrepreneur et investisseur franco-américain, avec plus de 25 ans d’expérience dans le monde des startups. Installé à San Francisco depuis 15 ans, il fait le pont entre deux mondes, deux cultures… et deux visions de la Tech.\n",
   "thumbnail": "https://yt3.ggpht.com/HBH01jNMhS6dMa5rD9X8GdOFWn6IpKp6whIz2w1Y-qXjsDChlrtsgozwnF1UbnwJjtQn3iPHv10=s800-c-k-c0x00ffffff-no-rj",
   "public": "15 ans et plus",
   "language": "fr",
@@ -11,6 +11,19 @@
     "orientation"
   ],
   "videos": [
+    {
+      "id": "MTwKIX_5n_k",
+      "title": "Ton boulot intellectuel vaut combien en 2026 ?",
+      "description": "Anthropic vient de lancer une feature qui change tout.\n\nClaude ne t'assiste plus. Il fait ton job à ta place.\n\nPendant que tu bois ton café, il lit tes mails, organise ta journée, crée tes spreadsheets et prépare tes slides. Et on est encore loin de l'AGI.\n\nLe vrai basculement est déjà là — et personne n'en parle vraiment.\n\nSilicon Carne 🌶️ — Le podcast sur la Silicon Valley, depuis la Silicon Valley.",
+      "duration": "PT1M21S",
+      "published_at": "2026-03-30T06:30:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/MTwKIX_5n_k/hqdefault.jpg",
+      "tags": [
+        "orientation",
+        "metiers",
+        "economie"
+      ]
+    },
     {
       "id": "Pk7wnqOS_cc",
       "title": "Qui contrôle l'économie d'abondance de Musk ?",

@@ -151,7 +151,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Nobody & The Computer](https://youtube.com/channel/UCaPaDEFusMaogm0Vn0LbzoA) | Hey there and a ridiculously warm welcome to my little corner of the internet... |
 | [PleySmart](https://youtube.com/channel/UCnJgqsWP4PhK_v1GmDk3g6A) | Sur PleySmart, on explore ensemble le monde fascinant de l'intelligence artificielle ! Pas de discou... |
 | [Shubham SHARMA](https://youtube.com/channel/UCLKx4-_XO5sR0AO0j8ye7zQ) | IA, Automatisation, Productivité → Si vous voulez transformer votre façon de travailler, vous êtes a... |
-| [Silicon Carne 🌶️](https://youtube.com/channel/UCt11zYNefnunOkgCrsO9UYg) | Silicon Carne 🌶️ L'insider francophone de la Silicon Valley. Pas de langue de bois. Pas de hype. On... |
+| [Silicon Carne 🌶️](https://youtube.com/channel/UCt11zYNefnunOkgCrsO9UYg) | Silicon Carne 🌶️ L'insider francophone de la Silicon Valley. Ici, on ne commente pas la tech, on la... |
 | [Underscore_](https://youtube.com/channel/UCWedHS9qKebauVIK2J7383g) | IA, Hacking, Robotique — Des conversations de terrain avec ceux qui construisent. 🥨 |
 | [xavki](https://youtube.com/channel/UCs_AZuYXi6NA9tkdbhjItHQ) | Des tutoriels et formations gratuites en français pour bien débuter sur des outils linux, devops et ... |
 

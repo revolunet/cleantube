@@ -12,6 +12,31 @@
   ],
   "videos": [
     {
+      "id": "me13vHeMG1w",
+      "title": "Les aléas du « shadow AI » 🥷",
+      "description": "",
+      "duration": "PT18S",
+      "published_at": "2026-04-07T11:51:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/me13vHeMG1w/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "e4RcFkWRfCo",
+      "title": "Quelle IA sera choisie par les autres pour devenir un serviteur ?",
+      "description": "",
+      "duration": "PT1M21S",
+      "published_at": "2026-04-06T20:42:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/e4RcFkWRfCo/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "philosophie"
+      ]
+    },
+    {
       "id": "jDZFzL0SAos",
       "title": "Est ce qu’une IA regarderai Skibidi Tentafruit ?",
       "description": "",

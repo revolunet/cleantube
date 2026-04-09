@@ -12,6 +12,30 @@
   ],
   "videos": [
     {
+      "id": "sD2qTkC9RwM",
+      "title": "Pourquoi Dorsey veut tuer les organigrammes ?",
+      "description": "Jack Dorsey vient de publier un essai qui remet en question 2000 ans d'organisation du travail.\n\nLa hiérarchie d'entreprise ? Inventée par l'armée romaine. Son rôle ? Faire circuler l'information. Mais aujourd'hui, l'IA peut faire ça. Et selon Dorsey, les entreprises qui ne se réorganisent pas disparaissent dans deux ans.\n\nIntelligence collective vivante ou chaos organisationnel ? Je décrypte sa vision depuis San Francisco.\n\nSilicon Carne 🌶️ — Le podcast sur la Silicon Valley, depuis la Silicon Valley. \n\n#JackDorsey #IA #SiliconValley",
+      "duration": "PT1M36S",
+      "published_at": "2026-04-09T10:02:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/sD2qTkC9RwM/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "technologie"
+      ]
+    },
+    {
+      "id": "7BTVKt2w-Dg",
+      "title": "Pourquoi ce dev a tout recloné légalement ?",
+      "description": "Un développeur coréen clone Claude Code en une nuit. \n\nPendant qu'il dort, ses agents IA découpent le travail, codent, testent et publient. \n\nAu réveil : projet GitHub n°1 mondial. \nZéro ligne copiée d'Anthropic. \nTout reconstruit légalement. \n\nLe code n'est plus le produit — le système d'agents qui le produit, oui. \n\nSilicon Carne 🌶️ — Le podcast sur la Silicon Valley, depuis la Silicon Valley. \n\n#IA #ClaudeAI #OpenSource",
+      "duration": "PT1M42S",
+      "published_at": "2026-04-08T19:00:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/7BTVKt2w-Dg/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "swqO7ztPjWc",
       "title": "Meta peut maintenant prédire ton cerveau ?",
       "description": "Meta vient d'open sourcer un modèle qui ne lit pas dans tes pensées.\n\nIl fait pire : il prédit comment ton cerveau réagit biologiquement.\n\nTRIBE v2 peut simuler 70 000 points d'activité cérébrale et dire exactement quelle pub va capter ton attention — avant même que tu la voies. Officiellement, c'est pour la recherche médicale. En réalité, on vient de passer du ciblage comportemental au ciblage cognitif.\n\nEt cette fois, tu ne pourras plus dire \"je ne suis pas intéressé\".\n\nTon cerveau aura déjà répondu.\n\nSilicon Carne 🌶️ — Le podcast sur la Silicon Valley, depuis la Silicon Valley. \n\n#IA #Meta #Neuromarketing",

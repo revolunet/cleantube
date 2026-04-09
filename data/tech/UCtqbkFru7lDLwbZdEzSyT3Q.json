@@ -11,6 +11,30 @@
   ],
   "videos": [
     {
+      "id": "9msEj13LhnY",
+      "title": "Comment une landing page a fait perdre 13% à IBM en bourse",
+      "description": "La vidéo en entier juste ici : https://youtu.be/lBZr5Kr1Wzk\n\n#AIDrivenDev : La communauté #1 FR pour les développeurs boosté a l'IA https://discord.gg/ai-driven-dev\n\n#AI #Cobol #IBM #Anthropic #Claude #TechNews #LegacyCode",
+      "duration": "PT57S",
+      "published_at": "2026-04-09T16:02:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/9msEj13LhnY/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "GTUBl4Slmic",
+      "title": "Claude Code évolue trop vite : voici comment je suis chaque mise à jour",
+      "description": "🚀 Si vous êtes dev freelance et que vous voulez rester à jour sans y passer des heures, on centralise tout ça dans l'accompagnement AI-Driven Dev : https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=44_automatiser-veille-claude-code-n8n\n\n📦 AI-Driven Dev : Formation Entreprise : https://www.ai-driven-dev.fr/formation?utm_source=youtube&utm_medium=description&utm_campaign=44_automatiser-veille-claude-code-n8n\n\n---\n\nHello, c'est Alex !\n\nClaude Code sort 5 mises à jour en 10 jours et on rate des features qui nous feraient gagner des heures. \n\nJ'ai construit un système n8n qui récupère automatiquement le changelog GitHub d'Anthropic, l'envoie à l'API Mistral pour en extraire un résumé clair des nouveautés, et poste le tout sur notre Discord chaque semaine. \n\nJe vous montre le flow complet en live, de la connexion MCP jusqu'au message Discord.\n\nOn se retrouve dans la communauté AI-Driven Dev 👇,\nAlex\n\n#ClaudeCode #n8n #Mistral #AIDD #AIDrivenDev\n\n---\n\n🎞️ Chapitres\n\n0:00 - Trop de mises à jour dans l'IA pour les devs\n0:44 - Le système d'automatisation : n8n + MCP + Mistral\n1:40 - Claude Code : Création de la cheat-sheet + Prompt\n4:40 - Serveur n8n configuré avec le MCP\n7:36 - Résume intelligent avec l'API Mistral\n10:48 - Envoi automatique sur Discord\n12:38 - Demo du résultat final\n\n📺 Autres vidéos de la chaîne mentionnées\n\n- https://www.youtube.com/watch?v=TTAqdtaKylk\n- https://www.youtube.com/watch?v=S9CkumVX0X0\n\n🔗 Liens mentionnés\n\n- https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md\n- https://github.com/czlonkowski/n8n-mcp\n- https://mistral.ai/news/devstral-2-vibe-cli\n- https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny\n- https://releasebot.io/updates/anthropic/claude-code\n\n🔥 L'AI-Driven Dev : 1ère communauté IA FR pour les devs\n\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\nhttps://discord.com/invite/ai-driven-dev\n\n🌐 Mes réseaux\n\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\nhttps://x.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.",
+      "duration": "PT14M16S",
+      "published_at": "2026-04-09T14:25:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/GTUBl4Slmic/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "42bW2JE2C4Y",
       "title": "IBM perd 31 milliards $ : Claude attaque le COBOL !",
       "description": "La vidéo en entier juste ici : https://youtu.be/lBZr5Kr1Wzk\n\n#AIDrivenDev : La communauté #1 FR pour les développeurs boosté a l'IA https://discord.gg/ai-driven-dev\n\n#AI #Cobol #IBM #Anthropic #Claude #TechNews #LegacyCode",

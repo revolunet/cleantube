@@ -12,12 +12,12 @@
   ],
   "videos": [
     {
-      "id": "me13vHeMG1w",
-      "title": "Les aléas du « shadow AI » 🥷",
-      "description": "",
-      "duration": "PT18S",
-      "published_at": "2026-04-07T11:51:19Z",
-      "thumbnail": "https://i.ytimg.com/vi/me13vHeMG1w/hqdefault.jpg",
+      "id": "esbfcFhEoKk",
+      "title": "Le nouveau Claude Mythos est trop dangereux ?  #claude #IA",
+      "description": "L'entreprise anthropic a pris une décision majeure concernant son IA, claude ai, en choisissant de ne pas lancer une nouvelle version jugée trop puissante. Cette situation met en lumière les questions cruciales autour de la sécurité des systèmes d' intelligence artificielle et l'importance de la cybersecurité.",
+      "duration": "PT2M22S",
+      "published_at": "2026-04-08T13:08:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/esbfcFhEoKk/hqdefault.jpg",
       "tags": [
         "informatique",
         "technologie"
@@ -590,6 +590,18 @@
       "tags": [
         "metiers",
         "orientation"
+      ]
+    },
+    {
+      "id": "me13vHeMG1w",
+      "title": "Les aléas du « shadow AI » 🥷",
+      "description": "",
+      "duration": "PT18S",
+      "published_at": "2026-04-07T11:51:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/me13vHeMG1w/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
       ]
     },
     {

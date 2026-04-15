@@ -125,6 +125,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Deus Ex Silicium](https://youtube.com/channel/UCH6ppHEvV3_WIXEwmhv9HEg) | DEUS EX SILICIUM est une chaine francophone dont la thématique principale est l'électronique numériq... |
 | [DirtyBiology](https://youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q) | Docus scientifiques faits avec amour sur des sujets improbables. |
 | [Faire aimer les mathématiques](https://youtube.com/channel/UCMsTgghzMriQCpOkFNUR5Sg) | Faire aimer les mathématiques est une chaîne dédiée à l'éducation de cette discipline. Elle s'adress... |
+| [Grand Angle Nova](https://youtube.com/channel/UCkNZ-QtRIj0VepSoliDl_Bw) | Inscrivez-vous à notre newsletter 👇... |
 | [Grand Labo](https://youtube.com/channel/UCErPogabDLnau5mHw_IENxg) | Sciences et société/politique/histoire — Des conversations sur la fabrique de la science. |
 | [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’... |
 | [Je T'explique Comment](https://youtube.com/channel/UCbn3FkZp0zwfQUHDAGSZBpQ) | Tu t'es déjà demandé comment sont fabriqués les objets que tu utilises tous les jours ? Que ce soit ... |

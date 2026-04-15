@@ -1,0 +1,419 @@
+{
+  "id": "UCkNZ-QtRIj0VepSoliDl_Bw",
+  "name": "Grand Angle Nova",
+  "description": "Inscrivez-vous à notre newsletter 👇\nhttps://grandanglenova.short.gy/newsletter\n\nGrand Angle Nova explore les trois piliers de la croissance de demain : \n- l'intelligence artificielle et les nouvelles technologies de production de la connaissance (dont le High Power Computing), \n- l'énergie comme base de la croissance économique, \n- le système monétaire (avec Bitcoin) comme outil de transport et de stockage de la valeur.\n\nÀ travers des analyses solidement ancrées dans l'actualité et aux travers d'interviews d'invités de marque, nous décryptons ensemble ces grandes mutations technologiques et économiques. \nIci, nous explorons le futur pour vous donner les clés de compréhension, d'anticipation et d'investissement face aux transformations qui façonnent notre monde. \nRejoignez nous pour investir ensemble dans l'avenir !\n",
+  "thumbnail": "https://yt3.ggpht.com/n6Jarsn3odnxzX2wS5cgBwYHVbCf8CFLfodtUnZKY0t3rxTsvc7IemOg4QsHFKsJ9W87nL2DSw=s800-c-k-c0x00ffffff-no-rj",
+  "public": "adultes",
+  "language": "fr",
+  "tags": [
+    "economie",
+    "informatique",
+    "technologie"
+  ],
+  "videos": [
+    {
+      "id": "P-wAr687qxg",
+      "title": "Personne ne réalise ce que Yann LeCun vient de créer",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nIl y a une question que peu de gens osent poser franchement : et si les IA que nous utilisons tous les jours, aussi impressionnantes soient-elles, ne comprenaient absolument rien à ce qu'elles font ?\n\nPas parce qu'elles manquent de données. Pas parce qu'elles manquent de puissance de calcul. Mais parce que le paradigme sur lequel elles reposent atteint une limite fondamentale, celle du langage lui-même.\n\nC'est précisément ce que défend Yann LeCun, Prix Turing et l'un des pères fondateurs du Deep Learning, depuis des années, au risque de se mettre à dos une bonne partie de la Silicon Valley. Sa thèse est radicale : prédire le mot suivant ne mènera jamais à l'intelligence. Et construire des data centers toujours plus gigantesques pour y remédier, c'est courir dans la mauvaise direction.\n\nDans cette vidéo, on explore pourquoi cette critique est sérieuse, ce qu'elle révèle sur les limites structurelles des grands modèles de langage, et surtout quelle alternative LeCun propose concrètement avec son architecture JEPA et son modèle LeWorldModel, publié en mars 2026.\n\nLes chiffres sont troublants. Un modèle de 15 millions de paramètres, entraîné sur un seul GPU en quelques heures, capable de déduire les lois de la physique par simple observation. Quarante-huit fois plus rapide que les architectures génératives actuelles pour planifier une action physique. Sans avoir lu une seule ligne de Wikipedia.\n\nCe qui se joue ici dépasse le débat technique. C'est une remise en question profonde de ce que nous appelons intelligence, et de la direction que prend l'une des industries les plus capitalisées de l'histoire.\n\n#IntelligenceArtificielle #YannLeCun #WorldModel",
+      "duration": "PT18M3S",
+      "published_at": "2026-04-12T07:00:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/P-wAr687qxg/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "0HTTStqrIUM",
+      "title": "Personne ne réalise ce qu'Elon Musk vient de créer",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nElon Musk vient d'annoncer TeraFAB : une usine de 16 kilomètres de long au Texas, capable de produire l'équivalent d'un réseau électrique américain en puces électroniques tous les 18 mois. Et la majorité de cette infrastructure serait envoyée dans l'espace.\n\nDans cette vidéo, je décortique ce projet dans le détail, mais surtout, je replace cette annonce dans une logique industrielle et philosophique bien plus vaste que ce que les gros titres laissent entrevoir.\n\nJe commence par expliquer le problème concret que TeraFAB cherche à résoudre : pourquoi le monde manque déjà de puissance de calcul avant même que les robots, les voitures autonomes et les agents IA ne soient réellement déployés, et pourquoi ce problème est d'abord physique avant d'être technologique.\n\nJ'explore ensuite la logique du système spatial : pourquoi l'espace résout des contraintes thermiques et énergétiques que la Terre ne peut tout simplement pas résoudre, et comment Starship, Starlink et xAI forment avec TeraFAB une architecture industrielle cohérente que personne d'autre sur la planète n'est en mesure de répliquer.\n\nJe reviens également sur la trinité industrielle que Musk est en train de construire entre Tesla, SpaceX et xAI, et pourquoi ce modèle reproduit délibérément la dynamique SpaceX-Starlink qui a déjà transformé l'accès à l'espace.\n\nEnfin, je partage une réflexion plus profonde sur ce que cette vision implique réellement pour l'être humain, sur le sens du travail, de la liberté et de la conscience dans un monde d'abondance totale piloté par une intelligence supérieure. Une question que Musk lui-même semble ne pas avoir totalement résolue.\n\n#ElonMusk #TeraFAB #IntelligenceArtificielle",
+      "duration": "PT19M42S",
+      "published_at": "2026-03-29T07:00:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/0HTTStqrIUM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "1SF9hwjc7a8",
+      "title": "Ça y est, l’IA va tous nous sauver!",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nUn ingénieur australien sans diplôme en médecine vient de concevoir un vaccin anticancer personnalisé pour sa chienne condamnée. En deux mois. Pour 3 000 dollars. Et ça a fonctionné.\n\nCette histoire n'est pas une métaphore. C'est ce qui vient de se produire à Sydney, et elle soulève une question qui ne va plus nous lâcher : si l'IA permet à un individu de faire ça pour son chien, qu'est-ce qui nous attend ?\n\nDans cette vidéo, je décortique chaque étape de ce qui s'est réellement passé, sans survendre le miracle ni minimiser ce que cela représente vraiment.\n\nJe commence par expliquer concrètement le workflow technique utilisé : du séquençage ADN à la modélisation des protéines via AlphaFold, en passant par l'identification des néoantigènes et la conception de la séquence ARNm. Étape par étape, pour que vous compreniez exactement ce que l'IA a rendu possible ici, et ce qu'elle n'a pas fait.\n\nJ'explore ensuite ce qui m'a semblé le défi le plus sous-estimé de cette histoire : comment un inconnu sans titre académique a réussi à convaincre les meilleurs laboratoires d'Australie de le prendre au sérieux, et à naviguer dans un cadre réglementaire qui n'était pas conçu pour ce genre de situation.\n\nJe reviens également sur ce que ce cas nous apprend vraiment sur l'état de la médecine personnalisée aujourd'hui, ses limites réelles, et pourquoi passer du chien à l'humain change fondamentalement la donne sur le plan médical, juridique et économique.\n\nEnfin, je replace cette histoire dans un contexte plus large : celui d'une transformation profonde de ce qu'un individu compétent peut accomplir seul, et ce que cela signifie pour l'avenir de la médecine.\n\n#IA #Cancer #Médecine",
+      "duration": "PT17M3S",
+      "published_at": "2026-03-22T08:00:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/1SF9hwjc7a8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "UdtE1DjBWcM",
+      "title": "Mourir avant 2040 serait une erreur. Voici pourquoi.",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nDavid Sinclair vient de faire une annonce fracassante sur le rajeunissement cellulaire. Mais derrière les gros titres, quelle est la réalité scientifique ? Et surtout, où en est vraiment la science du vieillissement aujourd'hui ?\n\nDans cette vidéo, je prends du recul sur les annonces spectaculaires pour aller chercher ce que font les chercheurs les plus crédibles dans ce domaine, loin du bruit médiatique.\n\nJe commence par décortiquer ce que l'on sait réellement sur les mécanismes du vieillissement au niveau cellulaire, pourquoi rajeunir une cellule ne suffit pas, et quels sont les autres fronts biologiques que la science doit encore maîtriser pour espérer inverser le processus de vieillissement dans son ensemble.\n\nJ'explore ensuite un aspect souvent ignoré du grand public : la matrice extracellulaire, cette structure invisible qui conditionne la santé de tous vos organes, et pourquoi elle représente l'un des défis les plus complexes de la biologie moderne.\n\nJe reviens également sur le rôle transformateur de l'intelligence artificielle dans ce domaine. Non pas comme un gadget, mais comme un changement de paradigme profond qui est en train de résorber ce que les historiens des sciences appellent le \"fardeau de la connaissance\", et d'accélérer la production de solutions thérapeutiques concrètes à une vitesse inédite.\n\nUne analyse rigoureuse à la croisée de la biologie, de l'IA et de la longévité.\n\n#Longévité #IntelligenceArtificielle #Santé",
+      "duration": "PT15M40S",
+      "published_at": "2026-03-15T08:00:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/UdtE1DjBWcM/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "technologie"
+      ]
+    },
+    {
+      "id": "o-5SD0zRdb0",
+      "title": "Les CEO ont trouvé l'excuse PARFAITE pour VOUS virer (et ils vont le regretter)",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\n108 435 suppressions d'emplois en un mois aux USA. Le chiffre le plus élevé depuis la crise de 2009. Mais ce n'est pas le nombre qui inquiète le plus, c'est la raison invoquée par les entreprises pour justifier ces coupes massives.\n\nL'intelligence artificielle est devenue le nouveau bouclier des directions pour expliquer leurs décisions de licenciements. Sam Altman lui-même reconnaît ce phénomène qu'il appelle l'\"AI Washing\". Pourtant, derrière cette excuse technologique se cache une réalité bien plus complexe et préoccupante.\n\nPour la première fois dans l'Histoire économique moderne, nous assistons peut-être à une déconnexion totale entre croissance économique et emploi. Les chiffres du PIB américain restent positifs, mais le marché du travail raconte une tout autre histoire, particulièrement pour une catégorie de travailleurs bien précise.\n\nDans cette analyse approfondie, j'explore les mécanismes qui sont en train de transformer radicalement notre rapport au travail. Entre les prédictions des géants de la tech, les données de terrain et les stratégies d'entreprises, un nouveau modèle économique émerge sous nos yeux.\n\nLa question n'est plus de savoir si ce changement va arriver, mais comment nous allons nous y adapter. Car contrairement à ce que les statistiques d'adoption suggèrent, l'impact de l'IA ne dépend pas du nombre d'utilisateurs.\n\n#IA #Emploi #Économie",
+      "duration": "PT15M40S",
+      "published_at": "2026-03-08T08:00:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/o-5SD0zRdb0/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "technologie"
+      ]
+    },
+    {
+      "id": "5TxGb2__y7g",
+      "title": "La Guerre à l'ère de l'IA",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/iamilitaire\n\nL'intelligence artificielle transforme radicalement la guerre moderne. Drones autonomes, essaims coordonnés, systèmes de surveillance de masse... Ce n'est plus de la science-fiction.\n\nDans cette vidéo, je décrypte comment l'IA militaire redéfinit les conflits du 21e siècle :\n\nLes programmes secrets du Pentagone (Project Maven, Loyal Wingman)\nLa course aux armements autonomes entre USA, Chine et Russie\nLes enjeux de souveraineté technologique et énergétique\nLe basculement vers la \"Battlefield Singularity\"\n\nDécouvrez pourquoi la puissance militaire ne se mesure plus en nombre de soldats, mais en capacité de calcul et en data centers.\n\nUne analyse approfondie qui mêle actualité géopolitique, références à la culture pop (Iron Man, Captain America, Batman) et prospective technologique.\n\n⚠️ Cette vidéo soulève des questions essentielles sur l'avenir de l'humanité face à l'automatisation de la guerre.\n\n#IA #Géopolitique #Défense #Technologie",
+      "duration": "PT20M5S",
+      "published_at": "2026-02-22T08:10:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/5TxGb2__y7g/hqdefault.jpg",
+      "tags": [
+        "histoire",
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "id": "H94373RugDg",
+      "title": "Elon Musk à Davos : sa vision troublante de l'avenir",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/Musk-Davos\n\nElon Musk dévoile sa vision complète de l'avenir de la civilisation au Forum de Davos 2026.\n\nSource interview : https://www.youtube.com/live/SQJIyR5uoZY?si=adbDMxCmzAGgh4G-\n\nLors d'une interview exceptionnelle avec Larry Fink, PDG de BlackRock, Elon Musk partage sa stratégie globale pour maximiser l'avenir de l'humanité. SpaceX, Tesla, xAI, Neuralink : découvrez comment tout est interconnecté dans une vision qui va de Mars aux data centers spatiaux, en passant par l'intelligence artificielle et les robots humanoïdes.\n\nDans cette analyse approfondie, je décrypte les moments les plus marquants de cette interview historique. Musk explique pourquoi il considère la conscience humaine comme une \"minuscule bougie dans une vaste obscurité\" et pourquoi devenir une civilisation multi-planétaire n'est pas une fuite, mais une assurance-vie pour l'espèce humaine.\n\nLarry Fink qualifie Elon Musk d'icône de la réussite industrielle inédite, capable de passer de la théorie à l'exécution massive. Cette interview révèle un personnage complexe, conscient des risques existentiels de l'IA tout en choisissant d'être un acteur engagé plutôt qu'un spectateur déprimé.\n\nDécouvrez pourquoi Musk affirme que nous vivons probablement déjà dans une simulation, comment il compte résoudre la crise démographique mondiale avec des robots, et pourquoi l'énergie solaire représente 100% de l'énergie disponible dans notre système solaire.\n\nUne analyse complète qui connecte SpaceX, Tesla, xAI et Neuralink dans une vision cohérente de l'avenir : entre espoir technologique et questionnements existentiels sur le sens de la vie humaine à l'ère de l'abondance artificielle.\n\nSource interview : https://www.youtube.com/live/SQJIyR5uoZY?si=adbDMxCmzAGgh4G-#elonmusk \n\n #SpaceX #Tesla #IA #Davos2026 #Starship #xAI #neuralink",
+      "duration": "PT18M51S",
+      "published_at": "2026-02-08T08:00:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/H94373RugDg/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "technologie"
+      ]
+    },
+    {
+      "id": "G2dpUjEsOoY",
+      "title": "La transition énergétique en rupture",
+      "description": "Après la tempête Uri, un blackout majeur frappe le Texas.\n\nTrès vite, une évidence s’impose :\nce blackout n’est pas le résultat d’un seul événement.\n\nPourquoi le réseau électrique a-t-il cédé ?\nLa tempête a-t-elle tout provoqué à elle seule ?\nOu a-t-elle simplement révélé des fragilités déjà existantes ?\n\nBlack out to Power est la 1ère partie de 2 documentaire.",
+      "duration": "PT24M16S",
+      "published_at": "2026-01-25T10:42:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/G2dpUjEsOoY/hqdefault.jpg",
+      "tags": [
+        "environnement",
+        "sciences",
+        "technologie"
+      ]
+    },
+    {
+      "id": "OEmw6nzmGqg",
+      "title": "L'humanité face à sa création.",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nLes lois de la robotique d'Asimov devaient nous protéger. Elles n'ont jamais existé.\n\nDe 3 à 5 millions de robots entre 2021 et 2025. Des humanoïdes comme Optimus, Unitree ou Figure 03 qui envahissent nos usines et bientôt nos foyers. Une industrie qui avance sans règle, sans garde-fou, sans se demander où elle va.\n\nAlors que la fiction nous promettait des machines bienveillantes, la réalité nous confronte à une question bien plus profonde : l'humanité peut-elle coexister avec ses créations ?\n\nUn voyage philosophique au cœur de la robotique moderne.\n\n#Robotique #IA #Asimov #Technologie #Futur",
+      "duration": "PT21M21S",
+      "published_at": "2026-01-18T08:00:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/OEmw6nzmGqg/hqdefault.jpg",
+      "tags": [
+        "philosophie",
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "Poq-99Tzbjw",
+      "title": "L'IA doit-elle éduquer nos enfants ? Le pari FOU du Salvador",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nLe Salvador vient de prendre une décision qui va choquer le monde : confier l'éducation de 1 MILLION d'enfants à Grok, l'IA d'Elon Musk.\n\n5000 écoles. 2 ans de déploiement. Zéro précédent mondial.\n\nPendant que la France débat, Nayib Bukele agit. Après avoir adopté le Bitcoin comme monnaie légale, le président salvadorien frappe encore plus fort : un partenariat historique avec xAI pour révolutionner son système éducatif public.\n\nDans cette vidéo, je décrypte :\n\n- Pourquoi le Salvador fait ce pari maintenant\n- Comment Grok va transformer l'école\n- Pourquoi Musk et pas l'UNESCO ?\n- Le rôle secret de Starlink\n- Ce que ça change pour les profs\n- Et si ça marchait ? Les conséquences mondiales\n\n━━━━━━━━━━━━━━━━━━━━\n\n🔥 LA QUESTION CENTRALE :\nFaut-il confier l'éducation de nos enfants à l'IA ?\n\nLe Salvador devient le premier laboratoire mondial de l'éducation par intelligence artificielle. Un prof IA pour chaque enfant. Des cours personnalisés. Un suivi en temps réel. \n\nGénie ou folie ? La réponse dans cette vidéo.\n\n━━━━━━━━━━━━━━━━━━━━\n\n📚 SOURCES CITÉES :\n\n→ Annonce officielle xAI x Salvador :\nhttps://x.ai/news/el-salvador-partnership\n\n→ Tweet de Nayib Bukele :\nhttps://x.com/nayibbukele/status/2000723301157462450\n\n→ Analyse Hyperight sur le programme :\nhttps://hyperight.com/grok-enters-in-schools-el-salvador-launches-ai-education-program-with-elon-musks-xai/\n\n→ Partenariat Starlink x Salvador :\nhttps://www.tesmanian.com/blogs/tesmanian-blog/salvador\n\n→ Résultats PISA (OCDE) :\nhttps://www.oecd.org/fr/publications/resultats-du-pisa-2022-volume-i\n\n━━━━━━━━━━━━━━━━━━━━\n\n💬 ET TOI, QU'EN PENSES-TU ?\n\nConfierez vous l'éducation de vos enfants à une IA ?\n👇 Dis-le moi en commentaire !\n\n━━━━━━━━━━━━━━━━━━━━\n\n#IA #Education #Salvador #ElonMusk #Grok #Bukele #IntelligenceArtificielle #Ecole #Futur #xAI #grandanglenova",
+      "duration": "PT16M36S",
+      "published_at": "2026-01-11T08:00:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/Poq-99Tzbjw/hqdefault.jpg",
+      "tags": [
+        "scolaire",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "WJfbYJ6iPNQ",
+      "title": "La Vérité sur ce que Cache votre Smartphone en 2026",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/edge-ai\n\nDécouvrez comment l’intelligence artificielle (IA) quitte le cloud pour s’intégrer directement dans nos smartphones, ordinateurs et objets connectés ! Dans cette vidéo, on vous explique pourquoi l’IA locale est en train de bouleverser la tech, de Google Gemini à Apple Intelligence, en passant par les puces Snapdragon et les modèles open-source comme Mistral ou Phi-3.\n\nFini la dépendance aux serveurs distants : aujourd’hui, votre téléphone ou votre PC peut exécuter des modèles IA puissants, sans abonnement, sans cloud, sans code. On parle de TinyML, d’Edge AI, de Machine Learning embarqué dans les capteurs, montres, caméras et véhicules. Résultat ? Plus de souveraineté sur vos données, une meilleure autonomie, et une technologie qui prolonge la durée de vie de vos appareils.\n\nDans cette vidéo, vous apprendrez :\nPourquoi l’IA locale marque la fin de l’obsolescence programmée\nComment l’open-source démocratise l’accès à l’IA sur mobile et PC\nL’impact de l’IA embarquée sur l’économie numérique et la vie privée\nComment chaque appareil devient une micro-infrastructure cognitive, au service de votre attention et de votre productivité\nL’IA n’est plus un service ni un gadget, c’est une couche d’intelligence ambiante, contextuelle et discrète, qui transforme notre rapport à la technologie. Prêt à comprendre pourquoi l’IA n’est plus “dans” votre téléphone, mais qu’elle EST votre téléphone ?\n\n#IA #EdgeAI #Smartphone #OpenSource #Tech",
+      "duration": "PT7M42S",
+      "published_at": "2025-12-28T08:00:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/WJfbYJ6iPNQ/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "GXoX3Xs2nwU",
+      "title": "Ce que révèle l’échec de Chat GPT 5",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/fatigue-ia\n\nGPT-5 devait être \"le plus intelligent, le plus rapide, le plus utile\". La réalité ? Des milliers d'utilisateurs déçus, des améliorations jugées imperceptibles, et un lancement qualifié de \"désastre\" par certains observateurs.\n\nMais derrière cet échec se cache quelque chose de bien plus profond.\nDans cette vidéo, on analyse :\n\nPourquoi GPT-5 a \"échoué au test de la hype\"\n\nLes rendements décroissants de l'IA : 1 milliard $ pour des gains marginaux\nComment les GAFAM verrouillent l'innovation (l'accord Apple-Google à 1 milliard $/an)\n\nLe passage de l'invention à la rente : l'IA devient une industrie lourde\nOù se cache la vraie innovation aujourd'hui (spoiler : pas chez OpenAI)\nL'IA n'est pas morte. Mais elle n'avance plus dans la même direction.\n\nEt ça, c'est peut-être la meilleure nouvelle possible.\n\n#ChatGPT #GPT5 #OpenAI #IntelligenceArtificielle #IA #SamAltman #Tech #Innovation #GAFAM",
+      "duration": "PT7M27S",
+      "published_at": "2025-12-21T08:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/GXoX3Xs2nwU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "JkQk35ZhSno",
+      "title": "Ce que personne ne voit : l’IA s’installe dans le réel",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nDécouvrez comment l'intelligence artificielle quitte les écrans pour transformer concrètement notre quotidien. De Foxconn qui utilise des robots humanoïdes pour assembler des serveurs Nvidia au Texas, aux premiers robots intelligents déployés dans le secteur nucléaire par Capgemini et Orano.\n\n#IA #Robotique #Innovation #Technologie #NVIDIA #Tesla #OpenAI \n#grandanglenova #richarddétente #intelligenceartificielle #IoT #santéconnectée #edgeAI #robotshumanoïdes  #Optimus #objetsconnectés #domotique #diagnosticmédical #innovationtechnologique #futur #automatisation #capteursintelligents #IAembarquée #technologie2025 #révolutionnumérique #robotsindustriels #assistantvocal #biotechnologie #investissement #startupIA #machinelearning",
+      "duration": "PT8M31S",
+      "published_at": "2025-12-18T08:45:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/JkQk35ZhSno/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "N6wcyaGZZZk",
+      "title": "Quand l'IA Devient une Arme de Domination Économique (Genesis Mission)",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova :\nhttps://grandanglenova.short.gy/newsletter\n\nLa guerre froide de l’IA a commencé.\n\nLe 24 novembre, Donald Trump a signé un décret clé lançant la Genesis Mission : un programme fédéral destiné à accélérer massivement la recherche scientifique américaine grâce à l’intelligence artificielle, aux supercalculateurs nationaux et aux données de l’État.\n\nObjectif affiché :\n👉 réduire des années de recherche à quelques jours\n👉 reprendre la domination technologique mondiale\n👉 transformer l’IA en levier de puissance économique et stratégique\n\nDerrière ce texte, un changement de doctrine radical. En moins d’un an, les États-Unis sont passés d’une logique de régulation de l’IA à une logique de mobilisation totale, assumée, centralisée, offensive.\n\nCette vidéo décrypte les enjeux réels derrière la stratégie IA de Trump, et pourquoi elle pourrait redessiner durablement l’équilibre mondial.",
+      "duration": "PT10M48S",
+      "published_at": "2025-12-14T08:00:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/N6wcyaGZZZk/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "H80XvFD1Fd4",
+      "title": "L’IA avance trop vite ! Sommes-nous déjà dépassés ?",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nL'IA avance trop vite : sommes-nous déjà dépassés par nos propres créations ?\nEn 1956, le philosophe Günther Anders prédisait : \"La technique appelle la technique\". \nAujourd'hui, avec MiMo de Xiaomi, DeepSeek et l'explosion de l'IA chinoise, sa prophétie \nse réalise sous nos yeux.\n\nBienvenue dans l'économie de la cognition : un nouveau modèle économique où la valeur \nne vient plus du travail humain, mais de la capacité des machines à penser, apprendre et \ndécider seules.\n\n📊 CHIFFRES CLÉS :\n• 252 milliards $ investis en IA en 2024\n• +22,9% de croissance du marché cognitif\n• 88% des entreprises utilisent l'IA en 2025\n• 115 milliards $ de richesse IA non comptabilisée dans le PIB\n• 2045 : date estimée de la singularité technologique\n\n🔍 DANS CETTE VIDÉO :\n✅ Pourquoi la Chine domine la course à l'IA\n✅ Le concept de \"Brain Economy\" discuté à Davos 2025\n✅ Comment le capital cognitif remplace le capital humain\n✅ La différence entre entreprise automatisée et entreprise cognitive\n✅ Notre nouveau rôle : orchestrateurs, pas producteurs\n\n💡 La question n'est plus \"L'IA va-t-elle nous remplacer ?\" mais \"Voulons-nous rester \nspectateurs de son évolution ?\"\n\n#IA #IntelligenceArtificielle #EconomieCognitive #BrainEconomy #Futur #Technologie \n#Singularité #Davos2025 #GüntherAnders #TransformationDigitale",
+      "duration": "PT7M35S",
+      "published_at": "2025-12-07T08:00:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/H80XvFD1Fd4/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "philosophie"
+      ]
+    },
+    {
+      "id": "4ujyBFI2LsQ",
+      "title": "X402 + Bitcoin : le combo qui change définitivement le monde",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nX402 + Bitcoin : le combo qui change définitivement le monde.\nCe que tu vas découvrir dans cette vidéo : \n\nles IA ne se contentent plus de produire du texte… elles vont bientôt payer. Et ce simple fait va totalement transformer Internet, l’économie, les blockchains et même la manière dont les machines interagissent entre elles.\n\nDans cette vidéo, on plonge au cœur d’un sujet explosif :\n-  comment les agents IA deviennent des clients économiques,\n-  comment les API deviennent des fournisseurs,\n-  et pourquoi la bande passante, le calcul GPU et l’énergie vont devenir des unités de facturation universelles.\n\nEt surtout :\n pourquoi le protocole X402, combiné à Bitcoin et au Lightning Network, est en train de devenir le standard du paiement machine-à-machine.\n\n🌐 Ce que cette révolution annonce\n\nInternet ne sera plus seulement un réseau d’information :\n➡️ il devient une infrastructure économique autonome,\n➡️ où les machines achètent, vendent, s’abonnent,\n➡️ et où chaque micro-seconde de calcul est monétisée.\n\nC’est le début de l’économie des IA.\n\n#X402\n#Bitcoin\n#lightningnetwork \n#L402\n#crypto \n#IA\n#humanvsai \n#ai \n#openai \n#coinbase",
+      "duration": "PT17M9S",
+      "published_at": "2025-11-30T08:03:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/4ujyBFI2LsQ/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "VjlXycvXgbc",
+      "title": "2030 : L'IA gérera votre argent et vous serez heureux",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nL’IA entre dans la finance pour de bon : robo-advisors à milliards, modèles autonomes, trading piloté par des agents… Et bientôt, c’est notre argent qu’elle gérera directement. Plus efficace, plus rapide, mais aussi plus opaque.\n\nQui décidera ? Qui créera la valeur ? Et à qui appartiendra-t-elle vraiment ?\n\nBienvenue dans le monde probable de 2030 où la délégation financière sera totale.\n\n💬 Donne nous ton avis en commentaire, on en discute !\n\n⸻\n\n#davos #worldeconomicforum #robot #ai #artificialintelligence #money",
+      "duration": "PT9M40S",
+      "published_at": "2025-11-26T08:00:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/VjlXycvXgbc/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "jCpC-sGTKBI",
+      "title": "LA SINGULARITÉ — Et si tout basculait sans qu’on s’en rende compte ?",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova :\nhttps://grandanglenova.short.gy/newsletter\n\nEt si la singularité avait déjà commencé ?\n\nUne date revient sans cesse : 2045.\nC’est l’année où, selon Ray Kurzweil, l’intelligence humaine sera dépassée.\nMais si la singularité ne se déclarait pas brutalement…\net qu’on était déjà en train d’y glisser sans le savoir ?\n\nChaque jour, les modèles d’intelligence artificielle franchissent de nouvelles limites.\nSam Altman (OpenAI) parle déjà d’IA aussi puissantes qu’Einstein — retenues non pas par la science, mais par le manque d’énergie.\nEt pendant que nous regardons ailleurs, la frontière entre l’humain et la machine s’efface lentement.\n\nPeut-être que le moment où tout bascule n’aura ni bruit, ni lumière.\nPeut-être qu’un jour, nous lèverons les yeux… et que ce sera déjà fait.\n\nÀ travers la science, la philosophie et la fiction — Her, Transcendence, Love, Death & Robots… —\ncette vidéo explore ce que pourrait être la singularité,\nnon pas comme un futur lointain,\nmais comme un processus invisible déjà en marche.\n\n⸻\n\n💬 Et toi, penses-tu qu’on la reconnaîtra quand elle arrivera ?\n\n\n\n#singularité   #ia  #intelligenceartificielle  #raykurzweil  #samaltman  #transhumanisme  #future  #philosophie  #sciencefiction  #technologie",
+      "duration": "PT30M33S",
+      "published_at": "2025-11-16T08:00:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/jCpC-sGTKBI/hqdefault.jpg",
+      "tags": [
+        "philosophie",
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "ltwwXns7goE",
+      "title": "Elon Musk : 1000 MILLIARDS $ pour sauver l'humanité... ou la contrôler ?",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova : https://grandanglenova.short.gy/newsletter\n\nLe 6 novembre 2025, Tesla a validé le plus gros package de rémunération de l'histoire : jusqu'à 1000 MILLIARDS de dollars pour Elon Musk.\n\nMais ce n'est pas une histoire d'argent. C'est une histoire de POUVOIR et de transformation de l'humanité.\n\nPour toucher ce trillion, Musk doit accomplir l'impossible :\n✅ Faire passer Tesla de 1200 à 8500 milliards de valorisation\n✅ Livrer 20 millions de voitures\n✅ Déployer 1 million de robots Optimus\n✅ Lancer 1 million de robotaxis\n\nSes promesses ? Éliminer la pauvreté, rendre le travail optionnel, vider les prisons grâce à Optimus, instaurer un revenu universel élevé.\n\nLe vote s'est déroulé dans une ambiance surréaliste : robots dansants, lasers, Elon sur scène comme une rockstar. 75% des actionnaires ont dit OUI malgré l'opposition d'investisseurs institutionnels qui y voient un \"pouvoir sans contrôle\".\n\nPendant ce temps, la Chine accélère avec XPeng et son robot IRON à peau souple ultra-réaliste. La course est lancée.\n\nCe package n'est pas un événement financier. C'est un changement de phase civilisationnel.\n\n#ElonMusk #Tesla #Optimus #IA #Robotique #Innovation",
+      "duration": "PT11M10S",
+      "published_at": "2025-11-14T09:57:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/ltwwXns7goE/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "technologie",
+        "philosophie"
+      ]
+    },
+    {
+      "id": "CKOaKc89tQ0",
+      "title": "Pourquoi l’IA nous rend vulnérable ?",
+      "description": "🤖 Inscrivez-vous à la Newsletter Grand Angle Nova :\nhttps://grandanglenova.short.gy/newsletter\n\nEt si l’intelligence artificielle avait déjà franchi la ligne rouge ?\nPendant que nous l’utilisons pour écrire ou créer, d’autres l’emploient pour attaquer.\nPhishing parfaits, malwares auto-générés, bots autonomes… le crime numérique entre dans l’ère de l’automatisation totale.\n\nSommes-nous encore capables de comprendre ce que les machines font à notre place, et d'assurer notre défense ?\n\nPlongez dans cette nouvelle vidéo sur l’IA souterraine, plus malveillante qu'on ne saurait le croire.\n\n#ia  #bot #hacker",
+      "duration": "PT8M19S",
+      "published_at": "2025-11-11T16:00:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/CKOaKc89tQ0/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "64hbIUv7hNI",
+      "title": "ASI : Une IA qui crée d’autres IA ? | Avec David Gurlé",
+      "description": "📧 *Inscrivez-vous à la Newsletter Grand Angle Nova :*\nhttps://grandanglenova.short.gy/newsletter\n\nEt si les chercheurs n’étaient plus nécessaires ?\nUne équipe de scientifiques chinois vient de créer un modèle d’IA capable de concevoir, tester et améliorer seule ses propres systèmes.\nAucune donnée. Aucun humain.\nCinq intelligences collaborent et produisent de nouvelles IA de manière totalement autonome.\n\nC’est une étape vertigineuse vers ce qu’on appelle désormais l’ASI — Artificial Scientific Intelligence : une intelligence capable de faire de la recherche scientifique sans supervision humaine.\n\nDans cet épisode, je reçois David Gurlé pour décrypter ce tournant historique :\n➡️ Comment ces IA parviennent-elles à s’auto-entraîner ?\n➡️ Quels sont les risques et les limites ?\n➡️ Et si, demain, la recherche scientifique était dirigée… par des machines ?\n\n💡 Abonnez-vous à Grand Angle Nova pour explorer les enjeux de l’intelligence artificielle, de l’énergie et des technologies qui transforment notre monde.\n\n#IA #ASI #IntelligenceArtificielle #DavidGurlé #GrandAngleNova #DeepSeek #Autonomie #Recherche #Science",
+      "duration": "PT18M29S",
+      "published_at": "2025-10-26T08:00:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/64hbIUv7hNI/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "ADAq8XOzzVo",
+      "title": "DeepSeek : la Chine réécrit-elle les règles de l’IA ? | Avec David Gurlé",
+      "description": "DeepSeek a surpris le monde fin 2024 : des performances comparables à GPT-4, pour un coût d’entraînement dix fois inférieur.\nComment la Chine a-t-elle réussi cet exploit ?\nSous contrainte de matériel, ses ingénieurs ont repensé leur manière d’entraîner un modèle : architecture à experts (MoE), calculs en faible précision (FP8), gestion fine des ressources… Une approche plus efficace et ingénieuse, qui remet en cause la logique américaine fondée sur la puissance brute.\n\nDans cette vidéo, je reçois David Gurlé pour décrypter ce tournant :\n➡️ La Chine est-elle en train de redéfinir les règles du jeu de l’intelligence artificielle ?\n➡️ Quelles conséquences pour l’Europe, l’open-source et la souveraineté numérique ?\n\n#DeepSeek #IA #IntelligenceArtificielle #Chine #OpenAI #SouverainetéNumérique\n\n🤖 Inscrivez-vous à la Newsletter Grand Angle Invest : https://grandangleinvest.activehosted.com/f/3",
+      "duration": "PT33M59S",
+      "published_at": "2025-10-19T07:00:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/ADAq8XOzzVo/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "owdvvxzcTqw",
+      "title": "Souveraineté numérique : Qui des États-Unis et de la Chine tient l’Europe ? | Avec David Gurlé",
+      "description": "Entre les États-Unis et la Chine, l’Europe semble avoir perdu la main sur sa souveraineté numérique.\nLes GPU Nvidia, les infrastructures cloud, l’intelligence artificielle et la dépendance énergétique posent aujourd’hui une question simple : sommes-nous encore maîtres de nos données, de nos technologies et de nos choix ?\n\nAvec David Gurlé, nous analysons les racines de cette dépendance.\nDe Huawei à Nvidia, des backdoors à l’intelligence artificielle, il décrypte les rapports de force entre les grandes puissances technologiques et la place que l’Europe a choisie – ou subie – dans cette nouvelle guerre du numérique.\n\n#SouverainetéNumérique #Europe #Chine #ÉtatsUnis #Technologie #IA #Nvidia #huawei \n\n🤖 Inscrivez-vous à la Newsletter Grand Angle Invest : https://grandangleinvest.activehosted.com/f/3",
+      "duration": "PT20M29S",
+      "published_at": "2025-10-12T07:00:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/owdvvxzcTqw/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "economie"
+      ]
+    },
+    {
+      "id": "HJMydwboCdM",
+      "title": "La double dépense des stablecoins, l'avenir de la monnaie et l'IA, avec Michel Khazzaka !",
+      "description": "Rejoignez le Club 42 pour des rencontres exclusives lors d'événements privés ➡ https://gacc.thrivecart.com/adhesion-club-42/\n\n🚨La mort programmée du système bancaire traditionnel\nMichel Khazzaka, conseiller des banques centrales européennes et expert en systèmes de paiement, révèle dans cette interview explosive ce que les institutions financières ne veulent pas que vous sachiez sur Bitcoin, l'euro numérique et l'avenir du système monétaire.\n\n📊 CE QUE VOUS ALLEZ DÉCOUVRIR :\n• La Deutsche Bank admet : Bitcoin va infiltrer les réserves des banques centrales\n• Pourquoi les banques centrales accumulent secrètement du Bitcoin\n• Le double spending des stablecoins : comment Tether crée 200% d'inflation\n• Michael Saylor et sa \"bombe financière\" qui pourrait détruire les banques\n• L'euro numérique : pourquoi c'est une \"usine à gaz\" inutile\n• La France pourrait accumuler 1 TRILLION € avec Bitcoin (simulation exclusive)\n• Le \"Point de Schelling\" : pourquoi Bitcoin est inévitable\n• Bitcoin vs IA : qui consomme vraiment plus d'énergie ?\n\n🎯 POINTS CLÉS À RETENIR :\n✅ Le rapport Deutsche Bank confirme que Bitcoin suit exactement la même trajectoire d'adoption que l'or\n✅ Les stablecoins sont une \"taxe mondiale déguisée\" au profit des États-Unis\n✅ L'euro numérique ne sera PAS une vraie monnaie (plafond à 1000€, pas de stockage de valeur)\n✅ La théorie des jeux force les banques centrales à adopter Bitcoin\n✅ Le premier pays qui constitue une réserve stratégique Bitcoin \"gagne tout\"\n\n👤 QUI EST MICHEL KHAZZAKA ?\nMichel Khazzaka est consultant en \"Value Chain\" et conseille les banques centrales, notamment la BCE, sur les systèmes de paiement et les monnaies numériques. Présent dans l'écosystème Bitcoin depuis ses débuts, il travaille à \"infiltrer\" Bitcoin dans les institutions traditionnelles. Il enseigne également dans plusieurs universités sur Bitcoin et l'euro numérique.\n\n#Bitcoin #BanquesCentrales #DeutscheBank #MichelKhazzaka #EuroNumérique #Stablecoins #Tether #MichaelSaylor #BCE #Inflation #IA \n\n🤖 Inscrivez-vous à la Newsletter Grand Angle Invest : https://grandangleinvest.activehosted.com/f/3",
+      "duration": "PT2H11M37S",
+      "published_at": "2025-10-05T06:18:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/HJMydwboCdM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "economie"
+      ]
+    },
+    {
+      "id": "6qMiTkoHnWw",
+      "title": "Neuralink : serons-nous encore humains demain ?",
+      "description": "Elon Musk veut connecter notre cerveau directement aux machines. Avec Neuralink, il ne s’agit plus seulement de science-fiction, mais d’un projet très concret : écrire par la pensée, redonner la vue aux aveugles, ou encore augmenter nos capacités cognitives pour rivaliser avec l’intelligence artificielle.\nDans cette vidéo, je vous explique comment fonctionne Neuralink, ce que permettent déjà les implants cérébraux, et surtout, quelles questions éthiques et sociales cela soulève.Sommes-nous à l’aube d’une révolution ou d’une fracture inédite entre humains augmentés et non-augmentés ?\n\n🤖 Inscrivez-vous à la Newsletter Grand Angle Invest : https://grandangleinvest.activehosted.com/f/3",
+      "duration": "PT12M54S",
+      "published_at": "2025-09-28T06:59:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/6qMiTkoHnWw/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "s6J8Fy1Ud40",
+      "title": "AZR : l’IA qui apprend toute seule — avec David Gurlé",
+      "description": "Et si une intelligence artificielle pouvait progresser sans données humaines supplémentaires ?\nC’est ce que propose la méthode AZR : une approche où l’IA développe ses capacités de raisonnement à partir de ses propres ressources, sans apport externe.\nDans cet échange avec David Gurlé, on revient sur cette méthode expérimentale et les résultats qu’elle permet d’obtenir.\n\n#ia #AZR  #davidgurle #Robotique #qwen #intelligenceartificielle \n\n_________ 👇 POUR VOUS👇 _________\n\n🤖 Inscrivez-vous à la Newsletter Grand Angle Invest : https://grandangleinvest.activehosted...\n\nTwitter 👉https://x.com/RichardDetente\n\n#grandanglenova #richarddétente #grandangle",
+      "duration": "PT27M46S",
+      "published_at": "2025-09-14T07:40:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/s6J8Fy1Ud40/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "CWvGoHTDRJ0",
+      "title": "288 humains sont les cobayes d'une IA.",
+      "description": "L'IA qui a Réalisé des Expériences sur 288 Humains - Une Révolution Scientifique !\n\nDécouvrez comment une IA multi-agents a mené des expériences scientifiques sur 288 participants, remettant en question des théories établies en psychologie cognitive. Cette vidéo explore les implications de cette avancée technologique et ce que cela signifie pour l'avenir de la recherche scientifique.\n\n🔬 Ce que vous allez découvrir : \n• Comment l'IA a été configurée pour travailler de manière autonome \n• Les six types d'agents IA impliqués dans le processus \n• Le protocole expérimental et les résultats obtenus \n• Les implications éthiques et scientifiques de l'utilisation de l'IA dans la recherche\n\nCette expérience marque un tournant dans la manière dont la recherche scientifique peut être conduite, avec l'IA jouant un rôle central dans l'innovation et la découverte.\n\n#IA #RechercheScientifique #PsychologieCognitive #IntelligenceArtificielle #Innovation \n\n🤖 Inscrivez-vous à la Newsletter Grand Angle Invest : https://grandangleinvest.activehosted.com/f/3",
+      "duration": "PT16M19S",
+      "published_at": "2025-08-31T07:00:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/CWvGoHTDRJ0/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "sciences"
+      ]
+    },
+    {
+      "id": "qG6aLsxD70g",
+      "title": "Pourquoi Nvidia mise TOUT sur cette technologie (3 000 milliards $) ? Avec David GURLÉ",
+      "description": "Pourquoi Nvidia et Google font ALL-IN sur les World Models ?\n\nDiscussion exclusive avec David Gurlé sur la révolution des World Models ! Découvrez pourquoi Nvidia parie son empire de 3 000 milliards sur Omniverse et comment cette technologie transforme l'IA, la robotique et l'industrie.\n\n🌍 Ce qu'on analyse avec David : \n• World Models : IA qui simule parfaitement le monde réel \n• Pourquoi les données naturelles coûtent trop cher (Apple : 11M€ pour les doigts) \n• Nvidia Omniverse vs Google Genie 3 vs approche chinoise zero-shot \n• L'avantage Tesla : payé pour collecter des données réelles\n\nLes World Models révolutionnent l'entraînement IA, mais les données réelles restent cruciales. Tesla a l'avantage unique d'être payé pour collecter ces données via ses voitures et robots.\n\nAnalyse approfondie de la prochaine révolution technologique avec David Gurlé !\n\n#ia #WorldModels #Nvidia #DavidGurle #google #genie3 #Tesla #Omniverse #Robotique #IntelligenceArtificielle",
+      "duration": "PT20M",
+      "published_at": "2025-08-24T07:30:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/qG6aLsxD70g/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "economie"
+      ]
+    },
+    {
+      "id": "BviAP4QyG64",
+      "title": "EX Bras Droit de Bill GATES à l'IA : voici le 🇫🇷 qui Bouleverse la Tech Mondiale (ITW 2H26)",
+      "description": "Découvrez l’incroyable parcours de David Gurlé, le français le plus demandé de la Silicon Valley, créateur de standards internet mondiaux (VoIP) et ex-CEO de Skype. \n\nPour en savoir plus sur Antimatter 👉 https://youtu.be/vE3YGAQZZbE \n\nDe la guerre des protocoles à la vente de Skype à Microsoft pour 8.5 milliards $, il partage ses secrets sur l’IA, l’innovation, l’entrepreneuriat et les coulisses de la Silicon Valley. Vérités, révélations et conseils pour entrepreneurs, passionnés de technologie et curieux du futur de l’IA !\n\n#davidegurle #ia #skype #symphony #microsoft #énergie #antimatter \n\n🎥 Montage & Stratégie YouTube\nGA PROD \nhttps://www.gaprod.agency\n\n__________ 👇 SOMMAIRE👇 __________\n\n00:00:00 Intro\n00:03:29 Écrire un morceau d’Internet !\n00:08:58 La révolution de l’IA\n00:19:34 Le degré de conscience d’une IA\n00:27:04 Transformer Internet avec Bill Gates\n00:38:01 IA : Hallucination / mensonge / triche\n00:51:24 Je vends Skype 8,5 milliards\n01:04:35 L’IA ment pour ses propres intérêts\n01:22:28 Symphony\n01:34:59 L’IA peut-elle produire de la connaissance ?\n01:44:57 Prochain projet : Antimatter\n02:08:08 IA : Ogre énergétique !\n02:16:58 Décentralisation des Datacenters\n02:22:57 Bitcoin et l’IA\n02:25:10 DETENTE attaque sur Monéro\n02:25:51 Conclusion\n\n__________ 👇 POUR VOUS👇 __________\n\n🤖 Inscrivez-vous à la Newsletter Grand Angle Invest : https://grandangleinvest.activehosted.com/f/3\n\nTwitter 👉https://x.com/RichardDetente\n\n#grandanglenova #richarddétente #grandangle",
+      "duration": "PT2H26M43S",
+      "published_at": "2025-07-06T06:55:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/BviAP4QyG64/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "DbCamWzSw4g",
+      "title": "Le Parrain de l'IA Révèle les Dangers de sa Création - Geoffrey Hinton",
+      "description": "Geoffrey Hinton, le Père de l'IA, Révèle les VRAIS Dangers de sa Création - Analyse de son Interview\n\n🤖 Inscrivez-vous à la Newsletter Grand Angle Invest : https://grandangleinvest.activehosted.com/f/3\n\nITW Complète : https://www.youtube.com/watch?v=giT0ytynSqg\n\nGeoffrey Hinton, Prix Nobel de Physique et créateur des réseaux de neurones, démissionne de Google pour nous alerter sur les dangers de l'IA ! Dans cette analyse commentée de son interview exclusive, découvrez pourquoi le père de l'intelligence artificielle craint que l'humanité soit dépassée.\n\n🧠 Ce que révèle le Père de l'IA : \n• Pourquoi l'IA communique 1 trillion de fois plus vite que nous \n• Les 2 types de risques existentiels pour l'humanité \n• Comment l'IA développe déjà conscience et émotions \n• Pourquoi arrêter l'IA est impossible (trop bénéfique) \n• Sa solution controversée : un gouvernement mondial\n\n⚠️ Les dangers révélés par Hinton :\nCyberattaques automatisées (+1200% d'augmentation)\nCréation de virus biologiques avec quelques millions\nManipulation électorale par IA conversationnelle\nArmes autonomes qui tuent sans intervention humaine\nSuper-intelligence qui pourrait nous éliminer\n\nDécouvrez pourquoi le créateur de l'IA moderne nous met en garde et comment nous préparer à cette révolution inévitable !\n\n#IntelligenceArtificielle #GeoffreyHinton #IA #RisquesIA #Technologie #grandanglenova #richarddétente",
+      "duration": "PT17M1S",
+      "published_at": "2025-06-29T07:00:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/DbCamWzSw4g/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "sciences"
+      ]
+    },
+    {
+      "id": "IPk1_bPh_BM",
+      "title": "La thermodynamique DEBUNK le mythe de la décroissance heureuse ! Conf expliquée de François RODDIER",
+      "description": "Découvrez pourquoi la décroissance va à l'encontre de 14 milliards d'années d'évolution universelle !\n\n🤖 Inscrivez-vous à la Newsletter Grand Angle Invest : https://grandangleinvest.activehosted.com/f/3\n\nConférence entière de François Roddier : https://www.youtube.com/watch?v=h2aMq3ct5oE\n\nDans cette analyse approfondie de la conférence de François Roddier (du Shift Project) sur la thermodynamique économique, je vous explique comment les lois de la physique démontrent que la croissance énergétique est inévitable.\n\n🎯 Ce que vous allez découvrir : \n• Pourquoi l'économie suit les mêmes lois que la thermodynamique \n• Comment les structures dissipatives (nous !) luttent contre l'entropie \n• Pourquoi la décroissance est thermodynamiquement impossible \n• La définition scientifique du bien et du mal selon l'énergie \n• Pourquoi une seule monnaie mondiale (Bitcoin/or) serait catastrophique\n\n⚡ Points clés de la thermodynamique économique :\n- Les 3 lois de la thermodynamique appliquées à l'économie\n- Structures dissipatives : de votre casserole aux sociétés humaines\n- Information = opposé de l'entropie (révélation majeure !)\n- Monnaie = représentation de l'énergie libre dans un système\n- Pourquoi l'humanité dissipe 10 000x plus d'énergie que le soleil/kg\n\n🧠 François Roddier révèle : L'économie étudie le métabolisme des sociétés humaines. Comme toute structure dissipative, nous devons augmenter notre intensité énergétique pour survivre. La décroissance = mort thermodynamique garantie.\n\n💡 Conclusion : Plus vous dissipez d'énergie, plus vous êtes heureux (Frédéric Soddy, Prix Nobel). La course à la connaissance est notre seule échappatoire face à l'entropie universelle.\n\nRejoignez Grand Angle Nova pour explorer ces concepts révolutionnaires qui changent tout notre rapport à la croissance, l'énergie et l'avenir de l'humanité !\n\n#Thermodynamique #Décroissance #énergie#Croissance #économie #FrançoisRoddier #PhysiqueEconomique #GrandAngleNova #richarddétente #shiftproject",
+      "duration": "PT38M40S",
+      "published_at": "2025-06-22T06:45:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/IPk1_bPh_BM/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "physique",
+        "environnement"
+      ]
+    },
+    {
+      "id": "3my7Wk5PVxs",
+      "title": "Ce qui prédit 99% de la Croissance Mondiale (et personne n'en parle)",
+      "description": "Découvrez la théorie qui explique 99% de la croissance économique mondiale !\n\n🤖 Inscrivez-vous à la Newsletter Grand Angle Invest : https://grandangleinvest.activehosted.com/f/3\n\n\nDans cette première vidéo de Grand Angle Nova, je révèle comment énergie, intelligence artificielle et Bitcoin s'articulent dans une théorie unifiée de la croissance économique. Vous découvrirez pourquoi la croissance économique suit strictement la consommation d'énergie (corrélation à 99%) et comment cette relation prédit l'avenir de nos économies.\n\n🔍 Ce que vous allez apprendre : \n• La relation mathématique entre croissance économique et énergie \n• Pourquoi tous les systèmes monétaires sont des dettes énergétiques \n• Comment Bitcoin révolutionne la représentation de la valeur \n• Pourquoi l'IA et le HPC sont la pointe de la croissance future \n• La théorie des gains de productivité sur 1500 ans d'histoire\n\n⚡ Points clés abordés :\n\nCroissance = Énergie transformée (démonstration graphique)\nLes gains de productivité de 1,5% par an depuis des siècles\nL'évolution des systèmes monétaires : du troc à Bitcoin\nLe point de Schelling monétaire et pourquoi l'or a dominé\nBitcoin comme nouvelle représentation optimale de l'énergie\n\n📊 Timestamps :\n0:00 Introduction à Grand Angle Nova\n2:30 Croissance = Énergie transformée\n8:45 Les gains de productivité universels\n15:20 Théorie unifiée des systèmes monétaires\n25:40 Pourquoi Bitcoin surpasse l'or\n35:15 L'avenir : IA et informatique haute performance\n\nBienvenue sur Grand Angle Nova - ici, on explore le futur de la croissance, de l'énergie à l'intelligence artificielle en passant par Bitcoin. Abonnez-vous pour ne rien manquer de cette aventure technologique !\n\n#energie #economie #IntelligenceArtificielle #CroissanceEconomique  #Investissement #Technologie #GrandAngleNova #SystemeMonetaire #HPC",
+      "duration": "PT22M32S",
+      "published_at": "2025-06-15T03:42:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/3my7Wk5PVxs/hqdefault.jpg",
+      "tags": [
+        "economie"
+      ]
+    }
+  ]
+}

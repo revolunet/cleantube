@@ -1,7 +1,7 @@
 {
   "id": "UCjVRltp8y_cUBfLmHSB-htw",
   "name": "Adel Fugazi",
-  "description": "Viens me voir en spectacle sur scène \nToutes les infos et la billetterie ici :\n\nhttps://www.billetreduc.com/305807/evt.htm",
+  "description": "EN SPECTACLE A PARIS ET EN TOURNÉE\nInfos et billetterie ici :\n\nhttps://www.adelfugazi.fr",
   "thumbnail": "https://yt3.ggpht.com/F5D0BeAQG0GvJr8xmBVSpACmwW7mELFBWmDpHn_3b_CeJodbC2LY76Q1A-5sn9gYqoOtC6p4-g=s800-c-k-c0x00ffffff-no-rj",
   "public": "15 ans et plus",
   "language": "fr",
@@ -9,6 +9,18 @@
     "arts"
   ],
   "videos": [
+    {
+      "id": "z5b7K_f9gNU",
+      "title": "TERTULLIEN",
+      "description": "",
+      "duration": "PT2M56S",
+      "published_at": "2026-04-16T16:19:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/z5b7K_f9gNU/hqdefault.jpg",
+      "tags": [
+        "philosophie",
+        "histoire"
+      ]
+    },
     {
       "id": "EBKjwfjhvfw",
       "title": "LES JUMEAUX",

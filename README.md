@@ -105,7 +105,7 @@ Le meilleur de YouTube en Français, sans distractions.
 
 | Chaîne | Description |
 |--------|-------------|
-| [Adel Fugazi](https://youtube.com/channel/UCjVRltp8y_cUBfLmHSB-htw) | Viens me voir en spectacle sur scène ... |
+| [Adel Fugazi](https://youtube.com/channel/UCjVRltp8y_cUBfLmHSB-htw) | EN SPECTACLE A PARIS ET EN TOURNÉE |
 | [Alexis Le Rossignol](https://youtube.com/channel/UCtIqKywPf7mT2g0wvcKsiDA) | Roues Libres  |
 | [Djamil Le Shlag](https://youtube.com/channel/UCJEjYxKFgRYAxw8bWCGdzfQ) | La chaine officielle de Djamil le Shlag |
 | [Edgar-Yves Jr.](https://youtube.com/channel/UCKO1SFI8EIVU1DGQD6bZylw) | 👊 Nouveau spectacle VIGILANCE 🔥 NOUVELLE DATE - 13 Juin 2026 - Adidas Arena |

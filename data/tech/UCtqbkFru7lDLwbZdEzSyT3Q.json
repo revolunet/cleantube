@@ -11,6 +11,19 @@
   ],
   "videos": [
     {
+      "id": "kEVaW6x41Ak",
+      "title": "On forme le CAC 40 à coder avec l'IA. Voilà comment.",
+      "description": "La vidéo complète : https://www.youtube.com/watch?v=ntjsp0fdofU&t=2s  \n\n#AIDrivenDev - La communauté FR des devs boostés à l'IA 👉 discord.gg/ai-driven-dev  \n\n#Shorts #IA #DéveloppeurIA #AIcoding #AIDrivenDev",
+      "duration": "PT1M21S",
+      "published_at": "2026-04-29T10:04:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/kEVaW6x41Ak/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie",
+        "economie"
+      ]
+    },
+    {
       "id": "allKrEshtMs",
       "title": "Claude Code Channels : j'ai branché Telegram à mon quotidien (dev)",
       "description": "🚀 AI-Driven Dev : Accompagnement 1:1 pour freelances: https://www.ai-driven-dev.fr/programme?utm_source=youtube&utm_medium=description&utm_campaign=50_claude-code-channels-telegram\n\n📦 AI-Driven Dev : Formation Entreprise : https://www.ai-driven-dev.fr/formation?utm_source=youtube&utm_medium=description&utm_campaign=50_claude-code-channels-telegram\n\n---\n\nHello, c'est Alex !\n\nJe te montre comment j'ai branché Telegram à Claude Code Channels pour gérer mon quotidien de dev. \n\nJ'envoie un vocal, le skill de transcription fait son boulot, et les events atterrissent dans mon Google Calendar. \n\nSetup en 10 minutes avec BotFather et le plugin Telegram officiel d'Anthropic. \n\nOn se retrouve dans la communauté AI-Driven Dev 👇,\nAlex\n\n#ClaudeCode #ClaudeCodeChannels #Telegram\n\n---\n\n🎞️ Chapitres\n\n0:00 - Piloter son quotidien depuis Telegram\n1:11 - Claude Code Channels : ce que ça change\n2:00 - Setup Telegram avec le plugin officiel\n4:10 - Activer la transcription vocale\n5:04 - Démo : ma voix remplit mon Google Calendar\n5:25 - 3 règles de sécurité Claude Code\n7:45 - Passer au niveau supérieur en freelance\n\n📺 Autres vidéos de la chaîne mentionnées\n\n- https://www.youtube.com/watch?v=TTAqdtaKylk\n- https://www.youtube.com/watch?v=RIF7YPGg59g\n- https://www.youtube.com/watch?v=zbIDMNm9NPo\n\n🔗 Liens mentionnés\n\n- Whisper : https://github.com/openai/whisper + https://github.com/ggml-org/whisper.cpp\n- Doc officielle Claude Code Channels : https://code.claude.com/docs/en/channels\n- Plugin Telegram officiel Anthropic : https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/telegram\n\n🔥 L'AI-Driven Dev : 1ère communauté IA FR pour les devs\n\nhttps://www.ai-driven-dev.fr\nhttps://www.ai-driven-dev.fr/newsletter\nhttps://discord.com/invite/ai-driven-dev\n\n🌐 Mes réseaux\n\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\nhttps://x.com/alexsoyes/\n\n---\n\nJe m'appelle Alex, dev depuis + 13 ans.\n\nAprès 2 ans de R&D sur de l'IA, j'ai créé la première communauté FR pour les devs augmentés à l'IA : #AIDrivenDev.\n\nAvec un bon flow, de bons prompts, les bons outils, on est capable de coder 2x plus vite avec l'IA, en augmentant la qualité.",

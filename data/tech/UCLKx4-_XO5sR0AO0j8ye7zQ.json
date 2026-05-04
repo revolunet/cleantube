@@ -11,6 +11,18 @@
   ],
   "videos": [
     {
+      "id": "6XvIMDFYh58",
+      "title": "J’ai laissé Claude Code monter mes vidéos | Le résultat est fou",
+      "description": "Aujourd'hui on plonge dans HyperFrame de A à Z pour comprendre comment transformer une simple vidéo brute en un montage professionnel avec animations, sous-titres et habillage, le tout sans toucher à After Effects ou Final Cut.\n\n→ 🎥 Le résultat final : https://www.youtube.com/shorts/smQ90TW1MGo\n\n→ 📅 S'inscrire en liste d'attente de mes workshops privés\nhttps://sharma.fr/masterclass-privees\n\n→ 🔗 Mon article pas à pas sur Claude Design\nhttps://shubham-sharma.fr/articles/claude-design-guide-complet/\n\nCe que vous allez comprendre dans cette vidéo, c'est comment les agents IA comme Claude Code peuvent faire du motion design à votre place, et comment structurer un workflow pour publier plus vite sans perdre en qualité.\n\nOn commence par découvrir le principe génial derrière HyperFrame (du HTML/CSS transformé en MP4 grâce à GSAP), puis on explore le studio intégré qui ressemble à un vrai éditeur type After Effects. Ensuite on passe à la pratique avec un cas concret : une vidéo Instagram filmée en live, qu'on monte ensemble avec Claude Code et HyperFrame. Sous-titres animés, overlays dynamiques, screenshots qui scrollent, barre de progression, design system aux couleurs de Claude pour rester on-brand. On termine avec les bonnes pratiques pour Instagram Reels (dead zones, rendu MP4) et les vrais résultats sur les réseaux.\n\n00:00 Introduction\n01:37 Comment fonctionne HyperFrame\n04:46 Aperçu de l’interface\n07:36 Configuration du projet\n10:13 Ajout de sous-titres et d’éléments superposés\n15:33 Édition avancée et amélioration\n18:08 Rendu et résultats finaux\n\nSi vous voulez aller plus loin, le plus important n'est pas l'outil mais la méthode. C'est exactement ce qu'on applique ici.\n\nMES AUTRES COMPTES:\n🌍  Mon site web - https://www.sharma.fr/\n👨‍💻  Linkedin - https://www.linkedin.com/in/sharmashubham1/\n📱  TikTok - https://www.tiktok.com/@shubhamnocode \n🐦  Twitter - https://twitter.com/shubham_nocode\n📸  Instagram - https://instagram.com/shubham_nocode",
+      "duration": "PT20M7S",
+      "published_at": "2026-05-04T14:53:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/6XvIMDFYh58/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "zsvqRlD7Ib4",
       "title": "Astuce Claude Code que peu de gens connaissent ou utilise #claudecode",
       "description": "",

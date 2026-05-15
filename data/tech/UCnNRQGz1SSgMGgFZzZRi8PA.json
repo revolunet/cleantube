@@ -11,6 +11,18 @@
   ],
   "videos": [
     {
+      "id": "7q_nqQNJFn0",
+      "title": "J’ai créé une figurine de GMK qui parle quand on appuie sur sa tête 💀🔊#gmk #arduino #3dprinting",
+      "description": "J’ai fabriqué une figurine de GMK… mais avec de l’électronique dedans 👀\nQuand on appuie sur sa tête, elle balance ses répliques les plus connues 🔊😂\n\nMerci à Meshy qui m’a permis de générer et retravailler le modèle 3D super rapidement. Franchement l’outil est ultra pratique et je vais clairement continuer à l’utiliser pour mes prochains projets.\n\nLe lien Meshy \nhttps://www.meshy.ai/?utm_source=youtube&utm_medium=influencer&utm_content=emakerz&utm_campaign=meshy-may-26-campaign\n\n#3dprinting #arduino #electronics #gmk #maker #tech #diy\n\nCollaboration commerciale",
+      "duration": "PT1M18S",
+      "published_at": "2026-05-15T17:02:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/7q_nqQNJFn0/hqdefault.jpg",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
       "id": "o8nbgDhLRm4",
       "title": "Le seul MacroPad que vous devez fabriquer.",
       "description": "🎹 Envie d'aller plus loin ? La V2 du Macro Pad est dispo en formation complète, avec un PCB à finition professionnelle et un résultat vraiment propre 👉 https://www.emakerz.com/boutique\n\n🔧 Instagram pour les coulisses et prototypes 👉 https://www.instagram.com/enzo.emakerz\n\n📁 Plus d'infos, fichiers sources et schémas sur le repo GitHub 👉https://github.com/emakerz/macropad-configurator\n\nMa graveuse Laser xTool F2 👉 https://fr.xtool.com/pages/xtool-f2-graveur-laser-portable-double-laser-ir-5w-et-diode-15w?ref=uxzgagxh&utm_medium=influencer&utm_source=goaffpro&utm_term=null\n\n⸻\n🧩 Dans cette vidéo\nJe conçois et fabrique un macro pad de A à Z : conception du circuit imprimé gravé au laser, firmware Arduino, et interface de configuration via WebSerial. L'objectif : un outil fonctionnel que tu peux vraiment utiliser au quotidien.\n\n⸻\n🛠️ Matériel utilisé\n* Mon fer à souder (il est top !) :  https://s.click.aliexpress.com/e/_c3f...\n* Filament d'impression 3D pas cher et top ! : https://amzn.to/4nwfYja\n* Alimentation de laboratoire : https://amzn.to/49zDKqZ\n\nLe matos spécifique à ce projet est dispo sur mon repo Github (lien juste au dessus 👆)\n⸻\n00:00 Introduction\n00:32 Le choix du matos\n01:09 L'éléctronique\n02:06 PCB gravée au Laser\n06:44 Assemblage \n09:00 Programmation\n11:35 conclusion\n⸻\n27,4k",

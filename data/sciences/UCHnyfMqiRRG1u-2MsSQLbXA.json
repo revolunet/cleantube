@@ -13,6 +13,19 @@
   ],
   "videos": [
     {
+      "id": "zXvygWE3Ess",
+      "title": "How Alpha Particles Can Break Computer Chips",
+      "description": "In the 1970s, Intel couldn't work out what was damaging the DRAM on their microchips.\n\nThe cause turned out to be the ceramic that the chip was encased in. It was secretly flipping 1s to 0s.\n\nBut how?",
+      "duration": "PT2M7S",
+      "published_at": "2026-05-15T13:01:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/zXvygWE3Ess/hqdefault.jpg",
+      "tags": [
+        "physique",
+        "informatique",
+        "sciences"
+      ]
+    },
+    {
       "id": "7F4pY8Td9QQ",
       "title": "The Surprising Genius of Sewing Machines",
       "description": "How does a sewing machine work?\n\nThe answer is more genius than you might think.",

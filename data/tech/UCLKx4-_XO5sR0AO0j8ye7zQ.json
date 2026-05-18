@@ -11,6 +11,18 @@
   ],
   "videos": [
     {
+      "id": "Q3VqYvsFo84",
+      "title": "Vous gaspillez 90% de vos tokens sans le savoir",
+      "description": "Vous atteignez trop vite votre limite Claude ? Le problème n’est pas votre abonnement, c’est votre manière de consommer les tokens.\n\n→ 🔗 Mon tuto pas à pas pour installer la status line Claude Code\nhttps://shubham-sharma.fr/ressources/configurer-status-line-claude-code/\n\n→ ✉️ Rejoindre ma newsletter\nhttps://shubham-sharma.fr/newsletter/\n\n→ 📅 S'inscrire en liste d'attente de mes workshops privés\nhttps://sharma.fr/masterclass-privees\n\nCe que vous allez comprendre dans cette vidéo, c'est pourquoi Claude vous bloque parfois après seulement quelques heures de travail, et surtout comment éviter de cramer vos tokens sans même vous en rendre compte.\n\nOn commence par comprendre la vraie différence entre limite de messages et limite de tokens, puis on voit pourquoi les conversations trop longues rendent Claude plus cher, plus lent et parfois même moins intelligent. Ensuite on passe aux 9 pièges qui font exploser votre consommation : conversations qui s’éternisent, réponses trop verbeuses, mauvais choix de modèle, MCP chargés inutilement, Claude.md obèse, cache invalidé, fichiers trop lourds, images, sous-agents mal utilisés. On termine avec les bonnes pratiques concrètes pour Claude Code et Claude classique : slash clear, slash compact, slash context, status line, choix du bon modèle, et une méthode simple pour travailler toute la journée sans se faire bloquer au pire moment.\n\n00:00 Introduction\n00:31 Fonctionnement des tokens\n01:22 Hygiène des conversations\n02:52 /Compact mal géré\n03:32 Réponses verbeuses\n05:03 Choix des modèles\n06:21 Gestion des MCP\n07:36 Optimisation du cloud.md\n08:19 Le cache\n09:26 Les fichiers\n10:34 Utilisation des sous-agents\n11:31 Abonnements et API\n13:00 Conclusion\n\nSi vous voulez aller plus loin, n'hésitez pas à me suivre sur mes réseaux sociaux. J’y partage quotidiennement des conseils sur l’IA, Claude Code et les workflows que j’utilise au quotidien.\n\nMES AUTRES COMPTES:\n🌍  Mon site web - https://www.sharma.fr/\n👨‍💻  Linkedin - https://www.linkedin.com/in/sharmashubham1/\n📱  TikTok - https://www.tiktok.com/@shubhamnocode\n🐦  Twitter - https://twitter.com/shubham_nocode\n📸  Instagram - https://instagram.com/shubham_nocode",
+      "duration": "PT13M41S",
+      "published_at": "2026-05-18T10:00:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/Q3VqYvsFo84/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "6UCjq3tpWkA",
       "title": "Vos MCP vous coûte cher sur Claude Code #mcp #claudecode",
       "description": "",

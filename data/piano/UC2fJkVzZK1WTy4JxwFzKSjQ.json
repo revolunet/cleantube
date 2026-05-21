@@ -11,12 +11,12 @@
   ],
   "videos": [
     {
-      "id": "Tj2_zCur7J8",
+      "id": "Hrpq4nK0lHo",
       "title": "Une impro toute simple au piano 🎹",
-      "description": "#piano #improvisation",
+      "description": "",
       "duration": "PT36S",
-      "published_at": "2026-05-20T16:00:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/Tj2_zCur7J8/hqdefault.jpg",
+      "published_at": "2026-05-21T06:08:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/Hrpq4nK0lHo/hqdefault.jpg",
       "tags": [
         "musique",
         "arts"
@@ -574,6 +574,18 @@
       "thumbnail": "https://i.ytimg.com/vi/oo0AeJ4sWcY/hqdefault.jpg",
       "tags": [
         "musique"
+      ]
+    },
+    {
+      "id": "Tj2_zCur7J8",
+      "title": "Une impro toute simple au piano 🎹",
+      "description": "#piano #improvisation",
+      "duration": "PT36S",
+      "published_at": "2026-05-20T16:00:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/Tj2_zCur7J8/hqdefault.jpg",
+      "tags": [
+        "musique",
+        "arts"
       ]
     },
     {

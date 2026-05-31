@@ -13,6 +13,18 @@
   ],
   "videos": [
     {
+      "id": "rRkc8zINkc8",
+      "title": "La renaissance du COMMODORE 64 et de la Neo-Geo AES",
+      "description": "Un épisode consacré à l'analyse technique de la réédition rétro moderne de l'ordinateur personnel COMMODORE 64 (rebaptisé C64 Ultimate), ainsi que des hypothèses sur ce que pourrait être le hardware de la réédition de la console 16-bits Neo-Geo AES qui sera disponible à partir de Novembre 2026 sous l'appellation AES+\n\n00:00 Introduction\n01:18 Présentation du sujet\n04:31 Présentation du Commodore 64 original\n05:43 Exemples de musiques produites par la puce SID\n07:03 Analyse détaillée de la puce de silicium du synthétiseur SID\n09:48 Fin de présentation du C64 original\n10:32 Introduction au C64 Ultimate\n13:05 Analyse détaillée de l'électronique du C64 Ultimate\n23:21 A propos de la console Neo-Geo AES\n26:24 Hypothèses sur le hardware de la future Neo-Geo AES+\n29:12 Fin\n\nLien vers le site internet Mister-FPGA (Français) :\nhttps://www.mister-fpga.fr/\n\n- Deus Ex Silicium -\nSite web ______________________ http://www.dexsilicium.com   (pour me contacter)\nSoundcloud __________________ https://bit.ly/3e2brVf\nX / ex Twitter _________________ https://x.com/dexsilicium\nBluesky ______________________ http://tiny.cc/imk0101\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium",
+      "duration": "PT29M57S",
+      "published_at": "2026-05-31T10:17:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/rRkc8zINkc8/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "gdWDIW2GHZg",
       "title": "Est-ce que les plantes peuvent vraiment faire de la musique ?",
       "description": "Un épisode dans lequel je présente un petit dispositif électronique qui permet de monitorer l'activité électrochimique d'une plante afin de transformer ses signaux bioélectriques en musique électronique multi-timbrale.\nIl y sera aussi question d'évoquer plusieurs des appareils qui existent sur le marché et qui font sensiblement la même chose mais qui sont vendus plusieurs centaines d'euros.\n\n00:00 Introduction\n01:03 Présentation du sujet\n03:36 Présentation du dispositif électronique\n06:09 Explications techniques de l'électronique du capteur\n08:06 Démonstration n°1\n10:48 Démonstration n°2\n12:19 Analyse de la séquence musicale capturée\n13:41 Monitoring des signaux bioélectriques de la plante\n14:06 Les options possibles pour rendre le dispositif autonome\n17:22 Résumé de la première partie en Questions/Réponses\n18:57 Les appareils de \"musique des plantes\" qui existent sur le marché\n21:59 Conclusion et fin\n\n- Deus Ex Silicium -\nSite web ______________________ http://www.dexsilicium.com   (pour me contacter)\nSoundcloud __________________ https://bit.ly/3e2brVf\nX / ex Twitter _________________ https://x.com/dexsilicium\nBluesky ______________________ http://tiny.cc/imk0101\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium",

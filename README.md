@@ -112,7 +112,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Félix DHJAN](https://youtube.com/channel/UCnPImLUpo-EAnV6q4E1Mb3w) |  |
 | [Karim Duval](https://youtube.com/channel/UC57bDOxg_KlFMn2ze5f0QlQ) | Bienvenue sur la chaîne Karim Duval ! Nouveau spectacle ENTROPIE à Paris et en tournée. |
 | [Kevin Razy](https://youtube.com/channel/UCpfmGY18T_RqXfBgUB2Thsw) | Mon podcast CKR 4 fois par semaine du lundi au jeudi en live le matin (sauf si je tourne ou si j'ai ... |
-| [NAÏM](https://youtube.com/channel/UCL5WDPEm30nG6kkBmF9bfig) | NOUVEAU spectacle Chapitre 3 à Paris et en tournée à partir de mars 2026 🔥... |
+| [NAÏM](https://youtube.com/channel/UCL5WDPEm30nG6kkBmF9bfig) | NOUVEAU spectacle Chapitre 3 à Paris et en tournée 🔥 |
 
 ### Sciences
 

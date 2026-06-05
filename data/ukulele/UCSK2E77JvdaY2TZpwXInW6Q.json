@@ -11,23 +11,23 @@
   ],
   "videos": [
     {
-      "id": "YYIYgB9OCw4",
-      "title": "Allô maman bobo au #ukulélé",
-      "description": "",
-      "duration": "PT44S",
-      "published_at": "2026-06-04T17:30:39Z",
-      "thumbnail": "https://i.ytimg.com/vi/YYIYgB9OCw4/hqdefault.jpg",
-      "tags": [
-        "musique"
-      ]
-    },
-    {
       "id": "cY6pC5LvZXE",
       "title": "ENFIN ! Pouvoir chanter TOUTES les chansons au #ukulélé",
       "description": "abonnez-vous à la chaîne et sur https://www.patreon.com/benauukulele\ntransposez toutes vos chansons:  https://www.ben-au-ukulele.fr/transposer/\n🎸🎤 Mes suggestions de ukulélés et de matériel: https://www.thomann.fr/thlpg_shu29myr8k.html",
       "duration": "PT24M2S",
       "published_at": "2026-06-04T16:41:52Z",
       "thumbnail": "https://i.ytimg.com/vi/cY6pC5LvZXE/hqdefault_live.jpg",
+      "tags": [
+        "musique"
+      ]
+    },
+    {
+      "id": "YYIYgB9OCw4",
+      "title": "Allô maman bobo au #ukulélé",
+      "description": "",
+      "duration": "PT44S",
+      "published_at": "2026-06-04T17:30:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/YYIYgB9OCw4/hqdefault.jpg",
       "tags": [
         "musique"
       ]

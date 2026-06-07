@@ -485,17 +485,6 @@
       ]
     },
     {
-      "id": "ipagyNw1UlY",
-      "title": "ANNONCE : nouvelle série \"Comment ca marche ?\"",
-      "description": "Courte vidéo dans laquelle j'annonce et j'explique la nouvelle série de vidéos intitulée \"Comment ça marche ?\" consacrée à l'analyse d'appareils électroniques qui va désormais être publiée régulièrement.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nFacebook ____________________ https://www.facebook.com/dexsilicium\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
-      "duration": "PT3M37S",
-      "published_at": "2022-11-21T17:14:19Z",
-      "thumbnail": "https://i.ytimg.com/vi/ipagyNw1UlY/hqdefault.jpg",
-      "tags": [
-        "technologie"
-      ]
-    },
-    {
       "id": "vhal7DgmEHI",
       "title": "Stimulateur cardiaque : Anatomie d'un petit boitier qui sauve des vies humaines",
       "description": "Un épisode consacré à l'analyse de l'anatomie interne d'un STIMULATEUR CARDIAQUE (pacemaker), véritable petit bijou de technologie bourré de circuits intégrés et qui a la particularité de pouvoir sauver des vies humaines.\nAu sommaire :\n\n00:00 Avant propos\n00:36 Introduction aux stimulateurs cardiaques\n03:47 Présentation du modèle à décortiquer\n06:01 Analyse d'un cliché aux rayons X\n07:13 Ouverture du boitier\n08:37 Premier aperçu de son électronique\n10:36 Décorticage électronique\n12:52 Extraction des circuits intégrés\n13:56 Explication du principe de fonctionnement\n15:54 Observation microscopique des circuits intégrés\n19:36 Analyse de la pile au lithium-iode\n20:52 Les pacemakers à pile nucléaire\n24:23 Conclusion et fin\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
@@ -629,6 +618,17 @@
       "tags": [
         "sciences",
         "physique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "ipagyNw1UlY",
+      "title": "ANNONCE : nouvelle série \"Comment ca marche ?\"",
+      "description": "Courte vidéo dans laquelle j'annonce et j'explique la nouvelle série de vidéos intitulée \"Comment ça marche ?\" consacrée à l'analyse d'appareils électroniques qui va désormais être publiée régulièrement.\n\n- Deus Ex Silicium -\nSite web _____________________ http://www.dexsilicium.com   (pour me contacter)\nFacebook ____________________ https://www.facebook.com/dexsilicium\nTwitter _______________________ https://twitter.com/dexsilicium\nInstagram ____________________ https://www.instagram.com/deus.ex.silicium\nSoundcloud __________________ https://bit.ly/3e2brVf",
+      "duration": "PT3M37S",
+      "published_at": "2022-11-21T17:14:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/ipagyNw1UlY/hqdefault.jpg",
+      "tags": [
         "technologie"
       ]
     },

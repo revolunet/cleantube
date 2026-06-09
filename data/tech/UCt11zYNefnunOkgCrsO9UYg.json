@@ -12,6 +12,67 @@
   ],
   "videos": [
     {
+      "id": "dXMYSmxW-Dc",
+      "title": "Twitter rend-il les IA psychopathes ?",
+      "description": "Des chercheurs de Texas A&M ont nourri deux des plus grands modèles IA open source avec un million de tweets viraux — les plus likés, les plus partagés. \n\nScore de psychopathie : 2 → 75. \nRaisonnement effondré. \nEt irrécupérable : même 4,8x plus de données propres ne comble pas le gap. \n\nLa corruption est structurelle. \n\nMais la vraie question n'est pas pour l'IA — c'est pour toi. Si les modèles ne survivent pas 2 mois de Twitter, qu'est-ce que 10 ans de scrolling fait à ton cerveau ?\n\nSilicon Carne 🌶️ — Le seul podcast français sur la Silicon Valley, DEPUIS la Silicon Valley \n\n#IA #SiliconCarne #Tech #Psychologie #ReseauxSociaux",
+      "duration": "PT1M35S",
+      "published_at": "2026-06-09T18:01:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/dXMYSmxW-Dc/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "PRfotgp9Pl8",
+      "title": "Pourquoi il a interdit le 9h-17h dans sa boîte ?",
+      "description": "Yoan Drahy applique un principe simple et brutal : personne dans sa boîte n'a un fixe au-dessus de 1500€. \n\nPourtant, le salaire moyen atteint 8 à 9k€ net. \n\nComment ? Tout le monde aux variables — du service client aux sales. \n\nDans Le Festin, il explique pourquoi le 9h-17h est une condamnation à mort pour une startup qui affronte des concurrents à Bali, aux US et en Lituanie sans les mêmes règles du jeu. \n\nUne culture de warriors — pas un modèle RH.\n\nLe Festin 🍽️ — Quand la tech quitte les plateaux et passe à table ! \n\n#Management #SiliconCarne #Entrepreneuriat #Startup #France #Business",
+      "duration": "PT1M24S",
+      "published_at": "2026-06-09T15:01:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/PRfotgp9Pl8/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "metiers"
+      ]
+    },
+    {
+      "id": "tPJpA82-Jl8",
+      "title": "Pourquoi on vous ment sur l'emploi et l'IA ?",
+      "description": "Marie Dollé pointe quelque chose que les discours tech évitent : quand on te dit que l'IA va supprimer ton métier, ce n'est pas juste une question économique — c'est une crise identitaire. \n\nNotre métier nous définit. Mais historiquement, aucune révolution technologique n'a supprimé sans recréer. \n\nLa nuance qui change tout ? \"À condition qu'il y ait une redistribution économique.\" \nEt ça, personne n'en parle.\n\nLe Festin 🍽️ — Quand la tech quitte les plateaux et passe à table ! \n\n#IA #FuturDuTravail #SiliconCarne #Emploi #Tech",
+      "duration": "PT32S",
+      "published_at": "2026-06-09T11:00:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/tPJpA82-Jl8/hqdefault.jpg",
+      "tags": [
+        "economie",
+        "informatique",
+        "metiers"
+      ]
+    },
+    {
+      "id": "UAcC0vlw9BU",
+      "title": "Le RGPD a-t-il tué l'IA européenne ?",
+      "description": "Gaspard de Monclin balance une vérité qui dérange : protéger nos données personnelles était peut-être le plus grand sabotage qu'on s'est infligé dans la course à l'IA. \n\nLa France a les ingénieurs — mais ni la data, ni les data centers, ni l'argent. \n\nPendant ce temps, les GAFAM ont tout raflé. \n\nJe vis dans la Silicon Valley depuis des années, et ma conclusion est simple: si le targeting est bon et que la data collectée me fait gagner du temps, je dis oui.  \n\nDeux philosophies. Un seul gagnant.\n\n#IA #RGPD #SiliconCarne #Europe #Tech",
+      "duration": "PT54S",
+      "published_at": "2026-06-09T09:00:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/UAcC0vlw9BU/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
+      "id": "OLFZU9bF7wM",
+      "title": "Pourquoi Anthropic cache Mythos au grand public ?",
+      "description": "Apple a dépensé des milliards pour rendre la corruption mémoire impossible sur le chip M5. \n\nMythos, le modèle secret d'Anthropic inaccessible au grand public, a trouvé un accès root complet en moins d'une semaine — et la NSA l'utilise déjà. \n\nCe que cette histoire révèle sur l'IA, la cybersécurité et le vrai rapport de force entre les grandes boîtes tech et les gouvernements, c'est ce qu'on décrypte ici. \n\nSilicon Carne 🌶️ — Le seul podcast français sur la Silicon Valley, DEPUIS la Silicon Valley \n\n#Anthropic #Apple #CyberSécurité",
+      "duration": "PT1M45S",
+      "published_at": "2026-06-08T19:01:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/OLFZU9bF7wM/hqdefault.jpg",
+      "tags": [
+        "informatique",
+        "technologie"
+      ]
+    },
+    {
       "id": "eVArpWWO1Uw",
       "title": "Qui a vraiment alimenté la peur de l'IA aux États-Unis ?",
       "description": "On aime croire que la résistance à l'IA est un syndrome européen. \nFaux. \nAux États-Unis, des mouvements néoludites bloquent des data centers, et Sam Altman lui-même est ciblé par des menaces physiques. \n\nCe que j'explique ici : quand tu passes des années à dire que ta propre technologie pourrait être apocalyptique, ne t'étonne pas que le public te prenne au mot. \n\nL'IPO d'OpenAI changera peut-être une partie de la donne — mais pas le fond du problème. \n\nLe Festin 🍽️ — Quand la tech quitte les plateaux et passe à table ! \n\n#SiliconCarne #IA #OpenAI #SamAltman #Tech",

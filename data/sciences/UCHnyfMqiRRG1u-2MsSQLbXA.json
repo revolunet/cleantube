@@ -13,6 +13,19 @@
   ],
   "videos": [
     {
+      "id": "2_Z7FB3vfFg",
+      "title": "Zippers are stronger than you think...",
+      "description": "How do zippers work? \n\nWe made a giant one to find out!",
+      "duration": "PT1M5S",
+      "published_at": "2026-06-12T13:00:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/2_Z7FB3vfFg/hqdefault.jpg",
+      "tags": [
+        "sciences",
+        "technologie",
+        "physique"
+      ]
+    },
+    {
       "id": "AUmHqD0lGHo",
       "title": "How A Random System Can Actually Be Predictable",
       "description": "The balls in a Galton board fall down randomly. Any time they come to a junction they can take any number of paths and it's almost impossible to accurately predict every ball's trajectory.\n\nHowever, the system as a whole is predictable. \n\nHow can this be? How can random systems actually be predictable?",

@@ -13,6 +13,19 @@
   ],
   "videos": [
     {
+      "id": "-7etvZSBxlk",
+      "title": "Measuring the entropy of English",
+      "description": "Full video: https://youtu.be/l6DKRf-fAAM",
+      "duration": "PT2M25S",
+      "published_at": "2026-06-12T13:22:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/-7etvZSBxlk/hqdefault.jpg",
+      "tags": [
+        "mathematiques",
+        "anglais",
+        "informatique"
+      ]
+    },
+    {
       "id": "7L_eTem1SQ4",
       "title": "What's the perfect encoding? How do you know?",
       "description": "Full video: https://youtu.be/l6DKRf-fAAM",

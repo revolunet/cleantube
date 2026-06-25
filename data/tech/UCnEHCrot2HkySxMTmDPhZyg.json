@@ -12,6 +12,24 @@
   ],
   "videos": [
     {
+      "id": "j7c8ke_E9OY",
+      "title": "Est-ce qu'OpenAI a encore besoin de développeurs ?",
+      "description": "\"Le travail des ingénieurs n'a jamais été limité à écrire du code.\"\n\nÀ l'heure où l'on se demande si ce que l'on fait et apprend a encore du sens, vu la vitesse à laquelle l'IA code de mieux en mieux, je pense que cette phrase de Romain Huet , Head of Developer Experience chez OpenAI résume bien le climat actuel.\n\nOn va attendre de nous, ingénieurs, que nous devenions de plus en plus des chefs d'orchestre, des managers d'IA, capables de concevoir des systèmes et de réfléchir aux bons outils, aux bons endroits.\n\nComme le code a toujours été un outil pour résoudre des problèmes, l'IA s'inscrit dans cette même lignée d'outils à notre disposition, sans être une fin en soi.\n\nRetrouvez l'échange en intégralité sur ma chaine youtube et les plateformes de podcast !",
+      "duration": "PT43S",
+      "published_at": "2026-06-25T09:19:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/j7c8ke_E9OY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "03wk6rHV4sM",
+      "title": "Bientôt un revenu universel en France à cause de l’IA ?",
+      "description": "",
+      "duration": "PT1M10S",
+      "published_at": "2026-06-24T20:07:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/03wk6rHV4sM/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "MxrV8HW2V6w",
       "title": "Quel est le futur de l'IA ?",
       "description": "Je reçois Romain Huet, Head of Developer Experience chez OpenAI. Nous échangeons sur le passage de ChatGPT à Codex et aux agents, l’avenir du métier de développeur, la place des juniors, l’adoption de l’IA en entreprise et son impact sur l’emploi.\nNous abordons également l’open source, les futurs modèles, le prix de Codex, l’AGI, la sécurité, la responsabilité humaine, le recrutement chez OpenAI, la concurrence avec Anthropic, DeepMind ou Mistral, ainsi que la façon dont les développeurs d’OpenAI utilisent désormais Codex pour construire Codex.\n\n00:00 Introduction et rôle de Romain Huet chez OpenAI\n00:37 San Francisco, la Silicon Valley et l’écosystème européen\n02:29 De ChatGPT à Codex : reasoning et agents\n05:18 L’avenir des développeurs et la place des juniors\n07:05 Codex pour les non-développeurs\n08:18 Adoption en entreprise, licenciements et transformation des métiers\n11:21 Conseils aux développeurs et relation aux agents\n13:54 OpenAI est-elle toujours open source ?\n15:17 Futurs modèles, disponibilité en Europe, prix et AGI\n19:19 Risques de l’IA, safety et responsabilité humaine\n22:59 ChatGPT face à Codex et transition agentique\n25:06 Futur d’OpenAI : AGI personnelle, hardware, robots et world models\n27:22 Comment travailler chez OpenAI ?\n28:56 Anthropic, DeepMind, Mistral, GPT-OSS2 et concurrence\n30:02 Le secret de la vélocité de l’équipe Codex\n32:12 OpenAI en bourse et mot de la fin",

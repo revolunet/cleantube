@@ -11,6 +11,258 @@
   ],
   "videos": [
     {
+      "id": "qxM5WGCjkbM",
+      "title": "ANSIBLE - 115. LES STRATEGIES : SERIAL, LINEAR, FREE, THROTTLE...",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT12M36S",
+      "published_at": "2026-06-29T17:39:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/qxM5WGCjkbM/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "rV0EUE_prjA",
+      "title": "ANSIBLE - 116. ANSIBLE-PULL : PREMIER RUN",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT19M5S",
+      "published_at": "2026-06-29T17:39:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/rV0EUE_prjA/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "dWcDBMbPKD8",
+      "title": "ANSIBLE - 121. UTILISATION AVEC PROVISIONNING VAGRANT",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT24M1S",
+      "published_at": "2026-06-29T17:39:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/dWcDBMbPKD8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "i_zI1svOWRo",
+      "title": "ANSIBLE - 109. JINJA2 REGEX & RAW :  REPLACE, FINDALL, SEARCH, ESCAPE",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT15M55S",
+      "published_at": "2026-06-29T17:39:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/i_zI1svOWRo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "imdSYpjimc8",
+      "title": "ANSIBLE - 103. TP COMPIL : AJOUT DU CLUSTER SWARM",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT33M6S",
+      "published_at": "2026-06-29T17:39:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/imdSYpjimc8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "jHANhZ_w5uc",
+      "title": "ANSIBLE - 123. CREATION MODULE : LA STRUCTURE (DOCUMENTATION, IMPORTS, MAIN)",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT15M33S",
+      "published_at": "2026-06-29T17:39:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/jHANhZ_w5uc/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "mFlh17Tpgxk",
+      "title": "ANSIBLE - 106. JINJA : LES CONDITIONS",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT18M55S",
+      "published_at": "2026-06-29T17:39:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/mFlh17Tpgxk/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "_Dv3imhHVAw",
+      "title": "ANSIBLE - 105. JINJA : LISTES, DICTIONNAIRES ET BOUCLES",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT27M25S",
+      "published_at": "2026-06-29T17:39:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/_Dv3imhHVAw/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "_WxlrdTGarw",
+      "title": "ANSIBLE - 101. TP COMPIL : INSTALLATION ELASTICSEARCH EXPORTER + DASHBOARD",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT26M13S",
+      "published_at": "2026-06-29T17:39:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/_WxlrdTGarw/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "clSubzClqvU",
+      "title": "ANSIBLE - 124. CREATION MODULE : INSERTION DANS ELASTICSEARCH",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT25M14S",
+      "published_at": "2026-06-29T17:39:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/clSubzClqvU/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "cutctcoDrTo",
+      "title": "ANSIBLE - 113. JINJA : JSON / YAML & TO / FROM",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT13M34S",
+      "published_at": "2026-06-29T17:39:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/cutctcoDrTo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "UtoBzannP2M",
+      "title": "ANSIBLE - 102. TP COMPIL : INSTALLATION DE FILEBEAT",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT19M42S",
+      "published_at": "2026-06-29T17:39:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/UtoBzannP2M/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "WMK3DjDjKCw",
+      "title": "ANSIBLE - 100. MONITORING / LOGGING : ELK ET PROMETHEUS/GRAFANA",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT18M35S",
+      "published_at": "2026-06-29T17:39:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/WMK3DjDjKCw/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "PNExJ3E3468",
+      "title": "ANSIBLE - 119. ANSIBLE PULL AVEC UN PRESEED",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT12M24S",
+      "published_at": "2026-06-29T17:39:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/PNExJ3E3468/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "PdggfKrDSpQ",
+      "title": "ANSIBLE - 104. TP COMPIL : METRICS ET LOGS DOCKER (CADVISOR)",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT27M45S",
+      "published_at": "2026-06-29T17:39:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/PdggfKrDSpQ/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "QKgNCOXyl_A",
+      "title": "ANSIBLE - 111. JINJA : UTILISER LES VARIABLES D'UN AUTRE GROUPE ??",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT18M50S",
+      "published_at": "2026-06-29T17:39:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/QKgNCOXyl_A/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "TGm_giJu63I",
+      "title": "ANSIBLE - 117. ANSIBLE-PULL : INVENTAIRE ET SECRETS (VAULT)",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT10M53S",
+      "published_at": "2026-06-29T17:39:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/TGm_giJu63I/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "TN303ZvqT4E",
+      "title": "ANSIBLE - 122. CREER UN MODULE : LES OBJECTIFS ET TEST PYTHON",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT19M6S",
+      "published_at": "2026-06-29T17:39:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/TN303ZvqT4E/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "TtOKceCC5YY",
+      "title": "ANSIBLE - 114. JINJA : QUERY JSON, SUM...",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT16M40S",
+      "published_at": "2026-06-29T17:39:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/TtOKceCC5YY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "ICnMmkn6CEg",
+      "title": "ANSIBLE - 112. JINJA : TP - HTML, FOR, SET",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT20M58S",
+      "published_at": "2026-06-29T17:39:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/ICnMmkn6CEg/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "Ia7wElbRrBY",
+      "title": "ANSIBLE - 125. CREATION MODULE : GET DOCUMENTS",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT17M40S",
+      "published_at": "2026-06-29T17:39:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ia7wElbRrBY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "KUkOghU7BYE",
+      "title": "ANSIBLE - 107. JINJA2 : LES FILTRES SUR LES STRINGS ET LES LISTES",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT19M18S",
+      "published_at": "2026-06-29T17:39:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/KUkOghU7BYE/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "9W0DesiDvGU",
+      "title": "ANSIBLE - 108. JINJA : FILTRES ET MANIPULATIONS MOINS COURANTES",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT18M53S",
+      "published_at": "2026-06-29T17:39:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/9W0DesiDvGU/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "Anb0iIV99s0",
+      "title": "ANSIBLE - 118. COMBINER ANSIBLE PULL & PUSH POUR LE MEILLEUR....",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT22M12S",
+      "published_at": "2026-06-29T17:39:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/Anb0iIV99s0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "D01GgBvvJs8",
+      "title": "ANSIBLE - 99. PLUGIN LOGSTASH : ENVOYEZ VOS LOGS DE PLAYBOOK DANS ELK",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT14M7S",
+      "published_at": "2026-06-29T17:39:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/D01GgBvvJs8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "E-aZSU6_haM",
+      "title": "ANSIBLE - 100. JINJA : MANIPULATION D'URLS ET DE DATES/HEURES",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT20M18S",
+      "published_at": "2026-06-29T17:39:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/E-aZSU6_haM/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "3ZvzKIWV0HQ",
+      "title": "ANSIBLE - 126. CREATION MODULE : SUPPRESSION DOCS/INDEX + TEST FINAL",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT19M9S",
+      "published_at": "2026-06-29T17:39:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/3ZvzKIWV0HQ/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "54eREouCVsE",
+      "title": "ANSIBLE - 120. PACKER : PLAYBOOK, VAULT, PULL",
+      "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",
+      "duration": "PT19M41S",
+      "published_at": "2026-06-29T17:39:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/54eREouCVsE/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "mvpiT5mU-4U",
       "title": "Temporal - 03. Notions & Definitions",
       "description": "📽️ Abonnez-vous : http://bit.ly/2UnOdgi\n🖥️ Devenir membre VIP et aidez moi : https://bit.ly/3dItQU9\n🙌 Forum d'entraide:   https://discord.gg/QNg3RdfwSS \n\nRetrouvez les slides et codes des projets ici (1 repo par playlist) :\n- sur gitlab : https://gitlab.com/users/xavki/projects\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃\n\nApprenons && Progressons Ensemble !!!\n\nN'hésitez pas à parler de la chaine autour de vous :)\n\n#devops #opensource \n\n\nSommaire de plus de 1500 vidéos : \n- sur github : https://bit.ly/2P5x8Xj\n- sur gitlab : https://bit.ly/2BvYouO\n\n➡️ ➡️ Vous voulez m'encourager likez la vidéo, commentez-là et abonnez-vous ! 😃",

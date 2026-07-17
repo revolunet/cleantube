@@ -16,6 +16,15 @@
   ],
   "videos": [
     {
+      "id": "19nDUbmBgJQ",
+      "title": "Le jour où Nouari, un SDF de 18 ans, a sauvé Madame Michèle",
+      "description": "Le jour où Nouari, un SDF de 18 ans, a sauvé Madame Michèle",
+      "duration": "PT1M10S",
+      "published_at": "2026-07-17T15:54:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/19nDUbmBgJQ/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "EuD9tMaJwto",
       "title": "Le Cri du Coeur de Mourad sur l'Injustice en France",
       "description": "Le Cri du Coeur de Mourad sur l'Injustice en France",
@@ -94,15 +103,6 @@
       "duration": "PT3H37M11S",
       "published_at": "2026-07-12T13:29:57Z",
       "thumbnail": "https://i.ytimg.com/vi/uoDlANHiJ9c/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "Y76NVE1qKVo",
-      "title": "CKR : Throwback LA CUENTA",
-      "description": "Il faut pas oublier toutes celles et ceux qui ont légitimé ce qui la guerre à GAZA.",
-      "duration": "PT2H6M49S",
-      "published_at": "2026-07-11T11:23:36Z",
-      "thumbnail": "https://i.ytimg.com/vi/Y76NVE1qKVo/hqdefault.jpg",
       "tags": []
     },
     {
@@ -463,6 +463,15 @@
       "duration": "PT3M",
       "published_at": "2026-06-22T05:49:38Z",
       "thumbnail": "https://i.ytimg.com/vi/0liEEaFbppA/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "Y76NVE1qKVo",
+      "title": "CKR : Throwback LA CUENTA",
+      "description": "Il faut pas oublier toutes celles et ceux qui ont légitimé ce qui la guerre à GAZA.",
+      "duration": "PT2H6M49S",
+      "published_at": "2026-07-11T11:23:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y76NVE1qKVo/hqdefault.jpg",
       "tags": []
     },
     {

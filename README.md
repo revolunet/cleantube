@@ -108,7 +108,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Adel Fugazi](https://youtube.com/channel/UCjVRltp8y_cUBfLmHSB-htw) | EN SPECTACLE A PARIS ET EN TOURNÉE |
 | [Alexis Le Rossignol](https://youtube.com/channel/UCtIqKywPf7mT2g0wvcKsiDA) | Roues Libres  |
 | [Djamil Le Shlag](https://youtube.com/channel/UCJEjYxKFgRYAxw8bWCGdzfQ) | La chaine officielle de Djamil le Shlag |
-| [Edgar-Yves Jr.](https://youtube.com/channel/UCKO1SFI8EIVU1DGQD6bZylw) | 👊 Nouveau spectacle VIGILANCE 🔥 NOUVELLE DATE - 13 Juin 2026 - Adidas Arena |
+| [Edgar-Yves Jr.](https://youtube.com/channel/UCKO1SFI8EIVU1DGQD6bZylw) | 👊 Nouveau spectacle VIGILANCE 🔥 EN TOURNÉE PARTOUT EN FRANCE ! |
 | [Félix DHJAN](https://youtube.com/channel/UCnPImLUpo-EAnV6q4E1Mb3w) |  |
 | [Karim Duval](https://youtube.com/channel/UC57bDOxg_KlFMn2ze5f0QlQ) | Bienvenue sur la chaîne Karim Duval ! Nouveau spectacle ENTROPIE à Paris et en tournée. |
 | [Kevin Razy](https://youtube.com/channel/UCpfmGY18T_RqXfBgUB2Thsw) | Mon podcast CKR 4 fois par semaine du lundi au jeudi en live le matin (sauf si je tourne ou si j'ai ... |

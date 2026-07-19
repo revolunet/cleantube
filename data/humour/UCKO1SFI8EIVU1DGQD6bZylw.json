@@ -1,7 +1,7 @@
 {
   "id": "UCKO1SFI8EIVU1DGQD6bZylw",
   "name": "Edgar-Yves Jr.",
-  "description": "👊 Nouveau spectacle VIGILANCE 🔥 NOUVELLE DATE - 13 Juin 2026 - Adidas Arena",
+  "description": "👊 Nouveau spectacle VIGILANCE 🔥 EN TOURNÉE PARTOUT EN FRANCE !",
   "thumbnail": "https://yt3.ggpht.com/lmAv6Cs4mL9MaHbuH0TP-1ScCfA4fLFQ8AtpDdWT9_lASlqFi-NAJsYqbUll9qathLYX6VnvQw=s800-c-k-c0x00ffffff-no-rj",
   "public": "15 ans et plus",
   "language": "fr",
@@ -9,6 +9,15 @@
     "arts"
   ],
   "videos": [
+    {
+      "id": "bHHbUvedWxk",
+      "title": "\"The Francis Dance\"",
+      "description": "\"The Francis Dance\"",
+      "duration": "PT35S",
+      "published_at": "2026-07-19T15:42:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/bHHbUvedWxk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "NSDGizHbbDQ",
       "title": "L’instruction",

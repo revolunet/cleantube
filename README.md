@@ -86,7 +86,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | Chaîne | Description |
 |--------|-------------|
 | [Le Dolmen](https://youtube.com/channel/UCB8LBWgHAuthFrohOH9v_sw) | Journal d'observations de notre drôle de monde moderne. |
-| [Le Précepteur](https://youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA) | Philosophie pour tous |
+| [Le Précepteur](https://youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA) | "Le Précepteur" est une chaîne consacrée à la vulgarisation de la philosophie et des grandes idées q... |
 | [MLHORION](https://youtube.com/channel/UCyWM4YRwHwAxld74qQ-6wMA) | Bienvenue sur ma chaîne YouTube ! 🌟... |
 | [Monsieur Phi](https://youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw) | Docteur en philosophie, ce qui ne soigne pas grand chose. ... |
 
@@ -96,7 +96,7 @@ Le meilleur de YouTube en Français, sans distractions.
 
 | Chaîne | Description |
 |--------|-------------|
-| [Le Piano Grand Ouvert - Henri-Luc](https://youtube.com/channel/UCHWcC8O3yl1YxbzjhVSB1XQ) | En route pour cette grande Aventure pianistique 😊... |
+| [Le Piano Grand Ouvert](https://youtube.com/channel/UCHWcC8O3yl1YxbzjhVSB1XQ) | En route pour cette grande Aventure pianistique 😊... |
 | [Piano en ligne](https://youtube.com/channel/UC2fJkVzZK1WTy4JxwFzKSjQ) | Je crée des vidéos ludiques pour apprendre le piano en s'amusant. ... |
 
 ### Humour

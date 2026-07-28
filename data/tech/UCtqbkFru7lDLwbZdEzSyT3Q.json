@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "1MMNWvLO7sM",
+      "title": "Cette skill prouve que le code IA fonctionne",
+      "description": "Cette skill prouve que le code IA fonctionne : review du code, parcours Playwright et preuve vidéo dans la pull request.\n\nInstaller la skill → https://github.com/ai-driven-dev/framework",
+      "duration": "PT32S",
+      "published_at": "2026-07-28T15:14:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/1MMNWvLO7sM/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "5mRVIo3oJkc",
       "title": "ChatGPT Codex : Le workflow privé d'OpenAI pour les devs (GPT-5.6)",
       "description": "🎓 Nos formations entreprises : https://www.ai-driven-dev.fr/formation?utm_source=youtube&utm_medium=description&utm_campaign=52_codex-masterclass-config-flux\n\n🚀 Rejoindre l'écosystème freelance : https://ai-driven-dev.fr/ecosysteme?utm_source=youtube&utm_medium=description&utm_campaign=52_codex-masterclass-config-flux\n\n🇫🇷 Envie de rejoindre le top 1 % des développeurs qui codent avec l'IA ?\n\n1. Signer le manifeste : https://www.ai-driven-development.org/\n2. Installer le framework open source : https://github.com/ai-driven-dev/framework\n3. Nous rejoindre sur Discord : https://discord.gg/EWySJSpjWs\n\n---\n\nChatGPT Codex avec GPT 5.6 est probablement le meilleur combo LLM + IDE IA de 2026.\n\nJe vous montre comment je code avec au quotidien, et surtout comment OpenAI utilise Codex en interne.\n\n\n⏱️ Chapitres\n\n\n0:00 - Introduction à Codex                          \n3:50 - Choix des modèles d’OpenAI\n12:00 - Fonctionnalités ChatGPT + Outils                                     \n16:00 - Tarification et coûts\n17:30 - Configuration avancée (mon setup) \n30:00 - Développement d'une feature avec GPT 5.6 (Sol + Terra)                              \n1:00:00 - Revue et conclusion\n\n🔗 Liens mentionnés\n- https://www.ai-driven-dev.fr/prive/outils\n- https://www.ai-driven-dev.fr/masterclasses/codex\n\n🌐 Mes réseaux\n\nhttps://www.linkedin.com/in/alexandre-soyer/\nhttps://www.instagram.com/alexsoyes/\nhttps://x.com/alexsoyes/",

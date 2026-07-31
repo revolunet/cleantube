@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "wlcOnq4zJcM",
+      "title": "Votre entreprise utiliserait-elle une IA chinoise ?",
+      "description": "Dans sa dernière interview sur The Economist, Elon Musk dit que les chinois vont devenir leader de l'IA.\n\nPour nous les devs, le problème commence là.\n\nEn entreprise, on ne choisit pas seulement le modèle qui code le mieux. On choisit aussi à qui on confie notre code, nos données et une partie de notre infrastructure.\n\nSi les modèles chinois deviennent beaucoup plus puissants que ceux des USA, vous seriez prêts à les utiliser en entreprise ?",
+      "duration": "PT43S",
+      "published_at": "2026-07-31T07:33:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/wlcOnq4zJcM/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "1MMNWvLO7sM",
       "title": "Cette skill prouve que le code IA fonctionne",
       "description": "Cette skill prouve que le code IA fonctionne : review du code, parcours Playwright et preuve vidéo dans la pull request.\n\nInstaller la skill → https://github.com/ai-driven-dev/framework",

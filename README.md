@@ -130,6 +130,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Grand Labo](https://youtube.com/channel/UCErPogabDLnau5mHw_IENxg) | Sciences et société/politique/histoire — Des conversations sur la fabrique de la science. |
 | [Il était une fois... (Hello Maestro)](https://youtube.com/channel/UCMsbW8TRs5i3R8K7Z9fUIXw) | Retrouvez Maestro dans la nouvelle série "Il était une fois… Ces drôles d’Objets", disponible sur l’... |
 | [Je T'explique Comment](https://youtube.com/channel/UCbn3FkZp0zwfQUHDAGSZBpQ) | Tu t'es déjà demandé comment sont fabriqués les objets que tu utilises tous les jours ? Que ce soit ... |
+| [MATHmana](https://youtube.com/channel/UCtKeMtVP7GZqkU7x2y4EASw) | Des sciences qui font rire et progresser.... |
 | [Mickaël Launay (Micmaths)](https://youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg) | La chaîne Micmaths vous propose diverses vidéos autour des mathématiques. Vous y trouverez des cours... |
 | [Mon Cours De SVT](https://youtube.com/channel/UCNXhHwGBMZoTVvJCNx9rGow) | 🎓 Bienvenue sur ma chaîne SVT !... |
 | [Passe-Science](https://youtube.com/channel/UCsz9DiwPtgDvxJ-njWnieZw) | Chaîne de vulgarisation scientifique: physique, mathématiques et informatique. Un niveau de vulgaris... |

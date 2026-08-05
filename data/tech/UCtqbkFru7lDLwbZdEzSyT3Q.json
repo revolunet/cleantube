@@ -1,8 +1,8 @@
 {
   "id": "UCtqbkFru7lDLwbZdEzSyT3Q",
   "name": "Alex so yes",
-  "description": "Code avec L'IA pour booster ta productivité en tant que développeur ! Rejoins l'#AIDrivenDev.",
-  "thumbnail": "https://yt3.ggpht.com/JT4ipYg1NnYdPXglaVb-8MLiygbcVxbfx2CmlZpb3p6ZLuQM-tt92tM6D8um2eh9rZk2SYu-og=s800-c-k-c0x00ffffff-no-rj",
+  "description": "Former les développeurs de demain à coder avec l'IA pour générer du code de qualité.\n\n+500 développeurs formés - 4.7x plus rapide en moyenne\n",
+  "thumbnail": "https://yt3.ggpht.com/-8Mr-6uit-REH5TTz67M1nibSprmzdLUktr-nxF-eYIKXX_sVc6bQIiUs3AU9ARyQVqKSX4S=s800-c-k-c0x00ffffff-no-rj",
   "public": "adultes",
   "language": "fr",
   "tags": [
@@ -10,6 +10,15 @@
     "technologie"
   ],
   "videos": [
+    {
+      "id": "F8f4aXxUMqU",
+      "title": "L’IA dépassera toute l’intelligence humaine dans ~5 ans ?",
+      "description": "Elon pense que l’IA pourrait dépasser toute l’intelligence humaine réunie dans ~5 ans.\n\nOn pense ce qu’on veut du gars.\n\nDans tous les cas : c’est une question de planning.\n\nSi cette prédiction se réalise, le métier de développeur n’existera définitivement plus.\n\nEt je me demande même si c’est pas une bonne chose.",
+      "duration": "PT30S",
+      "published_at": "2026-08-05T08:00:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/F8f4aXxUMqU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "wlcOnq4zJcM",
       "title": "Votre entreprise utiliserait-elle une IA chinoise ?",

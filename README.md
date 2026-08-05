@@ -148,7 +148,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | Chaîne | Description |
 |--------|-------------|
 | [A la french  💻](https://youtube.com/channel/UC4YRTAl0DLe1Psu3jz1OUog) | "A la French" c'est une "Certaine idée de la Tech". On ne parle pas de la French tech, mais de la Te... |
-| [Alex so yes](https://youtube.com/channel/UCtqbkFru7lDLwbZdEzSyT3Q) | Code avec L'IA pour booster ta productivité en tant que développeur ! Rejoins l'#AIDrivenDev. |
+| [Alex so yes](https://youtube.com/channel/UCtqbkFru7lDLwbZdEzSyT3Q) | Former les développeurs de demain à coder avec l'IA pour générer du code de qualité.... |
 | [Defend Intelligence](https://youtube.com/channel/UCnEHCrot2HkySxMTmDPhZyg) | Je suis ingénieur en Intelligence Artificielle, et je réalise des vidéos de vulgarisations sur l’IA,... |
 | [Enzo Emakerz](https://youtube.com/channel/UCnNRQGz1SSgMGgFZzZRi8PA) | Concevoir. Prototyper. Tester. |
 | [Nobody & The Computer](https://youtube.com/channel/UCaPaDEFusMaogm0Vn0LbzoA) | Hey there and a ridiculously warm welcome to my little corner of the internet... |

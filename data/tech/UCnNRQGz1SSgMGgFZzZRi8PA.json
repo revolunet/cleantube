@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "Hw__giM7O_s",
+      "title": "Ce QR code cache beaucoup de chose",
+      "description": "Le QR code est une invention bien pratique qu’on retrouve désormais partout autour de nous ! On ne le remarque même plus, mais je trouve son fonctionnement assez fascinant !\n#qrcode #learning #engineering",
+      "duration": "PT50S",
+      "published_at": "2026-08-09T14:16:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/Hw__giM7O_s/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "AZcWqTzL6pY",
       "title": "Faire des systèmes sur batterie avec une vraie autonomie !",
       "description": "Ce système s’appelle un power latch, il est très utile pour certain système afin d’avoir une autonomie record sur piles / batterie !\n#engineering #electronic #diy #mosfet",

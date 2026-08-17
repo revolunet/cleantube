@@ -135,6 +135,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Mon Cours De SVT](https://youtube.com/channel/UCNXhHwGBMZoTVvJCNx9rGow) | 🎓 Bienvenue sur ma chaîne SVT !... |
 | [Passe-Science](https://youtube.com/channel/UCsz9DiwPtgDvxJ-njWnieZw) | Chaîne de vulgarisation scientifique: physique, mathématiques et informatique. Un niveau de vulgaris... |
 | [ScienceEtonnante](https://youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) | Des vidéos pour raconter la science étonnante, amusante, passionnante et stupéfiante !... |
+| [Sciences et la structure de la matière](https://youtube.com/channel/UC3oBWSvFdE6vy8y9iZdnWNg) | Apprendre tous les jours quelque chose de nouveau , avec enthousiasme et curiosité !... |
 | [Scienticfiz (Gilles Gourio)](https://youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g) | Vous aimez être surpris ? Vous êtes curieux de tout ? Découvrez les vidéos scientifiques réalisées a... |
 | [Scilabus](https://youtube.com/channel/UCeR8BYZS7IHYjk_9Mh5JgkA) | Scilabus est une chaîne de vulgarisation scientifique où on se laisse guider par la curiosité. Expér... |
 | [String Theory FR](https://youtube.com/channel/UCfxwT02Bu5R7l21uMAu8H1w) | Un média scientifique et engagé. |

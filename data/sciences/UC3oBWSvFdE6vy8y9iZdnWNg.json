@@ -1,0 +1,461 @@
+{
+  "id": "UC3oBWSvFdE6vy8y9iZdnWNg",
+  "name": "Sciences et la structure de la matière",
+  "description": "Apprendre tous les jours quelque chose de nouveau , avec enthousiasme et curiosité !\nEn plus de sujets généraux sur la compréhension de la matière, vous trouverez ici des extraits de cours du professeur Richard Welter (Université de Strasbourg). Chimie générale en 1er année, chimie en solution, diagrammes de Pourbaix (E=f(pH)). Radiocristallographie en Master (X-Ray Analysis). Et quelques vidéos de mathématiques comme accompagnement aux sciences physiques et chimiques.",
+  "thumbnail": "https://yt3.ggpht.com/TJCTickeR6PMusJgZ4Sf9AqiB8JFqT0kr2CMelJ1_3utl_Q4mbJflx11JyxYs57nC4lXr8GK=s800-c-k-c0x00ffffff-no-rj",
+  "public": "tout public",
+  "language": "fr",
+  "tags": [],
+  "videos": [
+    {
+      "id": "TwfQtVacCDo",
+      "title": "Qu'est ce que la matière ? le début du voyage vers la matière sombre...",
+      "description": "Le professeur Welter répond aux questions de ses étudiants sur la nature de la matière, quelles sont les particules et les interactions fondamentales de la physique ? Une introduction aux concepts de matière et énergie sombre. Passionnant !",
+      "duration": "PT22M33S",
+      "published_at": "2026-08-17T20:15:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/TwfQtVacCDo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "BQ2DRJxxJqc",
+      "title": "Ces aimants les plus forts du monde ! Introduction au magnétisme.",
+      "description": "Une présentation simple des bases des propriétés magnétiques des matériaux. On y explique en particulier ce qu'est un aimant en comparaison avec un matériau ferro ou ferrimagnétique. Les deux aimants les plus puissant du monde sont cités en référence, ils sont la base des nos moteurs électriques !",
+      "duration": "PT32M35S",
+      "published_at": "2026-06-25T11:47:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/BQ2DRJxxJqc/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "hkxCRq2zS0Y",
+      "title": "Du cristal à la molécule : la 'magie' de la diffraction",
+      "description": "Une présentation sur l'importance de la radiocristallographie dans de nombreuses sciences fondamentales. Quelles sont les bases de la méthodes à partir de monocristaux ? Les étapes et les résultats attendues.",
+      "duration": "PT41M8S",
+      "published_at": "2026-06-17T12:26:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/hkxCRq2zS0Y/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "UQepOlrYzZw",
+      "title": "Refroidissement LASER des atomes pour 'caresser' le zéro absolu !",
+      "description": "Le refroidissement LASER des atomes est un merveilleux exemple d'application des concepts de mécaniques quantiques (niveaux d'énergie discrets, absorption, émission), de la dualité onde corpuscule, de l'effet photo électrique, de l'effet Doppler et la pression radiative. Passionnant !\nPour aller 'caresser' le zéro absolu.",
+      "duration": "PT22M56S",
+      "published_at": "2026-06-05T13:22:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/UQepOlrYzZw/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "6MFerNen01Q",
+      "title": "Coordonnées cylindriques et sphériques : le secret des changements de base",
+      "description": "C'est quoi exactement des coordonnées cylindriques et sphériques ? A quoi cela sert-il ? Sur quelles bases orthonormées s'appuie les systèmes de coordonnées et comment exprimer les matrices de passage entre ces nouvelles bases et la base canonique ?\nJ'ai fait une erreur sur l'écriture de la matrice de passage en coordonnées sphériques à 27 minutes et 30 secondes. Merci à celles et ceux qui l'on remarqué :)\nVoici les bonnes valeurs :\nsin(theta)cos(phi)      cos(theta)cos(phi)     -sin(phi)\nsin(theta)sin(phi)       cos(theta)sin(phi)       cos(phi)\ncos(theta)                    -sin(theta)                     0\n\nL'expression des vecteurs en fonction de i,j,k est correcte mais pour écrire la matrice de passage, il faut écrire en colonne les composantes. Désolé pour la confusion...\n\nPour aller plus loin :\nhttps://www.youtube.com/@oljenmaths/search?query=changement%20de%20base\nhttps://youtu.be/k9qfVUeqg2I",
+      "duration": "PT31M8S",
+      "published_at": "2026-05-15T15:50:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/6MFerNen01Q/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "LjvjHp9CjqY",
+      "title": "Comment peut-on connaître avec précision la taille des atomes ?",
+      "description": "La diffraction des RX est la technique principale qui permet, avec une précision de l'ordre du pico mètre (10-12 m), de mesurer avec finesse la taille des atomes qui constituent la matière.\nPour aller plus loin :\nhttps://youtube.com/playlist?list=PLSWz4HKE6zhHsQcxohVOcLQKMSKZNRrFY&si=l-J79CwRw2UjixW4\nhttps://www.youtube.com/watch?v=uqQlwYv8VQI",
+      "duration": "PT21M30S",
+      "published_at": "2026-05-07T13:57:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/LjvjHp9CjqY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "5OQtfl5AgB4",
+      "title": "La belle chimie de l'eau de Javel",
+      "description": "Quelle est la composition de l'eau de Javel. Pourquoi est-elle basique ? Contient-elle du chlore et sous quelle forme ? La construction pas à pas de son diagramme potentiel-pH permet de comprendre tout cela...\n\nCi-dessous le code Python pour retracer à votre convenance le diagramme E=f(pH)\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n\n# Définir les coefficients des droites\n# y = mx + b ou lire  E = m*Ph + E°\n\nm1, b1 = -0.059, 1.63  #  (1) E = -0,059pH + 1,63\nm2, b2 = -0.0295, 1.495  # (2) E = -0,0295pH + 1,495\nm3, b3 = 0, 1.36  # (3) E = 1.36\nm4, b4 = -0.059, 1.71625  # (4) E = -0,059pH + 1,71625\n\n\n# Créer un tableau de valeurs de pH à savoir a,b,c,d,e,f,g\nx = np.linspace(0, 14, 1000)\n\na = np.linspace(0, 4.576, 1000)\nb = np.linspace(4.576, 7.5, 1000)\nc = np.linspace(7.5, 10, 1000)\nd = np.linspace(0, 7.5, 1000)\ne = np.linspace(0, 10, 1000)\n\n# Calculer les valeurs y pour chaque droite\n\ny1 = m1*a + b1\ny2 = m2*b + b2\ny3 = m3*b + b3\ny4 = m4*c + b4\ny5 = m2*d + b2\ny6 = m4*e + b4\n\n# Tracer les droites\nplt.figure(dpi=800)\n\nplt.plot(a, y1, label='HClO/$Cl_{2}$ ; E°= 1,63 V à pH = 0', color='green')\n\nplt.plot(b, y2, label='HClO/$Cl^-$ ; E°= 1,495 V à pH = 0', color='red')\nplt.plot(d, y5, color='red',linewidth=0.2, ls='--')\n\nplt.plot(a, y3, label='$Cl_{2}$/$Cl^-$ ; E°= 1,36 V', color='blue')\n\nplt.plot(c, y4, label='$ClO^-$/$Cl^-$ ; E°= 1,716 V à pH = 0', color='black')\nplt.plot(e, y6, color='black',linewidth=0.2, ls='--')\n\nplt.xlim(0, 10)\nplt.ylim(1, 1.75)\n\n\n# Ajouter des éléments au graphique\n# ymin et ymax sont en coordonnées fractionnaires y\n\nplt.title('Diagramme E=f(pH) du chlore')\nplt.xlabel('pH', fontsize = 12, color='black')\nplt.ylabel('Potentiel de Nernst en Volt', fontsize = 12, color='black')\nplt.axhline(0, color='black',linewidth=0.1, ls='--')\nplt.axvline(0, color='black',linewidth=0.1, ls='--')\n\nplt.axvline(x=7.5,ymin=0, ymax=1,color='black',linewidth=0.7, ls=':')\nplt.axvline(x=7.5,ymin=0.4, ymax=1,color='black',linewidth=5, ls=':')\nplt.axvline(x=4.57,ymin=0, ymax=0.48,color='black',linewidth=0.8, ls=':')\n\nplt.grid(color = 'gray', linestyle = '--', linewidth = 0.2)\nplt.legend()\nplt.title('$E°_{apparent}$ = f(pH) du chlore dans $H_2$O')\n\nplt.text(1, 1.47, '$Cl_{2}$', fontsize = 16, color='green')\nplt.text(0.2, 1.42, 'triangle de stablité', fontsize = 10, color='green')\nplt.text(0.2, 1.39, 'du chlore', fontsize = 10, color='green')\n\nplt.text(4, 1.55, 'HClO', fontsize = 16, color='black')\nplt.text(4.5, 1.52, '$pK_a = 7,5$', fontsize = 10, color='brown')\n\nplt.text(1, 1.27, '$Cl^{-}$', fontsize = 14, color='blue')\nplt.text(3, 1.27, '$Cl^{-}$', fontsize = 14, color='blue')\nplt.text(5.6, 1.24, '$Cl^{-}$', fontsize = 14, color='blue')\nplt.text(7.6, 1.17, '$Cl^{-}$', fontsize = 14, color='blue')\nplt.text(9, 1.11, '$Cl^{-}$', fontsize = 14, color='blue')\n\nplt.text(8.5, 1.35, '$ClO^{-}$', fontsize = 16, color='black')\n\nplt.text(4.33, 0.965, '4,57', fontsize = 10, color='black')\nplt.text(-0.7, 1.35, '1,36', fontsize = 9, color='black')\n\nplt.text(7.2, 0.965, '7,5', fontsize = 10, color='black')\n\n# Afficher le graphique\n\nplt.show()",
+      "duration": "PT37M35S",
+      "published_at": "2026-04-20T16:00:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/5OQtfl5AgB4/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "k9qfVUeqg2I",
+      "title": "La 'magie' des matrices et leur diagonalisation : ce qu'il faut vraiment comprendre.",
+      "description": "Que représente une matrice, comment calculer son déterminant, quelle est la relation générale de l'inversion ? Enfin que signifie diagonaliser une matrice du point de vue des changements de base.\n\nPour mieux comprendre encore les bases géométriques (vectorielles) de l'écriture matricielle, je vous conseille ce lien :\nhttps://clipedia.be/mathematiques/vecteurs-et-matrices\n\nPour une étude approfondie niveau classe prépa :\nhttps://www.youtube.com/@oljenmaths/search?query=matrices\n\nRW",
+      "duration": "PT44M44S",
+      "published_at": "2026-04-14T18:11:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/k9qfVUeqg2I/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "0TtdoYBeTNE",
+      "title": "L'univers en expansion et le 'hasard' quantique : là où Einstein s'est trompé.",
+      "description": "Un courte présentation de ce que l'on considère aujourd'hui comme les deux erreurs d'Einstein, pour l'infiniment grand et l'infiniment petit. Cette explication s'appuie en particulier sur un article du professeur François Vannucci, publié en 2020 dans la revue 'The Conversation'.\nhttps://theconversation.com/les-deux-erreurs-deinstein-136062\n\nVoici le lien pour l'explication détaillée des inégalités de John Bell et le travail du professeur Alain Aspect, prix Nobel de physique en 2022. Belle découverte...\nhttps://www.youtube.com/watch?v=28UN70790Do&t=74s",
+      "duration": "PT9M15S",
+      "published_at": "2026-04-09T12:55:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/0TtdoYBeTNE/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "jBIvk7CgKVg",
+      "title": "L'eau et sa stabilité oxydo-réductrice",
+      "description": "Construction pas à pas du diagramme potentiel - pH de l'eau au tableau noir.",
+      "duration": "PT16M37S",
+      "published_at": "2026-04-03T07:47:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/jBIvk7CgKVg/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "K1rE0YDkYcs",
+      "title": "Calculs de pH dans l'eau, avec ou sans approximations",
+      "description": "Tous les calculs de pH en 15 minutes : acides forts, faibles et les approximations.\nCe qu'il faut savoir pour une maîtrise des réactions dans l'eau.",
+      "duration": "PT15M16S",
+      "published_at": "2026-04-02T12:18:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/K1rE0YDkYcs/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "ae_csfw22Y0",
+      "title": "Influence du pH sur le potentiel de Nernst : exemple de la réduction des nitrates",
+      "description": "Sur l'exemple de la réduction des nitrate en NO, on redéfini  pas à pas le potentiel standard apparent dans l'eau.",
+      "duration": "PT11M41S",
+      "published_at": "2026-03-30T12:39:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/ae_csfw22Y0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "p20KDyJSFdg",
+      "title": "Pour comprendre le fonctionnement des batteries : quelques concepts",
+      "description": "Qu'est-ce qu'un potentiel d'électrode, un potentiel standard, l'équation de Nernst ? Les concepts de base de la chimie qu'il faut acquérir pour comprendre le fonctionnement des batteries.",
+      "duration": "PT9M56S",
+      "published_at": "2026-03-26T12:30:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/p20KDyJSFdg/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "OY58I9jpJ6o",
+      "title": "Derrière la 'magie' des logarithmes : les développements limités comme outil de calcul",
+      "description": "Cette courte présentation, qui complète la vidéo sur la 'magie' des logarithmes expliquée en 10 minutes (https://youtu.be/6lgHk_mknAY), montre comment les calculatrices utilisent les développements limités pour réaliser les calculs de n'importe quelle valeur de logarithme, base e, base 10 ou base 2.",
+      "duration": "PT9M38S",
+      "published_at": "2026-03-25T10:09:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/OY58I9jpJ6o/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "X-YH99CeF-0",
+      "title": "Quelles sont les réactions chimiques les plus importantes ?",
+      "description": "Quelles sont les réactions chimiques les plus importantes ? A découvrir dans cette courte introduction aux équilibres chimiques vers les diagrammes potentiels-pH\nLiens :\nhttps://youtube.com/playlist?list=PLSWz4HKE6zhFj__u1TJmD6FqCdRPlwnLe&si=Q9FuQYTtre7IS59V\n\nhttps://youtube.com/playlist?list=PLSWz4HKE6zhF3QRgPej0wXMVylEKJ-3qC&si=cjIXReWSqEN-OuwF\n\nhttps://youtube.com/playlist?list=PLSWz4HKE6zhHFu0GxPdVOFieQD8AVwgoJ&si=TX3NaHkUHSsH7AX4",
+      "duration": "PT5M27S",
+      "published_at": "2026-03-19T10:04:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/X-YH99CeF-0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "Ob6w092tc2A",
+      "title": "D'où vient la masse des atomes ?",
+      "description": "Une courte présentation qui fait suite à celle intitulée 'Enfin je comprends la masse de la matière (https://youtu.be/HzfJvgiKvks) et qui explique la triple origine de la masse de la matière, dans le cadre du modèle standard (champ de Higgs, interaction forte et contribution électromagnétique).\nFinalement, on peut dire que tout est énergie ! Belle découverte :)",
+      "duration": "PT12M45S",
+      "published_at": "2026-03-14T16:14:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ob6w092tc2A/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "eO7XovoPC9U",
+      "title": "Le proton est 'immortel' mais pas le neutron !",
+      "description": "Une courte présentation sur la stabilité comparée du neutron et du proton, en tant que particules isolées. On dit que le proton est éternel ou immortel et on apprend que le temps de demi-vie du neutron est d'environ 15 minutes. Dans les noyaux, les neutrons sont stabilisés - pour les isotopes stables bien sûr - grâce aux autres protons et neutrons dudit noyau. Mais en dehors du noyau, le neutron ne vit vraiment pas très longtemps ! A découvrir.\nPour approfondir ces sujets, consulter par exemple l'ouvrage de François VANNUCCI : le vrai roman des particules élémentaires, Ed. DUNOD.\nOu encore :\nhttps://theconversation.com/la-matiere-est-elle-immortelle-134081",
+      "duration": "PT8M9S",
+      "published_at": "2026-03-03T11:00:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/eO7XovoPC9U/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "myp_1SudT6o",
+      "title": "Pourquoi la constante d'Euler est-elle si importante...et naturellement belle ?",
+      "description": "Une présentation qui complète la vidéo sur la magie des logarithmes et qui explique pourquoi e est la base naturelle du logarithme. La méthode avec les intérêts bancaires est explicitée pour retrouver la formule permettant de calculer la constante d'Euler, la base de la fonction exponentielle. e = 2,7182818284...nombre irrationnel comme pi. La démonstration de la dérivée de ln(x) est redonner aussi. J'ai posté cette vidéo une seconde fois suite à des problèmes de floutage sur la première. \nPour aller plus loin, je vous invite à visionner ceci :\nhttps://www.youtube.com/watch?v=icij8EjisiM",
+      "duration": "PT19M53S",
+      "published_at": "2026-02-24T22:03:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/myp_1SudT6o/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "z1_D4XKF178",
+      "title": "Plus rapide que la lumière, oui ça existe ! Ces particules supraluminiques dans l'eau",
+      "description": "L'effet Vavilov-Tcherenkov (ou Cherenkov) est lié à un principe contre intuitif : plus rapide que la lumière...dans le millieu ! Ce phénomène peut s'interpréter comme un avion volant plus vite que le son dans l'air, produisant un bang caractéristique ! Pour la radiation Tcherenkov, c'est un flash de lumière bleutée qui apparaît lorsque la particule chargée se déplace dans le milieu (ici l'eau) avec une vitesse supérieure à la vitesse de la lumière dans ce milieu.\n\nLa luminosité bleue éthérée de l'eau entourant le cœur d'un réacteur nucléaire en est une des manifestations la plus connue mais ce phénomène est d'une importance capitale dans la détection des particules comme les neutrinos, pour l'étude de l'infiniment petit comme l'infiniment grand. Extraordinaire !",
+      "duration": "PT11M2S",
+      "published_at": "2026-02-11T10:16:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/z1_D4XKF178/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "d28rD8BIpVs",
+      "title": "Le mystère de notre propre radioactivité expliqué.",
+      "description": "Cette vidéo présente en une quinzaine de minutes les deux contributions principales de la radioactivité de type bêta- et capture électronique qui sont à l'oeuvre de façon continuelle dans notre corps.\nPour aller plus loin sur la physique des neutrinos, je vous conseille l'excellent ouvrage du professeur François Vannucci :\nNeutrinos, les messagers de l'invisible, aux éditions EDP Sciences",
+      "duration": "PT13M23S",
+      "published_at": "2026-02-01T11:00:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/d28rD8BIpVs/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "TWWRaBCfSns",
+      "title": "Blaise Pascal et les prémices de l'I.A. par François VANNUCCI",
+      "description": "Une conférence proposée par le professeur émérite François Vannucci (Paris), spécialiste de la physique des particules et tout particulièrement des neutrinos. Cette conférence a été donnée le 22 janvier 2026 lors de sa visite au professeur R. Welter à Strasbourg. Le professeur Vannucci a publié de nombreux ouvrages dont voici une sélection :\n\nL'astronomie de l'extrême univers (Odile Jacob)\nLe vrai roman des particules élémentaires (Dunod)\nLa promesse du hasard (Odile Jacob)\nLe miroir aux neutrinos (Odile Jacob)",
+      "duration": "PT36M5S",
+      "published_at": "2026-01-28T16:24:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/TWWRaBCfSns/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "6lgHk_mknAY",
+      "title": "La 'magie' des logarithmes expliquée en 10 minutes",
+      "description": "La 'magie' des logarithmes expliquée en 10 minutes. Origine, formules de bases et propriétés remarquables. Ces compréhensions sont essentiels pour aborder dans les meilleurs conditions les exposés scientifiques en général.\nPour approfondir, je vous conseille par exemple les très belles explications proposées ici :\nhttps://clipedia.be/videos/les-logarithmes-introduction\n\nEt ci après le code python pour tracer les courbes qui sont incrustées dans la présente vidéo\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n# Définir une plage de valeurs pour x, en évitant 0 car log(0) est indéfini\nx = np.linspace(-3, 8, 4000)\n# Calculer les valeurs des fonctions\n\ndef f(x):\n    return (10**x)\n\ndef g(x):\n    return (2**x)\n\ny_log = np.log(x)\ny_log10 = np.log10(x)\ny_log2 = np.log2(x)\n\ny_exp = np.exp(x)\ny_puiss10 = f(x)\ny_puiss2 = g(x)\n\n# Créer une nouvelle figure avec une haute résolution\nplt.figure(dpi=500)\n#Tracer les fonctions\nplt.plot(x, y_log, label=\"ln(x)\")\nplt.plot(x, y_log2, label=\"log2(x)\")\n\nplt.plot(x, y_exp, label=\"exp(x)\")\n\nplt.plot(x, y_log10, label=\"log(x)\")\nplt.plot(x, y_puiss10, label=\"10^x\")\nplt.plot(x, y_puiss2, label=\"2^x\")\n\n# Ajouter une grille avec un style léger\nplt.grid(color='gray', linestyle='--', linewidth=0.2)\n# Fixer les limites de l'axe x et y pour mieux voir les courbes\nplt.xlim(-3, 8)\nplt.ylim(-3, 8)\n\nplt.yticks(np.arange(-3,8,1))\nplt.xticks(np.arange(-3,8,1))\n\n# Ajouter un titre et des labels\nplt.title(\"Tracé des fonctions\")\nplt.xlabel(\"x\")\nplt.ylabel(\"y\")\n# Ajouter la légende\nplt.legend()\n#Afficher le graphe\nplt.show()",
+      "duration": "PT11M21S",
+      "published_at": "2026-01-20T14:44:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/6lgHk_mknAY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "ZTn6d-ufQg4",
+      "title": "Ordre et désordre dans les solides : du cristal aux surprenants quasi cristaux",
+      "description": "Nous proposons ici une introduction aux structures originales (même exceptionnelles !) que représentent les quasi cristaux. Quelques éléments simples sont apportés en nous rappelant ce qu’est un cristal, un composé amorphe et un quasi-cristal. Le monde du pavage de l’espace - mathématiques - est aussi abordé. Nous rendons un hommage appuyé au professeur Dan Shechtman, prix Nobel de chimie en 2011 pour la découverte des quasi-cristaux en 1982.\n\nQuelques liens intéressants pour approfondir le sujet :\n\nhttps://www.youtube.com/watch?v=LlRUvADM-WY\n\nhttps://www.youtube.com/watch?v=LFc2vrijf5g\n\nhttps://www.youtube.com/watch?v=glYsmMVwoYI\n\nhttps://www.youtube.com/watch?v=m70Dtq6zBfc\n\nhttps://www.youtube.com/watch?v=z_qLZdBM4C8&t=236s",
+      "duration": "PT18M47S",
+      "published_at": "2026-01-13T21:17:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZTn6d-ufQg4/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "2hD6RMhkrEs",
+      "title": "Comprendre l'oxydo-réduction peut sauver des vies ! Feux métalliques et décomposition de l'eau.",
+      "description": "Une courte vidéo qui nous rappelle ce qu'est une combustion du point de vue des réactions redox. Le cas des feux métalliques est explicité et pourquoi l'eau n'est pas adaptée pour éteindre ce type de feu, le risque que cela représente - explosion violente - avec la production de di-hydrogène.",
+      "duration": "PT11M19S",
+      "published_at": "2026-01-01T11:00:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/2hD6RMhkrEs/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "hIpSCJLNqtk",
+      "title": "Le nombre d'atomes dans l'univers visible : un calcul fascinant et très instructif !",
+      "description": "Un calcul simple permet de retrouver le nombre hallucinant d'atomes qui constituent notre univers visible. A partir du volume et du contenu d'une maille cristalline (CuO), on montre par exemple qu'un simple monocristal micrométrique contient plus de 10 puissance 15 atomes ! Il est intéressant de suivre le raisonnement jusqu'au bout pour découvrir ce nombre d'atomes dans l'univers observable. Belle découverte.",
+      "duration": "PT14M16S",
+      "published_at": "2025-12-22T18:52:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/hIpSCJLNqtk/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "V4Oz2LFQZCo",
+      "title": "Les propriétés fascinantes de l'eau dévoilées",
+      "description": "Un focus sur les propriétés fascinantes de l'eau est proposé, avec une discussion sur l'apport de la diffraction des RX pour l'obtention des structures à l'état solide. Une vingtaine de structures cristallines différentes sont connues à ce jour, certaines correspondantes à des phases exotiques mais qui pourraient donner des informations précieuses aux astrophysiciens.",
+      "duration": "PT16M58S",
+      "published_at": "2025-12-13T14:40:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/V4Oz2LFQZCo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "Cv5n8DyH4vA",
+      "title": "A l'origine de la physique quantique : le génie Louis De Broglie",
+      "description": "Courte présentation en hommage au Professeur Louis De Broglie et le caractère ondulatoire des électrons. Comment comprendre sa formule et quelles sont les preuves expérimentales. La base de la physique quantique au 20ème siècle, rien que ça !\nPour aller plus loin, visiter le site :\nhttps://fondationlouisdebroglie.org\nhttps://www.ina.fr/ina-eclaire-actu/video/afe04002106/monsieur-de-broglie\n\nDe nombreux ouvrages disponibles.",
+      "duration": "PT11M54S",
+      "published_at": "2025-12-08T18:21:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/Cv5n8DyH4vA/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "3pLciCn2AX8",
+      "title": "Quelques mystères de la matière et de l'énergie dans un verre d'eau !",
+      "description": "Explications pas à pas des phénomènes d'évaporation et d'ébullition à la lumière des concepts de base de la thermodynamique : enthalpie, entropie, enthalpie libre, capacité thermique, pression de vapeur saturante...",
+      "duration": "PT17M15S",
+      "published_at": "2025-12-04T15:29:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/3pLciCn2AX8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "0r0RpsULLxc",
+      "title": "Calculer la distance entre deux points dans tous les repères 3D",
+      "description": "Comment calculer la distance entre deux points (ou deux atomes) dans n'importe quel repère tridimensionnel a,b,c alpha, beta, gamma. Le tenseur métrique en cristallographie",
+      "duration": "PT18M26S",
+      "published_at": "2025-12-02T15:19:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/0r0RpsULLxc/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "5feTCL5Tot8",
+      "title": "Enfin je sais calculer la température finale d'un mélange eau-glace !",
+      "description": "",
+      "duration": "PT9M6S",
+      "published_at": "2025-12-01T13:19:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/5feTCL5Tot8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "P6xeDhx1Ev8",
+      "title": "Le groupe quadratique : I 41/a",
+      "description": "Construction pas à pas du groupe d'espace tétragonal I 41/a. 16 positions équivalentes...etc.",
+      "duration": "PT21M48S",
+      "published_at": "2025-11-29T16:44:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/P6xeDhx1Ev8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "CgFhKzxhqgI",
+      "title": "Le zéro absolu et le 3ème principe de la thermodynamique : quelques réflexions...",
+      "description": "Le zéro absolu et le 3ème principe de la thermodynamique : quelques réflexions...L'entropie quasiment nulle et les propriétés extraordinaire de la matière à très basses températures (supraconductivité par exemple). Un rappel concernant les températures d'ébullition de l'azote et de l'hélium...",
+      "duration": "PT12M39S",
+      "published_at": "2025-11-29T16:11:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/CgFhKzxhqgI/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "Vww30_hMG1E",
+      "title": "1er groupe du système tétragonal : P 4",
+      "description": "",
+      "duration": "PT6M5S",
+      "published_at": "2025-11-25T18:21:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/Vww30_hMG1E/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "IIpMvrsGu8w",
+      "title": "Groupe orthorhombique P b c a.",
+      "description": "Explication et construction du groupe d'espace en cristallographie P b c a, de façon détaillée",
+      "duration": "PT31M51S",
+      "published_at": "2025-11-25T16:40:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/IIpMvrsGu8w/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "ST6y0ec1Ul8",
+      "title": "Un bilan sur les groupes monocliniques en cristallographie : le groupe Cm",
+      "description": "Un bilan sur les groupes monocliniques en cristallographie : le groupe Cm",
+      "duration": "PT27M29S",
+      "published_at": "2025-11-14T21:10:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/ST6y0ec1Ul8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "4oLBxyIf7LU",
+      "title": "L'incroyable 'métamorphose' du carbone : structures et propriétés",
+      "description": "Cette courte vidéo propose une présentation succincte des deux principales variétés allotropiques du carbone : le diamant et le graphite.",
+      "duration": "PT10M33S",
+      "published_at": "2025-11-14T10:57:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/4oLBxyIf7LU/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "3udVb5Zclto",
+      "title": "Méthode de Slater : exemples du magnésium et du bore",
+      "description": "Méthode de Slater : exemples du magnésium et du bore",
+      "duration": "PT25M38S",
+      "published_at": "2025-11-13T15:42:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/3udVb5Zclto/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "6sYcceEegWs",
+      "title": "Electrons de valence et électrons de coeur : 10 exemples",
+      "description": "Electrons de valence et électrons de coeur : 10 exemples.\nRappels sur les règles de remplissage des couches et sous-couches électroniques.",
+      "duration": "PT27M28S",
+      "published_at": "2025-11-06T15:48:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/6sYcceEegWs/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "Vpm6hcEX8fM",
+      "title": "Le réseau réciproque en radiocristallographie",
+      "description": "Une explication au tableau noir du lien entre la relation de Bragg et le réseau réciproque ou polaire en radiocristallographie.",
+      "duration": "PT18M57S",
+      "published_at": "2025-10-15T09:14:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/Vpm6hcEX8fM/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "gAK1NWDePus",
+      "title": "Avancement de réaction et réactif limitant : 2 exemples",
+      "description": "Avancement de réaction et réactif limitant : 2 exemples.\nEt un moyen infaillible pour bien équilibrer une réaction chimique !",
+      "duration": "PT28M2S",
+      "published_at": "2025-09-19T18:50:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/gAK1NWDePus/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "tWckZe-wiyY",
+      "title": "Concentration, molalité, fraction molaire et masse volumique : un exemple détaillé",
+      "description": "Concentration, moralité, fraction molaire et masse volumique : un exemple détaillé",
+      "duration": "PT20M1S",
+      "published_at": "2025-09-12T11:50:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/tWckZe-wiyY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "cLFF85adTtw",
+      "title": "Préparer une solution de glucose de concentration fixée : trop facile !",
+      "description": "Préparer une solution de glucose de concentration fixée : trop facile !\nPour reprendre en douceur la nouvelle année universitaire 2025/2026...",
+      "duration": "PT7M48S",
+      "published_at": "2025-09-11T11:23:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/cLFF85adTtw/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "_cml7CePGYI",
+      "title": "Diagonalisation et matrices de passage : quels liens ?",
+      "description": "Sur un exemple, on montre le lien entre les valeurs propres, les vecteurs propres, la matrice diagonalisée, le changement de base et les matrices de passage.",
+      "duration": "PT21M6S",
+      "published_at": "2025-04-13T09:18:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/_cml7CePGYI/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "Lzy043ukhI4",
+      "title": "Le secret de la construction des diagrammes de Pourbaix : exemple du vanadium",
+      "description": "Vidéo longue ! La construction détaillée du diagramme potentiel-pH du vanadium et 'en cadeau' les lignes de code python pour le tracer.\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n\n# Définir les coefficients des droites\n# y = mx + b ou lire  E = m*Ph + E°\n\nm1, b1 = -0.118, 1  #  (1) E = -0,177pH + 1,00\nm2, b2 = -0.118, 0.36  # (2) E = -0,118pH + 0,36\n\nm3, b3 = 0, -0.25  # (3) E = -0,25\nm4, b4 = 0, -1.2185  # (4) E = -1,2185\n\nm5, b5 = -0.177, 1.145  # (5) E = -0,236pH + 1,295\nm6, b6 = -0.059, 0.671  # (6) E = -0,059pH + 0,587\n\nm7, b7 = -0.059, 0.124  # (7) E = -0,059pH + 0,124\nm8, b8 = -0.177, 0.458  # (8) E = -0,177pH + 0,458\n\nm9, b9 = -0.059, -0.427  # (9) E = -0,059pH - 0,427\nm10, b10 = -0.059, -0.776  # (10) E = -0,059pH - 0,776\n\n\n# Créer un tableau de valeurs de pH à savoir a,b,c,d,e,f,g\nx = np.linspace(0, 14, 1000)\n\na = np.linspace(0, 2.5, 1000)\nb = np.linspace(0, 4, 1000)\nc = np.linspace(0, 7.5, 1000)\nd = np.linspace(2.5, 4, 1000)\ne = np.linspace(4, 14, 1000)\nf = np.linspace(4, 7.5, 1000)\ng = np.linspace(7.5, 14, 1000)\n\n# Calculer les valeurs y pour chaque droite\n\ny1 = m1*a + b1\ny2 = m2*b + b2\ny3 = m3*b + b3\ny4 = m4*c + b4\ny5 = m5*d + b5\ny6 = m6*e + b6\ny7 = m7*e + b7\ny8 = m8*f + b8\ny9 = m9*g + b9\ny10 = m10*g + b10\n\n# Tracer les droites\nplt.figure(dpi=800)\nplt.plot(a, y1, label='$V^{+V}$/$V^{+IV}$ ; E°= 1,00 V', color='orange')\nplt.plot(b, y2, label='$V^{+IV}$/$V^{+III}$ ; E°= 0,36 V', color='blue')\nplt.plot(b, y3, label='$V^{+III}$/$V^{+II}$ ; E°= -0,25 V', color='green')\nplt.plot(c, y4, label='$V^{+II}$/$V^{°}$ ; E°= -1,13 V', color='purple')\nplt.plot(d, y5, color='orange')\nplt.plot(e, y6, color='orange')\nplt.plot(e, y7, color='blue')\nplt.plot(f, y8, color='green')\nplt.plot(g, y9, color='green')\nplt.plot(g, y10, color='purple')\n\nplt.xlim(0, 12)\nplt.ylim(-1.8, 1.3)\n\n\n# Ajouter des éléments au graphique\n# ymin et ymax sont en coordonnées fractionnaires y\n\nplt.title('Diagramme E=f(pH) du vanadium')\nplt.xlabel('pH', fontsize = 12, color='black')\nplt.ylabel('Potentiel de Nernst en Volt', fontsize = 12, color='black')\nplt.axhline(0, color='black',linewidth=0.1, ls='--')\nplt.axvline(0, color='black',linewidth=0.1, ls='--')\nplt.axvline(x=2.5,ymin=0.81, ymax=1,color='black',linewidth=2, ls=':')\nplt.axvline(x=4,ymin=0.5, ymax=0.72,color='black',linewidth=2, ls=':')\nplt.axvline(x=7.5,ymin=0.19, ymax=0.3,color='black',linewidth=2, ls=':')\nplt.grid(color = 'gray', linestyle = '--', linewidth = 0.2)\nplt.legend()\nplt.title('$E°_{apparent}$ = f(pH) du vanadium dans $H_2$O : [C]=$10^{-3}$ Mol.$L^{-1}$')\n\nplt.text(1, 1, '$VO_2^{+}$', fontsize = 14, color='orange')\n\nplt.text(3.8, 0.8, '$VO_2(OH)$', fontsize = 14, color='brown')\nplt.text(4.4, 0.66, '$pK_s = 14,5$', fontsize = 10, color='brown')\n\nplt.text(1, 0.4, '$VO^{2+}$', fontsize = 14, color='blue')\nplt.text(1, -0.1, '$V^{3+}$', fontsize = 14, color='green')\nplt.text(3, -0.8, '$V^{2+}$', fontsize = 14, color='purple')\n\nplt.text(4, -1.5, 'Vanadium métal', fontsize = 14, color='black')\n\nplt.text(6.5, -0.10, '$VO(OH)_2$', fontsize = 14, color='blue')\nplt.text(7.5, -0.22, '$pK_s = 23$', fontsize = 10, color='blue')\n\nplt.text(8.5, -0.7, '$V(OH)_3$', fontsize = 14, color='grey')\nplt.text(9.5, -0.84, '$pK_s = 33$', fontsize = 10, color='grey')\n\nplt.text(9, -1.20, '$V(OH)_2$', fontsize = 14, color='black')\nplt.text(10, -1.33, '$pK_s = 16$', fontsize = 10, color='black')\n\nplt.text(10, 0.22, '(E° à pH=0)', fontsize = 8, color='black')\n\n# Afficher le graphique\n\nplt.show()",
+      "duration": "PT55M3S",
+      "published_at": "2025-04-04T13:58:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/Lzy043ukhI4/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yv_B_C-mWlI",
+      "title": "Comment calculer les courbes de répartition des espèces ?",
+      "description": "Comment calculer les courbes de répartition des espèces ?\nExplication en moins de 10 minutes de l'établissement des formules pour tracer les courbes de répartition des espèces acide/bases. Le code python associé est donné...ci-après :\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n\n# # Définir la valeur du pKa\n\nm1 = 9.2 # valeur du pka\n\n# # Créer un tableau de valeurs de pH=x\nx = np.linspace(0, 14, 1000)\n\n# # Calculer les valeurs de l'abondance en %\n\ny1 = 100*(10**(m1))*10**(-x)/(1 + (10**(m1))*10**(-x))\ny2 = 100*(10**(-m1))*10**(x)/(1 + (10**(-m1))*10**(x))\n\n# # Tracer les courbes\nplt.figure(dpi=300)\n\nplt.plot(x, y1, color='grey')\nplt.plot(x, y2, color='blue')\n\nplt.xlim(0, 14)\nplt.ylim(-5, 105)\n\n# # Ajouter des éléments au graphique\n\nplt.title('Diagramme E=f(pH) du chlore')\nplt.xlabel('pH', fontsize = 16, color='black')\nplt.ylabel('Abondance relative en %', fontsize = 16, color='black')\nplt.axhline(0, color='black',linewidth=0.1, ls='--')\nplt.axvline(0, color='black',linewidth=0.1, ls='--')\n\n# # ymin et ymax sont en coordonnées fractionnaires y\nplt.axvline(x=9.2,ymin=0, ymax=1,color='black',linewidth=2, ls=':')\nplt.axhline(y=50,xmin=0, xmax=1,color='black',linewidth=2, ls=':')\n\nplt.grid(color = 'gray', linestyle = '--', linewidth = 0.2)\n\n# # Si on veut voir une légende\n# # plt.legend()\n\nplt.title('Répartition des espèces acide-base pour $NH_{4}^{+}$/$NH_{3}$ dans $H_{2}O$')\n\nplt.text(12, 90, '$NH_{3}$', fontsize = 20, color='blue')\nplt.text(3, 90, '$NH_{4}^{+}$', fontsize = 20, color='grey')\nplt.text(8.7, -13, '9,2', fontsize = 14, color='black')\n\n# # Pour afficher le graphique à l'ecran : plt.show() après savefig\n\nplt.savefig('myimage.jpg')",
+      "duration": "PT9M47S",
+      "published_at": "2025-04-03T10:17:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/yv_B_C-mWlI/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "o1oj1B4eeZE",
+      "title": "Pourquoi l'eau de Javel a un pH basique ?",
+      "description": "Explication pas à pas des deux raisons qui font que le pH de l'eau de Javel est basique.",
+      "duration": "PT21M40S",
+      "published_at": "2025-03-28T16:49:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/o1oj1B4eeZE/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yL_qw1bpr2U",
+      "title": "Equation de Nernst : l'essentiel à savoir",
+      "description": "Rappel de la signification et de l'importance de l'équation de Nernst pour la prévision des réactions red-ox. Comprendre le potentiel standard et le potentiel standard apparent.",
+      "duration": "PT17M7S",
+      "published_at": "2025-03-17T16:46:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/yL_qw1bpr2U/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "ehcviDaG4OA",
+      "title": "Champ de vecteurs : 3 exemples avec le code python",
+      "description": "Résolution détaillée de 3 équations différentielles linéaires d'ordre 1.\nJe donne ci-après le code python qui permet de générer le champ de vecteur. A vos compilateurs...`\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n# # Définir la grille de points et les fonctions\nx = np.linspace(0.1, 10, 20)\ny = np.linspace(-5, 5, 20)\nX, Y = np.meshgrid(x, y)\nx_values = np.linspace(0.1, 10, 10000)  # Valeurs de x_values\n\ndef f(x):\n    return (-1 + x)\n\ndef g(x):\n    return (-1 + 3*x)\n\ndef h(x):\n    return (-1 + 0.3*x)\n\ndef i(x):\n    return (-1 - x)\n\n# # Calculer les dérivées\nU = np.ones_like(x) # composante x constante\nV = Y/x + 1/x # composante y\n\n## Normaliser les vecteurs\nlength = 1  # Longueur fixe des vecteurs\nnorm = np.sqrt(U**2 + V**2)  # Calculer la norme\nnorm[norm == 0] = 1e-10  # Éviter la division par zéro\nU_normalized = U / norm  # Normaliser U\nV_normalized = V / norm  # Normaliser V\n\nU_normalized *= length  # \nV_normalized *= length  #\n\n# # Tracer le champ de vecteurs et les fonctions\nplt.figure(dpi=600)\nplt.quiver(X, Y, U_normalized, V_normalized, angles='xy', scale_units='xy', scale=1.5, color='black')\n\nplt.plot(x_values, f(x_values), label='f(x) = x-1', color='r', linewidth=1)\nplt.plot(x_values, g(x_values), label='g(x) = 3x-1', color='blue', linewidth=1)\nplt.plot(x_values, h(x_values), label='h(x) = 0,3x-1', color='green', linewidth=1)\nplt.plot(x_values, i(x_values), label='i(x) = -x-1', color='green', linewidth=1)\nplt.ylim(-5, 5)\nplt.xlabel('x')\nplt.ylabel('y')\nplt.title('Equation différentielle : dy/dx = y/x + 1/x')\nplt.legend(['champ de vecteurs','x-1','3x-1','0,3x-1','-x-1'])\nplt.grid(True)\nplt.show()",
+      "duration": "PT16M",
+      "published_at": "2025-03-16T14:35:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/ehcviDaG4OA/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "tcs1_fg6tik",
+      "title": "Equations différentielles et champ de vecteurs : comment faire ?",
+      "description": "Résolution pas à pas d'une équation simple : y' -4y = 3.\nCi-dessous le code python pour générer le champ de vecteurs associés.\nToutes améliorations et suggestions constructives sont les bienvenues :)\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n# # Définir la grille de points\nx = np.linspace(-2, 0.2, 40)\ny = np.linspace(-2, 1, 20)\nX, Y = np.meshgrid(x, y)\n\n# # Définir les fonctions\ndef f(x):\n    return np.exp(4*x)\ndef g(x):\n    return (-1*f(x) - 3/4)\ndef h(x):\n    return (2*f(x) - 3/4)\ndef i(x):\n    return (30*f(x) - 3/4)\ndef j(x):\n    return (-10*f(x) - 3/4)\n\n# # Définir le nombre de points pour les courbes fonctions\nx_values = np.linspace(-2, 2, 10000)  # Valeurs de x\n\n# # Calculer les dérivées\nU = np.ones_like(X) # composante x constante\nV = 3 + 4*Y # composante y\n\n# # Normaliser les vecteurs\nlength = 0.2  # Longueur fixe des vecteurs\nnorm = np.sqrt(U**2 + V**2)  # Calculer la norme\nnorm[norm == 0] = 1e-10  # Éviter la division par zéro\nU_normalized = U / norm  # Normaliser U\nV_normalized = V / norm  # Normaliser V\n\nU_normalized *= length  # \nV_normalized *= length  #\n\n# # Tracer le champ de vecteurs\nplt.figure(dpi=600)\nplt.quiver(X, Y, U_normalized, V_normalized, angles='xy', scale_units='xy', scale=1.5, color='black')\nplt.plot(x_values, g(x_values), label='g(x) = -exp(4x)-3/4', color='b', linewidth=3)\nplt.plot(x_values, h(x_values), label='h(x) = 2exp(4x)-3/4', color='r', linewidth=3)\nplt.plot(x_values, i(x_values), label='h(x) = 30exp(4x)-3/4', color='g', linewidth=3)\nplt.plot(x_values, j(x_values), label='h(x) = -6exp(4x)-3/4', color='y', linewidth=3)\nplt.xlim(-2, 0.2)\nplt.ylim(-2, 1)\nplt.xlabel('x')\nplt.ylabel('y')\nplt.legend(['champ de vecteurs','-exp(4x)-3/4','2exp(4x)-3/4','30exp(4x)-3/4','-10exp(4x)-3/4'])\nplt.title('Equation différentielle : dy/dx = 3 + 4y')\nplt.grid(True)\nplt.show()",
+      "duration": "PT23M12S",
+      "published_at": "2025-03-11T19:00:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/tcs1_fg6tik/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "VJJrd6HsPWk",
+      "title": "Origine extra terrestre de la vie : une idée lumineuse !",
+      "description": "Une courte réflexion sur une des origines avancées de nos jours pour comprendre la chiralité moléculaire et donc l'origine de la vie.\n\n\"Si les principes immédiats de la vie sont dissymétriques,\nc'est que, à leur élaboration,\nprésident des forces cosmiques dissymétriques\"\nLouis Pasteur\n\nhttps://doi.org/ 10.1088/2041-8205/727/2/L27\nhttps://doi.org/10.1038/s42004-021-00508-z\nhttps://doi.org/10.1051/refdp/202273005",
+      "duration": "PT13M24S",
+      "published_at": "2025-03-06T10:27:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/VJJrd6HsPWk/hqdefault.jpg",
+      "tags": []
+    }
+  ]
+}

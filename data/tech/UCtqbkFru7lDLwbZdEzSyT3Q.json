@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "RpTHAyid1xQ",
+      "title": "Comment notre setup a évolué depuis 2023",
+      "description": "Avant\n→ on écrivait le code à la main : l’éditeur était le centre du setup.\n\nMaintenant\n→ le chat IA passe au premier plan ; le terminal, les fichiers et Git servent à contrôler ce qui est livré.",
+      "duration": "PT25S",
+      "published_at": "2026-08-18T15:00:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/RpTHAyid1xQ/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "hdjW1ZwKBts",
       "title": "Le manifeste français du développement IA !",
       "description": "Vous utilisez déjà l’IA pour coder. Mais êtes-vous réellement plus productif, et le code produit est-il de qualité ?\nCe manifeste pose 4 valeurs et 12 principes pour garder la compréhension, la qualité et la responsabilité sur chaque changement livré.\n\n🎓 Formations entreprises AI-Driven Dev :\nhttps://www.ai-driven-dev.fr/formation-entreprise?utm_source=youtube&utm_medium=description&utm_campaign=89_manifeste-ai-driven-development\n\n🚀 Rejoindre l’écosystème privé AI-Driven Dev :\nhttps://www.ai-driven-dev.fr/ecosysteme?utm_source=youtube&utm_medium=description&utm_campaign=89_manifeste-ai-driven-development\n\n📜 Lire et signer le manifeste :\nhttps://www.ai-driven-development.org/\n\n🧰 Installer le framework open source :\nhttps://github.com/ai-driven-dev/framework\n\n💬 Rejoindre la communauté Discord :\nhttps://discord.gg/EWySJSpjWs\n\n---\n\n🌐 Mes réseaux\n\n📧 Contact : alex@ai-driven-dev.fr\n\nLinkedIn : https://www.linkedin.com/in/alexandre-soyer/\nInstagram : https://www.instagram.com/alexsoyes/\nX : https://x.com/alexsoyes/\n\n---\n\n⏱️ Chapitres\n\n0:00 - Le manifeste AI-Driven Development\n1:32 - Définir l’AI-Driven Development\n2:41 - AI-Driven Development ou vibe coding\n3:56 - Les 4 valeurs de l’AIDD\n7:29 - Les 12 principes de l’AIDD\n18:49 - Faire évoluer le manifeste\n\n🔗 Liens mentionnés dans la vidéo\n\n- Contribuer au manifeste : https://github.com/ai-driven-dev/manifest\n- GitHub Spec Kit : https://github.com/github/spec-kit\n- OpenSpec : https://github.com/Fission-AI/OpenSpec\n- BMAD Method : https://github.com/bmad-code-org/BMAD-METHOD",

@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "Fu_z3d_6HLk",
+      "title": "C’est quoi une loop agentique ?",
+      "description": "Ralph Loop relance Claude Code en boucle sur la même tâche. L’agent exécute, vérifie le résultat, corrige ce qui bloque, puis repart jusqu’à la condition d’arrêt définie.",
+      "duration": "PT16S",
+      "published_at": "2026-08-19T17:00:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/Fu_z3d_6HLk/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "RpTHAyid1xQ",
       "title": "Comment notre setup a évolué depuis 2023",
       "description": "Avant\n→ on écrivait le code à la main : l’éditeur était le centre du setup.\n\nMaintenant\n→ le chat IA passe au premier plan ; le terminal, les fichiers et Git servent à contrôler ce qui est livré.",

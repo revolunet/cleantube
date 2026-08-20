@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "uc784_XJB6c",
+      "title": "Pourquoi certains devs sont réfractaires à l’IA",
+      "description": "L’IA reste un outil. On reste des ingénieurs : on garde le contrôle, on valide ce qui est livré, on en assume la responsabilité.",
+      "duration": "PT27S",
+      "published_at": "2026-08-20T08:00:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/uc784_XJB6c/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "Fu_z3d_6HLk",
       "title": "C’est quoi une loop agentique ?",
       "description": "Ralph Loop relance Claude Code en boucle sur la même tâche. L’agent exécute, vérifie le résultat, corrige ce qui bloque, puis repart jusqu’à la condition d’arrêt définie.",

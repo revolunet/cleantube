@@ -2,7 +2,7 @@
   "id": "UCt11zYNefnunOkgCrsO9UYg",
   "name": "Silicon Carne 🌶️",
   "description": "Silicon Carne 🌶️ L'insider francophone de la Silicon Valley. Ici, on ne commente pas la tech, on la confronte. IA, pouvoir, économie, Silicon Valley : on réfléchit à voix haute, avec ceux qui la construisent, la financent et la challengent.\n\n👉 Pour toute demande de collaborations commerciales : carlos[AT]siliconcarne.co\n\n⸻\nQui est El Gringo ?\nCarlos Diaz est un entrepreneur et investisseur franco-américain, avec plus de 25 ans d’expérience dans le monde des startups. Installé à San Francisco depuis 16 ans, il fait le pont entre deux mondes, deux cultures… et deux visions de la Tech.\n",
-  "thumbnail": "https://yt3.ggpht.com/e9VBrA2KFd51vHmkpGjpQ3TFmAvYjwFJ3cmIcr0JHoh0RPQW0d6NIGOS9eU-22BpkoXDbcBNJw=s800-c-k-c0x00ffffff-no-rj",
+  "thumbnail": "https://yt3.ggpht.com/cUAAuwoFK7Xt6P2p0Cx22bg6KzpESaNOQZ11Hw0XySj1OBWD92dxIHcps1gbgbItidXtyyZoOA=s800-c-k-c0x00ffffff-no-rj",
   "public": "15 ans et plus",
   "language": "fr",
   "tags": [
@@ -11,6 +11,15 @@
     "orientation"
   ],
   "videos": [
+    {
+      "id": "BN1BVZRT1Ho",
+      "title": "SaaS Apocalypse : Pourquoi Wall Street s'est planté !",
+      "description": "Il y a six mois, Wall Street pariait contre le logiciel — \"pourquoi payer un abonnement quand on peut coder ses propres outils avec l'IA ?\" Cette semaine, Salesforce a atteint son plus haut historique. Pas parce que rien n'a changé, mais parce que tout le monde s'est trompé d'ennemi.\n\nLa vraie fracture n'est pas entre le SaaS et l'IA. Elle est entre les logiciels avec trente ans de données d'entreprise et ceux qui n'ont rien d'autre qu'une interface. Les premiers sont devenus indéboulonnables. Les seconds sont déjà en train de mourir.\n\nNvidia rachète Hugging Face, Salesforce avale Intercom, la finance ressemble désormais à un jeu de go. \n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n0:00 — Intro\n1:05 — Présentation des invités\n2:52 — Le SaaS Apocalypse n'aura pas lieu\n3:41 — Cloud Force : le deal Salesforce x Anthropic qui change tout\n4:46 — Nvidia : le trimestre qui fait taire la bulle IA\n5:33 — Nvidia rachète Hugging Face !\n10:31 — [Sponsor] Google Cloud au service de l'innovation française !\n11:54 — Wall Street s'est planté\n14:05 — SaaS Enterprise vs SaaS vertical : qui survivra à l'IA ?\n17:34 — Coder ses propres outils avec l'IA : le réveil brutal\n23:45 — Les agents deviennent des utilisateurs : le SaaS se réinvente\n26:22 — La valeur piégée de Salesforce que seuls les agents libèrent\n33:07 — Tous les SaaS ne sont pas sauvés : qui va mourir ?\n\n==================\n📍NOS PARTENAIRES :\n==================\nGOOGLE CLOUD au service de l'innovation française, https://cloud.google.com/ai\n\n=============\n🌶️ LES INVITÉS :\n =============\nAnji Ismail - https://www.linkedin.com/in/anjismail/\nJL Quéguiner - https://www.linkedin.com/in/jlqueguiner/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",
+      "duration": "PT39M2S",
+      "published_at": "2026-09-07T16:00:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/BN1BVZRT1Ho/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "lXThGydqIss",
       "title": "Le fiasco des serveurs de l'Etat : Analyse d'une faille systémique !",

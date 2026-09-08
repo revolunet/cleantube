@@ -2,7 +2,7 @@
   "id": "UCt11zYNefnunOkgCrsO9UYg",
   "name": "Silicon Carne 🌶️",
   "description": "Silicon Carne 🌶️ L'insider francophone de la Silicon Valley. Ici, on ne commente pas la tech, on la confronte. IA, pouvoir, économie, Silicon Valley : on réfléchit à voix haute, avec ceux qui la construisent, la financent et la challengent.\n\n👉 Pour toute demande de collaborations commerciales : carlos[AT]siliconcarne.co\n\n⸻\nQui est El Gringo ?\nCarlos Diaz est un entrepreneur et investisseur franco-américain, avec plus de 25 ans d’expérience dans le monde des startups. Installé à San Francisco depuis 16 ans, il fait le pont entre deux mondes, deux cultures… et deux visions de la Tech.\n",
-  "thumbnail": "https://yt3.ggpht.com/cUAAuwoFK7Xt6P2p0Cx22bg6KzpESaNOQZ11Hw0XySj1OBWD92dxIHcps1gbgbItidXtyyZoOA=s800-c-k-c0x00ffffff-no-rj",
+  "thumbnail": "https://yt3.ggpht.com/b_m5B6rO5sC2P_6IOA8G7IEDlw0PjC0o2Qc5px6qx7FJsDZS4DOVDOuGYPIY08e4yl2slI09Wcw=s800-c-k-c0x00ffffff-no-rj",
   "public": "15 ans et plus",
   "language": "fr",
   "tags": [
@@ -11,6 +11,15 @@
     "orientation"
   ],
   "videos": [
+    {
+      "id": "lWNjEwGQWac",
+      "title": "On décortique ASTRA : La nouvelle claque d'OpenAl !",
+      "description": "ChatGPT 6 Astra relance la course à l’AGI, l’intelligence artificielle générale. Mais derrière les démos hallucinantes, qui pourra payer cette IA ? Et qui possédera les données pour la rendre utile ?\n\nDans Silicon Carne, on décrypte la guerre de l’intelligence artificielle : la France mise sur Mistral AI, la Chine développe une IA low-cost et les États-Unis rachètent des entreprises pour leurs données. L’Europe a-t-elle raté sa fenêtre ?\n\nAu-delà des benchmarks, l’avenir de l’IA générative se joue sur le coût, l’adoption et les données propriétaires. Qui va capter la valeur ?\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n01:11 — ChatGPT 6 Astra : le modèle qui écrase tout\n04:04 — L'IA pilote votre ordinateur : qui est vraiment le chef ?\n07:41 — [Sponsor] Google Cloud, libérez du temps pour l'essentiel !\n09:00 — Astra au niveau humain : exploit réel ou coup marketing ?\n13:38 — Astra en entreprise : le coût que personne ne veut calculer\n15:07 — Données rares : le seul avantage que l'IA ne peut pas copier\n17:48 — Accélérationnistes contre doomers : qui a vraiment gagné ?\n21:54 — L'Europe est-elle déjà hors-jeu sur l'IA ?\n27:23 — L'IA se divise : premium américain contre low-cost chinois\n31:35 — Voiture autonome : l'Europe rate le marché de sa génération\n35:58 — Silicon Valley : l'attention, l'arme secrète que l'Europe n'a pas\n39:02 — Maia Space défie SpaceX... sans blagues...\n\n==================\n📍NOS PARTENAIRES :\n==================\nGOOGLE CLOUD au service de l'innovation française, https://cloud.google.com/ai\n\n=============\n🌶️ LES INVITÉS :\n =============\nFanny Bouton - https://www.linkedin.com/in/fannybouton/\nEvan Kervella - https://www.linkedin.com/in/evankervella/\nWallerrand Moullé-Berteaux - https://www.linkedin.com/in/wallerand-moull%C3%A9-berteaux/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",
+      "duration": "PT42M53S",
+      "published_at": "2026-09-08T16:00:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/lWNjEwGQWac/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "BN1BVZRT1Ho",
       "title": "SaaS Apocalypse : Pourquoi Wall Street s'est planté !",

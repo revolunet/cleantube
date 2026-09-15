@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "jL22Xn87iyA",
+      "title": "la rentrée de la tech en 8 actualités",
+      "description": "Nvidia, Hugging Face, Poolside, les Jeux Olympiques de robots humanoïdes en Chine, Mini Duck , DeepSeek, Qwen, GLM, Kimi, AI Act.\n\n Bref, c'est l'heure de la rentrée pour la Saison 2 de À la French ! 🇫🇷 Dans ce premier épisode, on se retrouve pour décortiquer un été particulièrement agité sur le front de la tech et de l'IA.\n\nAu programme de cette reprise : nous disséquons la stratégie de Nvidia qui s'offre Hugging Face pour 13 milliards et signe un deal massif avec Poolside. Nous analysons le pivot controversé de Mistral vers un modèle de Néo-Cloud, soutenu par Microsoft, et constatons la déferlante des méga-modèles asiatiques (DeepSeek, Qwen, GLM, Kimi) qui viennent casser les prix et dominer les benchmarks de l'open-weight.\n\nAvec l'équipe on revient également sur la commoditisation fulgurante du \"token\" (illustrée par le rachat d'Open Router par Stripe), on s'amuse des récents Jeux Olympiques de robots humanoïdes en Chine et du succès fulgurant du Mini Duck, avant de décrypter l'appel du fonds a16z à entrer dans \"l'Âge des Machines\". Enfin, on fait le point sur l'entrée en vigueur de l'AI Act en Europe et  des annonces concernant ZML sur Docker !\n\n🔥 Annonces Exclusives :\n-  Lancement de notre Discord en bêta privée https://discord.gg/vqm5BdTbZW\n-  annonce du \"À la French Tour\" dans toute la France\n-  et ouverture de la billetterie pour notre grande Conférence du 3 décembre! \n\nPensez à liker, commenter et vous abonner pour faire monter la vidéo dans l'algorithme ! 🚀",
+      "duration": "PT1H16M9S",
+      "published_at": "2026-09-15T10:03:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/jL22Xn87iyA/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "TNkZ2zkXXCM",
       "title": "Les world models : tout le monde en parle, personne ne le fait - Avec Yann le Cun",
       "description": "",

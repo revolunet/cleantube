@@ -12,6 +12,15 @@
   ],
   "videos": [
     {
+      "id": "0ZKnA-bHUNQ",
+      "title": "L’erreur que beaucoup font avec l’IA",
+      "description": "L’erreur que beaucoup font avec l’IA : lui poser des questions sans jamais lui déléguer de tâches. Tu l’utilises pour discuter ou pour agir ? 🤔\n\n#manusai #aiagent",
+      "duration": "PT1M34S",
+      "published_at": "2026-09-16T17:13:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/0ZKnA-bHUNQ/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "_jStw8kdyos",
       "title": "J’ai codé des IA de mouches qui se battent au sabre laser.",
       "description": "Google et ses collaborateurs viennent de cartographier l’intégralité du système nerveux d’une mouche à fruits grâce à l’IA.\n\nJ’ai donc construit une simulation virtuelle de mouche et utilisé PPO, un algorithme d’IA qui apprend par essais et erreurs, pour apprendre à deux mouches à s’affronter en duel avec des sabres laser.\n\nLa cartographie du cerveau et le contrôleur IA sont encore deux systèmes séparés, mais c’est justement le fait de rapprocher la biologie et le machine learning qui rend tout cela aussi passionnant.\n\nPourrait-on un jour faire la même chose avec un cerveau humain ? On en est encore très loin, mais même commencer avec une mouche, c’est déjà assez fou.",

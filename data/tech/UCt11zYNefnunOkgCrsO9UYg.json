@@ -2,7 +2,7 @@
   "id": "UCt11zYNefnunOkgCrsO9UYg",
   "name": "Silicon Carne 🌶️",
   "description": "Silicon Carne 🌶️ L'insider francophone de la Silicon Valley. Ici, on ne commente pas la tech, on la confronte. IA, pouvoir, économie, Silicon Valley : on réfléchit à voix haute, avec ceux qui la construisent, la financent et la challengent.\n\n👉 Pour toute demande de collaborations commerciales : carlos[AT]siliconcarne.co\n\n⸻\nQui est El Gringo ?\nCarlos Diaz est un entrepreneur et investisseur franco-américain, avec plus de 25 ans d’expérience dans le monde des startups. Installé à San Francisco depuis 16 ans, il fait le pont entre deux mondes, deux cultures… et deux visions de la Tech.\n",
-  "thumbnail": "https://yt3.ggpht.com/b_m5B6rO5sC2P_6IOA8G7IEDlw0PjC0o2Qc5px6qx7FJsDZS4DOVDOuGYPIY08e4yl2slI09Wcw=s800-c-k-c0x00ffffff-no-rj",
+  "thumbnail": "https://yt3.ggpht.com/EJbirEVcTBRIKqNiY5XfHAQukOUmvXiQ8KWhbDNw5GkgJyrYjjFCyd5V-Q1BlKDV3bIIzSwtgA=s800-c-k-c0x00ffffff-no-rj",
   "public": "15 ans et plus",
   "language": "fr",
   "tags": [
@@ -11,6 +11,33 @@
     "orientation"
   ],
   "videos": [
+    {
+      "id": "sOsQk5Uw0uY",
+      "title": "Les chercheurs veulent-ils trouver… ou publier ?",
+      "description": "Si un agent IA trouve une solution avant le chercheur, que devient le rôle de celui-ci ? La question n’est pas de dire que les chercheurs ne veulent que leur nom sur un papier. C’est de comprendre ce qui arrive à un système où découverte, publication et reconnaissance ont toujours été étroitement liées.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT41S",
+      "published_at": "2026-09-19T10:02:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/sOsQk5Uw0uY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "sktyTACvx1U",
+      "title": "OpenAI peut mobiliser une puissance inaccessible aux chercheurs",
+      "description": "OpenAI peut mobiliser des milliers d’agents et des millions de tokens sur un problème scientifique. C’est une perspective extraordinaire pour des sujets où nous manquons de chercheurs. Mais cela crée aussi une asymétrie immense : un labo classique ne pourra tout simplement pas mobiliser les mêmes ressources.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT53S",
+      "published_at": "2026-09-19T08:01:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/sktyTACvx1U/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "xdR-IWZ2OF4",
+      "title": "OpenAI a-t-il piqué le travail des chercheurs ?",
+      "description": "Des chercheurs travaillent pendant des années sur un problème. OpenAI arrive avec une solution et leur premier réflexe est de se demander si le modèle n’a pas appris sur leur travail. OpenAI assure que non. Mais cette histoire montre surtout à quel point la compétition autour de l’IA devient féroce. \n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT46S",
+      "published_at": "2026-09-19T06:01:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/xdR-IWZ2OF4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "wP8_2tpKiJc",
       "title": "OpenAI vs Mathématiciens : Qui a vraiment résolu Navier-Stokes ?",

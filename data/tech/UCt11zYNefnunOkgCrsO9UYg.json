@@ -12,6 +12,42 @@
   ],
   "videos": [
     {
+      "id": "9FLeRZSleNs",
+      "title": "Peut-on prédire la fin du monde avec l’IA ?",
+      "description": "Un chercheur de Google DeepMind vient d'annoncer 30 % de chances que l'IA tue un milliard d'humains avant 2050. Mais le chiffre n'est pas le vrai sujet : c'est la mécanique qui le produit.\n\nLe vrai danger ne vient pas de la machine. Il vient des gouvernements qui s'en emparent, des chercheurs en burnout qui fabriquent des scénarios catastrophes dans des labs corporate déguisés en instituts de recherche, et d'un recrutement qui a mis des ingénieurs sur des problèmes de civilisation sans vérifier s'ils pouvaient y tenir.\n\nSi l'IA atteint un QI de 10 000 avant 2030, on ne saura pas si elle voudra nous détruire. On sera juste devenus une fourmi qui débat de géopolitique.\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n02:35 — Alex Turner quitte Google : l'armée fait tout basculer\n04:58 — Un milliard de morts avant 2050 : vraie peur ou com' ?\n07:48 — [Sponsor] : Qonto, gérez votre trésorerie avec l'IA !\n09:12 — P(doom) : le vrai danger vient des humains, pas des machines\n11:07 — Des probabilités de l'extinction aussi fiables qu'un bluff au poker\n14:00 — P(doom) : une estimation subjective élevée au rang de vérité\n15:37 — L'IA peut-elle devenir consciente : une question sans définition\n17:39 — QI 10000 : quand l'IA efface l'humain de l'équation\n19:48 — Les prudents meurent en premier : seul le risque protège\n20:06 — Catastrophistes partout, optimistes nulle part\n21:43 — Jennifer Prenky : ce qu'elle a vu craquer de l'intérieur\n24:17 — Spécialistes brillants mais incapables de voir les ruptures\n27:18 — Labs IA : recrutés pour coder, pas formés pour tenir\n29:35 — Le modèle nucléaire américain que les labs refusent d'adopter\n\n==================\n📍NOS PARTENAIRES :\n==================\nQONTO, découvrir l'outil de facturation électronique inclus dans toutes les offres Qonto : https://qonto.com/ CODE PROMO : SILICON3M\n\n=============\n🌶️ LES INVITÉS :\n =============\nAnji Ismail - https://www.linkedin.com/in/anjismail/\nRichard Détente - https://www.linkedin.com/in/richarddetente/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",
+      "duration": "PT32M10S",
+      "published_at": "2026-09-22T16:00:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/9FLeRZSleNs/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "UxGbFkHtB3Y",
+      "title": "Ton téléphone t’écoute ? Non, il te connaît mieux que toi !",
+      "description": "Ton téléphone ne t’écoute pas forcément. Il n’en a même plus besoin.\n\nÀ force d’observer tes habitudes, les plateformes peuvent anticiper ce que tu vas vouloir avant que tu le formules. Le problème devient alors simple : si ce deuxième cerveau connaît notre vie aussi bien, est-ce qu’on pourra un jour le récupérer et l’emporter ailleurs ?\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT33S",
+      "published_at": "2026-09-22T10:01:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/UxGbFkHtB3Y/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "PO4djeM0Q0M",
+      "title": "Je n’ai rien demandé à Instinct !",
+      "description": "J’installe un agent, je ne lui demande absolument rien et je finis par l’oublier. Deux jours plus tard, il revient avec des alertes sur mon agenda, mes mails et des choses que j’aurais probablement ratées.\n\nJe garde encore le dernier mot avant certaines actions. Mais le rapport à l’IA commence déjà à s’inverser : elle n’attend plus forcément qu’on lui pose une question.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT41S",
+      "published_at": "2026-09-22T08:01:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/PO4djeM0Q0M/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "X5hkrkRE5qw",
+      "title": "n pote à moi a créé un agent pour parler avec sa femme !",
+      "description": "Un ami a créé un agent capable de répondre à sa femme sur les rendez-vous, l’agenda et toute la logistique du quotidien. Son idée n’est pas de remplacer les conversations importantes, mais de déléguer celles qu’il considère comme sans intérêt.\n\nC’est très nerd. C’est aussi une assez bonne question sur ce qu’on acceptera de déléguer aux agents.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT33S",
+      "published_at": "2026-09-22T06:01:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/X5hkrkRE5qw/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "7n6dgy2xE30",
       "title": "J’ai donné accès à toutes mes données à une IA : qu’est-ce qui s’est passé ?",
       "description": "Un agent IA s'installe sur votre téléphone, accède à vos mails, votre agenda, vos SMS et 48 heures plus tard, il vous alerte sur une opportunité que vous alliez rater. Sans qu'on lui ait rien demandé.\n\nC'est l'ère des agents autonomes. Entre Instinct valorisé à 10 milliards, Muse lancé par Meta sur les milliards d'utilisateurs de WhatsApp, et Qapten qui joue la carte de la souveraineté, les règles changent vite. Qui décide à votre place ? Jusqu'où êtes-vous prêts à déléguer votre vie ?\n\nLes géants vous connaissent déjà mieux que vous-même. La vraie question : à qui appartient le cerveau qu'ils construisent pour vous ?\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n01:55 — Peut-on encore innover quand OpenAI avale tout ?\n05:04 — Instinct : l'agent IA qui affole la Silicon Valley\n06:45 — Quand l'agent IA se fixe ses propres objectifs\n09:54 — [Sponsor] : Qonto, gérez vos finances pro avec l'IA !\n11:18 — L'économie de la flemme : la vraie promesse des agents\n14:07 — Qapten : les usages qui surprennent même son créateur\n17:19 — Instinct : quand l'agent se réveille et prend le contrôle\n19:42 — Instinct est-il vraiment un agent ?\n21:18 — Qapten peut faire pareil : pourquoi choisir le contrôle ?\n23:41 — Meta lance Muse : les géants entrent dans la bataille\n25:26 — Comment un agent décide-t-il vraiment à ta place ?\n28:36 — Les géants te connaissent mieux que toi-même\n30:37 — Ton deuxième cerveau t'appartient-il vraiment ?\n32:10 — Ce qu'on délègue et ce qu'on ne délèguera jamais\n36:04 — Bilan : on a changé sans s'en rendre compte\n\n==================\n📍NOS PARTENAIRES :\n==================\nQONTO, découvrir l'outil de facturation électronique inclus dans toutes les offres Qonto : https://qonto.com/ CODE PROMO : SILICON3M\n\nQAPTEN, avoir un assistant particulier n'est plus un privilège : https://assistant.qapten.com/ CODE PROMO : SILICON50\n\n=============\n🌶️ LES INVITÉS :\n =============\nMichel Levy-Provençal - https://www.linkedin.com/in/mikiane/\nPierre Gaubil - https://www.linkedin.com/in/pierre-gaubil-6477a68/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",

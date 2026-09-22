@@ -14,6 +14,24 @@
   ],
   "videos": [
     {
+      "id": "iovfRxFukVU",
+      "title": "La réplication Partie 2",
+      "description": "",
+      "duration": "PT2M43S",
+      "published_at": "2026-09-22T15:11:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/iovfRxFukVU/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "i8ijnYVHA2g",
+      "title": "La réplication Partie 1",
+      "description": "",
+      "duration": "PT1M41S",
+      "published_at": "2026-09-22T14:52:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/i8ijnYVHA2g/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "wJQnjmi33b8",
       "title": "L'expression des gènes et la spécialisation des cellules",
       "description": "",

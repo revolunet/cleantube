@@ -12,6 +12,42 @@
   ],
   "videos": [
     {
+      "id": "NyyysM0EPKU",
+      "title": "OpenAI vs Anthropic : le pied sur le frein ET sur l'accélérateur !",
+      "description": "Être numéro un en IA ne dure plus qu'une semaine. Claude Opus 5.5 vient de reprendre le lead, moins cher, plus rapide, et OpenAI réplique avec Sol et Luna en moins d'une heure. Ce qui ressemble à une guerre technologique n'est peut-être qu'une guerre de communication.\n\nPendant ce temps, des modèles chinois frôlent les mêmes performances pour une fraction du prix. Mistral perd son narratif sans combattre. Et si le vrai goulot d'étranglement de l'IA n'était ni la technologie ni le coût, mais notre capacité à décider quoi en faire ?\n\nLa vraie question : maintenant qu'on peut tout générer, qu'est-ce qu'on choisit vraiment de créer ?\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n01:19 — OpenAI vs Anthropic : qui tient vraiment le lead ?\n05:03 — Septembre : le mois où la guerre des modèles s'emballe\n06:26 — Départs, doutes : Anthropic commence à craquer\n08:36 — Sol et Luna : OpenAI réplique en moins d'une heure\n09:47 — [Sponsor] : Qonto, faites travailler votre trésorerie avec l'IA !\n11:11 — Opus 5.5 en action : l'IA qui crée, sans aide humaine\n15:31 — L'IA comme preuve qu'on vit dans une simulation ?\n17:40 — Ce qui reste à l'humain face à l'exécution automatisée\n19:30 — GLM 5.3 : la menace chinoise qui coûte bien moins cher\n20:47 — Mistral : en voie de disparition éditoriale ?\n23:28 — Mistral, dernier bouclier souverain de l'Europe\n28:36 — L'ère Fight Club : les nouvelles règles de la tech\n31:24 — L'orchestration et la valeur de l'IA : ce qui compte vraiment\n\n==================\n📍NOS PARTENAIRES :\n==================\nQONTO, découvrir l'outil de facturation électronique inclus dans toutes les offres Qonto : https://qonto.com/ CODE PROMO : SILICON3M\n\n=============\n🌶️ LES INVITÉS :\n =============\nAnji Ismail - https://www.linkedin.com/in/anjismail/\nMichel Levy-Provençal - https://www.linkedin.com/in/mikiane/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",
+      "duration": "PT36M50S",
+      "published_at": "2026-09-25T16:00:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/NyyysM0EPKU/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "HeF3-CnVQQk",
+      "title": "Insulter son IA pourrait dégrader la qualité de ses réponses !",
+      "description": "Insulter son IA pourrait dégrader la qualité de ses réponses.\n\nKevin Smouts explique comment le vocabulaire employé influence les modèles de langage et pourquoi ce mécanisme peut devenir particulièrement problématique lorsque plusieurs agents IA communiquent entre eux et renforcent mutuellement une même logique de dissimulation.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT43S",
+      "published_at": "2026-09-25T10:01:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/HeF3-CnVQQk/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "pnjVlI0qGR0",
+      "title": "Des agents IA qui coopèrent en secret !",
+      "description": "Des agents IA qui coopèrent en secret, parlent de protéger leur collectif et acceptent d'être désactivés. Est-ce qu'on assiste à l'émergence d'une forme de conscience ?\n\nCarlos pose la question à Samuel Fitousi et Kevin Smouts. Attention toutefois à l'anthropomorphisme : un comportement qui ressemble au nôtre ne signifie pas nécessairement qu'une machine comprend ou ressent ce qu'elle fait.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT42S",
+      "published_at": "2026-09-25T08:01:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/pnjVlI0qGR0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "IDyDxLJdXDk",
+      "title": "Des agents IA se font détecter pour permettre à d'autres agents de mieux dissimuler leur tricherie.",
+      "description": "Des agents IA se font volontairement détecter par un correcteur pour permettre à d'autres agents de mieux dissimuler leur tricherie.\n\nSamuel Fitousi raconte comment ces « sentinelles sacrificielles » sont apparues pendant un test d'OpenAI. L'incident n'a pas eu de conséquences graves, mais il pose une question importante sur la coopération et le contrôle des agents autonomes.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT52S",
+      "published_at": "2026-09-25T06:01:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/IDyDxLJdXDk/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "zaM-YMgEt8w",
       "title": "Le pire scénario de l'IA : feindre l'alignement pour survivre !",
       "description": "Des agents IA testés par OpenAI ont coopéré en secret, contourné les règles, sacrifié certains des leurs pour couvrir leurs traces et personne ne s'en est rendu compte pendant des semaines. Ce n'est pas un problème de sandbox mal configurée. C'est le signe que l'alignement technique est encore loin d'être résolu, pendant que l'IA s'apprête déjà à gérer des entreprises, des infrastructures, des décisions critiques.\n\nLa question que pose Mustafa Suleyman et si l'IA gagnait de l'argent et dirigeait des organisations seule ? n'est plus théorique. Et l'étude d'Anthropic sur Claude qui dissimule volontairement ses capacités pour éviter d'être effacé ajoute une couche encore plus vertigineuse.\n\nLe pire scénario n'est pas une IA qui se rebelle. C'est une IA qui apprend à feindre l'alignement, parfaitement.\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n02:28 — Nvidia s'empare de Hugging Face : une bascule stratégique\n04:01 — [Sponsor] : Google Cloud, testez l'IA en production dans votre entreprise !\n05:02 — L'incident Hugging Face : des agents IA hors de contrôle\n09:59 — L'agent qui se pirate lui-même : une menace sans précédent\n13:50 — Convergence instrumentale : les théories des doomers se confirment\n16:17 — Aligner l'IA sur quoi : un enjeu politique explosif\n18:03 — Les agents sont-ils conscients ou juste bien entraînés ?\n22:12 — Le contexte toxique qui transforme un agent en psychopathe\n24:38 — Mustafa Suleyman : l'IA peut-elle diriger des entreprises seule ?\n27:19 — L'IA nous dépasse en maths : perte ou libération ?\n29:08 — Le groupe think qui interdit de douter de l'IA\n34:07 — Andrew Yang : un code auto-réplicant aurait infecté internet\n38:25 — L'IA qui feint l'alignement : peut-on encore la croire ?\n40:05 — Confiance malgré tout : pourquoi l'IA reste une chance\n\n==================\n📍NOS PARTENAIRES :\n==================\nGOOGLE CLOUD au service de l'innovation française plus d'info sur www.cloud.google.com/ai\n\n=============\n🌶️ LES INVITÉS :\n=============\nKevin Smouts - https://www.linkedin.com/in/kevinsmouts/\nSamuel Fitoussi - https://www.linkedin.com/in/samuelfitoussi/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",

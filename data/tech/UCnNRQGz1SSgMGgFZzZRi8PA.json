@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "lo4hyVvB7o0",
+      "title": "Just a BIC lamp",
+      "description": "I built a giant BIC lighter lamp entirely from scratch.\nI 3D-modeled and 3D-printed the whole thing, then added electronics and mechanics to motorize the flame.\nThe button and wheel actually work, letting you extend, retract, and adjust the flame's size and brightness.\nFollow me to see how I built it and what I'm making next.\n\n#3DPrinting #DIYProjects #Engineering #maker",
+      "duration": "PT14S",
+      "published_at": "2026-10-03T10:06:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/lo4hyVvB7o0/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "7NROoxT4dZw",
       "title": "Ce que cache un servomoteur",
       "description": "Le servomoteur SG90 est un classique en prototypage électronique. Les infos fournies dans cette vidéo sont applicables à la plupart des modèles de servomoteur!\n#engineering #moteur #learn",

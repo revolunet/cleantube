@@ -12,6 +12,42 @@
   ],
   "videos": [
     {
+      "id": "0P6lU9WYBpE",
+      "title": "Jev vs LLM : qui est le meilleur pour l'automatisation !",
+      "description": "Un ancien d'OpenAI lâche une bombe : les LLM ne sont pas la bonne solution pour automatiser le monde. La Silicon Valley valide, et les développeurs intègrent Jev partout, en quelques jours.\n\nJev n'est pas un modèle génératif. C'est un classifieur ultra-rapide, presque gratuit, qui prend des décisions précises là où les LLM hallucinent, dérapent ou coûtent trop cher. Agents débordés, validation aveugle, automatisation industrielle bloquée depuis des années : une brique simple règle ce que les grands modèles avaient promis de résoudre sans jamais y parvenir.\n\nLa question qui reste ouverte : quand vos agents décident à votre place sans que vous le voyiez, qui tient vraiment les commandes ?\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n03:06 — Jev: l'ancien d'OpenAI qui remet les LLM en cause\n04:55 — Deux architectures s'affrontent: laquelle a vraiment raison?\n08:32 — [Sponsor] : Bitdefender, protégez vos appareils contre les arnaques !\n10:16 — Classification: la technologie que tout le monde avait abandonnée\n12:31 — Décider sans halluciner: le pari de Jev face aux LLM\n16:59 — Pourquoi tous les développeurs perdent la tête pour Jev\n19:23 — L'automatisation industrielle que les LLM ont toujours bloquée\n23:03 — Jean-Louis dévoile comment Jev prend les commandes\n25:06 — Jev s'invite dans la vie quotidienne\n27:19 — Validation fatigue: approuver sans lire devient dangereux\n29:01 — AI fatigue: des agents qui nous parasitent\n31:02 — La multiplication des petits modèles: une menace pour les LLM?\n33:25 — La vraie leçon: une IA moins puissante peut être meilleure\n\n==================\n📍NOS PARTENAIRES :\n==================\nBITDEFENDER, découvrez Premium Security contre les hackers et les arnaques : https://bit.ly/4dz24Ld\n\n=============\n🌶️ LES INVITÉS :\n =============\nJL Quéguiner - https://www.linkedin.com/in/jlqueguiner/\nCarlos Ivan Lozano - https://www.linkedin.com/in/carlosivanlozano/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",
+      "duration": "PT36M14S",
+      "published_at": "2026-10-05T16:00:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/0P6lU9WYBpE/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "g-pFnwe-AbQ",
+      "title": "La Silicon Valley a trop regardé de science-fiction",
+      "description": "À force de présenter les robots comme dans Terminator, la Silicon Valley est peut-être en train de créer elle-même le rejet de la robotique.\n\nFaire peur fait du buzz. Faire adopter une technologie, c’est autre chose.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT36S",
+      "published_at": "2026-10-05T10:01:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/g-pFnwe-AbQ/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "ypXofDInAFs",
+      "title": "Si vous déconnez avec l’IA, vous irez en tôle",
+      "description": "L’IA évolue à une vitesse folle. Mais une règle reste assez simple : si vous faites des conneries, vous êtes responsable.\n\nEt les dirigeants des grands labos savent très bien qu’un jour, il y aura une boulette.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT32S",
+      "published_at": "2026-10-05T08:01:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/ypXofDInAFs/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "PX3bvsN7y1A",
+      "title": "Le numéro 2 d’OpenAI signe comme un gamin de 2 ans",
+      "description": "Le numéro 2 d’OpenAI participe à un accord sur la super intelligence à la Maison Blanche.\n\nEt puis je vois sa signature.\n\nVisiblement, l’IA progresse plus vite que notre capacité à tenir un stylo.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT25S",
+      "published_at": "2026-10-05T06:00:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/PX3bvsN7y1A/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "XxSrK7us19A",
       "title": "Si l’IA ne rapporte pas de pognon, ça pue",
       "description": "L’IA peut parfaitement fonctionner… et provoquer quand même une énorme bulle financière.\n\nLa question est simple : après tous ces milliards investis, est-ce qu’elle rapportera assez d’argent ?\n\nEpisode disponible sur Youtube et en podcast.",

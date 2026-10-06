@@ -12,6 +12,42 @@
   ],
   "videos": [
     {
+      "id": "tfQUJL988t0",
+      "title": "Réinventer l'école : le plan secret de la Silicon Valley !",
+      "description": "La Silicon Valley ne veut plus seulement transformer l'école, elle veut la remplacer. Alpha School facture jusqu'à 75 000 dollars par an pour deux heures de cours quotidiennes pilotées par l'IA. Andreessen Horowitz mise 35 millions de dollars sur une université sans diplôme. Pendant ce temps, les résultats PISA confirment ce que tout le monde refuse d'admettre : l'école traditionnelle s'effondre depuis des années.\n\nLe vrai enjeu n'est pas de savoir si ces expériences élitistes fonctionnent. C'est de comprendre qui en profitera et qui sera laissé derrière, tandis que dans chaque classe publique du monde, les élèves ouvrent déjà ChatGPT sans que personne ne sache quoi faire.\n\nLe diplôme se dévalue. Le réseau devient tout. Et personne n'a encore trouvé comment démocratiser ça.\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n02:26 — Alpha School : l'école privée qui redéfinit la journée scolaire\n04:33 — The Academy : Andreessen Horowitz crée son université\n07:12 — [Sponsor] : Bitdefender, protégez vos appareils contre les arnaques !\n08:54 — Moins de cours, vraiment plus d'apprentissage : le vrai pari\n11:47 — Des résultats spectaculaires que personne ne peut vérifier\n13:05 — Ces écoles ne recrutent que les meilleurs élèves\n15:11 — L'enseignant disparaît-il quand l'IA enseigne à sa place ?\n19:36 — PISA confirme l'effondrement scolaire que tout le monde nie\n21:03 — L'IA pour muscler le cerveau, pas pour tricher\n23:00 — Mesurer le stress en classe : l'école devient camp d'entraînement\n25:07 — Ces écoles fabriquent des gagnants, pas des citoyens\n28:59 — Ce que l'IA rend obsolète dans les programmes scolaires\n30:05 — Le réseau plutôt que le diplôme : la vraie promesse\n32:15 — Ce modèle peut-il fonctionner hors de San Francisco ?\n35:38 — ChatGPT dans les classes publiques : l'urgence qu'on ignore\n\n==================\n📍NOS PARTENAIRES :\n==================\nBITDEFENDER, découvrez Premium Security contre les hackers et les arnaques : https://bit.ly/4dz24Ld\n\n=============\n🌶️ LES INVITÉS :\n =============\nLaurent Jolie - https://www.linkedin.com/in/ljolie\nPierre Gaubil - https://www.linkedin.com/in/pierre-gaubil-6477a68/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",
+      "duration": "PT38M52S",
+      "published_at": "2026-10-06T16:00:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/tfQUJL988t0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "GGyX5pTNJ6k",
+      "title": "Même nos décisions, on va les donner à l’IA ?",
+      "description": "On pensait que la dernière chose qui resterait à l’humain, ce serait la décision.\n\nSauf qu’on commence justement à construire des IA capables de prendre ces décisions pour nous.\n\nEst-ce qu’on peut vraiment leur faire confiance ?\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT27S",
+      "published_at": "2026-10-06T10:01:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/GGyX5pTNJ6k/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "LklSgDH1nwg",
+      "title": "Les agents nous rendent-ils idiots ?",
+      "description": "Quand un agent IA vous demande sans arrêt votre autorisation, vous finissez par cliquer “oui” sans lire.\n\nC’est la validation fatigue.\n\nEt là, la supervision humaine commence sérieusement à perdre son intérêt.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT48S",
+      "published_at": "2026-10-06T08:01:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/LklSgDH1nwg/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "g7K0jbYqzTo",
+      "title": "À quoi sert vraiment Jev ?",
+      "description": "Encodeurs, vecteurs, miroirs…\n\nAu bout d’un moment, j’ai juste demandé : à quoi sert Jev ?\n\nRéponse courte : prendre très vite des décisions simples comme spam/pas spam, fraude/pas fraude, selon les catégories qu’on lui donne.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT38S",
+      "published_at": "2026-10-06T06:00:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/g7K0jbYqzTo/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "0P6lU9WYBpE",
       "title": "Jev vs LLM : qui est le meilleur pour l'automatisation !",
       "description": "Un ancien d'OpenAI lâche une bombe : les LLM ne sont pas la bonne solution pour automatiser le monde. La Silicon Valley valide, et les développeurs intègrent Jev partout, en quelques jours.\n\nJev n'est pas un modèle génératif. C'est un classifieur ultra-rapide, presque gratuit, qui prend des décisions précises là où les LLM hallucinent, dérapent ou coûtent trop cher. Agents débordés, validation aveugle, automatisation industrielle bloquée depuis des années : une brique simple règle ce que les grands modèles avaient promis de résoudre sans jamais y parvenir.\n\nLa question qui reste ouverte : quand vos agents décident à votre place sans que vous le voyiez, qui tient vraiment les commandes ?\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n03:06 — Jev: l'ancien d'OpenAI qui remet les LLM en cause\n04:55 — Deux architectures s'affrontent: laquelle a vraiment raison?\n08:32 — [Sponsor] : Bitdefender, protégez vos appareils contre les arnaques !\n10:16 — Classification: la technologie que tout le monde avait abandonnée\n12:31 — Décider sans halluciner: le pari de Jev face aux LLM\n16:59 — Pourquoi tous les développeurs perdent la tête pour Jev\n19:23 — L'automatisation industrielle que les LLM ont toujours bloquée\n23:03 — Jean-Louis dévoile comment Jev prend les commandes\n25:06 — Jev s'invite dans la vie quotidienne\n27:19 — Validation fatigue: approuver sans lire devient dangereux\n29:01 — AI fatigue: des agents qui nous parasitent\n31:02 — La multiplication des petits modèles: une menace pour les LLM?\n33:25 — La vraie leçon: une IA moins puissante peut être meilleure\n\n==================\n📍NOS PARTENAIRES :\n==================\nBITDEFENDER, découvrez Premium Security contre les hackers et les arnaques : https://bit.ly/4dz24Ld\n\n=============\n🌶️ LES INVITÉS :\n =============\nJL Quéguiner - https://www.linkedin.com/in/jlqueguiner/\nCarlos Ivan Lozano - https://www.linkedin.com/in/carlosivanlozano/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",

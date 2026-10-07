@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "X-sxMuBmi54",
+      "title": "Le process de fabrication est fou",
+      "description": "Vous pensiez qu’un PCB, c’était juste cette fameuse plaque verte qu’on retrouve dans quasiment tous nos appareils ?\n\nCe que je vous montre ici n’est qu’une partie de tout ce que j’ai pu voir dans une usine de JLCPCB, près de Shenzhen. J’ai dû simplifier certaines étapes pour faire tenir tout ça dans une vidéo, mais il y a encore énormément de choses à raconter, notamment la fabrication des cartes multicouches, les différents procédés utilisés et les nombreux contrôles réalisés tout au long de la production.\n\nC’était vraiment impressionnant de voir toutes ces étapes de mes propres yeux, surtout quand on sait que certaines de ces machines fabriquent les cartes de mes propres projets.\n\nMerci à @JLCPCB  pour l’accueil !",
+      "duration": "PT1M17S",
+      "published_at": "2026-10-07T17:47:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/X-sxMuBmi54/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "lo4hyVvB7o0",
       "title": "Just a BIC lamp",
       "description": "I built a giant BIC lighter lamp entirely from scratch.\nI 3D-modeled and 3D-printed the whole thing, then added electronics and mechanics to motorize the flame.\nThe button and wheel actually work, letting you extend, retract, and adjust the flame's size and brightness.\nFollow me to see how I built it and what I'm making next.\n\n#3DPrinting #DIYProjects #Engineering #maker",

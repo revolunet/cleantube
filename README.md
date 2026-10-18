@@ -87,7 +87,7 @@ Le meilleur de YouTube en Français, sans distractions.
 |--------|-------------|
 | [Le Dolmen](https://youtube.com/channel/UCB8LBWgHAuthFrohOH9v_sw) | Journal d'observations de notre drôle de monde moderne. |
 | [Le Précepteur](https://youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA) | "Le Précepteur" est une chaîne consacrée à la vulgarisation de la philosophie et des grandes idées q... |
-| [MLHORION](https://youtube.com/channel/UCyWM4YRwHwAxld74qQ-6wMA) | Bienvenue sur ma chaîne YouTube ! 🌟... |
+| [MLHORION](https://youtube.com/channel/UCyWM4YRwHwAxld74qQ-6wMA) | Ni de gauche, ni de droite ; simplement humaine. ... |
 | [Monsieur Phi](https://youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw) | Docteur en philosophie, ce qui ne soigne pas grand chose. ... |
 
 ### Piano

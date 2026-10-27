@@ -167,7 +167,7 @@ Le meilleur de YouTube en Français, sans distractions.
 |--------|-------------|
 | [Ben au Ukulélé](https://youtube.com/channel/UCSK2E77JvdaY2TZpwXInW6Q) | Ici visionnez mes tutos et présentations de ukulélés.... |
 | [Karim Ukulele Therapy](https://youtube.com/channel/UC8VGr31xTJIa2cgr6aVJbJQ) | Yo, c'est K.... |
-| [Les Tutos ukulélé de Dyan](https://youtube.com/channel/UCA8ANCoVZamCobCEQ7U8vnQ) | 💌 Vous souhaitez me remercier en me donnant un coup de pouce financier ? ... |
+| [Les Tutos ukulélé de Dyan](https://youtube.com/channel/UCA8ANCoVZamCobCEQ7U8vnQ) | ... |
 | [Mihanta // Ukulele Covers](https://youtube.com/channel/UCgDuKK9rrPcfAQUt1ANf46A) | Du ukulele 🎶 des covers 🎤 des tuto 📚 et du smile 😊 |
 
 ### Underground

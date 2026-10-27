@@ -12,6 +12,42 @@
   ],
   "videos": [
     {
+      "id": "S5fSZ1lKb70",
+      "title": "L’IA a trouvé la faille qui menace 70 % du Web !",
+      "description": "Une faille cachée depuis dix ans dans PHP vient d'être découverte par une IA, et immédiatement, OpenAI et Google se sont battus pour en revendiquer la paternité. Derrière le bruit médiatique, une réalité bien plus inquiétante : les mêmes outils qui ont trouvé la faille sont déjà entre les mains des attaquants.\n\nLes bug bounty croulent sous de vraies failles générées en masse, les usines se font pirater avec un mot de passe \"1234\", et les entreprises croient se protéger avec des rapports de compliance à 6 000€. Pendant ce temps, les jeunes fuient les carrières tech, et la France regarde passer les trains.\n\nLa sécurité par l'obscurité est morte. Ce qui tenait le web debout depuis des décennies ne tiendra plus. La boucherie est programmée, la seule question est de savoir qui sera prêt.\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n03:10 — La faille PHP expose le web sans mot de passe\n04:28 — Calif, OpenAI, Wiz : qui a vraiment trouvé la faille ?\n06:03 — L'IA seule ne suffit pas : l'expert humain reste décisif\n08:27 — Wiz et Gemini : une faille transformée en arme de communication\n10:04 — [Sponsor] : Granola, automatisez vos notes de réunion !\n11:50 — Patch the Planet : OpenAI finance la défense du web open source\n13:20 — Budget PHP vs coût réel cyber : l'impossible équation\n14:53 — Bug bounty : l'IA génère maintenant de vraies failles en masse\n17:13 — Trail of Bits : trouver les bugs n'est plus le problème\n19:12 — Les labos IA sont-ils vraiment les méchants de la pièce ?\n21:35 — Médias et panique : les jeunes fuient les carrières tech\n23:48 — Frigos piratés, usines vulnérables : la cyber d'entreprise est nue\n25:49 — White hats vs black hats : qui gagne vraiment avec l'IA ?\n27:26 — IA open source : libérer la défense ou armer les hackers ?\n30:15 — Boucherie à court terme, monde plus safe à long terme\n\n==================\n📍NOS PARTENAIRES :\n==================\nGRANOLA, l’IA qui prend vos notes en réunion et les transforme en actions concrètes.\n3 mois offerts avec le code SILICONCARNE : https://granola.ai/siliconcarne\n\n=============\n🌶️ LES INVITÉS :\n =============\nNico (Nisedo) - https://x.com/nisedo_\nGreg Gambatto - https://www.linkedin.com/in/gregoiregambatto/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",
+      "duration": "PT33M23S",
+      "published_at": "2026-10-27T17:00:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/S5fSZ1lKb70/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "C6YT4aKAciM",
+      "title": "Les géants de l’IA vont-ils fabriquer nos médicaments ?",
+      "description": "Et si OpenAI et Anthropic devenaient aussi des acteurs de l'industrie pharmaceutique ? Face à la concurrence croissante sur les modèles d'IA, les géants du secteur pourraient investir davantage dans la médecine, où la découverte de nouvelles molécules représente un marché considérable.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT29S",
+      "published_at": "2026-10-27T11:00:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/C6YT4aKAciM/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "QgXHc7Gbvxo",
+      "title": "S'injecter des peptides achetés sur un site chinois peut être mortel !",
+      "description": "Deux patients seraient décédés après avoir utilisé des peptides expérimentaux achetés sur un site chinois. Leur cause exacte de décès n'est pas encore établie, mais les produits concernés n'étaient pas destinés à être injectés chez l'être humain. Derrière les prix attractifs, des risques parfois considérables.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT45S",
+      "published_at": "2026-10-27T09:00:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/QgXHc7Gbvxo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "axG5al9jsTY",
+      "title": "Le GLP-1 me permet de rester concentré pendant 9 heures !",
+      "description": "8 à 9 heures de concentration sans distraction avec un médicament de la famille des GLP-1. Dans la Silicon Valley, certains entrepreneurs utilisent déjà ces molécules pour autre chose que maigrir : ils espèrent aussi améliorer leurs performances intellectuelles. Des effets encore mal compris par les scientifiques.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT29S",
+      "published_at": "2026-10-27T07:00:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/axG5al9jsTY/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "HG77j0optFA",
       "title": "Maigrir, booster son cerveau : la folie des peptides !",
       "description": "Un Américain sur dix prend déjà du GLP-1, souvent sans ordonnance, parfois avec des produits contaminés importés de Chine. Deux patients en sont morts. Pendant ce temps, la Silicon Valley microdose, biohacke, et cherche la prochaine molécule qui va tout changer.\n\nMais derrière la tendance, une bataille plus profonde se joue. Les laboratoires pharmaceutiques ne conçoivent plus leurs médicaments seuls : l'IA s'installe à South San Francisco, Anthropic rachète un labo pour des centaines de millions, et OpenAI s'intéresse à la biologie. Le paradigme qui a gouverné la pharma pendant trente ans est en train de craquer.\n\nLa vraie question n'est plus \"est-ce que l'IA va accélérer la médecine ?\", c'est \"qui va contrôler les médicaments que vous prendrez dans dix ans ?\"\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n02:47 — GLP-1 : pourquoi un Américain sur dix en prend déjà\n06:22 — La France rattrapée par l'obésité : une alerte sous-estimée\n09:04 — Lilly et Novo Nordisk verrouillent le marché mondial du GLP-1\n10:37 — [Sponsor] : Granola, automatisez vos notes de réunion !\n12:24 — GLP-1 : l'écart de prix pousse vers des produits sans contrôle\n14:14 — Le Gila Monster : la découverte accidentelle qui a tout changé\n16:03 — Hollywood et la dérive : le GLP-1 rend-il trop mince ?\n18:42 — GLP-1 à vie : béquille médicale ou nouveau mode de vie ?\n20:05 — Risques cachés : foie, reins, immunité et effets à long terme\n22:57 — South San Francisco : l'IA prend possession des labos\n24:23 — L'IA va-t-elle vraiment révolutionner la découverte des médicaments ?\n27:09 — Le quantique peut-il créer des médicaments sans effets secondaires ?\n28:18 — L'IA accélère la recherche mais bute sur les essais cliniques\n31:07 — Anthropic rachète un labo et parie sur la pharma IA\n33:07 — Start-ups vs géants de l'IA : qui survivra dans la biotech ?\n\n==================\n📍NOS PARTENAIRES :\n==================\nGRANOLA, l’IA qui prend vos notes en réunion et les transforme en actions concrètes.\n3 mois offerts avec le code SILICONCARNE : https://granola.ai/siliconcarne\n\n=============\n🌶️ LES INVITÉS :\n =============\nSylvain Gariel - https://www.linkedin.com/in/sylvain-gariel-21455735/\nFanny Bouton - https://www.linkedin.com/in/fannybouton/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",

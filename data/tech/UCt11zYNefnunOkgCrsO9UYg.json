@@ -12,6 +12,42 @@
   ],
   "videos": [
     {
+      "id": "pLN4maID1DY",
+      "title": "Black Mirror dans votre cerveau, c'est pour bientôt ?",
+      "description": "Les interfaces cerveau-machine non invasives décodent déjà des images et du texte depuis la pensée seule. Ce n'est plus de la recherche, c'est un marché. Saturnin Pugnet, membre fondateur de World avec Sam Altman, publie un manifeste avec une thèse radicale : le prochain carburant des grands modèles d'IA, c'est notre cerveau.\n\nL'IA a épuisé les données d'internet. Ce qu'on lui a fourni jusqu'ici, ce sont les sous-titres de l'activité humaine - pas la bande son originale. Les neurotechs lèvent des milliards, la Chine autorise ses premiers implants commerciaux. Et personne ne peut freiner l'accélération, pas même ceux qui la construisent.\n\nQui détiendra demain la preuve que vous avez pensé quelque chose en premier ?\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n01:07 — World : la preuve d'humanité qui avait tout anticipé\n03:30 — Phase Lock : le manifeste qui annonce notre branchement à l'IA\n04:47 — Lire dans les pensées sans chirurgie, c'est déjà possible\n07:01 — Téléphone, oreillettes : notre corps est déjà colonisé\n09:00 — Agents IA, brevets de pensées : les usages qui dérangent\n10:05 — [Sponsor] : Granola, automatisez vos notes de réunion !\n11:51 — La pensée comme interface : la fin du clavier approche\n15:15 — Designer par la pensée seule, en temps réel\n16:47 — La Chine autorise le premier implant cérébral commercial\n19:29 — Ce qui choquait il y a 10 ans est déjà assumé dans la Silicon Valley\n21:08 — L'IA à court de données : le cerveau comme nouvelle mine\n23:24 — Sous-titres vs bande son : la métaphore qui change tout\n26:03 — Black Mirror : les vrais risques de livrer ses pensées\n29:38 — Peut-on faire confiance aux labos avec nos cerveaux ?\n32:46 — Bientôt, l'IA générera plus de pensées que l'humanité depuis toujours\n34:40 — Fourmis ou cyborgs : le vrai choix de civilisation\n\n==================\n📍NOS PARTENAIRES :\n==================\nGRANOLA, l’IA qui prend vos notes en réunion et les transforme en actions concrètes.\n3 mois offerts avec le code SILICONCARNE : https://granola.ai/siliconcarne\n\n=============\n🌶️ LES INVITÉS :\n =============\nAnji Ismail - https://www.linkedin.com/in/anjismail/\nSaturnin Pugnet -  https://www.linkedin.com/in/saturnin-pugnet/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",
+      "duration": "PT38M5S",
+      "published_at": "2026-10-28T17:00:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/pLN4maID1DY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "8IC4XcHjvkY",
+      "title": "Les 6 prochains mois vont être une énorme boucherie !",
+      "description": "Les 6 à 12 prochains mois pourraient être particulièrement difficiles pour la cybersécurité. Avec l'IA, les pirates peuvent découvrir et exploiter des vulnérabilités bien plus rapidement. Mais à plus long terme, cette même technologie pourrait aussi permettre de rendre nos logiciels beaucoup plus sûrs.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT17S",
+      "published_at": "2026-10-28T11:00:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/8IC4XcHjvkY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "480U81C8V6E",
+      "title": "À force de leur dire que l'IA va voler leur boulot, les jeunes fuient la tech !",
+      "description": "À force d'entendre que l'intelligence artificielle va supprimer leurs emplois, certains jeunes se détournent des études technologiques au profit des métiers manuels. Une tendance inquiétante à l'heure où les États-Unis et la Chine investissent massivement dans l'IA. Et si le catastrophisme finissait par faire plus de dégâts que la technologie elle-même ?\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT26S",
+      "published_at": "2026-10-28T09:00:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/480U81C8V6E/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "lJIQ8NopoWY",
+      "title": "Le budget de PHP ? À peine de quoi payer 10 développeurs !",
+      "description": "683 550 dollars pour soutenir PHP, un langage qui fait tourner une immense partie d'Internet. C'est à peine le coût annuel d'un chercheur en cybersécurité dans la Silicon Valley. Avec l'IA qui accélère la découverte des failles, les moyens des équipes open source deviennent un problème majeur.\n\nEpisode disponible sur Youtube et en podcast.",
+      "duration": "PT24S",
+      "published_at": "2026-10-28T07:00:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/lJIQ8NopoWY/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "S5fSZ1lKb70",
       "title": "L’IA a trouvé la faille qui menace 70 % du Web !",
       "description": "Une faille cachée depuis dix ans dans PHP vient d'être découverte par une IA, et immédiatement, OpenAI et Google se sont battus pour en revendiquer la paternité. Derrière le bruit médiatique, une réalité bien plus inquiétante : les mêmes outils qui ont trouvé la faille sont déjà entre les mains des attaquants.\n\nLes bug bounty croulent sous de vraies failles générées en masse, les usines se font pirater avec un mot de passe \"1234\", et les entreprises croient se protéger avec des rapports de compliance à 6 000€. Pendant ce temps, les jeunes fuient les carrières tech, et la France regarde passer les trains.\n\nLa sécurité par l'obscurité est morte. Ce qui tenait le web debout depuis des décennies ne tiendra plus. La boucherie est programmée, la seule question est de savoir qui sera prêt.\n\n===================\n⏱️ DANS CET ÉPISODE :\n===================\n00:00 — Sommaire\n03:10 — La faille PHP expose le web sans mot de passe\n04:28 — Calif, OpenAI, Wiz : qui a vraiment trouvé la faille ?\n06:03 — L'IA seule ne suffit pas : l'expert humain reste décisif\n08:27 — Wiz et Gemini : une faille transformée en arme de communication\n10:04 — [Sponsor] : Granola, automatisez vos notes de réunion !\n11:50 — Patch the Planet : OpenAI finance la défense du web open source\n13:20 — Budget PHP vs coût réel cyber : l'impossible équation\n14:53 — Bug bounty : l'IA génère maintenant de vraies failles en masse\n17:13 — Trail of Bits : trouver les bugs n'est plus le problème\n19:12 — Les labos IA sont-ils vraiment les méchants de la pièce ?\n21:35 — Médias et panique : les jeunes fuient les carrières tech\n23:48 — Frigos piratés, usines vulnérables : la cyber d'entreprise est nue\n25:49 — White hats vs black hats : qui gagne vraiment avec l'IA ?\n27:26 — IA open source : libérer la défense ou armer les hackers ?\n30:15 — Boucherie à court terme, monde plus safe à long terme\n\n==================\n📍NOS PARTENAIRES :\n==================\nGRANOLA, l’IA qui prend vos notes en réunion et les transforme en actions concrètes.\n3 mois offerts avec le code SILICONCARNE : https://granola.ai/siliconcarne\n\n=============\n🌶️ LES INVITÉS :\n =============\nNico (Nisedo) - https://x.com/nisedo_\nGreg Gambatto - https://www.linkedin.com/in/gregoiregambatto/\nCarlos Diaz - https://www.linkedin.com/in/carlosdiazprofile/\n\n========================\n❤️ LIKE, FOLLOW & PARTAGE\n========================\n👍🏽 N'oublie pas de liker et partager si tu as aimé cette vidéo \n🌵 Rejoins L'Hacienda https://siliconcarne.substack.com/subscribe\n😵 Suis-nous sur X https://twitter.com/siliconcarnesf\n📸 Suis-nous sur Insta https://www.instagram.com/siliconcarne_\n🇨🇳 Suis-nous sur TikTok https://www.tiktok.com/@siliconcarne_\n📪 La newsletter https://siliconcarne.substack.com\n🎧 L'émission est également disponible en podcast : https://smartlink.ausha.co/silicon-carne-un-peu-de-picante-dans-la-tech/",

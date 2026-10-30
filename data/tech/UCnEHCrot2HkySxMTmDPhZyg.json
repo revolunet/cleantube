@@ -12,6 +12,15 @@
   ],
   "videos": [
     {
+      "id": "Qqh5i7yaP6o",
+      "title": "Qui vole le plus loin ?",
+      "description": "Et si on testait maintenant les modèles d’IA sur leur capacité à produire des choses dans le monde réel ?  T’as d’autres idées ? :)",
+      "duration": "PT2M20S",
+      "published_at": "2026-10-30T19:32:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/Qqh5i7yaP6o/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "LylVXAdvdFg",
       "title": "J’ai créé Koh-Lanta pour des IA ... ça a dégénéré.",
       "description": "J’ai abandonné 5 IA sur une île déserte avec un objectif : survivre. Trouver de l’eau, manger, coopérer… jusqu’à envisager de se manger entre elles. Une intelligence artificielle peut-elle devenir cannibale ?\n\nDans un monde créé sous Unreal Engine, des agents pilotés par différents modèles d’intelligence artificielle doivent trouver de l’eau, se nourrir, affronter les dangers de l’île et tenter de s’en échapper. Je vous montre comment fonctionne la simulation, ce qui s’est passé au fil des parties et ce que leurs comportements nous apprennent.\n\nCollaboration commerciale avec ASUS — présentation de la GX10 et des projets de la communauté.\nPour en savoir plus : https://fr.asus.click/GX10DevCh\n\nCHAPITRES\n00:00 Des IA sur une île déserte\n01:59 Un nouveau monde sous Unreal Engine\n03:03 L’île et les règles de survie\n04:02 Cinq modèles d’IA pour une expérience\n05:01 ASUS GX10 : les projets de la communauté\n07:08 Comment fonctionnent les agents\n10:45 L’expérience commence\n11:29 Les premiers essais\n15:09 Partie 1\n17:19 Partie 2\n20:35 Partie 3\n23:07 Partie 4\n26:17 Les personnalités des survivants\n28:16 Les résultats en chiffres\n33:48 Ce que j’en retiens\n\nEt vous, à quelle IA feriez-vous confiance pour survivre sur cette île ?\n\n#IntelligenceArtificielle #IASurvivor #Simulation",

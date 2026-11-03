@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "jAYnQvjXpRA",
+      "title": "Calendly et DocuSign gratuits grâce à Claude Code",
+      "description": "Calendly et DocuSign ont des équivalents open source (Cal.com et DocuSeal) que vous pouvez installer gratuitement sur votre propre serveur. Il suffit de le demander à Claude Code : il lit la doc sur GitHub, configure le nom de domaine et le HTTPS, et sécurise le serveur.\n\nLe tuto complet, VPS + Claude Code de zéro : https://youtu.be/v8hMT8HYoNk\n\n#claudecode #opensource #vps #productivite\n\n→ ✉️ Rejoindre ma newsletter\nhttps://shubham-sharma.fr/newsletter/\n\n→ 📅 S'inscrire en liste d'attente de mes workshops privés\nhttps://sharma.fr/masterclass-privees\n\nMES AUTRES COMPTES:\n🌍  Mon site web - https://www.sharma.fr/\n👨‍💻  Linkedin - https://www.linkedin.com/in/sharmashubham1/\n📱  TikTok - https://www.tiktok.com/@shubham_nocode\n🐦  Twitter - https://twitter.com/shubham_nocode\n📸  Instagram - https://instagram.com/shubham_nocode",
+      "duration": "PT1M8S",
+      "published_at": "2026-11-03T14:25:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/jAYnQvjXpRA/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "AK9ji8nfvLA",
       "title": "Trigger.dev : des clés API exposées, la vraie leçon",
       "description": "Le 1er novembre 2026, Trigger.dev, une plateforme d'automatisation utilisée par des milliers de développeurs, a annoncé qu'un attaquant avait eu accès aux variables d'environnement d'une partie de ses clients : clés API, tokens, accès aux bases de données.\n\nLa leçon : dès qu'une clé API est chez un tiers, elle peut un jour ou l'autre être exposée. Il faut savoir la renouveler vite (rotation) et garder sous la main la liste de toutes les clés qu'on a partagées.\n\nLe communiqué officiel : https://trigger.dev/blog/security-incident-nov-2026\n\nEt vous, vous savez où sont toutes vos clés API ?\n\n#securite #cleapi #developpeur #ia #automatisation",

@@ -11,6 +11,15 @@
   ],
   "videos": [
     {
+      "id": "xTYBjAaxGm8",
+      "title": "Piratage PHP : ce qui s’est vraiment passé",
+      "description": "✉️  Rejoindre ma newsletter: https://sharma.fr/Newsletter?utm_source=youtube&utm_campaign=faille-php\n📅 S'inscrire en liste d'attente de mes workshops privés: https://sharma.fr/masterclass-privees?utm_source=youtube&utm_campaign=faille-php\n\nLe 21 octobre 2026, une faille dans PHP a poussé la NSA à sonner l'alerte et des sites français à se couper en urgence. On a parlé d'armées d'agents IA qui piratent Internet : voici ce qui s'est vraiment passé, sans panique.\n\nDans cette vidéo :\n- ce qu'est PHP et pourquoi il fait tourner environ 70 % du Web\n- la faille expliquée simplement, avec l'analogie de l'hôtel\n- pourquoi des sites français se sont coupés en urgence\n- comment savoir si un site tourne sur PHP, et quoi faire si c'est le vôtre\n- l'embargo, la fuite sur Hacker News et le rôle de Chainguard\n- ce que l'IA change vraiment dans la cybersécurité\n\nEt vous, aviez-vous entendu parler de cette faille ? Dites-le-moi en commentaire.\n\n00:00 Introduction\n00:48 PHP, c'est quoi ?\n02:27 Une faille qui donne accès au serveur\n03:19 La faille expliquée\n05:42 Savoir si un site tourne sur PHP\n06:45 Que faire si vous avez un site\n08:13 Une faille connue depuis août\n11:46 Ce qu'il faut en retenir\n\nMES AUTRES COMPTES:\n🌍  Mon site web - https://sharma.fr/site?utm_source=youtube&utm_campaign=faille-php\n👨‍💻  Linkedin - https://sharma.fr/linkedin?utm_source=youtube&utm_campaign=faille-php\n📱  TikTok - https://sharma.fr/tiktok?utm_source=youtube&utm_campaign=faille-php\n🐦  Twitter - https://sharma.fr/twitter?utm_source=youtube&utm_campaign=faille-php\n📸  Instagram - https://sharma.fr/instagram?utm_source=youtube&utm_campaign=faille-php",
+      "duration": "PT13M24S",
+      "published_at": "2026-11-05T20:07:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/xTYBjAaxGm8/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "BjqIXYRDPdE",
       "title": "Ça vaut le coup d'automatiser ?",
       "description": "Comment savoir si c'est le bon moment d'automatiser une tâche ? à partir de quand on sait si on sera en ROI positif ?\n\n→ ✉️ Rejoindre ma newsletter\nhttps://shubham-sharma.fr/newsletter/\n\n→ 📅 S'inscrire en liste d'attente de mes workshops privés\nhttps://sharma.fr/masterclass-privees\n\nMES AUTRES COMPTES:\n🌍  Mon site web - https://www.sharma.fr/\n👨‍💻  Linkedin - https://www.linkedin.com/in/sharmashubham1/\n📱  TikTok - https://www.tiktok.com/@shubham_nocode\n🐦  Twitter - https://twitter.com/shubham_nocode\n📸  Instagram - https://instagram.com/shubham_nocode",

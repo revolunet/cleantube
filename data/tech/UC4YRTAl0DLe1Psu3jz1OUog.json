@@ -11,6 +11,114 @@
   ],
   "videos": [
     {
+      "id": "K0Dz_f-Pw30",
+      "title": "Conteneurs ou machines virtuelles ? Kempf contre Kempf",
+      "description": "La chronique où Jean-Baptiste Kempf débat contre lui-même. Aujourd'hui : Docker et les conteneurs face aux machines virtuelles. Qui gagne ?\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#Docker #Kubernetes #Virtualisation #DevOps #ALaFrench #Shorts",
+      "duration": "PT47S",
+      "published_at": "2026-11-09T23:38:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/K0Dz_f-Pw30/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "z_57l1Pcujc",
+      "title": "Plateformes pétrolières, destroyers, barrages : la virtualisation est partout",
+      "description": "On pense data centers, mais la virtualisation tourne aussi sur des plateformes pétrolières, des destroyers de l'US Navy et des barrages. Les fournisseurs livrent leurs logiciels sous forme de machines virtuelles.\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#Virtualisation #Industrie #Infrastructure #ALaFrench #Shorts",
+      "duration": "PT41S",
+      "published_at": "2026-11-09T23:37:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/z_57l1Pcujc/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "LIXQwKIlS3c",
+      "title": "Lire la clé d'iTunes depuis une machine virtuelle",
+      "description": "En 2004, DVD Jon fait une démo : il lance iTunes dans une machine virtuelle et lit la clé du DRM directement en mémoire. Aujourd'hui, les anti-triche des jeux vidéo cherchent à détecter les VM.\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#Cybersécurité #Virtualisation #DRM #ReverseEngineering #ALaFrench #Shorts",
+      "duration": "PT55S",
+      "published_at": "2026-11-09T23:37:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/LIXQwKIlS3c/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "YPFtp14QirU",
+      "title": "Personne ne comprenait VMware… jusqu'à cette question",
+      "description": "À la fin des années 90, VMware passe un an à expliquer la virtualisation sans que personne ne comprenne. Puis un utilisateur résume : « Je peux faire tourner Linux et Windows sur le même ordinateur ? »\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#VMware #Virtualisation #Linux #Windows #ALaFrench #Shorts",
+      "duration": "PT53S",
+      "published_at": "2026-11-09T23:36:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/YPFtp14QirU/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "cP5x-ZWnASg",
+      "title": "La virtualisation expliquée simplement : tes serveurs tournent à 10 %",
+      "description": "Une application par serveur, et des machines utilisées à 10 % en moyenne. La virtualisation range plusieurs systèmes isolés dans une seule machine, comme des tiroirs dans une commode.\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#Virtualisation #Cloud #Informatique #Serveurs #ALaFrench #Shorts",
+      "duration": "PT52S",
+      "published_at": "2026-11-09T23:35:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/cP5x-ZWnASg/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "FaRFH2DFyvs",
+      "title": "« On vous prête quand vous avez de l'argent » : leçon de banquier",
+      "description": "L'erreur classique : dépenser sa trésorerie avant d'aller voir la banque. Les fondateurs de Vates l'ont faite, puis ont rencontré des business angels. Première question : « C'est quoi votre MRR ? »\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#Entrepreneuriat #Startup #Financement #ALaFrench #Shorts",
+      "duration": "PT48S",
+      "published_at": "2026-11-09T23:34:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/FaRFH2DFyvs/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "kfxjrWKoNAs",
+      "title": "VMware pensait perdre beaucoup plus de clients",
+      "description": "Confidence entendue au bar d'une conférence : VMware s'attendait à perdre une grosse part de ses clients après la hausse des prix. Ils n'en ont perdu que 4 à 5 %. Et la prochaine hausse arrive.\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#VMware #Broadcom #Infrastructure #ALaFrench #Shorts",
+      "duration": "PT43S",
+      "published_at": "2026-11-09T23:34:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/kfxjrWKoNAs/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yDYCt9gpXm0",
+      "title": "Broadcom rachète VMware : des licences jusqu'à ×25",
+      "description": "Broadcom rachète VMware pour environ 60 milliards de dollars, puis augmente les licences : ×8, ×15, jusqu'à ×25 sur certains produits. Un DSI du CAC 40 voyait tout son budget IT de l'année y passer.\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#VMware #Broadcom #DSI #Cloud #ALaFrench #Shorts",
+      "duration": "PT42S",
+      "published_at": "2026-11-09T23:33:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/yDYCt9gpXm0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "KIsxmD1z5S0",
+      "title": "L'hyperviseur Xen est né d'un pari dans un pub de Cambridge",
+      "description": "« Tu ne peux pas faire tourner deux Linux sur la même machine. » Un doctorant relève le défi de son directeur de thèse. Résultat : Xen, en 2003, qui fera tourner les débuts d'AWS.\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#Virtualisation #Xen #Cloud #Linux #ALaFrench #Shorts",
+      "duration": "PT44S",
+      "published_at": "2026-11-09T23:32:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/KIsxmD1z5S0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "mwNAmQihK3U",
+      "title": "Le CEO de Citrix lui écrit pour le féliciter (non, ce n'était pas une arnaque)",
+      "description": "Un jour, Olivier Lambert reçoit un mail du CEO de Citrix en personne, qui le félicite pour la dernière version de Xen Orchestra. Il finit invité dans sa villa de la Silicon Valley.\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#Citrix #Startup #OpenSource #SiliconValley #ALaFrench #Shorts",
+      "duration": "PT49S",
+      "published_at": "2026-11-09T23:32:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/mwNAmQihK3U/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "o4ZzSmE66hk",
+      "title": "Un fork open source financé par des mugs et des t-shirts",
+      "description": "Pour forker Citrix Xen Server, Vates lance un Kickstarter : 38 000 € récoltés, des mugs et des t-shirts en contreparties. Deux ans plus tard, 95 % des utilisateurs ont migré vers XCP-ng.\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#OpenSource #Kickstarter #XCPng #Startup #ALaFrench #Shorts",
+      "duration": "PT45S",
+      "published_at": "2026-11-09T23:31:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/o4ZzSmE66hk/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "uaY1t8Esi5w",
+      "title": "« Vous êtes personne » : Citrix les a défiés de forker leur produit",
+      "description": "En 2017, Olivier Lambert prévient Citrix : refermer Xen Server, c'est risquer un fork. La réponse : « Vous n'avez qu'à forker vous-mêmes. Nous on est Citrix, vous, vous êtes personne. » Il l'a fait.\n\nÉpisode complet avec Olivier Lambert (Vates) 👉 https://www.youtube.com/watch?v=TIGuISLc3i0\n\n#OpenSource #Virtualisation #Citrix #XCPng #ALaFrench #Shorts",
+      "duration": "PT44S",
+      "published_at": "2026-11-09T23:29:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/uaY1t8Esi5w/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "MzSg9yM7QWA",
       "title": "Le Fork de Citrix financé avec des Mugs à cause de l'arrogance des products managers de XenServeur",
       "description": "Le kickstarter qui a lancé Vates",

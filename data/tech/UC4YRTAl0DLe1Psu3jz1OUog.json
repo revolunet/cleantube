@@ -2,7 +2,7 @@
   "id": "UC4YRTAl0DLe1Psu3jz1OUog",
   "name": "A la french  💻",
   "description": "\"A la French\" c'est une \"Certaine idée de la Tech\". On ne parle pas de la French tech, mais de la Tech, \"à la French\" et cela fait une grosse différence. Le fond des sujets, sans filtre, jamais dans le commentaire. Que des retours de gens qui font la Tech d'aujourd'hui et de demain. Alors Bienvenue! \n\nPrenez le temps de vous installer avec nous. A la French c'est votre Tech Show avec  :\n- Mehdi Medjaoui, fondateur des conférences apidays et GenerationAI, et CEO Olympe, \n- Jean Baptiste Kempf, CEO de Kyber et Président VideoLAN - VLC\n- Steeve Morin - CEO ZML.ai, ex-VP platform Zenly, Ex Google\n\nIci, nous allons au cœur des sujets  : IA, cybersécurité, open source, hardware, data, infra, produit, standards, etc. Nous parlons aussi biens des bugs glorieux et des paris débiles qui finissent (par miracle ou acharnement) en prod.\nZéro small talk.\n\nBref : la tech, par les tech, pour les tech (et tous qui s'y intéressent), au delà du commentaire.\n",
-  "thumbnail": "https://yt3.ggpht.com/yvHMSoMsGeiRDTSWj9vpiogalQrdCcE1wV96D8-5Izmvn6HxBJPcaCBDxroB_dfKB8jR-olGYg=s800-c-k-c0x00ffffff-no-rj",
+  "thumbnail": "https://yt3.ggpht.com/CkYyu14SKiS7wTaJaseo766zYA6wGUrmoJUsbX2nh296zsWlyEC0XIUz6uFlRtS2brDzUBHk05w=s800-c-k-c0x00ffffff-no-rj",
   "public": "adultes",
   "language": "fr",
   "tags": [
@@ -10,6 +10,114 @@
     "technologie"
   ],
   "videos": [
+    {
+      "id": "KyENcGgoUy8",
+      "title": "La mi-temps qui fait trembler le réseau électrique anglais ☕️⚽️",
+      "description": "À la mi-temps d'un gros match en Angleterre, des millions de bouilloires s'allument en même temps : le réseau doit l'anticiper. Et en Serbie-Kosovo, un dérèglement de la fréquence a fait prendre jusqu'à 6 minutes de retard à des horloges européennes.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#Électricité #Énergie #RTE #ALaFrench #Shorts",
+      "duration": "PT47S",
+      "published_at": "2026-11-12T21:46:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/KyENcGgoUy8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "NH2zITly54I",
+      "title": "Ce disque en verre vous dit la tension d'une ligne haute tension",
+      "description": "C'est un isolateur : chaque disque isole 15 à 20 kV, et on les accroche en chaîne sous les pylônes. Sur une ligne à 400 000 volts, il en faut une vingtaine : de quoi deviner la tension depuis l'autoroute.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#Électricité #Pylône #RTE #ALaFrench #Shorts",
+      "duration": "PT53S",
+      "published_at": "2026-11-12T21:43:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/NH2zITly54I/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "u4eksAoUiDo",
+      "title": "Ton entraînement d'IA plante : pour le réseau électrique, c'est un non-événement",
+      "description": "Un data center passe de 100 MW à 30 MW en un instant : le réseau absorbe, comme quand vous allumez une bouilloire de 2 000 W. Le vrai à-coup, c'est un gigawatt qui apparaît ou disparaît d'un coup.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#IA #Datacenter #Électricité #RTE #ALaFrench #Shorts",
+      "duration": "PT51S",
+      "published_at": "2026-11-12T21:39:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/u4eksAoUiDo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "iZo3r1t0Qfc",
+      "title": "100 000 GPU B300 = 100 MW, soit 10 TGV qui roulent en permanence",
+      "description": "Un TGV consomme 10 MW tout au long de son parcours. Sur les 300 et quelques data centers en France, 8 sont raccordés au réseau de transport, et certains fours à arc montent à 200 MW pièce.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#IA #GPU #Datacenter #RTE #ALaFrench #Shorts",
+      "duration": "PT55S",
+      "published_at": "2026-11-12T21:37:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/iZo3r1t0Qfc/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "mSe4w__FUro",
+      "title": "Les câbles haute tension sont nus : c'est l'air qui les isole",
+      "description": "Sous la mer, impossible de compter sur l'air : cuivre, couches d'isolation et blindage en aluminium. Au cas où le câble ferait un câlin à l'ancre d'un bateau.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#Électricité #Câble #RTE #ALaFrench #Shorts",
+      "duration": "PT50S",
+      "published_at": "2026-11-12T21:34:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/mSe4w__FUro/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "fonGfF2wcE8",
+      "title": "120 milliards d'euros d'énergies fossiles : pourquoi il faut électrifier",
+      "description": "C'est ce que la France a dépensé en 2022-2023 pour importer des énergies fossiles. Voiture électrique, pompes à chaleur, solaire : c'est au réseau d'absorber ces nouveaux besoins. Heureusement qu'il y a des ingénieurs.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#Énergie #Électrification #RTE #ALaFrench #Shorts",
+      "duration": "PT58S",
+      "published_at": "2026-11-12T21:31:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/fonGfF2wcE8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "SlP0SG3zcxo",
+      "title": "50 Hz : le chiffre qui dit si le réseau électrique va bien",
+      "description": "La fréquence vient de la rotation des turbines. Si on tire trop de puissance, elles ralentissent et la fréquence baisse : c'est comme ça qu'on mesure l'équilibre du réseau, au dixième de hertz près.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#Électricité #Fréquence #RTE #ALaFrench #Shorts",
+      "duration": "PT42S",
+      "published_at": "2026-11-12T21:28:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/SlP0SG3zcxo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "n66X7p8E2Rc",
+      "title": "Le système le plus complexe jamais créé par l'humain ?",
+      "description": "Rien que le réseau de transport français, c'est 3 000 postes et 7 000 nœuds. Et dans les protections, la donnée est mesurée à la microseconde : un million de fois par seconde.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#Électricité #Infrastructure #RTE #ALaFrench #Shorts",
+      "duration": "PT42S",
+      "published_at": "2026-11-12T21:26:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/n66X7p8E2Rc/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "jk3BmwI6Zrg",
+      "title": "300 km en voiture pour reconfigurer un boîtier : comment SEAPATH change tout",
+      "description": "Pour régler une protection électrique, il fallait se déplacer avec un port RS-232. Avec SEAPATH, ces boîtiers deviennent du logiciel sur une plateforme de virtualisation en infrastructure as code, reconfigurés à distance.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#OpenSource #Virtualisation #InfraAsCode #RTE #ALaFrench #Shorts",
+      "duration": "PT55S",
+      "published_at": "2026-11-12T21:23:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/jk3BmwI6Zrg/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "bxCHslfs1AY",
+      "title": "Des agents d'IA pour piloter le réseau électrique ? Voici Grid2Op",
+      "description": "Grid2Op est une plateforme open source pour évaluer des agents d'IA qui exploiteraient le réseau, avec des challenges jusqu'à NeurIPS. C'est de la recherche : on regarde quels agents convergent, et lesquels divergent.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#IA #OpenSource #Recherche #RTE #ALaFrench #Shorts",
+      "duration": "PT55S",
+      "published_at": "2026-11-12T21:20:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/bxCHslfs1AY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "R1XwUD-UJS0",
+      "title": "Piloter le réseau électrique par le logiciel ? Kempf contre Kempf",
+      "description": "La chronique où Jean-Baptiste Kempf débat contre lui-même. D'un côté, la déshumanisation de l'électricité ; de l'autre, un réseau impossible à gérer sans logiciel, et ce logiciel doit être open source.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#OpenSource #Électricité #RTE #ALaFrench #Shorts",
+      "duration": "PT54S",
+      "published_at": "2026-11-12T21:17:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/R1XwUD-UJS0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "Uxe-tiYseTQ",
+      "title": "Le CO2 de l'électricité en Europe : ceux qui parlent et ceux qui font",
+      "description": "Electricity Maps montre en temps réel l'intensité carbone de l'électricité, pays par pays. Passez une frontière, et le facteur peut être multiplié par 10, voire par 100.\nÉpisode complet avec Boris Dolley (RTE) 👉 https://www.youtube.com/watch?v=PqzAkvFCEow\n#Énergie #CO2 #RTE #ALaFrench #Shorts",
+      "duration": "PT42S",
+      "published_at": "2026-11-12T21:15:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/Uxe-tiYseTQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "EzDG60e5mfs",
       "title": "On enregistre À la French en direct à Tech.rocks le 30 novembre 🎙️",

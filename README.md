@@ -139,7 +139,7 @@ Le meilleur de YouTube en Français, sans distractions.
 | [Scienticfiz (Gilles Gourio)](https://youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g) | Vous aimez être surpris ? Vous êtes curieux de tout ? Découvrez les vidéos scientifiques réalisées a... |
 | [Scilabus](https://youtube.com/channel/UCeR8BYZS7IHYjk_9Mh5JgkA) | Scilabus est une chaîne de vulgarisation scientifique où on se laisse guider par la curiosité. Expér... |
 | [String Theory FR](https://youtube.com/channel/UCfxwT02Bu5R7l21uMAu8H1w) | Un média scientifique et engagé. |
-| [Veritasium](https://youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) | An element of truth - videos about science, education, and anything else we find interesting. |
+| [Veritasium](https://youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) | An element of truth - videos about science, education, and anything else we find interesting.... |
 | [Yvan Monka](https://youtube.com/channel/UCaDqmzanCq4ZYhdEm0Df9Qg) | Professeur de mathématiques en lycée (Académie de Strasbourg), je partage :... |
 
 ### Tech

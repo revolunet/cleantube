@@ -11,6 +11,33 @@
   ],
   "videos": [
     {
+      "id": "9Znpe2k729Y",
+      "title": "La NSA a dit de couper son serveur",
+      "description": "Le jour où le correctif est sorti, la NSA a demandé aux organisations qui utilisent PHP de passer leurs serveurs hors ligne si elles ne pouvaient pas mettre à jour. Le premier commentaire sous le tweet valait le détour.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#NSA #Cybersécurité #PHP #ALaFrench #Shorts",
+      "duration": "PT43S",
+      "published_at": "2026-11-18T18:00:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/9Znpe2k729Y/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "Tl15mveOnb8",
+      "title": "Un ministère a désactivé VLC sur Android",
+      "description": "Chaque jour, VideoLAN reçoit 4 ou 5 mails de ministères qui veulent savoir si VLC est vulnérable. Jean-Baptiste Kempf raconte celui qui a désactivé VLC sur ses téléphones tant qu'il n'avait pas eu de réponse.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#VLC #Cybersécurité #OpenSource #ALaFrench #Shorts",
+      "duration": "PT44S",
+      "published_at": "2026-11-18T12:00:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/Tl15mveOnb8/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "F_TFsFHao18",
+      "title": "L'IA sait recopier un logiciel fermé",
+      "description": "Les LLM décompilent les programmes de mieux en mieux. Avec un outil comme Ghidra branché à l'IA, on peut demander de réimplémenter un logiciel fermé, octet par octet : c'est du brute force, mais ça marche.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#IA #ReverseEngineering #Cybersécurité #ALaFrench #Shorts",
+      "duration": "PT36S",
+      "published_at": "2026-11-18T08:00:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/F_TFsFHao18/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "ay-1QZZjlFU",
       "title": "PHP, Linux, SSL : l’IA trouve toutes les failles et pourquoi ça va continuer",
       "description": "Une faille dans l'interpréteur qui fait tourner 70 % du web mesurable, une preuve de concept trouvée par une IA, un embargo rompu à quelques heures du patch, un tweet de la NSA qui conseille de passer offline : PHP2Shell a fait entrer la sécurité informatique dans le grand public. Mais derrière les titres sur la « vulnapocalypse », il y a une transformation plus profonde. Depuis que les agents de code se sont généralisés début 2026, des failles réputées inexploitables le deviennent : là où un chercheur enchaînait une trentaine d'étapes, un agent IA en enchaîne 250 sans se lasser.\n\n\nPour comprendre ce qui se passe vraiment, nous recevons Alexandre Daubois, ingénieur sécurité à la Fondation PHP, CTO de la coopérative Les-Tilleuls.coop et mainteneur du framework Symfony. Il est en première ligne : il traite chaque jour des dizaines de rapports de vulnérabilité, a accès aux modèles d'IA les plus puissants sans garde-fous pour défendre l'écosystème, et a vécu de l'intérieur la coordination du patch du 21 octobre 2026. Il raconte comment on gagne la confiance d'une équipe sécurité open source, et pourquoi la sécurité reste avant tout une affaire humaine.\n\n\nAvec Jean-Baptiste Kempf (VideoLAN, VLC), Steeve Morin (ZML) et Mehdi Medjaoui, on remonte toute l'histoire : l'audit de Quarkslab financé par le Sovereign Tech Fund en 2024, la redécouverte par OpenAI et Calif en août 2026, les fuites de CVE sur Hacker News, la décision de Chainguard de déployer les binaires patchés avant la levée de l'embargo, et les LLM capables de faire du différentiel binaire pour retrouver la faille. On explique aussi ce qu'est un exploit, une RCE, l'ASLR ou le score CVSS, et pourquoi la moitié des rapports de sécurité reçus par VideoLAN finissent à la poubelle.\n\n\nOn prend aussi le temps de comprendre l'écosystème PHP : WordPress, PrestaShop, Symfony et Laravel, Composer et Packagist, FrankenPHP, l'histoire du PHP 6 qui n'a jamais existé, et une Fondation PHP qui vit uniquement de dons avec un budget d'environ un million de dollars par an. Enfin, on regarde au-delà de PHP : la faille SSH d'Alpine Linux, la RCE MPTCP du noyau Linux, les milliards d'appareils jamais mis à jour, la fin des bug bounties et l'appel de l'AFUP pour sauver les conférences tech indépendantes.\n\n* La Conférence du 3 décembre : Prenez vos places sur alafrench.org pour notre grande journée de rassemblement annuel. *\n\n⏱ Chapitrage détaillé de l'épisode :\n\n\n00:00 - Introduction et la conférence À la French du 3 décembre\n02:22 - Alexandre Daubois : CTO des Tilleuls, ingénieur sécurité à la Fondation PHP et mainteneur Symfony\n05:02 - Agents de code et exploits : comment l'IA enchaîne 250 étapes pour attaquer\n09:36 - Devenir ingénieur sécurité open source : la confiance, l'affaire XZ et Claude Mythos\n13:20 - Trop de rapports, pas assez d'humains : trier les vulnérabilités avec des LLM\n17:03 - L'écosystème PHP : WordPress, PrestaShop, Symfony et Laravel\n20:29 - Simplicité, performances et histoire de PHP, jusqu'au PHP 6 jamais sorti\n26:40 - La Fondation PHP : création, financement par les dons et gouvernance par RFC\n30:07 - Composer, Packagist et FrankenPHP : le PHP moderne\n34:03 - PHP Touchel : l'audit Quarkslab de 2024, CVSS, ASLR et le bruit des rapports\n42:41 - Août 2026 : OpenAI et Calif retrouvent la faille avec une preuve de concept\n44:51 - Fuite des CVE, embargo rompu par Chainguard et différentiel binaire par LLM\n53:44 - Le 21 octobre : sortie du patch, tweet de la NSA et vulnapocalypse médiatique\n59:17 - VideoLAN face à la faille : forum coupé et ministères inquiets\n1:02:13 - Alpine SSH, MPTCP, noyau Linux : les failles les plus graves du moment\n1:08:41 - L'IA côté défense : modèles sans garde-fous, outil de tri open source et fin des bug bounties\n1:15:53 - L'appel de l'AFUP : sauver les conférences tech indépendantes, rendez-vous le 3 décembre\n\nSoutenez le podcast en vous abonnant à la chaîne, en likant la vidéo et en partageant cet épisode autour de vous.\n\n\nBillets pour la conférence du 3 décembre au Cnit Paris www.alafrench.org\n\n\nLe trio directement dans vos oreilles, c'est par ici 👇\nApple Podcast https://tinyurl.com/alafrenchapple\nSpotify https://tinyurl.com/alafrenchspotify\nDeezer https://tinyurl.com/alafrenchdeezer\nPocketcast https://tinyurl.com/alafrenchpocketcast\nYoutube https://www.youtube.com/@alafrench\nDiscord https://discord.com/invite/alafrench",

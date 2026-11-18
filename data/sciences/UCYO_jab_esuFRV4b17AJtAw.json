@@ -13,6 +13,24 @@
   ],
   "videos": [
     {
+      "id": "qbsb9DpdZ6s",
+      "title": "How to compress text to 1 bit per character | Compression is Intelligence Part 3",
+      "description": "Arithmetic codes and how they elucidate this trilogy's title\nChannel career fair: https://3b1b.com/talent\nNew store items! https://3b1b.com/store\nEarly views for supporters: https://3b1b.com/support\n\nOther resources you may enjoy.\n\nOn Asymmetric numeral systems:\nhttps://arxiv.org/abs/0902.0271\nhttps://demonstrations.wolfram.com/DataCompressionUsingAsymmetricNumeralSystems/\nhttps://arxiv.org/pdf/2201.01741v2\nhttps://arxiv.org/pdf/2510.13867\n\nOn Arithmetic Codes:\nhttps://dl.acm.org/doi/10.1145/214762.214771\n\nIlya Sutskever, An Observation on Generalization\nhttps://www.youtube.com/watch?v=AKMuA_TVz3A&t=24s\n\nA bit on prequential coding:\nhttps://yidingjiang.github.io/blog/post/curriculum/\n\nA few other good papers/posts on the relationship between compression, prediction, and ML:\nhttps://deepmind.google/research/publications/39768/\nhttps://www.hutter1.net/ai/uaibook.htm\nhttps://link.springer.com/chapter/10.1007/3-540-62858-4_69\nhttps://www.sciencedirect.com/science/article/abs/pii/0005109878900055\n\nTimestamps:\n0:00 - The absurdity of Shannon’s estimate\n6:27 - From text to real numbers\n16:57 - Is this Shannon’s limit?\n20:26 - Reframing pretraining\n22:41 - Arithmetic codes in action\n27:29 - Reflections on “Compression is Intelligence”\n36:30 - Three ways to support\n\nSecret Enscreen Vlog: https://youtu.be/hoX3IiKXT-M\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\n\nMusic by Vincent Rubinetti.\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nBluesky: https://bsky.app/profile/3blue1brown.com\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+      "duration": "PT37M25S",
+      "published_at": "2026-11-17T16:43:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/qbsb9DpdZ6s/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "0IZcjWtWmDA",
+      "title": "Encoding the encyclopedia on a rod",
+      "description": "Full video: https://youtu.be/qbsb9DpdZ6s",
+      "duration": "PT2M12S",
+      "published_at": "2026-11-17T16:43:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/0IZcjWtWmDA/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "V_uq3v6xK-4",
       "title": "Sphere Intersection Puzzle Corrected",
       "description": "Part of a series of monthly puzzles\nEarly view of some other solutions:\nhttps://members.3blue1brown.com/posts/solution-to-10-158885046\nhttps://members.3blue1brown.com/posts/solution-to-sum-156593740",

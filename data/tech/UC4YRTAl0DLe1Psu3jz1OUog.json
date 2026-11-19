@@ -11,6 +11,33 @@
   ],
   "videos": [
     {
+      "id": "11PyqTZ04-Q",
+      "title": "Il a laissé 2 000 $ en bitcoin à voler",
+      "description": "Un chercheur a laissé un serveur PHP non corrigé avec 2 000 $ en bitcoin dessus, et un défi : volez-les. Quelqu'un les a récupérés… mais personne ne sait vraiment comment.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#Bitcoin #Cybersécurité #PHP #ALaFrench #Shorts",
+      "duration": "PT45S",
+      "published_at": "2026-11-19T18:00:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/11PyqTZ04-Q/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "iEwDBi2mxO0",
+      "title": "Ta télé connectée ne sera plus jamais patchée",
+      "description": "Une faille dans le noyau Linux, et c'est un milliard d'appareils qui sont concernés. Au bout de 3 ou 4 ans, ta télé ou ta box ne reçoit plus de mises à jour : l'entreprise a parfois disparu, mais toi, tu l'utilises encore.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#Cybersécurité #IoT #Linux #ALaFrench #Shorts",
+      "duration": "PT47S",
+      "published_at": "2026-11-19T12:00:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/iEwDBi2mxO0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "lAvm5RsmRsg",
+      "title": "Des failles à la pelle, des patchs : zéro",
+      "description": "Les chercheurs en sécurité envoient des rapports de failles en pagaille, mais pas un seul ne joint le correctif. Pour Jean-Baptiste Kempf, la difficulté, c'est de comprendre la cause profonde du bug. Et ça, c'est dur.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#Cybersécurité #OpenSource #VLC #ALaFrench #Shorts",
+      "duration": "PT35S",
+      "published_at": "2026-11-19T08:00:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/lAvm5RsmRsg/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "9Znpe2k729Y",
       "title": "La NSA a dit de couper son serveur",
       "description": "Le jour où le correctif est sorti, la NSA a demandé aux organisations qui utilisent PHP de passer leurs serveurs hors ligne si elles ne pouvaient pas mettre à jour. Le premier commentaire sous le tweet valait le détour.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#NSA #Cybersécurité #PHP #ALaFrench #Shorts",

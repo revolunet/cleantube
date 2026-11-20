@@ -11,6 +11,33 @@
   ],
   "videos": [
     {
+      "id": "XVqmnfRwBSU",
+      "title": "Pourquoi les hackers ouvrent la calculatrice",
+      "description": "Un exploit, c'est faire faire à un ordinateur ce qu'on ne lui a pas demandé. Pour le prouver, les hackers ouvrent la calculatrice : si on peut lancer ça, on peut lancer n'importe quoi. Et là, c'est game over.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#Cybersécurité #Hacking #Tech #ALaFrench #Shorts",
+      "duration": "PT58S",
+      "published_at": "2026-11-20T18:00:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/XVqmnfRwBSU/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "su66tlS7Wkw",
+      "title": "250 étapes de piratage ? L'agent IA s'en fiche",
+      "description": "Avant, un exploit, c'était une trentaine d'étapes. Aujourd'hui, il peut en falloir 250 : humainement infaisable, mais un agent IA les enchaîne sans se fatiguer. Jean-Baptiste Kempf explique ce qui a changé.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#IA #AgentsIA #Cybersécurité #ALaFrench #Shorts",
+      "duration": "PT51S",
+      "published_at": "2026-11-20T12:00:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/su66tlS7Wkw/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "9_Z83xTDygU",
+      "title": "Pourquoi PHP 6 n'a jamais existé",
+      "description": "Le projet partait tellement dans tous les sens qu'il n'y a jamais eu de PHP 6 : on est passé directement de la version 5 à la 7. Et le trio a sa propre théorie sur le chiffre 6.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#PHP #Développeur #Tech #ALaFrench #Shorts",
+      "duration": "PT29S",
+      "published_at": "2026-11-20T08:00:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/9_Z83xTDygU/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "11PyqTZ04-Q",
       "title": "Il a laissé 2 000 $ en bitcoin à voler",
       "description": "Un chercheur a laissé un serveur PHP non corrigé avec 2 000 $ en bitcoin dessus, et un défi : volez-les. Quelqu'un les a récupérés… mais personne ne sait vraiment comment.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#Bitcoin #Cybersécurité #PHP #ALaFrench #Shorts",

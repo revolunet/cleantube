@@ -11,6 +11,33 @@
   ],
   "videos": [
     {
+      "id": "i1ijsd5FZG0",
+      "title": "L'homme derrière VLC reçoit des alertes absurdes",
+      "description": "Une grosse partie des rapports de sécurité que reçoit VideoLAN partent directement à la poubelle. Jean-Baptiste Kempf raconte le plus absurde : « votre FTP est ouvert, on peut voir le code source de VLC ». VLC est open source.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#VLC #OpenSource #Cybersécurité #ALaFrench #Shorts",
+      "duration": "PT51S",
+      "published_at": "2026-11-21T18:00:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/i1ijsd5FZG0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "fCWoyxjnV34",
+      "title": "70 % du web repose sur 4 ou 5 personnes",
+      "description": "Depuis l'arrivée de l'IA, le nombre de rapports de failles a été multiplié par dix environ. Pour les traiter, l'équipe sécurité de PHP, le langage qui fait tourner une grande partie du web, compte 4 ou 5 personnes.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#OpenSource #PHP #Cybersécurité #ALaFrench #Shorts",
+      "duration": "PT48S",
+      "published_at": "2026-11-21T12:00:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/fCWoyxjnV34/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "zHbASQdG6mU",
+      "title": "La Fondation PHP a une IA sans garde-fous",
+      "description": "Les IA grand public refusent d'aider à trouver des failles. Les défenseurs approuvés, eux, ont accès au même modèle sans garde-fou, pour scanner leur propre code et garder une longueur d'avance sur les attaquants.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#IA #Cybersécurité #PHP #ALaFrench #Shorts",
+      "duration": "PT1M22S",
+      "published_at": "2026-11-21T08:00:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/zHbASQdG6mU/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "XVqmnfRwBSU",
       "title": "Pourquoi les hackers ouvrent la calculatrice",
       "description": "Un exploit, c'est faire faire à un ordinateur ce qu'on ne lui a pas demandé. Pour le prouver, les hackers ouvrent la calculatrice : si on peut lancer ça, on peut lancer n'importe quoi. Et là, c'est game over.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#Cybersécurité #Hacking #Tech #ALaFrench #Shorts",

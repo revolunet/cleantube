@@ -8,12 +8,12 @@
   "tags": [],
   "videos": [
     {
-      "id": "d9CheRjDkD0",
-      "title": "C'est quoi l'énergie ?",
-      "description": "On discute ici pendant 10 minutes du concept d'énergie. Ses formes, ses manifestations, les domaines scientifiques concernés. Sont évoqués la thermodynamique, le modèle standard, l'équivalence masse/énergie, le théorème de Emmy Noether, l\"énergie du vide. Passionnant !",
-      "duration": "PT10M1S",
-      "published_at": "2026-11-20T12:11:29Z",
-      "thumbnail": "https://i.ytimg.com/vi/d9CheRjDkD0/hqdefault.jpg",
+      "id": "f70BkLQEw80",
+      "title": "L'énergie, c'est quoi ?",
+      "description": "On discute ici pendant 10 minutes du concept d'énergie. Ses formes, ses manifestations, les domaines scientifiques concernés. Sont évoqués la thermodynamique, le modèle standard, l'équivalence masse/énergie, le théorème de Emmy Noether, l\"énergie du vide. Passionnant !\nPS : j'ai re-publié cette vidéo 20 heures après la première version car j'avais fait une grossière erreur (merci à celui qui l'a remarqué) sur les portraits de Poincaré et Carnot. Désolé pour cela.",
+      "duration": "PT10M7S",
+      "published_at": "2026-11-21T07:22:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/f70BkLQEw80/hqdefault.jpg",
       "tags": []
     },
     {
@@ -455,6 +455,15 @@
       "duration": "PT28M2S",
       "published_at": "2025-09-19T18:50:26Z",
       "thumbnail": "https://i.ytimg.com/vi/gAK1NWDePus/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "d9CheRjDkD0",
+      "title": "C'est quoi l'énergie ?",
+      "description": "On discute ici pendant 10 minutes du concept d'énergie. Ses formes, ses manifestations, les domaines scientifiques concernés. Sont évoqués la thermodynamique, le modèle standard, l'équivalence masse/énergie, le théorème de Emmy Noether, l\"énergie du vide. Passionnant !",
+      "duration": "PT10M1S",
+      "published_at": "2026-11-20T12:11:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/d9CheRjDkD0/hqdefault.jpg",
       "tags": []
     },
     {

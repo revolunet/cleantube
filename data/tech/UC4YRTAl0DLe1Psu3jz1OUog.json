@@ -11,6 +11,33 @@
   ],
   "videos": [
     {
+      "id": "7FNax4d5-pM",
+      "title": "256 caractères au hasard = mot de passe root",
+      "description": "Sur les serveurs SSH sous Alpine, la distribution Linux ultra-légère qu'on retrouve dans beaucoup de conteneurs Docker, taper 256 caractères au hasard suffisait pour se connecter en root. La faille a été corrigée depuis.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#Cybersécurité #Linux #Docker #ALaFrench #Shorts",
+      "duration": "PT41S",
+      "published_at": "2026-11-22T18:00:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/7FNax4d5-pM/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "J59vk6dOWuA",
+      "title": "Publier un patch, c'est montrer la faille",
+      "description": "Un correctif de sécurité, c'est aussi une carte au trésor : en comparant le code avant et après, une IA retrouve la faille. Une chose impossible il y a encore un an et demi.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#IA #Cybersécurité #PHP #ALaFrench #Shorts",
+      "duration": "PT35S",
+      "published_at": "2026-11-22T12:00:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/J59vk6dOWuA/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "oD3aCiiqFyw",
+      "title": "PHP : sale réputation, mais hyper facile",
+      "description": "Il n'y a pas un seul système où on ne peut pas faire un site web en PHP. Jean-Baptiste Kempf, président de VideoLAN (VLC), explique pourquoi ce langage moqué reste si populaire : c'est hyper facile.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#PHP #DéveloppementWeb #OpenSource #ALaFrench #Shorts",
+      "duration": "PT50S",
+      "published_at": "2026-11-22T08:00:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/oD3aCiiqFyw/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "i1ijsd5FZG0",
       "title": "L'homme derrière VLC reçoit des alertes absurdes",
       "description": "Une grosse partie des rapports de sécurité que reçoit VideoLAN partent directement à la poubelle. Jean-Baptiste Kempf raconte le plus absurde : « votre FTP est ouvert, on peut voir le code source de VLC ». VLC est open source.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#VLC #OpenSource #Cybersécurité #ALaFrench #Shorts",

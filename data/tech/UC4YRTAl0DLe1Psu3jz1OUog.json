@@ -11,6 +11,33 @@
   ],
   "videos": [
     {
+      "id": "OO4Y-cguZKo",
+      "title": "Une faille oubliée 2 ans, retrouvée par une IA",
+      "description": "Deux failles découvertes en 2024 sont jugées inexploitables, puis il ne se passe plus rien pendant deux ans. Cet été, une IA retrouve la même faille, avec la preuve qu'on peut l'exploiter : le temps presse.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#IA #Cybersécurité #PHP #ALaFrench #Shorts",
+      "duration": "PT1M20S",
+      "published_at": "2026-11-23T18:00:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/OO4Y-cguZKo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "NRt3krnJpsc",
+      "title": "Pourquoi chaque faille a son logo",
+      "description": "Si on écoute les chercheurs en sécurité, chaque faille, c'est la fin du monde : nom, site web, logo, marketing. Jean-Baptiste Kempf explique pourquoi les utilisateurs finissent noyés sous les alertes.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#Cybersécurité #CVE #VLC #ALaFrench #Shorts",
+      "duration": "PT1M9S",
+      "published_at": "2026-11-23T12:00:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/NRt3krnJpsc/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "CC9H3XswGO8",
+      "title": "4 conférences tech sur 5 pourraient disparaître",
+      "description": "Pour Alexandre Daubois, on ne va pas en conférence pour les talks : on y va pour rencontrer les gens. Selon lui, 4 conférences sur 5 de cette année ne seront plus là l'année prochaine, et ce serait une vraie perte.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\nConférence À la French le 3 décembre au Cnit Paris 👉 https://www.alafrench.org\n#Conférence #Tech #Communauté #ALaFrench #Shorts",
+      "duration": "PT1M7S",
+      "published_at": "2026-11-23T08:00:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/CC9H3XswGO8/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "7FNax4d5-pM",
       "title": "256 caractères au hasard = mot de passe root",
       "description": "Sur les serveurs SSH sous Alpine, la distribution Linux ultra-légère qu'on retrouve dans beaucoup de conteneurs Docker, taper 256 caractères au hasard suffisait pour se connecter en root. La faille a été corrigée depuis.\nÉpisode complet avec Alexandre Daubois (Fondation PHP) 👉 https://www.youtube.com/watch?v=ay-1QZZjlFU\n#Cybersécurité #Linux #Docker #ALaFrench #Shorts",
